@@ -2,8 +2,10 @@ import os
 import time
 import hmac
 import hashlib
-import requests
+import json
+import urllib.request
 import urllib.parse
+import urllib.error
 from tenacity import retry, wait_exponential, stop_after_attempt
 
 def generate_hmac(method, url, secret_key, access_key):
@@ -18,27 +20,26 @@ def get_coupang_products(keyword, limit=5):
     """
     쿠팡 파트너스 API를 이용하여 실제 키워드 기반 인기 상품 데이터를 가져옵니다.
     """
-    access_key = os.environ.get("COUPANG_ACCESS_KEY")
-    secret_key = os.environ.get("COUPANG_SECRET_KEY")
+    access_key = os.environ.get("COUPANG_ACCESS_KEY", "").strip()
+    secret_key = os.environ.get("COUPANG_SECRET_KEY", "").strip()
     
     if not access_key or not secret_key or access_key == "쿠팡_액세스키":
         print("[Warn] 쿠팡 API 키가 없습니다. API를 호출하지 못했습니다.")
         return []
         
     domain = "https://api-gateway.coupang.com"
-    # 쿠팡 상품 검색 API
     url_path = f"/v2/providers/affiliate_open_api/apis/openapi/products/search?keyword={urllib.parse.quote(keyword)}&limit={limit}"
     
     auth = generate_hmac("GET", url_path, secret_key, access_key)
-    headers = {
-        "Authorization": auth,
-        "Content-Type": "application/json"
-    }
+    
+    req = urllib.request.Request(domain + url_path)
+    req.add_header("Authorization", auth)
+    req.add_header("Content-Type", "application/json")
+    req.add_header("User-Agent", "Mozilla/5.0")
     
     try:
-        response = requests.get(domain + url_path, headers=headers, timeout=10)
-        response.raise_for_status()
-        data = response.json()
+        res = urllib.request.urlopen(req, timeout=10)
+        data = json.loads(res.read().decode("utf-8"))
         
         products = []
         for item in data.get("data", {}).get("productData", []):
