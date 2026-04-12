@@ -1,0 +1,11 @@
+crewai
+crewai-tools
+langchain-google-genai
+requests
+beautifulsoup4
+tenacity
+python-dotenv
+pyyaml
+google-auth
+google-auth-httplib2
+google-api-python-client

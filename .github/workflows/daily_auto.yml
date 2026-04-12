@@ -1,0 +1,51 @@
+name: Discerning Review Auto Publisher
+
+on:
+  schedule:
+    # 한국시간 매일 오전 9시 (KST 09:00 == UTC 00:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 직접 실행 버튼을 깃허브에서 활성화
+
+jobs:
+  build_and_publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v3
+
+      - name: Python 환경 셋업 (3.10)
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 필수 라이브러리 설치
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 구글 서비스 계정 자격증명 파일 생성 (Google Indexing용)
+        # 팁: Github Secrets 에 통째로 json 파일 내용을 복사해서 GOOGLE_SERVICE_ACCOUNT_JSON 으로 저장해두면 됩니다.
+        run: |
+          echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}" > service_account.json
+
+      - name: 에이전트 크루 구동 🚀
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          COUPANG_ACCESS_KEY: ${{ secrets.COUPANG_ACCESS_KEY }}
+          COUPANG_SECRET_KEY: ${{ secrets.COUPANG_SECRET_KEY }}
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+          BLOG_HOST: mystunningblog.github.io
+          GOOGLE_APPLICATION_CREDENTIALS: service_account.json
+        run: |
+          python main.py
+
+      - name: 새로 생성된 포스트 및 에셋 깃허브에 반영하기
+        run: |
+          git config --global user.name "Auto-Agent-Bot"
+          git config --global user.email "bot@discerning-agent.ai"
+          git add _posts/ sns_contents.txt
+          git commit -m "Auto generated daily post & SNS contents by CrewAI Agent" || echo "Commit 실패 혹은 변경사항 없음"
+          git push origin HEAD:main
