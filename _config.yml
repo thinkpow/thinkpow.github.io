@@ -1,3 +1,8 @@
-title: Discerning Review AI
+title: 리뷰언니의 진심추천
 description: 빅데이터 트렌드 분석과 가성비 최고의 상품을 추천해 드리는 자동화 블로그입니다.
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+url: "https://thinkpow.github.io"
+baseurl: "/RSblog"

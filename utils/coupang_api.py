@@ -14,7 +14,7 @@ def generate_hmac(method, url, secret_key, access_key):
     return f"CEA algorithm=HmacSHA256, access-key={access_key}, signed-date={datetime}, signature={signature}"
 
 @retry(wait=wait_exponential(multiplier=1, min=2, max=10), stop=stop_after_attempt(3))
-def get_coupang_products(keyword, limit=3):
+def get_coupang_products(keyword, limit=5):
     """
     쿠팡 파트너스 API를 이용하여 실제 키워드 기반 인기 상품 데이터를 가져옵니다.
     """

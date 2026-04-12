@@ -1,0 +1,23 @@
+---
+---
+@import "{{ site.theme }}";
+
+@media print, screen and (min-width: 960px) {
+  header {
+    width: 170px !important;
+  }
+  section {
+    width: 730px !important;
+    float: right;
+  }
+  .wrapper {
+    width: 950px !important;
+  }
+}
+
+img {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}

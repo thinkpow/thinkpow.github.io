@@ -1,86 +1,86 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 쇼츠 스크립트
+## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** LG 스탠바이미 비켜! 20만원대 '삼탠바이미' 끝판왕 비교! 💸✨
-
-**타겟:** LG 스탠바이미를 갖고 싶지만 가격 때문에 망설이는 2030세대 (가성비 추구)
-
-**영상 컨셉:** 빠른 전환, 텍스트 오버레이, 재치 있는 내레이션, 깔끔하고 트렌디한 영상미
+**[영상 컨셉]**
+빠른 전환, 강조되는 텍스트, 흥미로운 제품 사용 장면과 함께 "스탠바이미" 가격에 놀라는 반응으로 시작해 합리적인 대체품을 제시하며 시청자를 끌어들이는 방식. 배경음악은 경쾌하고 트렌디한 템포.
 
 ---
 
-**[영상 스크립트]**
+**[0-3초] ⚡️ 시선 강탈 훅 (Hook)**
+*   **화면:** 스탠바이미 비싸다! 가격표 화면 -> 눈이 휘둥그레지는 사람 얼굴 (밈처럼) -> '헉!' 자막 크게.
+*   **대사 (빠르게, 놀란 목소리):** "스탠바이미 갖고 싶어서 검색했다가 가격보고 헉! 하셨죠? 잠시만요! 이젠 그 돈 아끼세요! 🔥"
 
-*   **시각:** (빠르게 전환되는 LG 스탠바이미 이미지 -> 가격표에 X 표시 -> 놀란 표정의 인물)
-*   **내레이션 (0-3초): 훅! 시선강탈!**
-    "스탠바이미 갖고 싶죠? 근데 💸비싸서 포기하셨다고요? 절대 NO! 🙅‍♀️"
+**[3-7초] 💡 문제 해결 & 기대감 증폭**
+*   **화면:** 다양한 이동식 스마트 스크린이 침실, 주방, 야외에서 활용되는 모습 빠르게 전환. '스탠바이미 보다 똑똑!' '이동성 쩌는데!' '가격은 반값도 안 돼!' 자막 강조.
+*   **대사 (자신감 있게):** "스탠바이미보다 똑똑하고! 이동성 쩌는데! 가격은 반값도 안 되는 가성비 끝판왕 템들 제가 다 찾아왔습니다!"
 
-*   **시각:** (깔끔한 방에서 무빙큐빅스 삼탠바이미가 자유롭게 이동하며 사용되는 장면, 상품명, 가격 오버레이)
-*   **내레이션 (3-8초): 제품 1 소개**
-    "여기 20만원대로 LG 스탠바이미 감성 그대로! **무빙큐빅스 32인치 삼탠바이미 세트!** 📺 받자마자 바로 쓸 수 있는 올인원! 이동하며 넷플릭스? 꿈이 현실로!"
+**[7-12초] ✨ 핵심 제품 & 장점 소개**
+*   **화면:** Q100이 침실에서 넷플릭스 재생되는 모습 -> P200이 거실에서 4K 영상 재생되는 모습 -> 캠핑장 풍경에서 스크린 사용 모습. '20만원대 Q100', '4K 돌비 P200' 자막.
+*   **대사 (생생하게):** "침실, 주방, 캠핑 어디든 뚝딱! 넷플릭스, 유튜브는 기본! 20만원대 Q100부터 4K 돌비사운드 40만원대 P200까지! 이건 무조건 사야 해!"
 
-*   **시각:** (43인치 홈플래닛 TV가 멋진 이동식 거치대에 장착되어 영화를 보여주는 장면, 4K 강조, 상품명, 가격 오버레이)
-*   **내레이션 (8-13초): 제품 2 소개**
-    "아니면 더 크게? **43인치 4K 대화면! 홈플래닛 TV**로 DIY 삼탠바이미 어때요? ✨ 이동식 거치대랑 조합하면 30만원대로 화질 끝판왕! 영화관이 따로 없네!"
-
-*   **시각:** (두 제품이 비교되는 분할 화면 또는 고민하는 제스처, 클릭 유도 아이콘)
-*   **내레이션 (13-15초): 클로징 & CTA**
-    "당신의 선택은? 👇지금 바로 프로필 링크 확인하세요!"
+**[12-15초] 🚀 강력한 CTA (Call to Action)**
+*   **화면:** BEST 5 제품들이 함께 모인 이미지 또는 엄지척 포즈. '프로필 링크 클릭!' 자막 크게.
+*   **대사 (강렬하게, 속도감 있게):** "더 자세한 정보랑 다른 꿀템들은 댓글 링크에! 당장 보러 가세요! 고고! (뿅!)"
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
 ---
 
-### **1. 첫 번째 카드**
+### **카드뉴스 1컷**
 
-*   **카드 텍스트:**
-    "LG 스탠바이미 비싸서 포기? 🙅‍♀️ 놉!
-    20만원대로 '삼탠바이미' 득템하는 법!"
+*   **카드뉴스 텍스트:**
+    **스탠바이미? NO! 🙅‍♀️**
+    이제 비싸게 사지 마세요!
+    **가성비 이동식 스마트 스크린 BEST 5**
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A person with a surprised and happy expression, looking at a stylish mobile TV stand with a low price tag, next to a thought bubble showing an expensive LG StandbyME with a red cross mark. Modern interior background, vibrant colors, clean aesthetic, pop art style overlay. --ar 1:1 --v 5.2"
-
----
-
-### **2. 두 번째 카드**
-
-*   **카드 텍스트:**
-    "**[편의성 끝판왕] 무빙큐빅스 스마트 삼탠바이미 SET**
-    ✔ 32인치 올인원! 복잡함 없이 바로 ON!
-    ✔ 20만원대 LG 스탠바이미 감성 그대로!
-    ✔ 거실, 침실, 주방 어디든 자유롭게 이동!"
-
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A sleek, minimalist 32-inch mobile TV (Moving Cubix SamtanbyME) being effortlessly moved from a modern living room to a cozy bedroom. The screen shows a streaming service logo. Bright, airy interior design, clean lines, contemporary photography style. --ar 1:1 --v 5.2"
+*   **Midjourney 이미지 프롬프트:**
+    ```
+    A sleek, modern portable smart screen with a luxurious feel, but with a vibrant red "NO" sign overlaid on it. In the background, subtly hint at various other affordable, stylish portable screens in different settings (bedroom, kitchen, outdoor). High contrast, dynamic lighting, minimalist design, tech product photography style. --ar 1:1 --v 5.2
+    ```
 
 ---
 
-### **3. 세 번째 카드**
+### **카드뉴스 2컷**
 
-*   **카드 텍스트:**
-    "**[4K 대화면 DIY] 홈플래닛 43인치 4K UHD TV**
-    ✔ 20만원대 초특가 43인치 4K TV!
-    ✔ 이동식 거치대와 조합해 DIY 삼탠바이미!
-    ✔ 압도적인 몰입감으로 영화/게임 즐기기!"
+*   **카드뉴스 텍스트:**
+    **✨ 20만원대 가성비 끝판왕 'Q100' ✨**
+    스탠바이미 핵심 기능 그대로!
+    **침실/주방 어디든 내 맘대로 이동!**
+    (27인치 FHD, 스마트 OS, 미러링)
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A large, ultra-thin bezel 43-inch 4K UHD TV (Homeplanet) displaying a vibrant, high-resolution movie scene, mounted on a sleek, simple mobile stand. The setup is in a stylish, slightly darkened home theater corner. Cinematic lighting, immersive atmosphere. --ar 1:1 --v 5.2"
+*   **Midjourney 이미지 프롬프트:**
+    ```
+    A modern, sleek 27-inch portable smart screen (Q100 style) on a slender stand with wheels, positioned in a bright, minimalist bedroom. A person is comfortably watching Netflix on it. The screen displays a vibrant movie scene. Soft, inviting natural lighting, cozy atmosphere. Emphasize mobility and smart features. --ar 1:1 --v 5.2
+    ```
+
+---
+
+### **카드뉴스 3컷**
+
+*   **카드뉴스 텍스트:**
+    **🎬 4K 화질 + 돌비 사운드 'P200' 🎬**
+    프리미엄급 감동!
+    **캠핑장도 나만의 영화관!**
+    (32인치 4K UHD, HDR10+, 돌비 애트모스, 5시간 무선)
+
+*   **Midjourney 이미지 프롬프트:**
+    ```
+    A premium 32-inch 4K portable smart screen (P200 style) displaying a stunning, high-resolution nature documentary. The screen is set up on a stylish tripod stand in a cozy glamping tent or modern living room with large windows overlooking nature. Soft, immersive lighting, a sense of high-fidelity audio (subtly implied). Luxurious, cinematic feel. --ar 1:1 --v 5.2
+    ```
 
 ---
 
-### **4. 네 번째 카드**
+### **카드뉴스 4컷**
 
-*   **카드 텍스트:**
-    "**당신의 '가성비 삼탠바이미' 선택은?**
-    🤔 **편리함 우선:** 무빙큐빅스 올인원
-    🤯 **화질 우선:** 홈플래닛 4K DIY
+*   **카드뉴스 텍스트:**
+    **더 이상 비싸게 고민 끝!**
+    스탠바이미 가성비 대체템 BEST 5 보러가기!
+    **➡️ (프로필 링크 클릭!)**
 
-    👇 지금 바로 프로필 링크에서 만나보세요!"
-
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A split image, with the left side showing the 32-inch all-in-one mobile TV (Moving Cubix) in a bright setting, and the right side showing the larger 43-inch 4K TV on a mobile stand (Homeplanet DIY) in a slightly more dramatic, cinematic setting. Question marks and arrows highlight the choice between convenience and superior visuals. Dynamic, engaging, comparative visual. --ar 1:1 --v 5.2"
-
----
+*   **Midjourney 이미지 프롬프트:**
+    ```
+    A vibrant, eye-catching collage of 5 different modern portable smart screens, each showcasing a different feature or setting (e.g., in a kitchen, a bedroom, outdoors, displaying a game, displaying a movie). A bold, inviting arrow or a 'click here' icon subtly integrated. Bright, clean, and engaging composition with a friendly tone. --ar 1:1 --v 5.2
+    ```
