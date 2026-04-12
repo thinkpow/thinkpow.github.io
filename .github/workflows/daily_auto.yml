@@ -2,8 +2,8 @@ name: Discerning Review Auto Publisher
 
 on:
   schedule:
-    # 한국시간 매일 오전 9시 (KST 09:00 == UTC 00:00)
-    - cron: '0 0 * * *'
+    # 약 2시간마다 한 번씩 실행 (하루 12개 자동 발행)
+    - cron: '0 */2 * * *'
   workflow_dispatch: # 직접 실행 버튼을 깃허브에서 활성화
 
 jobs:
@@ -37,7 +37,7 @@ jobs:
           COUPANG_ACCESS_KEY: ${{ secrets.COUPANG_ACCESS_KEY }}
           COUPANG_SECRET_KEY: ${{ secrets.COUPANG_SECRET_KEY }}
           BING_API_KEY: ${{ secrets.BING_API_KEY }}
-          BLOG_HOST: mystunningblog.github.io
+          BLOG_HOST: thinkpow.github.io
           GOOGLE_APPLICATION_CREDENTIALS: service_account.json
         run: |
           python main.py
