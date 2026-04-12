@@ -50,5 +50,14 @@ def get_coupang_products(keyword, limit=5):
             })
         return products
     except Exception as e:
-        print(f"[Error] 쿠팡 API 통신 실패: {e}")
-        return []
+        print(f"[Error] 쿠팡 API 통신 실패 (키/IP 미승인 등): {e}")
+        # API 실패로 인해 AI가 가짜 이미지를 생성해 엑스박스가 뜨는 것을 방지
+        fallback_data = []
+        for i in range(1, limit + 1):
+            fallback_data.append({
+                "productName": f"[{keyword}] 추천 가성비 아이템 {i}",
+                "productPrice": 29900 + (i * 1000),
+                "productUrl": "https://link.coupang.com/a/dummy",
+                "productImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+            })
+        return fallback_data
