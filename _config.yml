@@ -5,4 +5,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 url: "https://thinkpow.github.io"
-baseurl: "/RSblog"
+baseurl: ""

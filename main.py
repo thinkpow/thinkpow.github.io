@@ -83,10 +83,10 @@ def main():
     print("\n[Step 5] 포스트 색인 안전 요청 (웹 빌드 대기)...")
     blog_host = os.environ.get("BLOG_HOST", "thinkpow.github.io")
     
-    # 한글 URL을 인코딩하고, RSBlog 구조에 맞게 세팅
+    # 한글 URL을 인코딩하고, Root 도메인 구조에 맞게 세팅
     encoded_keyword = urllib.parse.quote(clean_keyword)
     y, m, d = today_date.split("-")
-    final_url = f"https://{blog_host}/RSBlog/{y}/{m}/{d}/{encoded_keyword}.html"
+    final_url = f"https://{blog_host}/{y}/{m}/{d}/{encoded_keyword}.html"
     print(f">> 타겟 포스트 URL: {final_url}")
     
     print(">> Github Pages 웹사이트가 완전히 빌드될 때까지 90초 대기합니다...")
