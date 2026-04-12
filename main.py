@@ -80,7 +80,7 @@ def main():
     print(f"✅ SNS 스크립트 작성 완료: sns_contents.txt")
 
     # 6. Indexing 작업 (Jekyll 빌드 대기 및 구글/빙 동시 요청)
-    print("\n[Step 5] 포스트 색인 안전 요청 (웹 빌드 대기)...")
+    print("\n[Step 5] 포스트 대상 URL 저장 (배포 후 ping 목적)...")
     blog_host = os.environ.get("BLOG_HOST", "thinkpow.github.io")
     
     # 한글 URL을 인코딩하고, Root 도메인 구조에 맞게 세팅
@@ -89,12 +89,9 @@ def main():
     final_url = f"https://{blog_host}/{y}/{m}/{d}/{encoded_keyword}.html"
     print(f">> 타겟 포스트 URL: {final_url}")
     
-    print(">> Github Pages 웹사이트가 완전히 빌드될 때까지 90초 대기합니다...")
-    time.sleep(90)
-    
-    print(">> 핑 전송 시작 (IndexNow & Google)")
-    request_indexnow(final_url)
-    request_google_indexing(final_url)
+    # ping.py 에서 나중에 읽을 수 있도록 파일로 저장
+    with open("latest_posted_url.txt", "w", encoding="utf-8") as f:
+        f.write(final_url)
 
     print("\n🚀 모든 운영 자동화 파이프라인이 완벽히 종료되었습니다!")
 

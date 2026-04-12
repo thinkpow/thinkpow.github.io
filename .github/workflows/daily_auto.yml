@@ -46,6 +46,16 @@ jobs:
         run: |
           git config --global user.name "Auto-Agent-Bot"
           git config --global user.email "bot@discerning-agent.ai"
-          git add _posts/ sns_contents.txt
+          git add _posts/ sns_contents.txt latest_posted_url.txt
           git commit -m "Auto generated daily post & SNS contents by CrewAI Agent" || echo "Commit 실패 혹은 변경사항 없음"
           git push origin HEAD:main
+
+      - name: 깃허브 빌드 대기 후 검색엔진(구글/빙) 핑 발송
+        env:
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+          BLOG_HOST: thinkpow.github.io
+          GOOGLE_APPLICATION_CREDENTIALS: service_account.json
+        run: |
+          echo ">> Github Pages 배포 완료를 위해 90초 대기 중..."
+          sleep 90
+          python ping_index.py
