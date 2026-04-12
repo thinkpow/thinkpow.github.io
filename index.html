@@ -1,0 +1,21 @@
+---
+layout: default
+title: Home
+---
+
+<div>
+  <h1>🛍️ 가장 핫한 트렌드 상품 리뷰</h1>
+  <ul>
+    {% for post in site.posts %}
+      <li style="margin-bottom: 20px;">
+        <span style="color: #666; font-size:14px;">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <h2 style="margin:5px 0;">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        {% if post.categories %}
+        <small>카테고리: {{ post.categories | join: ", " }}</small>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
