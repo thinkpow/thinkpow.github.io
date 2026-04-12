@@ -1,86 +1,66 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**[영상 컨셉]**
-빠른 전환, 강조되는 텍스트, 흥미로운 제품 사용 장면과 함께 "스탠바이미" 가격에 놀라는 반응으로 시작해 합리적인 대체품을 제시하며 시청자를 끌어들이는 방식. 배경음악은 경쾌하고 트렌디한 템포.
+**제목:** 😱 스탠바이미 3만원대? MD가 찾은 #가성비끝판왕 5가지!
 
----
+**(시작 0-3초: 훅! 시선을 강탈!)**
+**내레이션:** (빠르고 경쾌하게) 스탠바이미 비싸서 눈물 흘렸던 분들 주목! 😭 이제 3만원대로 스탠바이미 감성, 누릴 수 있습니다!
 
-**[0-3초] ⚡️ 시선 강탈 훅 (Hook)**
-*   **화면:** 스탠바이미 비싸다! 가격표 화면 -> 눈이 휘둥그레지는 사람 얼굴 (밈처럼) -> '헉!' 자막 크게.
-*   **대사 (빠르게, 놀란 목소리):** "스탠바이미 갖고 싶어서 검색했다가 가격보고 헉! 하셨죠? 잠시만요! 이젠 그 돈 아끼세요! 🔥"
+**(3-8초: 문제 제기 및 솔루션 제시)**
+**내레이션:** 침대, 주방 어디든 옮겨 다니는 나만의 스크린! 💰 가격 부담 때문에 망설였다면, 10년차 MD가 엄선한 #가성비템 보실까요?
 
-**[3-7초] 💡 문제 해결 & 기대감 증폭**
-*   **화면:** 다양한 이동식 스마트 스크린이 침실, 주방, 야외에서 활용되는 모습 빠르게 전환. '스탠바이미 보다 똑똑!' '이동성 쩌는데!' '가격은 반값도 안 돼!' 자막 강조.
-*   **대사 (자신감 있게):** "스탠바이미보다 똑똑하고! 이동성 쩌는데! 가격은 반값도 안 되는 가성비 끝판왕 템들 제가 다 찾아왔습니다!"
+**(8-12초: 메인 상품 소개)**
+**내레이션:** 첫 번째! **"스탠바이미 가성비 끝판왕"** 단돈 3만 9백원! 이 가격에 이 압도적 만족감, 믿기시나요?
+**내레이션:** 두 번째! **"똑똑한 스탠바이미 가성비 대안"** 몇 천원 차이로 고품격 만족감! 품절 시엔 무조건 이거!
 
-**[7-12초] ✨ 핵심 제품 & 장점 소개**
-*   **화면:** Q100이 침실에서 넷플릭스 재생되는 모습 -> P200이 거실에서 4K 영상 재생되는 모습 -> 캠핑장 풍경에서 스크린 사용 모습. '20만원대 Q100', '4K 돌비 P200' 자막.
-*   **대사 (생생하게):** "침실, 주방, 캠핑 어디든 뚝딱! 넷플릭스, 유튜브는 기본! 20만원대 Q100부터 4K 돌비사운드 40만원대 P200까지! 이건 무조건 사야 해!"
-
-**[12-15초] 🚀 강력한 CTA (Call to Action)**
-*   **화면:** BEST 5 제품들이 함께 모인 이미지 또는 엄지척 포즈. '프로필 링크 클릭!' 자막 크게.
-*   **대사 (강렬하게, 속도감 있게):** "더 자세한 정보랑 다른 꿀템들은 댓글 링크에! 당장 보러 가세요! 고고! (뿅!)"
+**(12-15초: 추가 정보 및 CTA)**
+**내레이션:** 더 많은 MD 추천템은? 지금 바로 프로필 링크 확인하고, 현명한 소비로 스마트 라이프 시작하세요! ✨
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+## 2. 인스타그램 카드뉴스 4컷
+
+### **카드뉴스 1/4**
+
+*   **텍스트:**
+    ## 😱 스탠바이미, 비싸서 포기했어요?
+    ### 이젠 3만원대로 #스탠바이미 감성 누리세요! ✨
+    (10년차 MD가 엄선한 #가성비끝판왕)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A young person looking wistfully at a high-end, sleek portable smart screen with a huge, daunting price tag floating above it, in a cozy, modern minimalist room. The person has a slightly sad but hopeful expression. Soft, warm lighting, cinematic, 4k, high detail, --ar 1:1 --v 5.2`
 
 ---
 
-### **카드뉴스 1컷**
+### **카드뉴스 2/4**
 
-*   **카드뉴스 텍스트:**
-    **스탠바이미? NO! 🙅‍♀️**
-    이제 비싸게 사지 마세요!
-    **가성비 이동식 스마트 스크린 BEST 5**
-
-*   **Midjourney 이미지 프롬프트:**
-    ```
-    A sleek, modern portable smart screen with a luxurious feel, but with a vibrant red "NO" sign overlaid on it. In the background, subtly hint at various other affordable, stylish portable screens in different settings (bedroom, kitchen, outdoor). High contrast, dynamic lighting, minimalist design, tech product photography style. --ar 1:1 --v 5.2
-    ```
+*   **텍스트:**
+    ## 👑 MD 추천 TOP 1
+    ### 스탠바이미 가성비 끝판왕!
+    **30,900원**
+    **이 가격에 이 감성, 실화?! 압도적 가성비로 스마트 라이프 시작!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A sleek, minimalist portable smart screen in a modern living room, displaying vibrant content. A prominent, bold text overlay of "$30.99" or "₩30,900" is clearly visible next to the screen, emphasizing extreme affordability. The room is brightly lit, clean, and stylish. Soft focus background, product photography style, high resolution, --ar 1:1 --v 5.2`
 
 ---
 
-### **카드뉴스 2컷**
+### **카드뉴스 3/4**
 
-*   **카드뉴스 텍스트:**
-    **✨ 20만원대 가성비 끝판왕 'Q100' ✨**
-    스탠바이미 핵심 기능 그대로!
-    **침실/주방 어디든 내 맘대로 이동!**
-    (27인치 FHD, 스마트 OS, 미러링)
-
-*   **Midjourney 이미지 프롬프트:**
-    ```
-    A modern, sleek 27-inch portable smart screen (Q100 style) on a slender stand with wheels, positioned in a bright, minimalist bedroom. A person is comfortably watching Netflix on it. The screen displays a vibrant movie scene. Soft, inviting natural lighting, cozy atmosphere. Emphasize mobility and smart features. --ar 1:1 --v 5.2
-    ```
+*   **텍스트:**
+    ## 🚀 MD 추천 TOP 2
+    ### 똑똑한 스탠바이미 가성비 대안!
+    **31,900원**
+    **몇 천원 차이로 고품격 만족감! 품절 걱정 끝, 퀄리티까지!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A slightly different model of a sleek portable smart screen, positioned on a modern kitchen counter or bedroom nightstand. It projects a bright, engaging image. A subtle, elegant text overlay showing "$31.99" or "₩31,900" is integrated into the scene. The setting is aspirational and comfortable, showcasing versatility. Product advertisement style, bright and inviting, --ar 1:1 --v 5.2`
 
 ---
 
-### **카드뉴스 3컷**
+### **카드뉴스 4/4**
 
-*   **카드뉴스 텍스트:**
-    **🎬 4K 화질 + 돌비 사운드 'P200' 🎬**
-    프리미엄급 감동!
-    **캠핑장도 나만의 영화관!**
-    (32인치 4K UHD, HDR10+, 돌비 애트모스, 5시간 무선)
-
-*   **Midjourney 이미지 프롬프트:**
-    ```
-    A premium 32-inch 4K portable smart screen (P200 style) displaying a stunning, high-resolution nature documentary. The screen is set up on a stylish tripod stand in a cozy glamping tent or modern living room with large windows overlooking nature. Soft, immersive lighting, a sense of high-fidelity audio (subtly implied). Luxurious, cinematic feel. --ar 1:1 --v 5.2
-    ```
-
----
-
-### **카드뉴스 4컷**
-
-*   **카드뉴스 텍스트:**
-    **더 이상 비싸게 고민 끝!**
-    스탠바이미 가성비 대체템 BEST 5 보러가기!
-    **➡️ (프로필 링크 클릭!)**
-
-*   **Midjourney 이미지 프롬프트:**
-    ```
-    A vibrant, eye-catching collage of 5 different modern portable smart screens, each showcasing a different feature or setting (e.g., in a kitchen, a bedroom, outdoors, displaying a game, displaying a movie). A bold, inviting arrow or a 'click here' icon subtly integrated. Bright, clean, and engaging composition with a friendly tone. --ar 1:1 --v 5.2
-    ```
+*   **텍스트:**
+    ## 💖 당신의 #스마트라이프, 이젠 가성비로!
+    ### MD 추천 TOP 5, 지금 바로 만나보세요!
+    **프로필 링크 클릭 ➡️**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A dynamic collage of multiple portable smart screens in various modern home settings (e.g., bedroom, living room, kitchen, balcony). Hands reaching out to interact with the screens. A bright, inviting 'Shop Now' button or a call-to-action arrow pointing towards the bottom. Vibrant colors, energetic composition, modern tech lifestyle, --ar 1:1 --v 5.2`
