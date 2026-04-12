@@ -8,7 +8,9 @@ from tasks import task_extract_trends, task_select_products, task_write_post, ta
 
 from utils.naver_api import get_trending_keywords
 from utils.coupang_api import get_coupang_products
-from utils.index_manager import request_indexnow
+from utils.index_manager import request_indexnow, request_google_indexing
+import time
+import urllib.parse
 
 def main():
     # 1. 환경 설정
@@ -77,16 +79,24 @@ def main():
     print(f"✅ 블로그 작성 완료: {post_filename}")
     print(f"✅ SNS 스크립트 작성 완료: sns_contents.txt")
 
-    # 6. Indexing 작업 
-    print("\n[Step 5] 포스트 색인 요청...")
-    # 예시 URL (실제 배포 사이트 구조에 맞춰 수정 필요)
-    blog_host = os.environ.get("BLOG_HOST", "myusername.github.io")
-    final_url = f"https://{blog_host}/{today_date.replace('-','/')}/{clean_keyword}.html"
+    # 6. Indexing 작업 (Jekyll 빌드 대기 및 구글/빙 동시 요청)
+    print("\n[Step 5] 포스트 색인 안전 요청 (웹 빌드 대기)...")
+    blog_host = os.environ.get("BLOG_HOST", "thinkpow.github.io")
     
-    # 깃헙 배포가 끝난 뒤에 호출되는 것이 이상적이나, 우선 핑을 전송해 둠
+    # 한글 URL을 인코딩하고, RSBlog 구조에 맞게 세팅
+    encoded_keyword = urllib.parse.quote(clean_keyword)
+    y, m, d = today_date.split("-")
+    final_url = f"https://{blog_host}/RSBlog/{y}/{m}/{d}/{encoded_keyword}.html"
+    print(f">> 타겟 포스트 URL: {final_url}")
+    
+    print(">> Github Pages 웹사이트가 완전히 빌드될 때까지 90초 대기합니다...")
+    time.sleep(90)
+    
+    print(">> 핑 전송 시작 (IndexNow & Google)")
     request_indexnow(final_url)
+    request_google_indexing(final_url)
 
-    print("\n🚀 모든 운영 자동화 파이프라인이 성공적으로 끝났습니다.")
+    print("\n🚀 모든 운영 자동화 파이프라인이 완벽히 종료되었습니다!")
 
 if __name__ == "__main__":
     main()
