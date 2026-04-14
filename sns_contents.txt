@@ -1,66 +1,80 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 😱 스탠바이미 3만원대? MD가 찾은 #가성비끝판왕 5가지!
+**제목:** 💥스탠바이미 가격 실화?! 20만원대 '삼탠바이미' 대공개!💥
 
-**(시작 0-3초: 훅! 시선을 강탈!)**
-**내레이션:** (빠르고 경쾌하게) 스탠바이미 비싸서 눈물 흘렸던 분들 주목! 😭 이제 3만원대로 스탠바이미 감성, 누릴 수 있습니다!
+**[영상 구성]**
 
-**(3-8초: 문제 제기 및 솔루션 제시)**
-**내레이션:** 침대, 주방 어디든 옮겨 다니는 나만의 스크린! 💰 가격 부담 때문에 망설였다면, 10년차 MD가 엄선한 #가성비템 보실까요?
-
-**(8-12초: 메인 상품 소개)**
-**내레이션:** 첫 번째! **"스탠바이미 가성비 끝판왕"** 단돈 3만 9백원! 이 가격에 이 압도적 만족감, 믿기시나요?
-**내레이션:** 두 번째! **"똑똑한 스탠바이미 가성비 대안"** 몇 천원 차이로 고품격 만족감! 품절 시엔 무조건 이거!
-
-**(12-15초: 추가 정보 및 CTA)**
-**내레이션:** 더 많은 MD 추천템은? 지금 바로 프로필 링크 확인하고, 현명한 소비로 스마트 라이프 시작하세요! ✨
+*   **배경음악:** 경쾌하고 밝은 비트의 BGM (도입부 긴장감 > 후반부 밝고 신나는 분위기)
+*   **효과음:** 가격 보고 '으악!', 제품 등장 시 '반짝!', 이동 시 '쉬이익~' 등
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[스크립트]**
 
-### **카드뉴스 1/4**
+**(0-3초) 훅(Hook) - 시선 강탈!**
+*   **영상:** 한숨 쉬며 핸드폰으로 '스탠바이미 가격' 검색하는 모습 -> 가격표(100만원대) 뜨자마자 눈 크게 뜨고 충격받은 표정 클로즈업! (화면 가득 '스탠바이미 100만원대?!' 자막)
+*   **대사:** "스탠바이미 사고 싶은데... 이 가격 실화?! 😱 (경악하는 목소리)"
 
-*   **텍스트:**
-    ## 😱 스탠바이미, 비싸서 포기했어요?
-    ### 이젠 3만원대로 #스탠바이미 감성 누리세요! ✨
-    (10년차 MD가 엄선한 #가성비끝판왕)
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A young person looking wistfully at a high-end, sleek portable smart screen with a huge, daunting price tag floating above it, in a cozy, modern minimalist room. The person has a slightly sad but hopeful expression. Soft, warm lighting, cinematic, 4k, high detail, --ar 1:1 --v 5.2`
+**(3-7초) 문제 제기 및 해결책 제시**
+*   **영상:** 밝고 깨끗한 인테리어의 방. 무빙큐빅스 스마트 삼탠바이미(제품)가 부드럽게 바퀴로 이동하는 모습.
+*   **대사:** "걱정 마세요! 가성비 끝판왕 '삼탠바이미'가 왔으니까!"
 
----
+**(7-12초) 메인 상품 핵심 장점 어필**
+*   **영상:**
+    *   32인치 삼탠바이미가 침실에서 넷플릭스를 보여주고, 편안하게 시청하는 모습 (빠르게 전환)
+    *   40인치 삼탠바이미가 주방에서 유튜브 레시피를 보여주고, 요리하며 보는 모습 (빠르게 전환)
+    *   제품의 슬림한 디자인과 이동성을 강조하는 다양한 각도 샷.
+*   **대사:** "이동성, 스마트 기능 다 갖춘 무빙큐빅스 삼탠바이미! 32인치부터 40인치까지! 내 방이 영화관, 주방이 스마트 키친으로!"
 
-### **카드뉴스 2/4**
-
-*   **텍스트:**
-    ## 👑 MD 추천 TOP 1
-    ### 스탠바이미 가성비 끝판왕!
-    **30,900원**
-    **이 가격에 이 감성, 실화?! 압도적 가성비로 스마트 라이프 시작!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, minimalist portable smart screen in a modern living room, displaying vibrant content. A prominent, bold text overlay of "$30.99" or "₩30,900" is clearly visible next to the screen, emphasizing extreme affordability. The room is brightly lit, clean, and stylish. Soft focus background, product photography style, high resolution, --ar 1:1 --v 5.2`
+**(12-15초) 가격 강조 및 CTA (Call To Action)**
+*   **영상:** 32인치와 40인치 삼탠바이미 제품이 나란히 놓여있고, '20만원대부터!'라는 자막이 크게 오버레이. 손가락이 위를 가리키는 제스처 애니메이션.
+*   **대사:** "20만원대부터 스탠바이미 감성 그대로! 더 자세한 정보는 지금 바로 프로필 링크 확인하세요!" (신나는 톤)
 
 ---
 
-### **카드뉴스 3/4**
-
-*   **텍스트:**
-    ## 🚀 MD 추천 TOP 2
-    ### 똑똑한 스탠바이미 가성비 대안!
-    **31,900원**
-    **몇 천원 차이로 고품격 만족감! 품절 걱정 끝, 퀄리티까지!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A slightly different model of a sleek portable smart screen, positioned on a modern kitchen counter or bedroom nightstand. It projects a bright, engaging image. A subtle, elegant text overlay showing "$31.99" or "₩31,900" is integrated into the scene. The setting is aspirational and comfortable, showcasing versatility. Product advertisement style, bright and inviting, --ar 1:1 --v 5.2`
+## 📸 인스타그램 카드뉴스 (4컷)
 
 ---
 
-### **카드뉴스 4/4**
+### 🖼️ 카드뉴스 1/4
 
-*   **텍스트:**
-    ## 💖 당신의 #스마트라이프, 이젠 가성비로!
-    ### MD 추천 TOP 5, 지금 바로 만나보세요!
-    **프로필 링크 클릭 ➡️**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage of multiple portable smart screens in various modern home settings (e.g., bedroom, living room, kitchen, balcony). Hands reaching out to interact with the screens. A bright, inviting 'Shop Now' button or a call-to-action arrow pointing towards the bottom. Vibrant colors, energetic composition, modern tech lifestyle, --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    **스탠바이미, 너무 비싸서 포기했나요? 😥**
+    **#스탠바이미 #비교템 #가성비갑**
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    A modern, minimalist room, a person looking stressed and disappointed while holding a phone showing a high price tag of a popular portable smart TV. The room has soft ambient lighting, a touch of sadness, cinematic quality, soft focus background. --ar 1:1 --v 5.2
+
+---
+
+### 🖼️ 카드뉴스 2/4
+
+*   **카드 텍스트:**
+    **이젠 '삼탠바이미'로 가성비 끝판왕 라이프! ✨**
+    **이동성부터 스마트 기능까지 완벽 대체!**
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    A bright, cheerful person happily rolling a sleek, modern portable smart TV (resembling Samtenbymi) from a cozy living room to a stylish kitchen. The TV screen shows various entertainment apps. Clean, vibrant, joyful atmosphere, cinematic, natural light. --ar 1:1 --v 5.2
+
+---
+
+### 🖼️ 카드뉴스 3/4
+
+*   **카드 텍스트:**
+    **💖 무빙큐빅스 스마트 삼탠바이미 32인치 💖**
+    **"20만원대로 즐기는 나만의 영화관!"**
+    *(침실, 넷플릭스, 서브TV 추천!)*
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    A close-up of a 32-inch Moving Cubics Smart Samtenbymi (portable smart TV on a stand) placed next to a bed in a minimalist, Scandinavian-style bedroom, displaying a vibrant Netflix movie scene. A person's hands are holding a remote control. Cozy, warm lighting, cinematic, comfortable atmosphere. --ar 1:1 --v 5.2
+
+---
+
+### 🖼️ 카드뉴스 4/4
+
+*   **카드 텍스트:**
+    **🤩 40인치 대화면으로 몰입감 UP! 🤩**
+    **"영화관이 우리 집으로? 드라마 볼 맛 난다!"**
+    *(거실, 가족용, 대화면 선호 추천!)*
+    **더 자세한 정보는 프로필 링크 확인! ➡️**
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    A wide shot of a 40-inch Moving Cubics Smart Samtenbymi in a modern, spacious living room, two happy friends or a couple are comfortably watching an action movie on the big screen. Popcorn bowl on a sleek coffee table. Dynamic lighting, immersive cinematic feel, "Link in bio" text subtly integrated into the image aesthetic. --ar 1:1 --v 5.2
