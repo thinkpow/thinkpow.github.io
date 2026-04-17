@@ -1,63 +1,71 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-(음악: 빠르고 경쾌한, 팝 음악)
-
-**0-3초 (훅):**
-(화면: LG 스탠바이미 이미지 -> 가격표에 X 표시, 좌절하는 사람 표정 -> "잠깐!" 텍스트)
-**나레이션:** "LG 스탠바이미 사고 싶은데 가격 보고 기절할 뻔? 🤯"
-
-**3-7초 (문제 제시 & 해결책):**
-(화면: 깔끔한 화이트 삼탠바이미가 침실에서 거실, 주방으로 스르륵 움직이며 자유롭게 사용되는 모습)
-**나레이션:** "이제 한숨 그만! '삼탠바이미'가 있잖아! 원하는 곳 어디든 스마트 TV가 따라와!"
-
-**7-12초 (핵심 제품 소개):**
-(화면: 무빙큐빅스 40인치 제품 이미지 -> 40인치 대화면 몰입감 강조 텍스트 오버레이 -> 무빙큐빅스 32인치 제품 이미지 -> 20만원대, 콤팩트 강조 텍스트 오버레이)
-**나레이션:** "특히 40인치 대화면 몰입감 끝판왕 무빙큐빅스! 📺 아니면 20만원대 초가성비 32인치도 있어! 💸"
-
-**12-15초 (CTA):**
-(화면: 두 제품 이미지 나란히 보여주며 "지금 바로 만나봐!" 텍스트, 하단에 "프로필 링크 클릭!" 텍스트)
-**나레이션:** "비싼 스탠바이미? 이제 안녕! 프로필 링크에서 '삼탠바이미' 가성비 끝판왕 확인해봐! ✨"
+**콘셉트:** 비싼 스탠바이미 대신 가성비 좋은 삼탠바이미를 찾고 있는 사람들의 "고민 해결"과 "놀라움"을 유발하는 빠른 템포의 영상
 
 ---
 
-## 2. 인스타그램 카드뉴스 (4컷)
+**(영상 시작: 빠르고 경쾌한 비트의 BGM)**
 
-### 1컷
-*   **카드뉴스 텍스트:**
-    LG 스탠바이미 사고 싶다고? 😲 잠.깐.만!
-    가격 보고 놀랐다면, '이거' 보면 돼!
-    ✨ 가성비 '삼탠바이미' 완벽 가이드 ✨
-*   **Midjourney 프롬프트:**
-    `A modern, minimalist living room. On the left, a luxurious but expensive-looking white movable TV with a high price tag (e.g., $1000+). On the right, a surprised person's face reacting to the price, overlaid with a bright, exciting 'WAIT!' text bubble. The room is bright and clean with soft natural lighting, interior design magazine style. --ar 4:5`
+**[0-3초] 훅 (화면: LG 스탠바이미 광고 이미지 → 가격표가 뜨며 좌절하는 표정 → 바로 가성비 삼탠바이미로 전환)**
+**나레이션:** "스탠바이미 갖고 싶다? 근데 가격 미쳤죠? 🤯 딱 30만원대로 '나만의 스마트 무빙 TV'를 누리세요!"
+**자막:** #스탠바이미 #가성비끝판왕 #돈아끼자
 
-### 2컷
-*   **카드뉴스 텍스트:**
-    👑 가성비 끝판왕 1위! 👑
-    **무빙큐빅스 40인치 삼탠바이미**
-    ✔ 40인치 대화면 몰입감
-    ✔ 완벽한 삼탠바이미 구성 (TV+거치대)
-    ✔ 깔끔한 화이트 디자인
-    ✔ 30만원대 후반의 합리적 가격
-*   **Midjourney 프롬프트:**
-    `A stylish, spacious living room with large windows and soft daylight. In the center, a sleek, minimalist white 40-inch mobile smart TV (like a StandbyMe alternative) on a moving stand. The TV screen displays a vibrant movie scene. A comfortable sofa and a small coffee table are subtly visible in the background. Modern, aesthetic, photorealistic, soft focus. --ar 4:5`
+**[3-7초] 기능 소개 1 (화면: 무빙큐빅스 삼탠바이미가 침실, 거실, 주방 등 다양한 공간에서 넷플릭스/유튜브를 실행하는 모습 빠르게 전환)**
+**나레이션:** "이게 바로 **무빙큐빅스 스마트 삼탠바이미**! 넷플릭스, 유튜브, 티빙까지! 📺 별도 기기 없이 그냥 켜면 끝!"
+**자막:** 📺 스마트TV OS 기본 탑재!
 
-### 3컷
-*   **카드뉴스 텍스트:**
-    💰 20만원대! 초가성비 1인 가구 필수템 💰
-    **무빙큐빅스 32인치 삼탠바이미**
-    ✔ 32인치 콤팩트 사이즈
-    ✔ 완벽한 삼탠바이미 구성
-    ✔ 20만원대 후반의 놀라운 가격
-    ✔ 원룸, 서브 TV로 딱!
-*   **Midjourney 프롬프트:**
-    `A cozy and minimalist studio apartment with warm, inviting lighting. In the corner, a compact, sleek white 32-inch mobile smart TV on a stand, positioned next to a comfortable bed with soft linen. The TV screen shows a streaming service interface. A potted plant and a warm beverage are on a nearby small side table. Aesthetic, hygge style, photorealistic. --ar 4:5`
+**[7-11초] 기능 소개 2 (화면: 스탠드 TV가 자유롭게 회전하고 이동하는 모습, 깔끔한 화이트 디자인 강조)**
+**나레이션:** "거실에서 영화보다 침대로 이동? 🛌 주방에서 레시피 확인? OK! 깔끔한 화이트 디자인은 덤!"
+**자막:** 💫 어디든 자유롭게 이동!
 
-### 4컷
-*   **카드뉴스 텍스트:**
-    내 스타일에 딱 맞는 '삼탠바이미' 찾았다면?
-    **✨ 프로필 링크에서 더 많은 상품 정보 확인! ✨**
-    💖 DIY 꿀팁 & 추가 추천템도 놓치지 마세요!
-*   **Midjourney 프롬프트:**
-    `A vibrant collage or multi-frame image. One frame shows a happy person watching a movie on a mobile TV in bed, another shows someone cooking with the TV displaying a recipe in a modern kitchen, and another shows a person doing yoga in a living room with the TV. All scenes are bright, dynamic, and convey a sense of freedom and convenience. The overall style is playful yet sleek, with subtle glow effects. --ar 4:5`
+**[11-14초] 가성비 & 선택 (화면: 40인치 모델과 32인치 모델이 나란히 비교되며 가격이 강조. 30만원대 vs 20만원대)**
+**나레이션:** "40인치 대화면이 30만원대, 32인치는 20만원대! 😱 스탠바이미, 비쌀 이유가 없잖아?"
+**자막:** 💰 40인치 30만원대 / 32인치 20만원대!
+
+**[14-15초] CTA (화면: 제품 이미지와 함께 "지금 바로 만나보세요!" 텍스트 및 댓글 링크 유도)**
+**나레이션:** "댓글 링크에서 가성비 끝판왕 삼탠바이미 만나보세요!"
+**자막:** ✨ 프로필 링크 확인! #삼탠바이미
+
+---
+
+## 📸 인스타그램 카드뉴스 (4컷)
+
+---
+
+### **📍 1컷: 훅 (문제 제기 및 솔루션)**
+
+*   **들어갈 텍스트:**
+    "스탠바이미? 너무 비싸서 고민만 했죠? 😭 이제 30만원대로 '나만의 스마트 무빙 TV'를 가져보세요!"
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish, minimalist living room with warm indirect lighting. A person is looking at a high-end, sleek white portable smart TV on a stand, with a frustrated yet hopeful expression, holding an empty wallet. The TV screen shows a blurred, high price tag. Cinematic, soft focus, modern aesthetic. --ar 1:1 --v 5.2`
+
+---
+
+### **📍 2컷: 무빙큐빅스 40인치 삼탠바이미 (압도적 대화면)**
+
+*   **들어갈 텍스트:**
+    "압도적 몰입감! 🎬 **무빙큐빅스 40인치 스마트 삼탠바이미**. 대화면 FHD에 넷플릭스, 유튜브 기본 탑재!"
+    (가격: 359,000원)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cozy, modern bedroom with soft ambient lighting. A person is comfortably lying on the bed, deeply immersed in watching a movie on a 40-inch white portable smart TV on a stand. The TV screen displays a vibrant, high-definition movie scene. The TV is the focal point, sleek and minimalist. Realistic, cinematic, detailed, white and light wood tones. --ar 1:1 --v 5.2`
+
+---
+
+### **📍 3컷: 무빙큐빅스 32인치 삼탠바이미 (컴팩트한 가성비)**
+
+*   **들어갈 텍스트:**
+    "내 방에 쏙! ✨ **무빙큐빅스 32인치 스마트 삼탠바이미**. 30만원 미만 초특가! 컴팩트한 이동성!"
+    (가격: 299,000원)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A compact, minimalist studio apartment with natural light streaming in. A 32-inch white portable smart TV on a stand is perfectly placed next to a comfortable armchair, displaying a cooking show. A person is casually cooking in the background, glancing at the TV. Clean lines, bright and airy, modern design. --ar 1:1 --v 5.2`
+
+---
+
+### **📍 4컷: 비교 및 CTA (선택을 돕는 결론)**
+
+*   **들어갈 텍스트:**
+    "나에게 딱 맞는 삼탠바이미는? 💸 40인치 (30만원대) vs 32인치 (20만원대)! 지금 바로 비교하고 '진짜' 스탠바이미를 만나보세요!"
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A visually appealing split image or side-by-side comparison. On the left, a sleek 40-inch white portable smart TV prominently displayed in a spacious, modern living room. On the right, a compact 32-inch white portable smart TV in a cozy, minimalist bedroom. Both TVs are turned on, displaying engaging content relevant to their respective settings (e.g., movie on 40-inch, social media feed on 32-inch). Modern, clean, well-lit, clearly highlighting the scale and context differences. --ar 1:1 --v 5.2`
