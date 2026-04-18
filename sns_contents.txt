@@ -1,71 +1,84 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**콘셉트:** 비싼 스탠바이미 대신 가성비 좋은 삼탠바이미를 찾고 있는 사람들의 "고민 해결"과 "놀라움"을 유발하는 빠른 템포의 영상
+**[영상 컨셉]**
+빠른 템포의 배경 음악과 함께 화면 전환. 스탠바이미의 높은 가격표와 함께 좌절하는 모습으로 시작하여, 가성비 삼탠바이미의 편리하고 스마트한 모습으로 전환.
+
+**[스크립트]**
+
+*   **[0-3초] 훅 (Hook):**
+    *   **내레이션:** "스탠바이미... 💸 가격보고 헉! 소리 났다면 주목!"
+    *   **화면:** LG 스탠바이미의 높은 가격표(100만원 이상) 클로즈업 -> 좌절하며 머리 감싸는 사람의 뒷모습 (유머러스하게)
+    *   **자막:** "스탠바이미, 너무 비싸잖아?!"
+
+*   **[3-6초] 문제 제기 & 솔루션:**
+    *   **내레이션:** "잠깐! 20만원대로 스탠바이미 감성 완벽 구현?! 🔥 '삼탠바이미'가 답입니다!"
+    *   **화면:** 밝고 경쾌한 전환 효과 -> "삼탠바이미" 텍스트가 화면 가득! (스마트하고 세련된 디자인 강조)
+    *   **자막:** "20만원대 삼탠바이미? 실화?"
+
+*   **[6-10초] 메인 상품 1 (40인치):**
+    *   **내레이션:** "🔥 40인치 대화면! 무빙큐빅스 삼탠바이미 세트! 35만원대로 나만의 영화관! 🍿"
+    *   **화면:** 무빙큐빅스 40인치 제품이 침실, 거실 등 다양한 공간에서 사용되는 모습 (넷플릭스, 유튜브 화면 합성)
+    *   **자막:** "40인치 대화면! 359,000원!"
+
+*   **[10-14초] 메인 상품 2 (32인치):**
+    *   **내레이션:** "✨ 더 합리적인 32인치! 29만원대로 침실, 주방 어디든 스마트TV를 쏙! 🛌🍳"
+    *   **화면:** 무빙큐빅스 32인치 제품이 주방에서 레시피를 보거나, 작은 방에서 편하게 사용되는 모습
+    *   **자막:** "32인치 갓성비! 299,000원!"
+
+*   **[14-15초] 콜투액션 (CTA):**
+    *   **내레이션:** "지금 바로 프로필 링크에서 만나보세요! #가성비스탠바이미 #삼탠바이미"
+    *   **화면:** 모든 제품의 장점 및 가격이 빠르게 스쳐 지나가는 요약 화면 -> 프로필 링크 안내 (화살표 이모지 강조)
+    *   **자막:** "더 많은 정보는 프로필 링크 Click!"
 
 ---
 
-**(영상 시작: 빠르고 경쾌한 비트의 BGM)**
+## 2. 인스타그램 카드뉴스 4컷
 
-**[0-3초] 훅 (화면: LG 스탠바이미 광고 이미지 → 가격표가 뜨며 좌절하는 표정 → 바로 가성비 삼탠바이미로 전환)**
-**나레이션:** "스탠바이미 갖고 싶다? 근데 가격 미쳤죠? 🤯 딱 30만원대로 '나만의 스마트 무빙 TV'를 누리세요!"
-**자막:** #스탠바이미 #가성비끝판왕 #돈아끼자
-
-**[3-7초] 기능 소개 1 (화면: 무빙큐빅스 삼탠바이미가 침실, 거실, 주방 등 다양한 공간에서 넷플릭스/유튜브를 실행하는 모습 빠르게 전환)**
-**나레이션:** "이게 바로 **무빙큐빅스 스마트 삼탠바이미**! 넷플릭스, 유튜브, 티빙까지! 📺 별도 기기 없이 그냥 켜면 끝!"
-**자막:** 📺 스마트TV OS 기본 탑재!
-
-**[7-11초] 기능 소개 2 (화면: 스탠드 TV가 자유롭게 회전하고 이동하는 모습, 깔끔한 화이트 디자인 강조)**
-**나레이션:** "거실에서 영화보다 침대로 이동? 🛌 주방에서 레시피 확인? OK! 깔끔한 화이트 디자인은 덤!"
-**자막:** 💫 어디든 자유롭게 이동!
-
-**[11-14초] 가성비 & 선택 (화면: 40인치 모델과 32인치 모델이 나란히 비교되며 가격이 강조. 30만원대 vs 20만원대)**
-**나레이션:** "40인치 대화면이 30만원대, 32인치는 20만원대! 😱 스탠바이미, 비쌀 이유가 없잖아?"
-**자막:** 💰 40인치 30만원대 / 32인치 20만원대!
-
-**[14-15초] CTA (화면: 제품 이미지와 함께 "지금 바로 만나보세요!" 텍스트 및 댓글 링크 유도)**
-**나레이션:** "댓글 링크에서 가성비 끝판왕 삼탠바이미 만나보세요!"
-**자막:** ✨ 프로필 링크 확인! #삼탠바이미
+**[공통 디자인 키워드]**
+화이트, 미니멀, 모던, 깔끔한 인테리어, 가성비 강조
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**1/4 컷: 훅 & 문제 제기**
 
----
-
-### **📍 1컷: 훅 (문제 제기 및 솔루션)**
-
-*   **들어갈 텍스트:**
-    "스탠바이미? 너무 비싸서 고민만 했죠? 😭 이제 30만원대로 '나만의 스마트 무빙 TV'를 가져보세요!"
+*   **텍스트:**
+    **스탠바이미 💖 너무 비싸다고요? 💸**
+    **2024 가성비 '삼탠바이미'가 답! ✨**
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A stylish, minimalist living room with warm indirect lighting. A person is looking at a high-end, sleek white portable smart TV on a stand, with a frustrated yet hopeful expression, holding an empty wallet. The TV screen shows a blurred, high price tag. Cinematic, soft focus, modern aesthetic. --ar 1:1 --v 5.2`
+    `A sleek, minimalist portable smart TV with a high price tag clearly visible (e.g., "$1000+"), juxtaposed with a thought bubble above it containing a much lower, affordable price (e.g., "$299"), symbolizing "value for money." The overall mood is modern, clean, and a bit aspirational, but with a hint of financial relief. Soft natural light, white background, minimalist aesthetic, high-quality product photography. --ar 1:1 --v 5.2`
 
 ---
 
-### **📍 2컷: 무빙큐빅스 40인치 삼탠바이미 (압도적 대화면)**
+**2/4 컷: 메인 상품 1 (무빙큐빅스 40인치)**
 
-*   **들어갈 텍스트:**
-    "압도적 몰입감! 🎬 **무빙큐빅스 40인치 스마트 삼탠바이미**. 대화면 FHD에 넷플릭스, 유튜브 기본 탑재!"
-    (가격: 359,000원)
+*   **텍스트:**
+    **👑 대화면 삼탠바이미의 끝판왕!**
+    **무빙큐빅스 40인치 스마트 삼탠바이미 SET**
+    **✨ 359,000원! 나만의 40인치 영화관! 🍿**
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy, modern bedroom with soft ambient lighting. A person is comfortably lying on the bed, deeply immersed in watching a movie on a 40-inch white portable smart TV on a stand. The TV screen displays a vibrant, high-definition movie scene. The TV is the focal point, sleek and minimalist. Realistic, cinematic, detailed, white and light wood tones. --ar 1:1 --v 5.2`
+    `A modern, white 40-inch portable smart TV (resembling a sleek StandbyME alternative, not LG branded) on a minimalist stand, positioned in a cozy, stylish living room. A person is comfortably watching a movie on the large screen, surrounded by soft ambient lighting. The atmosphere is relaxed and luxurious, emphasizing affordability. Clean lines, contemporary interior design, high resolution. --ar 1:1 --v 5.2`
 
 ---
 
-### **📍 3컷: 무빙큐빅스 32인치 삼탠바이미 (컴팩트한 가성비)**
+**3/4 컷: 메인 상품 2 (무빙큐빅스 32인치)**
 
-*   **들어갈 텍스트:**
-    "내 방에 쏙! ✨ **무빙큐빅스 32인치 스마트 삼탠바이미**. 30만원 미만 초특가! 컴팩트한 이동성!"
-    (가격: 299,000원)
+*   **텍스트:**
+    **💸 20만원대로 스탠바이미 로망 실현!**
+    **무빙큐빅스 32인치 스마트 삼탠바이미 SET**
+    **💖 299,000원! 1인 가구, 침실, 주방 어디든 OK!**
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A compact, minimalist studio apartment with natural light streaming in. A 32-inch white portable smart TV on a stand is perfectly placed next to a comfortable armchair, displaying a cooking show. A person is casually cooking in the background, glancing at the TV. Clean lines, bright and airy, modern design. --ar 1:1 --v 5.2`
+    `A compact, white 32-inch portable smart TV on a sleek, minimalist stand, perfectly placed in a modern, small kitchen or a cozy bedroom. A person is casually watching a cooking show or relaxing in bed, highlighting its versatility for small spaces and practical everyday use. Bright, clean, minimalist aesthetic, natural lighting, high-quality product photography. --ar 1:1 --v 5.2`
 
 ---
 
-### **📍 4컷: 비교 및 CTA (선택을 돕는 결론)**
+**4/4 컷: 요약 & 콜투액션**
 
-*   **들어갈 텍스트:**
-    "나에게 딱 맞는 삼탠바이미는? 💸 40인치 (30만원대) vs 32인치 (20만원대)! 지금 바로 비교하고 '진짜' 스탠바이미를 만나보세요!"
+*   **텍스트:**
+    **🔥 비싼 스탠바이미 대신 똑똑하게 삼탠바이미! 🔍**
+    **✔️ 완성형 세트부터 DIY 부품까지!**
+    **👇 프로필 링크에서 더 자세히 확인하기!**
+    **#스탠바이미가성비 #삼탠바이미 #이동식TV #스마트TV**
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A visually appealing split image or side-by-side comparison. On the left, a sleek 40-inch white portable smart TV prominently displayed in a spacious, modern living room. On the right, a compact 32-inch white portable smart TV in a cozy, minimalist bedroom. Both TVs are turned on, displaying engaging content relevant to their respective settings (e.g., movie on 40-inch, social media feed on 32-inch). Modern, clean, well-lit, clearly highlighting the scale and context differences. --ar 1:1 --v 5.2`
+    `An abstract, dynamic collage or infographic style image, visually representing smart shopping for portable TVs. Multiple screens showcasing diverse content, surrounded by elements symbolizing "affordability," "DIY," and "smart choice." Clean, modern design with bold, readable text overlays like "Choose Smart," and "More Options." Bright, vibrant, clean aesthetic, high contrast. --ar 1:1 --v 5.2`
