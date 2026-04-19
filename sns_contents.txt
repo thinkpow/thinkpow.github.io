@@ -1,66 +1,57 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**콘셉트:** LG 스탠바이미의 높은 가격에 좌절한 시청자들에게 '삼탠바이미'라는 합리적인 대안을 제시하며, 메인 제품 2종과 DIY 아이템을 빠르게 소개하여 구매욕을 자극한다.
+**[영상 분위기: 빠르고 경쾌한 비트의 BGM, 폰트 효과, 전환 효과 사용]**
 
----
-
-**[영상 제목]** LG 스탠바이미 비싸? 😱 삼탠바이미로 갓성비 끝판왕 찍자! #스탠바이미 #삼탠바이미 #가성비TV
-
-**[영상 시간: 15초]**
-
-*   **[0-2초] 훅 (Hook):**
-    *   **화면:** (LG 스탠바이미 이미지 크게 띄우며, 가격표에 빨간색 'X' 표시)
-    *   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미? 가격 보고 놀랐어? 😱 (헉!)"
-*   **[2-5초] 문제 제기 & 해결책 제시:**
-    *   **화면:** (활기찬 배경음악과 함께 무빙큐빅스 40인치 등장, 옆에 '삼탠바이미' 로고 크게 띄움)
-    *   **내레이션:** "이제 '삼탠바이미'의 시대야! 딱 1/3 가격으로 이동식 스마트TV 끝!"
-*   **[5-9초] 메인 제품 1 (40인치) 강조:**
-    *   **화면:** (무빙큐빅스 40인치로 넷플릭스 시청하는 모습)
-    *   **내레이션:** "넷플, 유튜브 다 되는 40인치가 30만원대? 거실이 영화관으로 변신!"
-*   **[9-12초] 메인 제품 2 (32인치) 강조:**
-    *   **화면:** (무빙큐빅스 32인치로 침대 옆에서 드라마 시청하는 모습)
-    *   **내레이션:** "방마다 둘 땐 20만원대 32인치가 최고! 침실, 주방 어디든 나만의 아지트!"
-*   **[12-14초] 가성비 DIY 아이템 소개:**
-    *   **화면:** (RS 이동식 DIY 삼탠바이미 거치대 빠르게 보여주며, '3천원대?!' 자막)
-    *   **내레이션:** "3천원으로 내 TV도 삼탠바이미?! 이거 진짜 대박이야!"
-*   **[14-15초] 클로징 & CTA:**
-    *   **화면:** (모든 제품 한 번에 보여주며, '프로필 링크 클릭!' 자막)
-    *   **내레이션:** "더 많은 정보는 프로필 링크 클릭! 지금 바로 삼탠바이미 만나봐!"
+*   **0-3초 (훅! 시선 강탈 구간)**
+    *   **화면:** 고급스러운 LG 스탠바이미 이미지에 비싼 가격표(100만원 이상)가 크게 오버레이. 좌절하는 표정의 사람 이모지나 짧은 클립.
+    *   **대사:** "스탠바이미 사고 싶다... 근데 100만원 넘네? (좌절) 놉! 그 돈 아껴!"
+*   **3-7초 (문제 제기 & 솔루션 제시)**
+    *   **화면:** '10년차 MD' 텍스트 크게 등장 후, '가성비 삼탠바이미' 키워드와 함께 무빙큐빅스 삼탠바이미 제품이 스포트라이트를 받으며 등장.
+    *   **대사:** "10년차 MD가 찾았다! LG 스탠바이미 씹어먹는 '가성비 삼탠바이미' 종결템!"
+*   **7-12초 (핵심 제품 & 장점 소개)**
+    *   **화면:** 무빙큐빅스 스마트 삼탠바이미 40인치 (넷플릭스 화면). 40인치 강조 및 30만원대 가격 오버레이. 빠르게 32인치 제품으로 전환, 20만원대 가격 오버레이. 이동식 거치대의 편리함 강조하는 짧은 클립.
+    *   **대사:** "40인치 대화면에 넷플릭스 기본, 이동까지 자유! 심지어 30만원대?! 32인치도 20만원대!"
+*   **12-15초 (클로징 & CTA)**
+    *   **화면:** 거실, 침실 등 다양한 공간에서 삼탠바이미를 즐기는 사람들의 모습이 빠르게 교차. '프로필 링크 클릭!' 텍스트와 화살표.
+    *   **대사:** "이제 스탠바이미 로망 현실로! 방구석 극장 완성! 지금 바로 프로필 링크에서 만나봐! (클릭!)"
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 4컷
 
-**콘셉트:** 시각적으로 매력적인 이미지와 명확한 메시지로 '스탠바이미 가성비' 제품의 장점을 전달하고, 구매 전환을 유도합니다.
-
----
-
-### **[카드 1] 훅 & 문제/해결 제시**
+### **카드 1: 훅 (Hook)**
 
 *   **텍스트:**
-    *   **메인 헤드라인:** LG 스탠바이미, 너무 비싸? 😱
-    *   **서브 텍스트:** 이제 '삼탠바이미'로 가성비 폭발! ✨ 이동식 스마트TV, 현명하게 즐기자!
-*   **Midjourney 프롬프트:** A modern, minimalist living room. An expensive, sleek LG StandbyMe-like mobile TV is prominently displayed with a huge, bright red "X" mark over its price tag, indicating "Too Expensive." Next to it, a new, equally stylish but clearly more affordable alternative (representing "삼탠바이미") is shown with a glowing aura. Dynamic contrast, bright studio lighting, photorealistic, cinematic. --ar 1:1 --v 5.2
+    LG 스탠바이미 비싸서 포기했니?
+    🔥 MD가 찾은 '가성비 삼탠바이미' 종결템!
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A frustrated person looking at a high price tag on a luxurious LG StandbyME screen on a tablet. In the background, a silhouette of a sleek, more affordable 'SamtanbyME' with a spotlight, modern minimalist room, clean aesthetics, dramatic lighting, cinematic, high contrast, vibrant colors. --ar 1:1 --v 5.2`
 
-### **[카드 2] 메인 제품 1: 무빙큐빅스 40인치**
-
-*   **텍스트:**
-    *   **메인 헤드라인:** 🎬 거실이 영화관! 무빙큐빅스 40인치 삼탠바이미
-    *   **서브 텍스트:** LG 1/3 가격! 넷플릭스, 유튜브 기본 탑재! 대화면으로 온 가족 즐거움 UP! (단돈 30만원대!)
-*   **Midjourney 프롬프트:** A cozy, warm-lit modern living room at night. A sleek, white 40-inch Moving Cubics mobile smart TV is the focal point, displaying a vibrant movie scene. A happy family (diverse, 3-4 people) is comfortably seated on a sofa, engrossed in the screen. Cinematic lighting, photorealistic, ultra detailed. --ar 1:1 --v 5.2
-
-### **[카드 3] 메인 제품 2: 무빙큐빅스 32인치**
+### **카드 2: 메인 상품 1 (40인치)**
 
 *   **텍스트:**
-    *   **메인 헤드라인:** 🛌 나만의 아지트! 무빙큐빅스 32인치 삼탠바이미
-    *   **서브 텍스트:** 침실, 주방 어디든 쏙! 콤팩트한 이동성! 나만의 엔터테인먼트 존 완성! (20만원대!)
-*   **Midjourney 프롬프트:** A stylish, minimalist bedroom with soft, natural morning light. A sleek, white 32-inch Moving Cubics mobile smart TV is positioned near a bed, showing a person (female, early 30s) comfortably watching a cooking show while having breakfast in bed. Clean, serene atmosphere, photorealistic, high resolution. --ar 1:1 --v 5.2
+    👑 압도적 40인치 대화면!
+    넷플릭스 기본 탑재, 심지어 30만원대?
+    (무빙큐빅스 스마트 삼탠바이미)
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A stunning 40-inch white smart TV on a movable stand, displaying the Netflix logo brightly, in a cozy yet modern bedroom. A person is comfortably watching from bed, smiling. Soft morning light, minimalist decor, white and wood tones, high quality, realistic. --ar 1:1 --v 5.2`
 
-### **[카드 4] 보너스 제품 & CTA**
+### **카드 3: 메인 상품 2 (32인치)**
 
 *   **텍스트:**
-    *   **메인 헤드라인:** 💰 3천원으로 만드는 'DIY 삼탠바이미'? 실화냐?!
-    *   **서브 텍스트:** 기존 TV에 거치대만 달면 끝! ✨ 가성비 끝판왕 DIY로 환경까지 생각! (👆 더 많은 정보는 프로필 링크 클릭!)
-*   **Midjourney 프롬프트:** A close-up shot of hands (diverse skin tone) easily attaching a minimalist, sleek white mobile stand onto the back of a generic flat-screen TV. The background is a blurred, modern home interior, suggesting an easy DIY project. Focus on the ease of assembly and the "DIY" aspect. Bright, clear lighting, photorealistic, shallow depth of field. --ar 1:1 --v 5.2
+    ✨ 30만원 미만 가성비 끝판왕!
+    콤팩트 32인치로 나만의 스마트 라이프 시작!
+    (무빙큐빅스 스마트 삼탠바이미)
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A compact and stylish 32-inch white smart TV on a movable stand in a small, neat home office or study area, displaying a YouTube video. A happy person is using a laptop nearby, with the TV seamlessly integrating into the space. Bright, airy, minimalist, functional design, natural light. --ar 1:1 --v 5.2`
+
+### **카드 4: 요약 & CTA**
+
+*   **텍스트:**
+    이제 스탠바이미 로망 현실로! 📺
+    원하는 곳 어디든 이동식 스마트 TV!
+    (자세한 내용은 프로필 링크 클릭!)
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A dynamic montage or split-screen image showing the same sleek, white mobile smart TV in three different home environments: a living room, a bedroom, and a kitchen. Each scene depicts a person happily interacting with the TV, emphasizing its mobility and versatility. Bright, modern, lifestyle photography style, vibrant and inviting. --ar 1:1 --v 5.2`
