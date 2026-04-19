@@ -1,81 +1,63 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발ver.)
+## 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**[영상 컨셉]**
-빠른 컷 전환, 효과음(와우, 띠용), 텍스트 오버레이, 유쾌한 표정과 제스처
-
----
-
-**[0-3초] 훅 (시선 강탈!)**
-*   **화면:** (놀란 표정으로 LG 스탠바이미 가격 검색 화면을 보여주며) "헉! LG 스탠바이미.. 이 가격 실화?" (화면에 "LG 스탠바이미 27인치: 100만원대" 텍스트 크게)
-*   **대사:** "LG 스탠바이미, 갖고 싶었는데... 가격 보고 심장 멎을 뻔! 💸"
-*   **효과음:** '띠용', '삐빅! 예산 초과!'
-
-**[3-8초] 문제 제시 & 해결책 등장**
-*   **화면:** (고민하는 표정 -> 씨익 웃으며 어딘가를 가리킴) "이젠 비싸게 살 필요 없다고요? ✨" (갑자기 화면 전환, 깔끔한 삼탠바이미 등장! 텍스트 오버레이: "💥20만원대 삼탠바이미💥")
-*   **대사:** "비싸서 포기했다고? 아니! 이제 20만원대로 스탠바이미 기능 다~~ 누릴 수 있어!"
-*   **효과음:** '쉬쉬쉬~', '반짝!', '짜잔!'
-
-**[8-13초] 제품 장점 어필 (주요 상품 강조)**
-*   **화면:** (무빙큐빅스 스마트 삼탠바이미 40인치/32인치 제품 사용 컷: 침대 옆에서 넷플릭스 보는 모습, 주방에서 레시피 보는 모습 등) "40인치 대화면에 스마트 기능까지?!" (텍스트 오버레이: "OTT 올킬! 40인치 대화면!")
-*   **대사:** "40인치 대화면에 스마트TV 기능 기본 장착! 침대 옆 내 방이 바로 영화관 되는 마법!"
-*   **효과음:** '와우!', '띵동!' (알림 소리)
-
-**[13-15초] 클로징 & CTA**
-*   **화면:** (제품들을 빠르게 보여주며) "이 갓성비 삼탠바이미, 더 궁금하면?" (프로필 링크 유도하는 손짓) "지금 바로 프로필 링크 클릭해봐!" (텍스트 오버레이: "프로필 링크 클릭!👆")
-*   **대사:** "더 자세한 정보는 프로필 링크에서 확인하세요! 지금 당장 GET!"
-*   **효과음:** '슝!', '클릭!'
-
----
-**해시태그:** #스탠바이미가성비 #삼탠바이미 #이동식TV #스마트TV #자취템 #신혼템 #가성비 #꿀템 #쇼츠 #틱톡
+**제목:** 스탠바이미 짝퉁? NO! 가성비 끝판왕 '삼탠바이미'로 FLEX! ✨
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**(0-2초) [빠른 비트의 경쾌한 배경음악 시작, 화면에 '스탠바이미? 너무 비싸!' 문구와 함께 로고에 X표시가 빠르게 나타났다 사라짐]**
+**나레이션:** "스탠바이미? 너무 비싸서 포기했어?"
+
+**(2-5초) [화면 전환: 무빙큐빅스 40인치 삼탠바이미가 세련된 거실에 놓여있음. 가격 '359,000원'이 크게 깜빡이며 등장]**
+**나레이션:** "이젠 그럴 필요 없어! 가성비 끝판왕 '삼탠바이미' 알면 인생이 달라진다!"
+
+**(5-8초) [화면 전환: 40인치 삼탠바이미가 침대 옆, 주방, 베란다 등 다양한 공간에서 활용되는 모습이 빠르게 컷 편집됨 (영화 감상, 요리 레시피 시청, 게임 플레이 등)]**
+**나레이션:** "40인치 대화면으로 드라마, 영화, 게임! 어디든 나만의 스마트 극장!"
+
+**(8-11초) [화면 전환: 무빙큐빅스 32인치 삼탠바이미가 아늑한 원룸이나 서재에 놓여있음. 가격 '299,000원'이 크게 깜빡이며 등장]**
+**나레이션:** "내 방엔 32인치 콤팩트! 깔끔한 화이트 디자인은 덤이야!"
+
+**(11-13초) [화면 전환: 두 제품이 함께 놓여있거나, 사람들이 행복하게 제품을 사용하는 모습이 에너제틱하게 편집. '고민은 배송만 늦출 뿐!' 텍스트 오버레이]**
+**나레이션:** "고민은 배송만 늦출 뿐! 가성비 이동식 TV, 지금 바로 FLEX 해!"
+
+**(13-15초) [화면 전환: 쿠팡 로고와 함께 '✨프로필 링크에서 MD's Pick 확인!✨' 문구가 크게 나타나며 배경음악이 절정으로 치닫고 마무리]**
+**텍스트 오버레이:**
+MD's PICK #삼탠바이미 #가성비TV
+👉 프로필 링크 GO!
 
 ---
 
-### **[1컷] LG 스탠바이미, 비싸서 망설였다면?**
+## 인스타그램 카드뉴스 (4컷)
 
+### 1컷
 *   **텍스트:**
-    **LG 스탠바이미 사고 싶지만...**
-    **가격이 후덜덜? 💸**
-    (상단에 작게) #스탠바이미가성비 #스탠바이미대안
-*   **Midjourney 프롬프트:**
-    `A young woman with a disappointed expression, looking at a stylized LG StandbyME in a modern, minimalist living room. A large, transparent bubble above her head shows a sky-high price tag with a cross mark, indicating unaffordability. Soft, warm ambient lighting, clean aesthetic. --ar 1:1 --v 5.2`
+    *   **헤드라인:** "스탠바이미 갖고싶은데 너무 비싸?"
+    *   **서브:** "10년차 MD가 찾아온 '가성비 삼탠바이미' 끝판왕!"
+*   **Midjourney 프롬프트 (영문):**
+    `A stylish, minimalist modern living room with a sleek, portable smart TV (resembling LG StandbyMe but not identical) on a stand. A thought bubble above a person's head shows a high price tag with a question mark, then a happy 'aha!' moment with a much lower price tag. High energy, viral aesthetic, cinematic lighting, vibrant colors. --ar 1:1 --v 5.2`
 
----
-
-### **[2컷] 20만원대로 누리는 스마트 라이프!**
-
+### 2컷
 *   **텍스트:**
-    **이제 20만원대로 '이것' 하나면 끝!**
-    **#삼탠바이미 #갓성비 ✨**
-    (하단에 작게) 원조 스탠바이미 기능 그대로! 이동성 UP!
-*   **Midjourney 프롬프트:**
-    `A sleek, white mobile smart TV (resembling a StandbyME alternative, 'SamtanbyME') on wheels in a bright, cozy bedroom. The screen displays a colorful OTT streaming interface. A person is comfortably lounging on the bed, smiling. Modern, inviting interior design with natural light. --ar 1:1 --v 5.2`
+    *   **헤드라인:** "✨MD's Pick 1위✨ 40인치 대화면! 무빙큐빅스 스마트 삼탠바이미 SET"
+    *   **서브:** "359,000원! 거실, 침실 어디든 나만의 영화관 완성!"
+*   **Midjourney 프롬프트 (영문):**
+    `A modern, cozy living room bathed in warm ambient light. A 40-inch white portable smart TV (similar to Samtanbyme, not LG) is prominently displayed, showing a vibrant movie scene. A happy couple is relaxing on a soft sofa, enjoying the TV. High detail, cinematic, comfortable and luxurious atmosphere. --ar 1:1 --v 5.2`
 
----
-
-### **[3컷] 40인치 대화면 + 스마트 기능 = 내 방 영화관!**
-
+### 3컷
 *   **텍스트:**
-    **40인치 대화면에 스마트 기능까지!**
-    **침대 옆 나만의 영화관 완성 🎬**
-    (하단에 작게) 넷플릭스, 유튜브, 디즈니플러스 무제한!
-*   **Midjourney 프롬프트:**
-    `Close-up shot of a 40-inch mobile smart TV screen (SamtanbyME) displaying a vibrant movie scene. The TV is positioned next to a comfortable bed in a dimly lit, cozy bedroom, with soft fairy lights in the background. A hand is holding a remote control. Emphasize cinematic experience and comfort. --ar 1:1 --v 5.2`
+    *   **헤드라인:** "✨MD's Pick 2위✨ 내 방에 딱! 32인치 무빙큐빅스 삼탠바이미 SET"
+    *   **서브:** "299,000원! 좁은 공간도 스마트하게! 자취템 강추!"
+*   **Midjourney 프롬프트 (영문):**
+    `A compact, chic bedroom or studio apartment with soft natural light. A 32-inch white portable smart TV (similar to Samtanbyme, not LG) is positioned near a modern bed, displaying a popular K-drama. A young person is comfortably lying on the bed, engrossed in the show. Cozy, minimalist, high quality, serene atmosphere. --ar 1:1 --v 5.2`
 
----
-
-### **[4컷] 당신의 공간을 위한 완벽한 선택!**
-
+### 4컷
 *   **텍스트:**
-    **작은 공간엔 32인치도 완벽!**
-    **지금 바로 스마트 라이프 시작! 👉 링크 클릭**
-    (하단에 작게) 프로필 링크에서 자세히 보기!
-*   **Midjourney 프롬프트:**
-    `A 32-inch white mobile smart TV (SamtanbyME) in a small, stylish studio apartment or a minimalist reading nook. The screen shows a bright, inviting user interface. A person is casually leaning nearby, looking content. Clean lines, functional design, natural light, with a subtle "Shop Now" or "Link in Bio" graphic element integrated into the image. --ar 1:1 --v 5.2`
-
----
+    *   **헤드라인:** "왜 '삼탠바이미' 여야 할까?"
+    *   **서브:**
+        *   "✅ 부담 없는 가격! (스탠바이미 1/3 가격!)"
+        *   "✅ 자유로운 이동성! (어디든 옮겨 다니며 시청!)"
+        *   "✅ 인테리어 효과까지! (깔끔한 화이트 디자인!)"
+    *   **CTA:** "지금 바로 프로필 링크에서 MD's Pick 확인! 🛒"
+*   **Midjourney 프롬프트 (영문):**
+    `An abstract infographic-style image. Three distinct, stylized icons are visible: a dollar sign with a checkmark (representing affordability), a set of wheels next to a TV outline (representing mobility), and a modern house with a star (representing interior design enhancement). These three elements are dynamically leading towards a central, sleek white portable smart TV. Clean lines, vibrant pastel colors, modern and inviting design. --ar 1:1 --v 5.2`
