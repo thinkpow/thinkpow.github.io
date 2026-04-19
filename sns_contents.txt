@@ -1,63 +1,66 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 스탠바이미 짝퉁? NO! 가성비 끝판왕 '삼탠바이미'로 FLEX! ✨
-
----
-
-**(0-2초) [빠른 비트의 경쾌한 배경음악 시작, 화면에 '스탠바이미? 너무 비싸!' 문구와 함께 로고에 X표시가 빠르게 나타났다 사라짐]**
-**나레이션:** "스탠바이미? 너무 비싸서 포기했어?"
-
-**(2-5초) [화면 전환: 무빙큐빅스 40인치 삼탠바이미가 세련된 거실에 놓여있음. 가격 '359,000원'이 크게 깜빡이며 등장]**
-**나레이션:** "이젠 그럴 필요 없어! 가성비 끝판왕 '삼탠바이미' 알면 인생이 달라진다!"
-
-**(5-8초) [화면 전환: 40인치 삼탠바이미가 침대 옆, 주방, 베란다 등 다양한 공간에서 활용되는 모습이 빠르게 컷 편집됨 (영화 감상, 요리 레시피 시청, 게임 플레이 등)]**
-**나레이션:** "40인치 대화면으로 드라마, 영화, 게임! 어디든 나만의 스마트 극장!"
-
-**(8-11초) [화면 전환: 무빙큐빅스 32인치 삼탠바이미가 아늑한 원룸이나 서재에 놓여있음. 가격 '299,000원'이 크게 깜빡이며 등장]**
-**나레이션:** "내 방엔 32인치 콤팩트! 깔끔한 화이트 디자인은 덤이야!"
-
-**(11-13초) [화면 전환: 두 제품이 함께 놓여있거나, 사람들이 행복하게 제품을 사용하는 모습이 에너제틱하게 편집. '고민은 배송만 늦출 뿐!' 텍스트 오버레이]**
-**나레이션:** "고민은 배송만 늦출 뿐! 가성비 이동식 TV, 지금 바로 FLEX 해!"
-
-**(13-15초) [화면 전환: 쿠팡 로고와 함께 '✨프로필 링크에서 MD's Pick 확인!✨' 문구가 크게 나타나며 배경음악이 절정으로 치닫고 마무리]**
-**텍스트 오버레이:**
-MD's PICK #삼탠바이미 #가성비TV
-👉 프로필 링크 GO!
+**콘셉트:** LG 스탠바이미의 높은 가격에 좌절한 시청자들에게 '삼탠바이미'라는 합리적인 대안을 제시하며, 메인 제품 2종과 DIY 아이템을 빠르게 소개하여 구매욕을 자극한다.
 
 ---
 
-## 인스타그램 카드뉴스 (4컷)
+**[영상 제목]** LG 스탠바이미 비싸? 😱 삼탠바이미로 갓성비 끝판왕 찍자! #스탠바이미 #삼탠바이미 #가성비TV
 
-### 1컷
-*   **텍스트:**
-    *   **헤드라인:** "스탠바이미 갖고싶은데 너무 비싸?"
-    *   **서브:** "10년차 MD가 찾아온 '가성비 삼탠바이미' 끝판왕!"
-*   **Midjourney 프롬프트 (영문):**
-    `A stylish, minimalist modern living room with a sleek, portable smart TV (resembling LG StandbyMe but not identical) on a stand. A thought bubble above a person's head shows a high price tag with a question mark, then a happy 'aha!' moment with a much lower price tag. High energy, viral aesthetic, cinematic lighting, vibrant colors. --ar 1:1 --v 5.2`
+**[영상 시간: 15초]**
 
-### 2컷
-*   **텍스트:**
-    *   **헤드라인:** "✨MD's Pick 1위✨ 40인치 대화면! 무빙큐빅스 스마트 삼탠바이미 SET"
-    *   **서브:** "359,000원! 거실, 침실 어디든 나만의 영화관 완성!"
-*   **Midjourney 프롬프트 (영문):**
-    `A modern, cozy living room bathed in warm ambient light. A 40-inch white portable smart TV (similar to Samtanbyme, not LG) is prominently displayed, showing a vibrant movie scene. A happy couple is relaxing on a soft sofa, enjoying the TV. High detail, cinematic, comfortable and luxurious atmosphere. --ar 1:1 --v 5.2`
+*   **[0-2초] 훅 (Hook):**
+    *   **화면:** (LG 스탠바이미 이미지 크게 띄우며, 가격표에 빨간색 'X' 표시)
+    *   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미? 가격 보고 놀랐어? 😱 (헉!)"
+*   **[2-5초] 문제 제기 & 해결책 제시:**
+    *   **화면:** (활기찬 배경음악과 함께 무빙큐빅스 40인치 등장, 옆에 '삼탠바이미' 로고 크게 띄움)
+    *   **내레이션:** "이제 '삼탠바이미'의 시대야! 딱 1/3 가격으로 이동식 스마트TV 끝!"
+*   **[5-9초] 메인 제품 1 (40인치) 강조:**
+    *   **화면:** (무빙큐빅스 40인치로 넷플릭스 시청하는 모습)
+    *   **내레이션:** "넷플, 유튜브 다 되는 40인치가 30만원대? 거실이 영화관으로 변신!"
+*   **[9-12초] 메인 제품 2 (32인치) 강조:**
+    *   **화면:** (무빙큐빅스 32인치로 침대 옆에서 드라마 시청하는 모습)
+    *   **내레이션:** "방마다 둘 땐 20만원대 32인치가 최고! 침실, 주방 어디든 나만의 아지트!"
+*   **[12-14초] 가성비 DIY 아이템 소개:**
+    *   **화면:** (RS 이동식 DIY 삼탠바이미 거치대 빠르게 보여주며, '3천원대?!' 자막)
+    *   **내레이션:** "3천원으로 내 TV도 삼탠바이미?! 이거 진짜 대박이야!"
+*   **[14-15초] 클로징 & CTA:**
+    *   **화면:** (모든 제품 한 번에 보여주며, '프로필 링크 클릭!' 자막)
+    *   **내레이션:** "더 많은 정보는 프로필 링크 클릭! 지금 바로 삼탠바이미 만나봐!"
 
-### 3컷
-*   **텍스트:**
-    *   **헤드라인:** "✨MD's Pick 2위✨ 내 방에 딱! 32인치 무빙큐빅스 삼탠바이미 SET"
-    *   **서브:** "299,000원! 좁은 공간도 스마트하게! 자취템 강추!"
-*   **Midjourney 프롬프트 (영문):**
-    `A compact, chic bedroom or studio apartment with soft natural light. A 32-inch white portable smart TV (similar to Samtanbyme, not LG) is positioned near a modern bed, displaying a popular K-drama. A young person is comfortably lying on the bed, engrossed in the show. Cozy, minimalist, high quality, serene atmosphere. --ar 1:1 --v 5.2`
+---
 
-### 4컷
+## 📸 인스타그램 카드뉴스 (4컷)
+
+**콘셉트:** 시각적으로 매력적인 이미지와 명확한 메시지로 '스탠바이미 가성비' 제품의 장점을 전달하고, 구매 전환을 유도합니다.
+
+---
+
+### **[카드 1] 훅 & 문제/해결 제시**
+
 *   **텍스트:**
-    *   **헤드라인:** "왜 '삼탠바이미' 여야 할까?"
-    *   **서브:**
-        *   "✅ 부담 없는 가격! (스탠바이미 1/3 가격!)"
-        *   "✅ 자유로운 이동성! (어디든 옮겨 다니며 시청!)"
-        *   "✅ 인테리어 효과까지! (깔끔한 화이트 디자인!)"
-    *   **CTA:** "지금 바로 프로필 링크에서 MD's Pick 확인! 🛒"
-*   **Midjourney 프롬프트 (영문):**
-    `An abstract infographic-style image. Three distinct, stylized icons are visible: a dollar sign with a checkmark (representing affordability), a set of wheels next to a TV outline (representing mobility), and a modern house with a star (representing interior design enhancement). These three elements are dynamically leading towards a central, sleek white portable smart TV. Clean lines, vibrant pastel colors, modern and inviting design. --ar 1:1 --v 5.2`
+    *   **메인 헤드라인:** LG 스탠바이미, 너무 비싸? 😱
+    *   **서브 텍스트:** 이제 '삼탠바이미'로 가성비 폭발! ✨ 이동식 스마트TV, 현명하게 즐기자!
+*   **Midjourney 프롬프트:** A modern, minimalist living room. An expensive, sleek LG StandbyMe-like mobile TV is prominently displayed with a huge, bright red "X" mark over its price tag, indicating "Too Expensive." Next to it, a new, equally stylish but clearly more affordable alternative (representing "삼탠바이미") is shown with a glowing aura. Dynamic contrast, bright studio lighting, photorealistic, cinematic. --ar 1:1 --v 5.2
+
+### **[카드 2] 메인 제품 1: 무빙큐빅스 40인치**
+
+*   **텍스트:**
+    *   **메인 헤드라인:** 🎬 거실이 영화관! 무빙큐빅스 40인치 삼탠바이미
+    *   **서브 텍스트:** LG 1/3 가격! 넷플릭스, 유튜브 기본 탑재! 대화면으로 온 가족 즐거움 UP! (단돈 30만원대!)
+*   **Midjourney 프롬프트:** A cozy, warm-lit modern living room at night. A sleek, white 40-inch Moving Cubics mobile smart TV is the focal point, displaying a vibrant movie scene. A happy family (diverse, 3-4 people) is comfortably seated on a sofa, engrossed in the screen. Cinematic lighting, photorealistic, ultra detailed. --ar 1:1 --v 5.2
+
+### **[카드 3] 메인 제품 2: 무빙큐빅스 32인치**
+
+*   **텍스트:**
+    *   **메인 헤드라인:** 🛌 나만의 아지트! 무빙큐빅스 32인치 삼탠바이미
+    *   **서브 텍스트:** 침실, 주방 어디든 쏙! 콤팩트한 이동성! 나만의 엔터테인먼트 존 완성! (20만원대!)
+*   **Midjourney 프롬프트:** A stylish, minimalist bedroom with soft, natural morning light. A sleek, white 32-inch Moving Cubics mobile smart TV is positioned near a bed, showing a person (female, early 30s) comfortably watching a cooking show while having breakfast in bed. Clean, serene atmosphere, photorealistic, high resolution. --ar 1:1 --v 5.2
+
+### **[카드 4] 보너스 제품 & CTA**
+
+*   **텍스트:**
+    *   **메인 헤드라인:** 💰 3천원으로 만드는 'DIY 삼탠바이미'? 실화냐?!
+    *   **서브 텍스트:** 기존 TV에 거치대만 달면 끝! ✨ 가성비 끝판왕 DIY로 환경까지 생각! (👆 더 많은 정보는 프로필 링크 클릭!)
+*   **Midjourney 프롬프트:** A close-up shot of hands (diverse skin tone) easily attaching a minimalist, sleek white mobile stand onto the back of a generic flat-screen TV. The background is a blurred, modern home interior, suggesting an easy DIY project. Focus on the ease of assembly and the "DIY" aspect. Bright, clear lighting, photorealistic, shallow depth of field. --ar 1:1 --v 5.2
