@@ -1,53 +1,81 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발ver.)
 
-**제목**: LG 스탠바이미 비싸서 눈물났다면? 😭 갓성비 '삼탠바이미' 등장!
+**[영상 컨셉]**
+빠른 컷 전환, 효과음(와우, 띠용), 텍스트 오버레이, 유쾌한 표정과 제스처
 
-**(0-3초) 훅: 시선 강탈!**
-*   **화면**: (초조한 표정으로 휴대폰을 보다가 갑자기 좌절하는 사람) + (LG 스탠바이미 이미지에 '헉! 가격 실화?' 텍스트 오버레이)
-*   **내레이션**: "LG 스탠바이미... 갖고 싶지만 비싸서 눈물만 흘렸다고? 🙅‍♀️ 이제 그만!"
+---
 
-**(3-8초) 문제 해결 & 메인 제품 소개**
-*   **화면**: (밝고 신나는 BGM 전환, '무빙큐빅스 40인치 삼탠바이미'가 등장하며 빛나는 효과)
-*   **내레이션**: "현직 MD가 찾아낸 '갓성비' 삼탠바이미 끝판왕! ✨ 무빙큐빅스 40인치, 단돈 35만원대!"
-*   **화면**: (40인치 TV가 거실에서 침실로, 주방으로 자연스럽게 이동하는 모습)
-*   **내레이션**: "40인치 대화면에 넷플릭스, 유튜브 다 되는 스마트함! 거실, 침실 어디든 OK! 🤩"
+**[0-3초] 훅 (시선 강탈!)**
+*   **화면:** (놀란 표정으로 LG 스탠바이미 가격 검색 화면을 보여주며) "헉! LG 스탠바이미.. 이 가격 실화?" (화면에 "LG 스탠바이미 27인치: 100만원대" 텍스트 크게)
+*   **대사:** "LG 스탠바이미, 갖고 싶었는데... 가격 보고 심장 멎을 뻔! 💸"
+*   **효과음:** '띠용', '삐빅! 예산 초과!'
 
-**(8-12초) 추가 옵션 & DIY 꿀팁**
-*   **화면**: (32인치 TV가 1인 가구 공간에 아늑하게 놓여있고, 화면에 '20만원대부터!' 강조)
-*   **내레이션**: "더 작고 컴팩트한 걸 원해? 32인치 삼탠바이미가 20만원대부터! 🤫"
-*   **화면**: (일반 TV 옆에 이동식 거치대 이미지가 합쳐지며 'DIY 삼탠바이미' 텍스트 등장)
-*   **내레이션**: "아니면... 3천원대 거치대로 내 TV를 스탠바이미로?! DIY 꿀팁까지! 🤯"
+**[3-8초] 문제 제시 & 해결책 등장**
+*   **화면:** (고민하는 표정 -> 씨익 웃으며 어딘가를 가리킴) "이젠 비싸게 살 필요 없다고요? ✨" (갑자기 화면 전환, 깔끔한 삼탠바이미 등장! 텍스트 오버레이: "💥20만원대 삼탠바이미💥")
+*   **대사:** "비싸서 포기했다고? 아니! 이제 20만원대로 스탠바이미 기능 다~~ 누릴 수 있어!"
+*   **효과음:** '쉬쉬쉬~', '반짝!', '짜잔!'
 
-**(12-15초) 클로징 & CTA**
-*   **화면**: (메인 제품 2개가 나란히 배치되고, 하단에 '프로필 링크 확인!' 또는 '댓글 확인!' 자막)
-*   **내레이션**: "비싼 스탠바이미 대신 '갓성비' 삼탠바이미로 스마트 라이프 즐겨봐! 👇"
-*   **자막**: #스탠바이미가성비 #삼탠바이미 #이동식TV #가성비TV
+**[8-13초] 제품 장점 어필 (주요 상품 강조)**
+*   **화면:** (무빙큐빅스 스마트 삼탠바이미 40인치/32인치 제품 사용 컷: 침대 옆에서 넷플릭스 보는 모습, 주방에서 레시피 보는 모습 등) "40인치 대화면에 스마트 기능까지?!" (텍스트 오버레이: "OTT 올킬! 40인치 대화면!")
+*   **대사:** "40인치 대화면에 스마트TV 기능 기본 장착! 침대 옆 내 방이 바로 영화관 되는 마법!"
+*   **효과음:** '와우!', '띵동!' (알림 소리)
+
+**[13-15초] 클로징 & CTA**
+*   **화면:** (제품들을 빠르게 보여주며) "이 갓성비 삼탠바이미, 더 궁금하면?" (프로필 링크 유도하는 손짓) "지금 바로 프로필 링크 클릭해봐!" (텍스트 오버레이: "프로필 링크 클릭!👆")
+*   **대사:** "더 자세한 정보는 프로필 링크에서 확인하세요! 지금 당장 GET!"
+*   **효과음:** '슝!', '클릭!'
+
+---
+**해시태그:** #스탠바이미가성비 #삼탠바이미 #이동식TV #스마트TV #자취템 #신혼템 #가성비 #꿀템 #쇼츠 #틱톡
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
-### **[1컷]**
-*   **텍스트**: ✨LG 스탠바이미 비싸서 포기? 이젠 NO! 🙅‍♀️ 현직 MD가 찾은 '갓성비' 삼탠바이미 대공개!
-*   **Midjourney 프롬프트**: A vibrant, eye-catching infographic style image. On the left, a blurred, expensive-looking white portable smart TV with a big red 'X' and a sad, empty wallet. On the right, a shining, affordable alternative portable smart TV with a bright green 'YES!' checkmark. Use a modern, clean aesthetic with bright, inviting colors, volumetric lighting, high detail --ar 1:1 --style raw
+---
 
-### **[2컷]**
-*   **텍스트**: 👑 압도적 만족도 1위!
-    **무빙큐빅스 40인치 스마트 삼탠바이미**
-    *   💰 가격: 359,000원
-    *   ✅ 40인치 대화면 + 스마트 OTT + 화이트 디자인 + 자유로운 이동성!
-*   **Midjourney 프롬프트**: A sleek, modern white 40-inch portable smart TV (resembling LG StandbyMe) in a bright, minimalist living room. The TV displays a popular streaming service logo (e.g., Netflix). Subtle wheels are visible. Emphasize clean lines and elegant design. Soft, natural lighting from a large window. High detail, photorealistic --ar 1:1 --style raw
+### **[1컷] LG 스탠바이미, 비싸서 망설였다면?**
 
-### **[3컷]**
-*   **텍스트**: 🏠 1인 가구 필수템!
-    **무빙큐빅스 32인치 스마트 삼탠바이미**
-    *   💰 가격: 299,000원
-    *   ✅ 컴팩트 사이즈 + 스마트 OTT + 침실, 주방 어디든 OK!
-*   **Midjourney 프롬프트**: A cozy, minimalist bedroom scene with a white 32-inch portable smart TV (resembling LG StandbyMe) positioned next to a comfortable bed. The TV is playing a soothing YouTube video. Soft, warm ambient lighting creates a relaxing atmosphere. Emphasize comfort, personal space, and modern design. High detail --ar 1:1 --style raw
+*   **텍스트:**
+    **LG 스탠바이미 사고 싶지만...**
+    **가격이 후덜덜? 💸**
+    (상단에 작게) #스탠바이미가성비 #스탠바이미대안
+*   **Midjourney 프롬프트:**
+    `A young woman with a disappointed expression, looking at a stylized LG StandbyME in a modern, minimalist living room. A large, transparent bubble above her head shows a sky-high price tag with a cross mark, indicating unaffordability. Soft, warm ambient lighting, clean aesthetic. --ar 1:1 --v 5.2`
 
-### **[4컷]**
-*   **텍스트**: 🔥 3천원대로 내 TV를 스탠바이미로? DIY 꿀팁 & 추가 갓성비템까지!
-    *   **(하단)** 지금 바로 프로필 링크 확인하고 스마트 라이프 시작! 👇
-*   **Midjourney 프롬프트**: An innovative and empowering concept image. A hand is effortlessly attaching a simple, minimalist white mobile stand to the back of a sleek, modern flat-screen TV, transforming it into a portable smart TV. In the background, subtly blurred, are other related affordable gadgets like a small 4K projector or a portable speaker. Dynamic, creative, DIY feel. High detail, bright lighting --ar 1:1 --style raw
+---
+
+### **[2컷] 20만원대로 누리는 스마트 라이프!**
+
+*   **텍스트:**
+    **이제 20만원대로 '이것' 하나면 끝!**
+    **#삼탠바이미 #갓성비 ✨**
+    (하단에 작게) 원조 스탠바이미 기능 그대로! 이동성 UP!
+*   **Midjourney 프롬프트:**
+    `A sleek, white mobile smart TV (resembling a StandbyME alternative, 'SamtanbyME') on wheels in a bright, cozy bedroom. The screen displays a colorful OTT streaming interface. A person is comfortably lounging on the bed, smiling. Modern, inviting interior design with natural light. --ar 1:1 --v 5.2`
+
+---
+
+### **[3컷] 40인치 대화면 + 스마트 기능 = 내 방 영화관!**
+
+*   **텍스트:**
+    **40인치 대화면에 스마트 기능까지!**
+    **침대 옆 나만의 영화관 완성 🎬**
+    (하단에 작게) 넷플릭스, 유튜브, 디즈니플러스 무제한!
+*   **Midjourney 프롬프트:**
+    `Close-up shot of a 40-inch mobile smart TV screen (SamtanbyME) displaying a vibrant movie scene. The TV is positioned next to a comfortable bed in a dimly lit, cozy bedroom, with soft fairy lights in the background. A hand is holding a remote control. Emphasize cinematic experience and comfort. --ar 1:1 --v 5.2`
+
+---
+
+### **[4컷] 당신의 공간을 위한 완벽한 선택!**
+
+*   **텍스트:**
+    **작은 공간엔 32인치도 완벽!**
+    **지금 바로 스마트 라이프 시작! 👉 링크 클릭**
+    (하단에 작게) 프로필 링크에서 자세히 보기!
+*   **Midjourney 프롬프트:**
+    `A 32-inch white mobile smart TV (SamtanbyME) in a small, stylish studio apartment or a minimalist reading nook. The screen shows a bright, inviting user interface. A person is casually leaning nearby, looking content. Clean lines, functional design, natural light, with a subtle "Shop Now" or "Link in Bio" graphic element integrated into the image. --ar 1:1 --v 5.2`
+
+---
