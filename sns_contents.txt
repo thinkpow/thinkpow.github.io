@@ -1,71 +1,83 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. ⚡️도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)⚡️
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**(시작 0-3초 훅!)**
-**내레이션/자막:** 스탠바이미... 갖고 싶지만... (비싼 가격표에 절망하는 표정)
-**내레이션:** 흐읍... 가격이 너무 비싸죠?!
-**자막:** 😱 스탠바이미 비싸서 포기? 😱
-**내레이션:** 이젠 20만원대로 이동식 스마트TV 끝판왕 만나봐!
+**[영상 컨셉]**
+'스탠바이미'를 갖고 싶지만 가격 때문에 좌절하는 사람들을 위한 시원한 해결책을 제시하는 밝고 유쾌한 분위기. 빠른 화면 전환과 명확한 정보 전달에 중점.
 
-**(3-8초: 문제 해결 및 제품 기대감 상승)**
-**내레이션:** 좁은 침실, 복잡한 주방... TV는 늘 한자리에? 🙅‍♀️
-**자막:** 어디든 데려갈 수 있는 TV는 없을까?
-**내레이션:** NO! 이젠 어디든 OK! 10년차 MD가 직접 고른 가성비 끝판왕들!
-
-**(8-12초: 메인 제품 소개)**
-**내레이션:** 첫 번째! 20만원대 초특가 '티브이지 무빙이지 구글 스마트TV'!
-**자막:** 🎬 구글 OS & 이동식 거치대 기본!
-**내레이션:** 두 번째! 안정적인 브랜드 '이노스 32인치 삼탠바이미 스마트 TV'!
-**자막:** ✨ 32인치 FHD & 스마트 기능 일체형!
-
-**(12-15초: 클로징 및 CTA)**
-**내레이션:** 넷플릭스, 유튜브는 기본! 삶의 질이 달라지는 이동식 TV!
-**자막:** 🔥 20만원대 스탠바이미 대체템! 🔥
-**내레이션:** 더 자세한 정보는 프로필 링크에서 지금 바로 확인하세요!
-**자막:** 👆 지금 바로 프로필 링크 클릭! 👆
+**[등장인물]**
+고민 많은 현대인 (혹은 친근한 리뷰어 톤)
 
 ---
 
-## 2. 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 이미지 프롬프트)
+**[스크립트]**
 
-### **카드뉴스 1/4**
-*   **카드 텍스트:**
-    **스탠바이미 사고 싶은데…**
-    **가격 때문에 망설여진다면? 😭**
-    (부제: 10년차 MD가 엄선한 '가성비 스탠바이미' 대체품!)
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A person looking longingly and slightly frustrated at a sleek, modern white portable smart TV (like LG StandbyMe) in a minimalist, clean living room. A large, exaggerated price tag (e.g., "$1,000+") is overlayed on the TV screen. Soft natural lighting, subtle shadows. Midjourney style, cinematic, high detail, vibrant colors.`
+**[0-3초] 훅 (Hook)**
+*   **(화면: 침대나 소파에 누워 휴대폰으로 스탠바이미 가격을 검색하다가 깜짝 놀라며 좌절하는 표정)**
+*   **내레이션/대사:** "아니, 스탠바이미... 진짜 너무 비싸잖아?!" (좌절)
+*   **(화면 전환: "그래서 준비했어!" 텍스트와 함께 밝고 경쾌한 BGM 시작)**
+*   **내레이션/대사:** "걱정 마! 갓성비 이동식 스마트TV 대안 BEST 2!"
 
----
+**[3-7초] 상품 1 소개**
+*   **(화면: '티브이지 구글 스마트TV + 무빙스탠드세트' 제품 이미지 클로즈업 및 사용 예시 영상. 넷플릭스 화면 등.)**
+*   **내레이션/대사:** "첫 번째! 20만원대 기적, '티브이지 구글 스마트TV'! 넷플릭스, 유튜브는 기본! 스탠드까지 올인원이야!"
 
-### **카드뉴스 2/4**
-*   **카드 텍스트:**
-    **⚡️압도적 가성비! 티브이지 무빙이지 구글 스마트TV⚡️**
-    **✅ 20만원대 초반! 최강 가격 경쟁력**
-    **✅ 구글 스마트TV OS & 이동식 거치대 기본 탑재!**
-    (부제: 침실, 주방, 거실 어디든 맘대로!)
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A cheerful person effortlessly moving a sleek, modern black portable smart TV (like the TVG Moving Easy) on smooth wheels from a bright, cozy bedroom to a stylish, minimalist kitchen. The TV screen clearly shows the Google TV interface with app icons. Seamless transition, smart home aesthetic, high-end feel. Midjourney style, vibrant, dynamic, natural light.`
+**[7-11초] 상품 2 소개**
+*   **(화면: '무빙큐빅스 스마트 40인치 삼탠바이미 화이트에디션 SET' 제품 이미지 클로즈업 및 인테리어 활용 예시 영상.)**
+*   **내레이션/대사:** "두 번째! 40인치 대화면에 인테리어 끝판왕! '무빙큐빅스 삼탠바이미'로 공간 품격 UP!"
 
----
+**[11-14초] 핵심 강조**
+*   **(화면: 두 제품이 함께 등장하며 "비싼 스탠바이미 말고! 현명하게 즐기자!" 텍스트 강조)**
+*   **내레이션/대사:** "이제 비싼 스탠바이미 말고! 똑똑하게 가성비 이동식 TV 즐겨봐!"
 
-### **카드뉴스 3/4**
-*   **카드 텍스트:**
-    **📺 안정적 브랜드! 이노스 32인치 삼탠바이미 스마트 TV 📺**
-    **✅ 32인치 FHD 디스플레이로 선명한 화질**
-    **✅ 스마트 TV+무빙 거치대 일체형 & 검증된 브랜드!**
-    (부제: 합리적인 가격에 안정적인 스마트 라이프!)
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A modern, minimalist bedroom with an Innos 32-inch portable smart TV on a sleek stand. The TV screen displays a vibrant, high-definition movie scene. The room is decorated with soft, neutral tones and has subtle ambient lighting, creating a calm and inviting atmosphere. Midjourney style, high detail, interior design magazine quality.`
+**[14-15초] 클로징 & CTA**
+*   **(화면: "더 자세한 정보는 프로필 링크 클릭!" 텍스트와 함께 제품 썸네일 노출)**
+*   **내레이션/대사:** "더 많은 추천템은 프로필 링크에서 확인!"
 
 ---
 
-### **카드뉴스 4/4**
-*   **카드 텍스트:**
-    **🙅‍♀️ 비싼 돈 주고 살 필요 없어! 🙆‍♀️**
-    **당신의 삶의 질을 높여줄 이동식 스마트 TV,**
-    **지금 만나보세요!**
-    **(프로필 링크 클릭! 👆)**
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A dynamic montage of happy, diverse people joyfully using portable smart TVs in various relaxed settings: one person watching TV while cooking in a modern kitchen, another person comfortably in bed, another on a sunlit balcony. Each scene radiates happiness, convenience, and modern lifestyle. Bright, energetic, positive vibes, with a subtle arrow icon pointing towards a "link in bio" or "learn more" button. Midjourney style, vibrant, dynamic composition.`
+## 2. 인스타그램 카드뉴스 4컷
+
+**[공통 디자인 컨셉]**
+모던하고 깔끔한 화이트톤 배경에 제품 이미지를 강조하며, 각 컷마다 핵심 메시지를 전달하는 디자인.
+
+---
+
+### 💳 1컷: 도입 & 문제 제기/해결
+
+*   **텍스트:**
+    스탠바이미 비싸서 고민? 💸
+    이젠 걱정 마! 갓성비 이동식 스마트TV TOP 2!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A visually striking image of a modern, minimalist living room with a person looking thoughtfully at an empty space where a TV could be, but with a subtle futuristic glow. The overall mood is hopeful and innovative, suggesting a smart solution. High resolution, vibrant colors, cinematic lighting, ultra-detailed, --ar 1:1 --v 5.2
+
+### 💳 2컷: 메인 상품 1 소개
+
+*   **텍스트:**
+    📍 첫 번째 대안!
+    **20만원대 기적, 티브이지 구글 스마트TV!**
+    ✅ 넷플릭스+유튜브 기본 구글TV OS
+    ✅ TV와 스탠드 올인원 패키지!
+    **(상품명: 티브이지 구글 스마트TV + 무빙스탠드세트)**
+*   **Midjourney 스타일 영문 프롬프트:**
+    A sleek, minimalist white mobile TV stand with a smart TV screen displaying the Netflix logo and Youtube icon, placed in a bright, cozy bedroom with natural light. A person is comfortably watching TV from bed, smiling. Modern, clean aesthetic, soft focus, warm ambient lighting, high detail, realistic photography style. --ar 1:1 --v 5.2
+
+### 💳 3컷: 메인 상품 2 소개
+
+*   **텍스트:**
+    📍 두 번째 대안!
+    **40인치 대화면 + 화이트 감성! 무빙큐빅스 삼탠바이미!**
+    ✅ 압도적인 40인치 FHD 몰입감
+    ✅ 세련된 화이트 디자인으로 인테리어 완성!
+    **(상품명: 무빙큐빅스 스마트 40인치 삼탠바이미 화이트에디션 SET)**
+*   **Midjourney 스타일 영문 프롬프트:**
+    A stylish white 40-inch mobile smart TV (like a 'Samsung StandbyMe' style) in a chic, modern living room with large windows, showing a vibrant movie scene. The room has minimalist white and light wood furniture, enhancing the elegant design of the TV. Sophisticated, cinematic, high resolution, soft ambient lighting, clean lines. --ar 1:1 --v 5.2
+
+### 💳 4컷: 마무리 & CTA (Call To Action)
+
+*   **텍스트:**
+    비싼 스탠바이미 말고!
+    현명하게 이동식TV 즐기자! 🚀
+    더 많은 추천템은 프로필 링크 확인!
+*   **Midjourney 스타일 영문 프롬프트:**
+    An abstract, futuristic digital art image combining elements of smart technology, a stylized moving TV icon, and a shopping cart or a coin symbol, all floating dynamically in a clean, brightly lit, minimalist digital space. The colors are vibrant and inviting, with a sense of forward motion and smart choices. Clean, modern, abstract. --ar 1:1 --v 5.2
