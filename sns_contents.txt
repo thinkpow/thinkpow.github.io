@@ -1,76 +1,72 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
 
-**콘텐츠 제목**: 💥 스탠바이미 100만원 넘어서 포기? 이젠 놉! 찐 MD 추천 가성비템 BEST 5!
+**콘텐츠 제목**: 😱 스탠바이미? 100만원 넘어서 포기했지? 놉! 20만원대 가성비 끝판왕 BEST 5!
 
-**영상 컨셉**: 빠르고 경쾌한 배경음악, 자막과 함께 핵심 내용을 강조. 제품 이미지는 빠르게 전환하며 보여줍니다.
+**(화면 전환 빠르고 역동적인 편집, 신나는 배경 음악)**
 
----
+*   **[0-3초] 훅 (Hook)**
+    *   **화면**: (누군가 LG 스탠바이미 가격을 보고 깜짝 놀라거나 좌절하는 표정, 가격표 '100만원 이상'이 크게 클로즈업됨) → (갑자기 화면이 밝아지며 에너지 넘치는 표정으로 전환)
+    *   **대사 (빠르게, 흥분된 목소리)**: "스탠바이미? 비싸서 포기했지?! 놉! 😡"
 
-**스크립트**:
+*   **[3-6초] 문제 제기 & 해결책 제시**
+    *   **화면**: (다양한 공간에서 가성비 이동식 TV를 편리하게 사용하는 모습 몽타주)
+    *   **대사**: "이제 20만원대로 '스탠바이미 가성비' 끝판왕 만날 수 있어! ✨"
 
-**(0-3초) 훅! 시선 강탈!**
-(화면에 'LG 스탠바이미, 비싸서 포기? 💸' 자막 빠르게 떴다가 사라짐)
-**나레이션**: "LG 스탠바이미, 100만원 넘는 가격 💸 때문에 포기했죠? 이제 그만! 🙅‍♀️"
-(화면에 '스탠바이미 가성비 끝판왕!' 자막과 함께 신나는 효과음)
+*   **[6-9초] 메인 추천 1: 티브이지 구글 스탠바이미**
+    *   **화면**: (티브이지 구글 스탠바이미 제품 클로즈업, 구글TV UI, 넷플릭스/유튜브 화면 전환, 바퀴로 스르륵 이동하는 모습)
+    *   **대사**: "첫째, 20만원대 '티브이지 구글 스탠바이미'! 구글TV에 넷플릭스, 유튜브 다 돼! 게다가 무빙 스탠드까지!"
 
-**(3-12초) 핵심 정보 전달 (빠르게)**
-**나레이션**: "찐 MD가 찾은 '스탠바이미 가성비' 끝판왕 BEST 5! 지금 공개합니다!"
-(제품 이미지 빠르게 전환, 강조 부분 자막으로 띄우기)
-**나레이션**: "첫째! 40인치 대화면 무빙큐빅스! 넷플릭스 유튭 바로 되고, 30만원대! 화이트 디자인까지 완벽!"
-**나레이션**: "두 번째! 20만원대 초가성비! 티브이지 구글 스마트TV! 😲 이건 그냥 미쳤다! 무조건 사야 돼! 🤩"
-**나레이션**: "32인치 QLED, 이동식 거치대, 삼성 4K까지! 다양하게 준비했어요!"
+*   **[9-12초] 메인 추천 2: 무빙큐빅스 40인치 삼탠바이미**
+    *   **화면**: (무빙큐빅스 40인치 삼탠바이미 제품 클로즈업, 40인치 대화면으로 영화 시청 모습, 깔끔한 화이트 디자인 강조)
+    *   **대사**: "둘째, 40인치 대화면 '무빙큐빅스 삼탠바이미'! 영화 볼 맛 제대로! 깔끔한 화이트 디자인까지 완벽!"
 
-**(12-15초) 강력한 클로징 & CTA**
-(화면에 '내 방 어디든! 이동식 스마트TV!' 자막)
-**나레이션**: "내 방, 주방, 어디든! 이동식 스마트TV 로망 실현! 🛒"
-(화면에 '지금 바로 프로필 링크 확인!' 자막)
-**나레이션**: "더 많은 정보는 프로필 링크에서! 후회 안 할 걸? 😉"
+*   **[12-15초] 클로징 & CTA**
+    *   **화면**: (추천된 두 제품이 나란히 비교되는 화면, 마지막은 프로필 링크 유도하는 깔끔한 그래픽)
+    *   **대사**: "LG 스탠바이미 부럽지 않아! 가성비 스탠바이미 보러 지금 바로 프로필 링크 확인해봐! 🛒"
+    *   **텍스트 오버레이**: "프로필 링크 CLICK!"
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
-**콘텐츠 컨셉**: 깔끔하고 세련된 디자인으로 '스탠바이미 가성비' 제품의 매력을 어필. 각 컷마다 명확한 정보와 시각적 매력을 동시에 제공.
+---
+
+### **✔️ 1컷: 도입 & 문제 제기**
+
+*   **텍스트**:
+    LG 스탠바이미, 비싸서 망설였다면 주목! 😥
+    이제 20만원대부터! ✨ '스탠바이미 가성비' 끝판왕 BEST 5
+*   **Midjourney 스타일 영문 프롬프트**:
+    A modern, minimalist living room with soft, natural lighting, where a sleek, empty mobile TV stand stands in the center, symbolizing a void or a dilemma of not having a smart movable TV. The background is slightly blurred to focus on the concept of wanting a device but facing a challenge. Photorealistic, high quality, cinematic. --ar 1:1 --v 5.2
 
 ---
 
-### **[카드뉴스 1컷] - 훅 & 문제 제기/해결**
+### **✔️ 2컷: 메인 추천 1 - 티브이지 구글 스탠바이미**
 
 *   **텍스트**:
-    LG 스탠바이미, 비싸서 망설였다면? 💸
-    ✨ 스탠바이미 가성비 끝판왕 BEST 5 ✨
-    (이커머스 MD가 직접 엄선!)
+    💰 20만원대 끝판왕! 티브이지 구글 스탠바이미
+    구글TV, 넷플릭스, 유튜브 다 돼! 이동식 스탠드 기본!
 *   **Midjourney 스타일 영문 프롬프트**:
-    `A modern, minimalist living room with soft, natural light. A blurred background highlights a sleek, unidentifiable mobile display stand, suggesting an affordable yet high-tech lifestyle. The overall mood is sophisticated and inviting. Soft shadows, warm tones, high resolution. --ar 1:1 --v 5.2`
+    A cozy, modern bedroom with warm, inviting lighting. A young person is comfortably lying in bed, smiling while watching a compact, white, movable smart TV (similar to a generic StanbyME) displaying a Netflix show. The screen clearly shows a Google TV interface. The room has minimal, stylish decor. Candid, authentic, photorealistic. --ar 1:1 --v 5.2
 
-### **[카드뉴스 2컷] - 메인 추천 1: 무빙큐빅스 40인치**
+---
+
+### **✔️ 3컷: 메인 추천 2 - 무빙큐빅스 40인치 삼탠바이미**
 
 *   **텍스트**:
-    1️⃣ 압도적 대화면! 무빙큐빅스 40인치 삼탠바이미
-    ✔️ 30만원대 가성비!
-    ✔️ 넷플릭스/유튜브 기본 탑재!
-    ✔️ 깔끔한 화이트 디자인!
+    🤩 대화면 성애자 모여! 무빙큐빅스 40인치 삼탠바이미
+    40인치 스마트TV! 깔끔한 화이트 디자인으로 인테리어까지!
 *   **Midjourney 스타일 영문 프롬프트**:
-    `A cozy bedroom with a large (40-inch), sleek white mobile smart TV showing a vibrant Netflix movie scene. The room has modern, minimalist decor with natural light. The TV is the focal point, emphasizing immersive entertainment and aesthetic appeal. High resolution, cinematic lighting, soft focus on background. --ar 1:1 --v 5.2`
+    A chic, spacious living room with large windows and abundant natural light. A 40-inch white movable smart TV (generic, reminiscent of a StanbyME but larger) is prominently displayed, showing a vibrant, high-definition movie scene. A couple is relaxing on a stylish sofa, enjoying the immersive viewing experience. Modern, clean aesthetic, excellent composition. Photorealistic. --ar 1:1 --v 5.2
 
-### **[카드뉴스 3컷] - 메인 추천 2: 티브이지 구글 스마트TV**
+---
+
+### **✔️ 4컷: 클로징 & CTA**
 
 *   **텍스트**:
-    2️⃣ 20만원대 초가성비! 티브이지 구글 스마트TV
-    💰 스탠바이미 로망, 최저가로 실현!
-    ✔️ 구글 스마트TV 기본 탑재!
-    ✔️ 넷플릭스/디즈니+ 바로 시청!
+    당신의 스마트 라이프, 더 이상 비쌀 필요 없어!
+    프로필 링크에서 BEST 5 비교하고 현명하게 구매하세요! 🛒
 *   **Midjourney 스타일 영문 프롬프트**:
-    `A bright, minimalist studio apartment or kitchen setting with a compact, sleek, black mobile smart TV displaying a vibrant Google TV interface (YouTube/Netflix icons visible). The focus is on affordability and seamless smart functionality. Clean lines, bright ambient lighting, modern and practical design. --ar 1:1 --v 5.2`
-
-### **[카드뉴스 4컷] - 추가 추천 & CTA**
-
-*   **텍스트**:
-    🤔 나에게 맞는 삼탠바이미는?
-    지금 바로 프로필 링크 확인! 🛒
-    (💡MD 추천 추가 상품 더보기!)
-    32인치 QLED, 이동식 거치대, 삼성 4K UHD까지!
-*   **Midjourney 스타일 영문 프롬프트**:
-    `A dynamic collage image featuring three distinct scenes: a person happily watching a mobile TV in bed, another person using it while cooking in a modern kitchen, and a third person working with it in a stylish home office. Each scene should have clear, bright lighting and convey versatility and a smart, effortless lifestyle. Lifestyle photography, modern, energetic. --ar 1:1 --v 5.2`
+    An aesthetically pleasing, modern infographic-style background featuring abstract, flowing shapes in pastel colors (e.g., light blues, soft greens, muted yellows). Minimalist icons representing streaming apps, mobility, and a shopping cart are subtly integrated. Ample clean space for text overlay. Clean lines, high resolution, soft focus. --ar 1:1 --v 5.2
