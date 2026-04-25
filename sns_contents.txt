@@ -1,69 +1,78 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🎥 숏폼 스크립트 (유튜브 쇼츠/틱톡 15초)
 
-*(배경음악: 신나고 경쾌한 비트의 트렌디한 음악)*
+**[영상 컨셉]**
+빠른 템포의 편집, 주요 제품 이미지/영상 전환, 자막과 효과음 활용.
 
-**[0-3초] (훅! 시선 강탈! 빠르게 전환되는 이미지 / 좌절감 섞인 표정 -> 희망찬 표정)**
-**내레이션:** "스탠바이미, 너무 비싸서 포기하셨나요? 🤯 그림의 떡처럼 느껴졌다고요? 댓츠 노노!"
-*(화면: '스탠바이미 비싸!' 텍스트와 함께 좌절하는 사람 -> '가성비 대안!' 텍스트와 함께 눈이 번쩍 뜨이는 사람)*
-
-**[3-9초] (빠른 화면 전환: 티브이지 제품 사용 컷 + 장점 텍스트 오버레이)**
-**내레이션:** "여기, 20만원대 초반에 구글 스마트TV가 통째로 들어있는 이동식 TV가 있어요! 😲"
-*(화면: 침대 옆에서 넷플릭스 보는 컷, 주방에서 레시피 보는 컷, 구글 어시스턴트 사용하는 손 제스처)*
-**내레이션:** "넷플릭스, 유튜브 기본! 원하는 곳 어디든 옮겨 다니며 나만의 영화관을 만들 수 있죠!"
-
-**[9-12초] (빠른 화면 전환: 무빙큐빅스 제품 사용 컷 + 장점 텍스트 오버레이)**
-**내레이션:** "나는 화질도 디자인도 포기 못해? 그럼 QLED에 세련된 화이트 디자인! 무빙큐빅스 스마트 TV는 어떠세요? 🌟"
-*(화면: 깔끔한 인테리어에 놓인 화이트 TV, 선명한 QLED 화면 클로즈업)*
-
-**[12-15초] (클로징 & CTA / 두 제품이 함께 등장하며 "지금 바로 겟" 강조)**
-**내레이션:** "이제 비싼 돈 주고 스탠바이미 살 필요 없어요! 현명한 선택, 지금 바로 프로필 링크에서 만나보세요! 🚀"
-*(화면: 두 제품 나란히 배치, "프로필 링크 클릭!" 자막 강조)*
+**[등장인물]**
+활기찬 목소리의 진행자 (영상 속 인물 또는 보이스오버)
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[스크립트]**
 
-### 📸 컷 1: 훅! (문제 제기 + 솔루션 제시)
+**(0-3초 훅 - 긴장감 있는 배경음악 + 화면에 '비싼 스탠바이미?' 크게 띄우기)**
+**진행자:** 스탠바이미 사고 싶어? 근데 가격이 너무 비싸?! (충격받은 표정)
+**(화면 전환: '걱정 마!' 텍스트와 함께 밝고 희망찬 분위기로 전환)**
+**진행자:** 걱정 마! 2024년 **가성비 삼탠바이미 끝판왕** 2가지, 바로 보여줄게! 🔥
 
-*   **들어갈 텍스트:**
-    *   (상단) 🤯 스탠바이미 비싸서 포기했어?
-    *   (중앙) ✨ 20만원대부터! 가성비 삼탠바이미 대안 BEST!
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A frustrated young person looking at a high price tag on a sleek, portable smart TV screen, with thought bubbles showing "Standbyme expensive!". Suddenly, a sparkling light appears, revealing multiple affordable, stylish portable smart TVs. Bright, energetic, dynamic, cinematic, pop art style, --ar 1:1 --v 5.2
-    ```
+**(3-8초 - 티브이지 제품 이미지/영상 & 특징 자막 강조)**
+**진행자:** 첫 번째! 20만원대 실화?! TV랑 이동식 스탠드가 다 포함된 **'티브이지 구글 스마트 이동식 TV!'** (제품 이미지/로고)
+**진행자:** 넷플릭스, 유튜브 다 돼! 이 가격에 이 스펙? 무조건 사야지! (강조)
 
-### 📸 컷 2: 메인 추천 1순위 (티브이지 구글 스마트TV 무빙스탠드세트)
+**(8-13초 - 무빙큐빅스 제품 이미지/영상 & 특징 자막 강조)**
+**진행자:** 두 번째! 화질까지 포기 못 해? **'무빙큐빅스 32인치 QLED 삼탠바이미!'** (제품 이미지/로고)
+**진행자:** 생생한 QLED 화면에 깔끔한 화이트 디자인까지! 인테리어까지 UP! (감탄사)
 
-*   **들어갈 텍스트:**
-    *   (상단) 🥇 가성비 끝판왕! 20만원대 구글 스마트TV
-    *   (중앙) **티브이지 구글 스마트TV 무빙스탠드세트**
-    *   (하단) ⚡️ 구글OS 탑재! 넷플릭스, 유튜브 바로! 이동식 스탠드 포함!
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A modern, cozy room (bedroom or small living room) with a sleek black portable smart TV on a moving stand. The TV screen clearly displays the Google TV interface with prominent Netflix and YouTube icons. A smiling person is comfortably watching, emphasizing convenience and affordability. Warm, soft lighting, minimalist design, realistic product photography style, --ar 1:1 --v 5.2
-    ```
+**(13-15초 - CTA - 화면에 프로필 링크 유도 자막 + 흥미로운 마무리)**
+**진행자:** 나에게 맞는 삼탠바이미 찾았다면? 지금 바로 **프로필 링크** 확인!
+**진행자:** 놓치지 마세요! (손가락으로 링크 가리키는 제스처)
 
-### 📸 컷 3: 메인 추천 2순위 (무빙큐빅스 스마트 32인치 FHD QLED 삼탠바이미 화이트에디션)
+---
 
-*   **들어갈 텍스트:**
-    *   (상단) 🌟 QLED 화질 + 깔끔한 화이트 디자인!
-    *   (중앙) **무빙큐빅스 스마트 32인치 QLED 삼탠바이미 화이트에디션**
-    *   (하단) 🎨 생생한 QLED 화질! 인테리어까지 UP! 어떤 공간에도 찰떡!
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A chic, minimalist interior (e.g., a bright bedroom or home office) featuring a white, portable QLED smart TV on a matching white stand. The TV displays vibrant, high-quality QLED visuals, such as a stunning landscape. The room is decorated with subtle, modern elements and receives abundant natural light, highlighting the TV's aesthetic appeal and premium feel. Interior design magazine style, --ar 1:1 --v 5.2
-    ```
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### 📸 컷 4: CTA (클로징 및 행동 유도)
+---
 
-*   **들어갈 텍스트:**
-    *   (상단) 똑똑한 소비자를 위한 현명한 선택!
-    *   (중앙) 나에게 맞는 #가성비스탠바이미 찾기!
-    *   (하단) 🚀 더 많은 상품 정보는 지금 바로 프로필 링크 클릭!
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    An energetic, inspiring infographic with multiple portable smart TVs (in various colors and styles) "flying" or zooming towards a prominent "Click Here" button or a glowing smartphone screen. The background is a gradient of vibrant, optimistic colors. Modern digital art style, clean lines, clear call to action, --ar 1:1 --v 5.2
-    ```
+### **카드뉴스 1/4**
+
+*   **텍스트:**
+    *   **헤드라인:** 비싼 스탠바이미? 이제 그만!
+    *   **바디:** 2024년 갓성비 '삼탠바이미' 🔥 BEST 추천 🔥
+    *   **서브:** 10년차 MD가 엄선한 가성비 끝판왕!
+*   **이미지 프롬프트:**
+    `A sleek, modern living room with a luxurious, expensive-looking white portable TV. Next to it, a ghosted, cheaper alternative with a glowing "BEST VALUE" badge. Minimalist, clean aesthetic, soft ambient lighting, high resolution, cinematic, --ar 1:1`
+
+---
+
+### **카드뉴스 2/4**
+
+*   **텍스트:**
+    *   **헤드라인:** ✨ 20만원대 완전체! 티브이지 구글 스마트 이동식 TV
+    *   **바디:** ✔️ TV + 스탠드 올인원! 압도적 최저가!
+    *   **서브:** ✔️ 구글 스마트 TV로 넷플릭스, 유튜브 바로!
+*   **이미지 프롬프트:**
+    `A modern, cozy room with a "Tevege Google Smart Portable TV" prominently displayed. The screen shows Netflix/YouTube logos clearly. A young person is comfortably watching with a joyful expression. Clean lines, bright and inviting, showcasing smart features and affordability, high resolution, --ar 1:1`
+
+---
+
+### **카드뉴스 3/4**
+
+*   **텍스트:**
+    *   **헤드라인:** ✨ 화질+디자인 다 잡았다! 무빙큐빅스 QLED 삼탠바이미
+    *   **바디:** ✔️ 생생한 QLED 디스플레이!
+    *   **서브:** ✔️ 세련된 화이트 디자인 + 32인치 최적 사이즈!
+*   **이미지 프롬프트:**
+    `A stylish, minimalist bedroom with a white "Moving Cubix QLED Portable TV". The screen displays vibrant, high-definition QLED content (e.g., a breathtaking nature scene or vivid anime). Elegant, modern aesthetic, soft light, focus on screen clarity and sophisticated design, --ar 1:1`
+
+---
+
+### **카드뉴스 4/4**
+
+*   **텍스트:**
+    *   **헤드라인:** 나에게 딱 맞는 삼탠바이미는?
+    *   **바디:** 🔍 40인치 대화면, 삼성 4K, 초저가 거치대 등
+    *   **서브:** ✨ 더 많은 추천 상품은 프로필 링크에서 확인하세요!
+*   **이미지 프롬프트:**
+    `A dynamic collage of various smart portable TV setups in different modern home environments (e.g., a larger screen in a living room, a Samsung TV in a study, a standalone TV stand in a cozy corner). Text overlay area for "Learn More". Vibrant and inviting, showcasing diversity and choices, high resolution, --ar 1:1`
