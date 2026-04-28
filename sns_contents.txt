@@ -1,82 +1,63 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
+## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**🔥 훅 (Hook) - 첫 3초 시선 강탈!**
+**제목:** LG 스탠바이미 대신 '이거' 사면 삶의 질 수직 상승?! 🤯
 
-**[0-3초]**
-**화면:** (슬픈 표정으로 LG 스탠바이미 가격표를 보고 절망하는 사람의 모습 → 이내 눈을 크게 뜨며 놀라는 표정으로 반전)
-**자막:** 😨 LG 스탠바이미.. 가격 실화?
-**내레이션:** "LG 스탠바이미 사고 싶어? 😨 근데 가격보고 망설였지?"
+**핵심 훅 (0-3초):** LG 스탠바이미? 100만원 넘는 돈 내기 전에 **딱 3초만 집중!**
 
 ---
 
-**[3-12초]**
-**화면:** (스카이뷰 43인치 삼탠바이미가 침실, 거실, 주방 등 다양한 공간을 이동하며 넷플릭스, 유튜브가 재생되는 모습 빠르게 전환)
-**자막:** 💸 30만원대에 스탠바이미? 댓츠 노노! '삼탠바이미' 매직!
-**내레이션:** "댓츠 노노! 30만원대로 '이동식 스마트 TV' 뚝딱 만드는 법! 이게 바로 요즘 핫한 '삼탠바이미' 매직! 스마트TV에 이동식 스탠드 합체! 침대, 주방, 어디든 내 극장이 돼!"
+**[스크립트]**
 
-**화면:** (스카이뷰 43인치 삼탠바이미 (화이트) 클로즈업, 화면에 '43인치, 30만원대, 올인원' 키워드 자막 강조)
-**자막:** 💫 43인치 스카이뷰 삼탠바이미! 30만원대 올인원!
-**내레이션:** "💫 43인치 스카이뷰 삼탠바이미! 30만원대 올인원 세트 실화?"
-
-**화면:** (무빙큐빅스 40인치 삼탠바이미 (화이트) 클로즈업, 화면에 '40인치, 화이트 디자인, 안정성' 키워드 자막 강조)
-**자막:** ✨ 40인치 무빙큐빅스! 깔끔한 화이트!
-**내레이션:** "✨ 40인치 무빙큐빅스도 깔끔한 화이트 디자인에 스마트 기능까지!"
-
----
-
-**[12-15초]**
-**화면:** (두 제품이 나란히 놓여있거나, 사람들이 자유롭게 삼탠바이미를 사용하는 활기찬 모습)
-**자막:** 💖 비싼 스탠바이미 대신 '가성비 삼탠바이미'로 스마트 라이프!
-**내레이션:** "비싼 스탠바이미 대신 '가성비 삼탠바이미'로 스마트한 라이프 즐겨봐! 🔥 더 자세한 정보는 프로필 링크 클릭!"
+*   **0-3초 (훅):**
+    *   **화면:** (LG 스탠바이미의 세련된 이미지 등장, 그 위에 '100만원대? 💸'라는 텍스트가 깜빡이며, 곧 '진심?'이라는 자막과 함께 충격받은 표정의 이모티콘이 튀어나옴)
+    *   **나레이션 (빠르고 흥분된 목소리):** "LG 스탠바이미? 100만원 넘는 돈 내기 전에 **딱 3초만 집중!** 아직도 비싼 돈 주고 살 생각이야?!"
+*   **3-8초:**
+    *   **화면:** (스카이뷰 43인치 삼탠바이미와 무빙큐빅스 40인치 삼탠바이미 제품 이미지가 빠르게 교차. 각 제품 옆에 '30만원대!' 가격이 크게 강조됨. 침실, 거실, 주방 등 다양한 공간에서 편하게 사용되는 모습이 번개처럼 스쳐 지나감)
+    *   **나레이션:** "잠깐! 10년차 MD가 찾아왔잖아! 반값도 안 되는 30만원대에! 더 큰 43인치 대화면 '삼탠바이미'로 인생 역전해봐!"
+*   **8-12초:**
+    *   **화면:** (삼탠바이미 화면에서 넷플릭스, 유튜브, 게임 화면이 빠르게 전환되며, 스탠드가 부드럽게 이동하는 모습. '어디든 내 맘대로! 스마트 기능 기본 장착!' 자막 등장)
+    *   **나레이션:** "영화, 드라마, 유튜브를 거실, 침실, 주방 어디서든 자유롭게! 스마트 기능은 물론, 이동의 자유까지 완벽 보장!"
+*   **12-15초 (클로징 & CTA):**
+    *   **화면:** (두 메인 상품이 다시 나란히 등장하며, 화면 하단에 '👆 프로필 링크 클릭!' 자막과 함께 손가락 제스처 아이콘이 크게 확대됨)
+    *   **나레이션 (점점 더 단호하고 설득력 있게):** "더 이상 고민은 그만! 진짜 가성비 끝판왕 '삼탠바이미'가 궁금하다면? **지금 바로 프로필 링크 확인! 후회 없을 걸!**"
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
----
+### **✨ 1컷**
 
-### **카드뉴스 1/4**
+*   **텍스트:**
+    LG 스탠바이미 가격 실화? 😨
+    더 현명한 선택, '삼탠바이미'를 아시나요?
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    A stylish, minimalist living room with an LG StandbyMe, but with a transparent, overlaid infographic showing a shocked face emoji and a high price tag. A subtle question mark hangs in the air, creating a sense of inquiry. The aesthetic is modern, clean, and illuminated with soft, ambient lighting. --ar 1:1 --v 5.2
 
-*   **들어갈 텍스트:**
-    *   **메인 타이틀:** 🚨 LG 스탠바이미, 꿈에서만 보셨죠?
-    *   **서브 텍스트:** 💸 헉 소리나는 가격에 좌절했다면 주목!
-    *   **해결책 제시:** '삼탠바이미'로 30만원대에 스탠바이미 즐기는 꿀팁!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A stylish, modern living room. A person with a slightly disappointed expression points to an expensive, sleek, luxury TV with a high price tag. In the background, another person with a bright, cheerful smile gestures towards a more affordable, equally sleek, white mobile smart TV on a stand. Clean, minimalist aesthetic, cinematic lighting, vibrant. --ar 1:1 --v 5.2 --style raw
+### **✨ 2컷**
 
----
+*   **텍스트:**
+    MD가 직접 엄선! ✨ 스카이뷰 43인치 삼탠바이미
+    ✅ 30만원대 압도적 가성비!
+    ✅ 43인치 대화면 스마트 TV + 이동식 스탠드
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    A close-up shot of the Skyview 43-inch SamtanByMe (a sleek, modern white smart TV on a mobile stand) positioned in a bright, cozy bedroom. The large screen prominently displays a vibrant, high-definition movie scene. A price tag of "300,000 KRW" is subtly integrated into the corner. The atmosphere is inviting and contemporary. --ar 1:1 --v 5.2
 
-### **카드뉴스 2/4**
+### **✨ 3컷**
 
-*   **들어갈 텍스트:**
-    *   **메인 타이틀:** ✨ 43인치 스카이뷰 삼탠바이미 (화이트)
-    *   **하이라이트:** 💰 30만원대 43인치 FHD 스마트TV + 이동식 스탠드 올인원!
-    *   **매력 포인트:** 침대, 주방 어디든 나만의 영화관! 넷플, 유튜브 기본!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A cozy, modern bedroom with soft morning light. A large 43-inch white smart TV on a sleek, minimalist mobile stand is positioned by the bed, displaying a vibrant Netflix movie scene. A person is comfortably watching from bed, covered in a soft duvet. Warm, inviting, clean aesthetic. --ar 1:1 --v 5.2 --style raw
+*   **텍스트:**
+    올인원 편리함! 🛋️ 무빙큐빅스 40인치 삼탠바이미
+    ✅ 40인치 스마트 TV + 이동식 거치대 올인원
+    ✅ 깔끔한 화이트 에디션 디자인
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    A bright, minimalist kitchen or dining area featuring the Moving Cubix 40-inch SamtanByMe (a white smart TV on a matching mobile stand). The screen shows a cooking recipe or a vibrant food show. The design of the TV and stand blends seamlessly with the modern, clean interior. Emphasize its sleek, white aesthetic and effortless integration. --ar 1:1 --v 5.2
 
----
+### **✨ 4컷**
 
-### **카드뉴스 3/4**
-
-*   **들어갈 텍스트:**
-    *   **메인 타이틀:** ✨ 40인치 무빙큐빅스 삼탠바이미 (화이트)
-    *   **하이라이트:** 넉넉한 40인치 화면! 안정적인 이동성에 스마트 기능까지!
-    *   **매력 포인트:** 깔끔한 화이트 디자인, 흔들림 없이 안정적인 시청 환경!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A bright, modern kitchen with a clean white island. A 40-inch white smart TV on a sturdy, minimalist mobile stand is placed on the island, showing a cooking tutorial video from YouTube. Fresh fruits and a cookbook are nearby. Sunlight streaming through a window. Clean, functional, modern design. --ar 1:1 --v 5.2 --style raw
-
----
-
-### **카드뉴스 4/4**
-
-*   **들어갈 텍스트:**
-    *   **메인 타이틀:** 🚀 스탠바이미 가성비, 이제 삼탠바이미로 즐겨봐!
-    *   **핵심 강조:** 💸 비싼 LG 스탠바이미 대신 똑똑한 선택!
-    *   **행동 유도:** 더 많은 '삼탠바이미' 추천은 프로필 링크 확인!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A dynamic, vibrant collage of multiple scenes. Various people (young adults, a couple, a family) are happily using white mobile smart TVs (Sam-StandbyMe) in different modern home settings: a cozy bedroom, a stylish living room, a bright kitchen, and a sunny balcony. Emphasize freedom, affordability, and smart lifestyle. Bright, energetic, modern, pop art style. --ar 1:1 --v 5.2 --style raw
-
----
+*   **텍스트:**
+    거실, 침실, 주방 어디든 OK!
+    내 삶의 질을 수직 상승시킬 가성비 삼탠바이미 보러가기!
+    👉 프로필 링크 클릭!
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    A dynamic collage or split-screen image showcasing different domestic scenes: a SamtanByMe in a cozy living room, a serene bedroom, and a bright kitchen. The overall composition conveys a feeling of freedom, convenience, and enhanced lifestyle. A subtle, glowing arrow pointing downwards or a distinct finger icon is integrated, visually directing users towards a "link" area. The mood is bright, positive, and energetic. --ar 1:1 --v 5.2
