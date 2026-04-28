@@ -1,73 +1,57 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 스탠바이미? NO! 현명한 당신을 위한 '가성비 삼탠바이미' 끝판왕 BEST2! ✨
+**제목:** 😲 30만원대 스탠바이미? MD가 고른 삼탠바이미 BEST!
 
----
+**(영상 시작 시 강렬한 효과음 + 빠르고 신나는 배경 음악)**
 
-**(영상 시작: 0-3초 훅! - 빠르고 시선을 사로잡는 전환과 함께)**
+**[0-3초 훅]**
+*   **화면:** (슬픈 표정으로 비싼 스탠바이미 가격 보며 한숨 쉬는 모습) ➡️ (눈이 번쩍 뜨이며 저렴한 삼탠바이미 제품 이미지 등장)
+*   **대사:** "아니, 스탠바이미 가격 실화? 내 지갑 눈 감아... 😭 잠깐! 🤫 MD가 직접 고른 '이것'이라면, 감성도 가성비도 다 잡을 수 있어!"
 
-*   **[장면 1]** (화면: LG 스탠바이미 비싼 가격표 클로즈업, 옆에 좌절하는 표정의 인물)
-    *   **나레이션 (흥분+좌절):** "스탠바이미... 아 갖고싶다! 근데 가격이... 억?! 🤯"
-*   **[장면 2]** (화면: 좌절하던 인물이 갑자기 눈빛이 바뀌며 자신감 넘치는 표정, 뒤로 '가성비' 글자 효과)
-    *   **나레이션 (도파민 폭발):** "잠깐! 현명한 당신은 다르게 즐겨야지! ✨ 가성비 삼탠바이미 끝판왕 찾아왔다!"
+**[3-10초 본문]**
+*   **화면:** (스카이뷰 43인치 화이트 삼탠바이미 제품 이미지와 핵심 정보 텍스트 등장) ➡️ (위드라이프 40인치 구글 안드로이드 삼탠바이미 제품 이미지와 핵심 정보 텍스트 등장)
+*   **대사:** "봐봐! 43인치 화이트 감성 끝판왕, 스카이뷰는 단돈 30만원대! 어디든 끌고 다니며 영화, 드라마, OTT 몰아보기 딱 좋지? 🎬"
+*   **대사:** "아니면 구글 안드로이드 OS로 넷플릭스, 유튜브, 앱까지 자유로운 위드라이프 40인치! 심지어 20만원대 후반에 에너지 효율 1등급이야! 🚀"
 
-**(본론: 3-12초 - 핵심 상품 정보 빠르게 전달)**
-
-*   **[장면 3]** (화면: '이노스 가성비 삼탠바이미' 제품 영상 or 고품질 이미지, 텍스트 오버레이: "💥20만원대!💥 TV+거치대 올인원")
-    *   **나레이션 (빠르고 명확하게):** "첫째! 이노스 삼탠바이미! 😮 20만원대에 스마트 TV랑 거치대까지 한 번에! 가성비 끝판왕 인정?"
-*   **[장면 4]** (화면: '무빙큐빅스 QLED 삼탠바이미' 제품 영상 or 고품질 이미지, 텍스트 오버레이: "🌈QLED 화질!✨ 30만원대 프리미엄 가성비")
-    *   **나레이션 (감탄하며):** "둘째! 무빙큐빅스 QLED! 🤩 30만원대에 QLED 화질? 미쳤다! 디자인도 예뻐서 인테리어 템으로도 딱이야!"
-
-**(마무리: 12-15초 - 다음 행동 유도)**
-
-*   **[장면 5]** (화면: 두 제품이 함께 놓인 깔끔한 방 or 사람들이 즐겁게 TV를 보는 모습, 프로필 링크 강조 텍스트)
-    *   **나레이션 (활기차게):** "스탠바이미 부럽지 않은 당신의 스마트 라이프! 💖 더 자세한 정보는 지금 바로 프로필 링크 확인! #스탠바이미 #삼탠바이미 #가성비TV"
+**[10-15초 마무리 & CTA]**
+*   **화면:** (다양한 삼탠바이미 제품들이 빠르게 스쳐 지나가며 "프로필 링크 확인!" 텍스트 오버레이)
+*   **대사:** "스탠바이미 감성은 포기 못하지만, 지갑 사정 걱정된다면? MD가 깐깐하게 고른 '삼탠바이미' 지금 바로 프로필 링크에서 만나봐! 후회 안 할 걸? 😉"
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 4컷
 
----
-
-### **[카드뉴스 1/4]**
+### 1컷
 *   **텍스트:**
-    ## 스탠바이미, 너무 비싸서 고민된다면? 🤯
-    ### 이제 '가성비 삼탠바이미' 시대!
-    #### 현명한 MD가 찾아온 숨겨진 보석템 BEST!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A visually striking infographic style image. A frustrated person looking at an expensive LG StandbyMe TV price tag on a screen. The background is a modern, minimalist living room with a slightly sad, muted color palette. Overlay text: "Too expensive? 🤯". Emphasize the high price, dramatic lighting, photorealistic.`
+    **스탠바이미 감성, 이젠 20만원대로! 💰**
+    현직 MD가 직접 고른 #삼탠바이미 BEST 5
+*   **Midjourney 프롬프트:**
+    A minimalist, clean, modern living room with a sleek white mobile smart TV (similar to StandbyMe) prominently displayed in the foreground, showing a vibrant movie scene. The room features soft, natural daylight from a large window. Scandinavian design, high key lighting, soft shadows, cozy atmosphere. --ar 1:1 --v 5.2
 
----
-
-### **[카드뉴스 2/4]**
+### 2컷
 *   **텍스트:**
-    ## 👑 극강의 가성비! 20만원대 올인원 삼탠바이미!
-    ### ✨ 이노스 가성비 삼탠바이미
-    #### 💥 32인치 FHD 스마트TV + 무빙거치대
-    #### 넷플릭스, 유튜브, OTT를 침대에서!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A bright and inviting bedroom scene. A young person happily watching Netflix on an "Innos StandbyMe" (a sleek, white portable smart TV on a moving stand) from their bed. The TV displays a vibrant movie scene. Emphasize comfort, affordability, and the all-in-one aspect. Modern interior, soft natural light, photorealistic, cinematic.`
+    **✨ 화이트 감성 그대로! 43인치 대화면**
+    **#스카이뷰_삼탠바이미 (30만원대)**
+    *   FHD 스마트TV & 이동식 스탠드
+    *   침실, 주방 어디든 OK!
+*   **Midjourney 프롬프트:**
+    A cozy, bright bedroom with a modern white mobile smart TV showing a relaxing landscape. White bedding, minimalist wooden furniture, soft morning light streaming in, a half-eaten snack and a remote control on the bed. Serene, clean, comfortable atmosphere. --ar 1:1 --v 5.2
 
----
-
-### **[카드뉴스 3/4]**
+### 3컷
 *   **텍스트:**
-    ## 🎨 화질까지 포기 못 해? 30만원대 QLED 삼탠바이미!
-    ### ✨ 무빙큐빅스 QLED 삼탠바이미
-    #### 💎 32인치 QLED 스마트TV + 화이트 스탠드
-    #### 선명한 화면과 감성 디자인까지!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A stylish and modern living room corner. A "Moving Cubix QLED StandbyMe" (a white, minimalist portable QLED smart TV on a matching stand) displaying a breathtaking nature documentary with vibrant colors. The TV is a focal point, complementing the chic interior design. Emphasize crisp QLED display, elegant design, premium feel. Photorealistic, high-contrast, artistic lighting.`
+    **🚀 구글 안드로이드 OS! 40인치**
+    **#위드라이프_삼탠바이미 (20만원대)**
+    *   넷플릭스, 유튜브, 앱스토어까지!
+    *   에너지 효율 1등급은 덤!
+*   **Midjourney 프롬프트:**
+    A vibrant, modern kitchen island with a dark grey mobile smart TV displaying a Google Android TV interface. Fresh fruit bowl, a coffee maker, and cookbooks on the counter. A person's hand is seen holding a remote. Bright, functional, high-tech kitchen environment. --ar 1:1 --v 5.2
 
----
-
-### **[카드뉴스 4/4]**
+### 4컷
 *   **텍스트:**
-    ## 💖 나만의 삼탠바이미 찾으러 GO!
-    ### DIY 거치대부터 삼성 4K TV 조합까지!
-    #### 다양한 스탠바이미 대안이 궁금하다면?
-    #### ➡️ 프로필 링크 클릭!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage of various "StandbyMe alternative" products: a standalone TV on a simple moving stand, a person assembling a TV onto a separate stand, a high-quality 4K TV. The overall mood is empowering and encouraging. Text overlay: "Find Your Perfect StandbyMe!". Use vibrant, energetic colors. Action-oriented, photorealistic, infographic style.`
+    **MD의 깐깐한 기준으로 엄선한**
+    **더 많은 #스탠바이미가성비 제품은?**
+    **지금 바로 프로필 링크 확인하세요! ➡️**
+*   **Midjourney 프롬프트:**
+    A dynamic collage of three different mobile smart TVs (one white, one dark, one with a unique color), each showcasing a different entertainment scene (movie, game, music video). Abstract geometric shapes and vibrant, energetic colors in the background. A prominent "Click Here" button or arrow pointing to a link. High-energy, promotional, modern graphic design. --ar 1:1 --v 5.2
