@@ -1,63 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발!)
 
-**제목:** LG 스탠바이미 대신 '이거' 사면 삶의 질 수직 상승?! 🤯
-
-**핵심 훅 (0-3초):** LG 스탠바이미? 100만원 넘는 돈 내기 전에 **딱 3초만 집중!**
+**콘셉트:** LG 스탠바이미를 꿈꾸지만 가격에 망설이는 사람들을 위한 충격적인 '가성비 삼탠바이미' 대안 제시. 빠른 전환과 핵심 메시지 전달.
 
 ---
 
-**[스크립트]**
+**[영상 시작] ⏱️ 0-3초 (강력한 훅)**
+*   **화면:** (좌측) LG 스탠바이미의 높은 가격표 텍스트 클로즈업. (우측) 좌절하는 사람 표정.
+*   **자막:** 💸 스탠바이미 비싸서 포기?
+*   **대사 (빠르게, 흥분):** "LG 스탠바이미... 갖고 싶은데 가격 때문에 눈물만 흘렸다고요? 😵‍💫 잠깐! 그 고민, 제가 3초 안에 끝내드릴게요!"
 
-*   **0-3초 (훅):**
-    *   **화면:** (LG 스탠바이미의 세련된 이미지 등장, 그 위에 '100만원대? 💸'라는 텍스트가 깜빡이며, 곧 '진심?'이라는 자막과 함께 충격받은 표정의 이모티콘이 튀어나옴)
-    *   **나레이션 (빠르고 흥분된 목소리):** "LG 스탠바이미? 100만원 넘는 돈 내기 전에 **딱 3초만 집중!** 아직도 비싼 돈 주고 살 생각이야?!"
-*   **3-8초:**
-    *   **화면:** (스카이뷰 43인치 삼탠바이미와 무빙큐빅스 40인치 삼탠바이미 제품 이미지가 빠르게 교차. 각 제품 옆에 '30만원대!' 가격이 크게 강조됨. 침실, 거실, 주방 등 다양한 공간에서 편하게 사용되는 모습이 번개처럼 스쳐 지나감)
-    *   **나레이션:** "잠깐! 10년차 MD가 찾아왔잖아! 반값도 안 되는 30만원대에! 더 큰 43인치 대화면 '삼탠바이미'로 인생 역전해봐!"
-*   **8-12초:**
-    *   **화면:** (삼탠바이미 화면에서 넷플릭스, 유튜브, 게임 화면이 빠르게 전환되며, 스탠드가 부드럽게 이동하는 모습. '어디든 내 맘대로! 스마트 기능 기본 장착!' 자막 등장)
-    *   **나레이션:** "영화, 드라마, 유튜브를 거실, 침실, 주방 어디서든 자유롭게! 스마트 기능은 물론, 이동의 자유까지 완벽 보장!"
-*   **12-15초 (클로징 & CTA):**
-    *   **화면:** (두 메인 상품이 다시 나란히 등장하며, 화면 하단에 '👆 프로필 링크 클릭!' 자막과 함께 손가락 제스처 아이콘이 크게 확대됨)
-    *   **나레이션 (점점 더 단호하고 설득력 있게):** "더 이상 고민은 그만! 진짜 가성비 끝판왕 '삼탠바이미'가 궁금하다면? **지금 바로 프로필 링크 확인! 후회 없을 걸!**"
+**⏱️ 3-7초 (문제 해결 제시)**
+*   **화면:** 좌절하는 표정이 환하게 바뀌며, '삼탠바이미'라는 글자와 함께 깔끔한 이동식 TV 등장.
+*   **자막:** ✨ 현직 MD가 찾아낸 "삼탠바이미" ✨
+*   **대사 (자신감 있게):** "현직 MD가 깐깐하게 찾아낸 '스탠바이미 가성비' 끝판왕! 일명 '삼탠바이미'가 있잖아요!"
+
+**⏱️ 7-12초 (핵심 제품 장점 어필)**
+*   **화면:** '무빙큐빅스 50인치 삼탠바이미'와 '55인치 삼탠바이미' 제품 영상(또는 고화질 이미지) 교차 편집. 4K QLED 화질, 이동하는 모습 강조.
+*   **자막:** 📺 50인치 4K QLED가 50만원대?! | 올인원 패키지 | 방문설치까지!
+*   **대사 (놀라움 강조):** "TV랑 거치대가 올인원인데 50인치 4K QLED가 50만원대?! 이동성은 기본, 화질은 대박! 55인치 대화면까지 있어요!"
+
+**⏱️ 12-15초 (강력한 CTA)**
+*   **화면:** 여러 공간에서 삼탠바이미를 자유롭게 활용하는 행복한 사람들의 모습. 제품 썸네일과 '자세한 정보는 댓글/더보기' 텍스트.
+*   **자막:** LG 스탠바이미 대신 '이거' 사세요! | 자세한 정보는 댓글 확인!
+*   **대사 (열정적으로):** "이 가격에 이 퀄리티 실화?! 😍 LG 스탠바이미 대신 '이거' 사세요! 자세한 정보는 지금 바로 댓글 확인!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 📸 인스타그램 카드뉴스 4컷
 
-### **✨ 1컷**
+**콘셉트:** LG 스탠바이미의 높은 가격이라는 페인 포인트를 시작으로, '삼탠바이미'라는 가성비 대안을 제시하고 주요 제품의 매력을 시각적으로 어필하여 구매 전환 유도.
 
-*   **텍스트:**
-    LG 스탠바이미 가격 실화? 😨
-    더 현명한 선택, '삼탠바이미'를 아시나요?
-*   **이미지 프롬프트 (Midjourney 스타일):**
-    A stylish, minimalist living room with an LG StandbyMe, but with a transparent, overlaid infographic showing a shocked face emoji and a high price tag. A subtle question mark hangs in the air, creating a sense of inquiry. The aesthetic is modern, clean, and illuminated with soft, ambient lighting. --ar 1:1 --v 5.2
+---
 
-### **✨ 2컷**
+### **[1컷]**
+*   **카드 텍스트:**
+    **LG 스탠바이미 갖고 싶었지만... 💸**
+    **가격 때문에 망설였다면 주목!**
+    (하단 작게) #스탠바이미가성비 #이동식TV
+*   **Midjourney 프롬프트:**
+    `A minimalistic, stylish living room with a person looking frustrated at an empty space where an expensive LG Standby Me TV would be. The person is holding a crumpled receipt with a high price. The room is modern, clean, with subtle natural light. Emphasize feelings of desire and hesitation. --ar 1:1 --v 6.0`
 
-*   **텍스트:**
-    MD가 직접 엄선! ✨ 스카이뷰 43인치 삼탠바이미
-    ✅ 30만원대 압도적 가성비!
-    ✅ 43인치 대화면 스마트 TV + 이동식 스탠드
-*   **이미지 프롬프트 (Midjourney 스타일):**
-    A close-up shot of the Skyview 43-inch SamtanByMe (a sleek, modern white smart TV on a mobile stand) positioned in a bright, cozy bedroom. The large screen prominently displays a vibrant, high-definition movie scene. A price tag of "300,000 KRW" is subtly integrated into the corner. The atmosphere is inviting and contemporary. --ar 1:1 --v 5.2
+### **[2컷]**
+*   **카드 텍스트:**
+    **현직 MD가 찾은 답은 바로 '삼탠바이미'! 💯**
+    **이동성+스마트TV, 가격은 1/3 확 줄였다!**
+    (하단 작게) #삼탠바이미 #가성비TV #MD추천
+*   **Midjourney 프롬프트:**
+    `A vibrant, cheerful scene in a cozy home where a happy person is effortlessly rolling a sleek, white mobile smart TV (not LG branded) from the living room to the kitchen. The TV screen displays a bright, engaging smart TV interface. Text overlay "1/3 Price!" in a stylish font. Modern, inviting atmosphere, dynamic composition. --ar 1:1 --v 6.0`
 
-### **✨ 3컷**
+### **[3컷]**
+*   **카드 텍스트:**
+    **✨ 가성비 끝판왕 '무빙큐빅스 삼탠바이미' ✨**
+    **TV+거치대 올인원! 50인치 4K QLED가 50만원대!**
+    (하단 작게) #무빙큐빅스 #4KQLED #올인원TV
+*   **Midjourney 프롬프트:**
+    `A close-up shot of a elegant, white "Moving Cubics Samtanbyme" (mobile smart TV on a stand) in a chic bedroom. The 50-inch 4K QLED screen shows an incredibly vibrant, high-definition movie scene. The design of the TV is sleek and modern. Soft, warm lighting, luxurious feel. --ar 1:1 --v 6.0`
 
-*   **텍스트:**
-    올인원 편리함! 🛋️ 무빙큐빅스 40인치 삼탠바이미
-    ✅ 40인치 스마트 TV + 이동식 거치대 올인원
-    ✅ 깔끔한 화이트 에디션 디자인
-*   **이미지 프롬프트 (Midjourney 스타일):**
-    A bright, minimalist kitchen or dining area featuring the Moving Cubix 40-inch SamtanByMe (a white smart TV on a matching mobile stand). The screen shows a cooking recipe or a vibrant food show. The design of the TV and stand blends seamlessly with the modern, clean interior. Emphasize its sleek, white aesthetic and effortless integration. --ar 1:1 --v 5.2
-
-### **✨ 4컷**
-
-*   **텍스트:**
-    거실, 침실, 주방 어디든 OK!
-    내 삶의 질을 수직 상승시킬 가성비 삼탠바이미 보러가기!
-    👉 프로필 링크 클릭!
-*   **이미지 프롬프트 (Midjourney 스타일):**
-    A dynamic collage or split-screen image showcasing different domestic scenes: a SamtanByMe in a cozy living room, a serene bedroom, and a bright kitchen. The overall composition conveys a feeling of freedom, convenience, and enhanced lifestyle. A subtle, glowing arrow pointing downwards or a distinct finger icon is integrated, visually directing users towards a "link" area. The mood is bright, positive, and energetic. --ar 1:1 --v 5.2
+### **[4컷]**
+*   **카드 텍스트:**
+    **내 방, 주방, 거실 어디든 나만의 영화관! 🎬**
+    **'스탠바이미 가성비' 지금 바로 경험하세요!**
+    (하단 작게) #나만의영화관 #라이프스타일 #꿀템추천
+*   **Midjourney 프롬프트:**
+    `A dynamic montage of different home scenes: a person happily watching a movie on a mobile TV while cooking in a bright kitchen, another person gaming on the same TV next to a bed in a cozy bedroom. The mobile TV is a generic, sleek white design. Focus on convenience, freedom, and enjoyment. Bright, warm, inviting domestic settings. --ar 1:1 --v 6.0`
