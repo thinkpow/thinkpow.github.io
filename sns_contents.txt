@@ -1,67 +1,84 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발!)
+## 🚀 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠 / 틱톡)
 
-**콘셉트:** LG 스탠바이미를 꿈꾸지만 가격에 망설이는 사람들을 위한 충격적인 '가성비 삼탠바이미' 대안 제시. 빠른 전환과 핵심 메시지 전달.
+**제목:** 스탠바이미 비싸서 포기? 놉! 가성비 삼탠바이미가 답! ✨
 
----
+**[영상 구성]**
 
-**[영상 시작] ⏱️ 0-3초 (강력한 훅)**
-*   **화면:** (좌측) LG 스탠바이미의 높은 가격표 텍스트 클로즈업. (우측) 좌절하는 사람 표정.
-*   **자막:** 💸 스탠바이미 비싸서 포기?
-*   **대사 (빠르게, 흥분):** "LG 스탠바이미... 갖고 싶은데 가격 때문에 눈물만 흘렸다고요? 😵‍💫 잠깐! 그 고민, 제가 3초 안에 끝내드릴게요!"
-
-**⏱️ 3-7초 (문제 해결 제시)**
-*   **화면:** 좌절하는 표정이 환하게 바뀌며, '삼탠바이미'라는 글자와 함께 깔끔한 이동식 TV 등장.
-*   **자막:** ✨ 현직 MD가 찾아낸 "삼탠바이미" ✨
-*   **대사 (자신감 있게):** "현직 MD가 깐깐하게 찾아낸 '스탠바이미 가성비' 끝판왕! 일명 '삼탠바이미'가 있잖아요!"
-
-**⏱️ 7-12초 (핵심 제품 장점 어필)**
-*   **화면:** '무빙큐빅스 50인치 삼탠바이미'와 '55인치 삼탠바이미' 제품 영상(또는 고화질 이미지) 교차 편집. 4K QLED 화질, 이동하는 모습 강조.
-*   **자막:** 📺 50인치 4K QLED가 50만원대?! | 올인원 패키지 | 방문설치까지!
-*   **대사 (놀라움 강조):** "TV랑 거치대가 올인원인데 50인치 4K QLED가 50만원대?! 이동성은 기본, 화질은 대박! 55인치 대화면까지 있어요!"
-
-**⏱️ 12-15초 (강력한 CTA)**
-*   **화면:** 여러 공간에서 삼탠바이미를 자유롭게 활용하는 행복한 사람들의 모습. 제품 썸네일과 '자세한 정보는 댓글/더보기' 텍스트.
-*   **자막:** LG 스탠바이미 대신 '이거' 사세요! | 자세한 정보는 댓글 확인!
-*   **대사 (열정적으로):** "이 가격에 이 퀄리티 실화?! 😍 LG 스탠바이미 대신 '이거' 사세요! 자세한 정보는 지금 바로 댓글 확인!"
+*   **초반 0-3초 (훅):** 비싼 스탠바이미 가격에 좌절하는 모습 또는 화면에 띄워진 스탠바이미 가격표를 보고 '헉' 하는 표정.
+*   **중반 3-12초:** 55인치/50인치 삼탠바이미의 매력적인 사용 장면 (거실, 침실, 주방 등 다양한 공간에서 이동하며 콘텐츠 시청), 제품의 큰 화면과 선명한 화질 강조. 가격 자막 오버레이.
+*   **후반 12-15초 (클로징):** 두 제품이 나란히 있는 모습 또는 사용자 만족스러운 표정, 명확한 CTA.
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+**[스크립트]**
 
-**콘셉트:** LG 스탠바이미의 높은 가격이라는 페인 포인트를 시작으로, '삼탠바이미'라는 가성비 대안을 제시하고 주요 제품의 매력을 시각적으로 어필하여 구매 전환 유도.
+**0-3초 (훅! 시선강탈!):**
+(화면: 스탠바이미 검색 결과와 높은 가격표, 실망한 표정의 연기자)
+**나레이션:** "스탠바이미 사고 싶어서 들어왔는데... 가격보고 '헉' 하셨죠? 잠시만요!"
+
+**3-8초:**
+(화면: 무빙큐빅스 55인치 삼탠바이미가 거실에서 영화를 재생하는 모습, '55인치 QLED', '60만원대', '방문설치' 자막 오버레이)
+**나레이션:** "이젠 비싼 스탠바이미 대신 **'삼탠바이미'**가 대세! 55인치 초대형 QLED TV가 단돈 60만원대? 심지어 전문 기사님이 방문설치까지!"
+
+**8-12초:**
+(화면: 무빙큐빅스 50인치 삼탠바이미가 침실에서 넷플릭스를 재생하는 모습, '50인치 QLED', '50만원대', '자가설치' 자막 오버레이. 부드럽게 이동하는 모습 강조)
+**나레이션:** "더 저렴하게? 50인치 자가설치는 50만원대! 거실, 침실, 주방 어디든 끌고 다니며 나만의 극장 만들 수 있다고요!"
+
+**12-15초 (강력한 CTA):**
+(화면: 55인치와 50인치 제품이 나란히 놓여있고, 빛나는 효과와 함께 '압도적 가성비' 강조, '프로필 링크 클릭!' 자막)
+**나레이션:** "고화질 대화면, 이동의 자유! 압도적 가성비 삼탠바이미! 지금 바로 프로필 링크 클릭하세요!"
 
 ---
 
-### **[1컷]**
-*   **카드 텍스트:**
-    **LG 스탠바이미 갖고 싶었지만... 💸**
-    **가격 때문에 망설였다면 주목!**
-    (하단 작게) #스탠바이미가성비 #이동식TV
-*   **Midjourney 프롬프트:**
-    `A minimalistic, stylish living room with a person looking frustrated at an empty space where an expensive LG Standby Me TV would be. The person is holding a crumpled receipt with a high price. The room is modern, clean, with subtle natural light. Emphasize feelings of desire and hesitation. --ar 1:1 --v 6.0`
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### **[2컷]**
-*   **카드 텍스트:**
-    **현직 MD가 찾은 답은 바로 '삼탠바이미'! 💯**
-    **이동성+스마트TV, 가격은 1/3 확 줄였다!**
-    (하단 작게) #삼탠바이미 #가성비TV #MD추천
-*   **Midjourney 프롬프트:**
-    `A vibrant, cheerful scene in a cozy home where a happy person is effortlessly rolling a sleek, white mobile smart TV (not LG branded) from the living room to the kitchen. The TV screen displays a bright, engaging smart TV interface. Text overlay "1/3 Price!" in a stylish font. Modern, inviting atmosphere, dynamic composition. --ar 1:1 --v 6.0`
+---
 
-### **[3컷]**
-*   **카드 텍스트:**
-    **✨ 가성비 끝판왕 '무빙큐빅스 삼탠바이미' ✨**
-    **TV+거치대 올인원! 50인치 4K QLED가 50만원대!**
-    (하단 작게) #무빙큐빅스 #4KQLED #올인원TV
-*   **Midjourney 프롬프트:**
-    `A close-up shot of a elegant, white "Moving Cubics Samtanbyme" (mobile smart TV on a stand) in a chic bedroom. The 50-inch 4K QLED screen shows an incredibly vibrant, high-definition movie scene. The design of the TV is sleek and modern. Soft, warm lighting, luxurious feel. --ar 1:1 --v 6.0`
+### 1️⃣ 첫 번째 컷
 
-### **[4컷]**
-*   **카드 텍스트:**
-    **내 방, 주방, 거실 어디든 나만의 영화관! 🎬**
-    **'스탠바이미 가성비' 지금 바로 경험하세요!**
-    (하단 작게) #나만의영화관 #라이프스타일 #꿀템추천
-*   **Midjourney 프롬프트:**
-    `A dynamic montage of different home scenes: a person happily watching a movie on a mobile TV while cooking in a bright kitchen, another person gaming on the same TV next to a bed in a cozy bedroom. The mobile TV is a generic, sleek white design. Focus on convenience, freedom, and enjoyment. Bright, warm, inviting domestic settings. --ar 1:1 --v 6.0`
+*   **텍스트:**
+    **스탠바이미, 갖고 싶지만... 가격이 헉?! 🤯**
+    비싼 TV는 이제 그만!
+    현명한 당신을 위한 '가성비 삼탠바이미' 대공개!
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A disappointed young woman looking at a phone showing a high price tag for a sleek, modern mobile smart TV. The background is a minimalist, stylish living room with soft, inviting lighting. Cinematic, high contrast, warm tones. --ar 1:1 --v 5.2`
+
+---
+
+### 2️⃣ 두 번째 컷
+
+*   **텍스트:**
+    **돈 낭비 멈춰! 이젠 '삼탠바이미'가 대세! ✨**
+    원본보다 더 큰 화면!
+    더 뛰어난 화질!
+    훨씬 합리적인 가격으로 홈 엔터테인먼트의 신세계를 경험하세요!
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A modern, stylish living room with a large, sleek mobile smart TV (Samtanbyme) as the centerpiece. A joyful person is casually interacting with the TV, showcasing freedom of movement. Bright, vibrant, clean aesthetic. --ar 1:1 --v 5.2`
+
+---
+
+### 3️⃣ 세 번째 컷
+
+*   **텍스트:**
+    **📺 55인치 QLED 대화면 + 방문설치!**
+    **무빙큐빅스 55인치 삼탠바이미**
+    - 60만원대 압도적 가성비!
+    - 전문 기사님 방문설치까지!
+    - 극장 같은 몰입감 경험하세요!
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A luxurious 55-inch QLED smart TV on a contemporary mobile stand, positioned in a spacious, sunlit modern living room. The screen displays a vibrant, high-definition movie scene. Emphasize crisp picture quality and sleek design. --ar 1:1 --v 5.2`
+
+---
+
+### 4️⃣ 네 번째 컷 (CTA 포함)
+
+*   **텍스트:**
+    **💰 50인치 QLED 자가설치 50만원대!**
+    **무빙큐빅스 50인치 삼탠바이미**
+    - 극강의 가성비로 스마트 라이프 시작!
+    - 침실, 주방, 어디든 나만의 공간으로!
+    - >> 지금 바로 확인하기 (프로필 링크 클릭!)
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A cozy, minimalist bedroom with a 50-inch QLED smart TV on a simple, elegant mobile stand next to a bed. A person is comfortably watching content with a relaxed, happy expression. Soft, warm ambient lighting. --ar 1:1 --v 5.2`
