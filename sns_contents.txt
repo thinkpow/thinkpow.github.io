@@ -1,74 +1,62 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 분량 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 스탠바이미 살 돈이 없다면? 이걸로 끝내! (feat. 가성비 끝판왕)
+**(음악: 빠르고 경쾌하며 도파민 폭발하는 팝 음악)**
 
----
+**[0-3초] 훅 (Hook):**
+*   **비주얼:** 화면을 가득 채운 "스탠바이미 가격 200만원? 🤯" 텍스트가 번쩍! -> 바로 이어 50인치 4K QLED 이동식 TV가 엄청난 스케일로 등장하며 "이게 60만원대라고?!!!!!" 자막과 함께 폭발적인 효과음.
+*   **대사 (빠르게, 흥분한 목소리):** "헉! 스탠바이미 200만원 실화? 이 압도적 스케일의 50인치 4K QLED가 겨우 60만원대라고?!"
 
-**[영상 스크립트]**
+**[3-13초] 본문:**
+*   **비주얼:**
+    *   **3-7초:** `무빙큐빅스 50인치 4K QLED 삼탠바이미` (제품 이미지)가 등장, 거실 소파에 앉아 영화를 보는 사람들의 행복한 모습 오버레이. "초대형 50인치 4K QLED" 강조 자막.
+    *   **7-11초:** `무빙큐빅스 32인치 FHD QLED 삼탠바이미` (제품 이미지)가 등장, 침대에 누워 드라마를 보는 사람, 주방에서 요리하며 보는 사람 모습 오버레이. "내 방엔 32인치! 30만원대 QLED!" 강조 자막.
+    *   **11-13초:** 두 제품이 함께 등장하며 다양한 공간에서 자유롭게 움직이는 연출.
+*   **대사 (빠르게, 자신감 넘치는 목소리):**
+    *   "이게 바로 '무빙큐빅스 50인치 삼탠바이미'! 60만원대에 4K QLED 대화면 실화냐? 거실을 나만의 영화관으로!"
+    *   "작은 방엔 컴팩트한 32인치도 있어! 30만원대 QLED? 미쳤다 진짜! 침실, 주방, 어디든 이동하며 즐겨!"
 
-**(0-3초) 훅(Hook) & 문제 제기**
-*   **화면:** "LG 스탠바이미" 로고 크게 → 옆에 비싼 가격표 등장 (ex: 120만원!) → "응, 비싸!" 자막 크게 뜨면서 가격표에 X 표시!
-*   **내레이션 (흥분된 목소리):** "스탠바이미 갖고 싶어서 검색했다가 가격 보고 심장 멎을 뻔 했어요?!"
-*   **효과음:** 웅장한 드럼 비트 + '꽝!' 타격음
-
-**(3-12초) 핵심 해결책 & 제품 소개**
-*   **화면:** (빠르게 전환)
-    *   ① **무빙큐빅스 50인치 제품 풀샷:** 깔끔한 거실에서 영화 감상하는 모습. (자막: 50인치 4K QLED!)
-    *   ② **무빙큐빅스 32인치 제품 풀샷:** 침대 옆, 주방 등 여러 공간에서 활용하는 모습. (자막: 32인치 QLED!)
-    *   ③ 추가 추천 상품들 썸네일 빠르게 지나감 (삼성 TV, 이동식 거치대, 버스킹 스피커)
-*   **내레이션 (빠르고 신나는 목소리):** "걱정 마! 이제 **60만원대 50인치 4K 대화면!** 영화관이 내 방으로 쏙! 🤩"
-*   **내레이션:** "더 작고 저렴한 거? **30만원대 32인치 QLED!** 침실, 주방 어디든 나만의 TV! 💖"
-*   **내레이션:** "삼성 TV, 이동식 거치대, 심지어 이동식 노래방까지?"
-*   **배경음악:** 경쾌하고 빠른 비트의 트렌디한 숏폼 음악
-
-**(12-15초) 마무리 & CTA**
-*   **화면:** 모든 추천 상품이 모인 콜라주 이미지 (화려하고 밝게) + "지금 바로 링크 클릭!" 자막 크게!
-*   **내레이션 (활기차게):** "이 모든 걸 초특가로! ✨ 더 자세한 정보는 댓글/더보기 링크 확인!"
-*   **효과음:** 밝고 신나는 징글 사운드
+**[13-15초] 클로징 & CTA:**
+*   **비주얼:** 제품 썸네일과 함께 "프로필 링크에서 스탠바이미 가성비 끝판왕 보러가기!" 텍스트 명확하게 노출.
+*   **대사 (밝고 활기차게):** "가성비 스탠바이미 끝판왕 정보는 지금 바로 프로필 링크 확인!"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### **카드뉴스 1컷**
+### 1️⃣ 첫 번째 컷: 훅 & 문제 제기
 
-*   **들어갈 텍스트:**
-    *   **제목:** 스탠바이미? 🤯 가격보고 놀랐다면 주목!
-    *   **본문:** "LG 스탠바이미"의 감성은 갖고 싶지만... 통장 잔고가 울고 있다면? 😥 '가성비'와 '가심비' 모두 잡은 이동식 스마트 TV 대안을 찾고 계셨죠?
+*   **텍스트:**
+    **슬라이드 제목:** 💸 스탠바이미 사고 싶었는데... 가격에 놀랐다고? 🤯
+    **본문:** 이제 망설이지 마세요! ✨ 스탠바이미 가성비 끝판왕, 여기 다 모았어!
 *   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A dynamic shot of a luxurious, minimalist living room with a blurred, expensive-looking portable TV in the background. In the foreground, a person's hand holds a smartphone showing a "too high price" error message or a shocked emoji. The overall feeling is sleek, modern, with a hint of dissatisfaction that leads to a solution. Soft, diffused natural light. --ar 1:1 --v 5.2
-    ```
+    `A visually striking, modern, and cozy living room scene with soft natural light. In the foreground, a thought bubble above a person's head contains a large, red "SOLD OUT" sign or a '$$$' symbol, expressing frustration. In the background, a sleek, minimalist movable TV stand is visible, hinting at a solution. The overall atmosphere is warm and inviting, emphasizing affordable luxury. High resolution, photorealistic, cinematic lighting, editorial style, shallow depth of field, warm color palette.`
 
-### **카드뉴스 2컷**
+### 2️⃣ 두 번째 컷: 메인 상품 1 (50인치)
 
-*   **들어갈 텍스트:**
-    *   **제목:** 60만원대 50인치 4K QLED! 거실을 영화관으로!
-    *   **본문:** 압도적 몰입감! 50인치 대화면 4K QLED로 거실이 영화관으로 변신! 방문 설치까지 완벽! (✨ 무빙큐빅스 50인치 삼탠바이미)
+*   **텍스트:**
+    **슬라이드 제목:** 🎬 거실을 나만의 영화관으로! 50인치 4K QLED 대화면!
+    **제품명 & 가격:** 무빙큐빅스 50인치 4K QLED 삼탠바이미 | 629,000원
+    **핵심:** 압도적 가성비! 60만원대에 4K QLED 프리미엄 화질, 편리한 이동성 & 방문설치!
 *   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A wide shot of a spacious, modern living room at dusk, with a sleek, white 50-inch portable smart TV (resembling a large StandbyMe) displaying a vibrant 4K movie scene. The TV is on a minimalist stand. A cozy atmosphere with soft ambient lighting from the TV screen. Cinematic, high-resolution. --ar 1:1 --v 5.2
-    ```
+    `A luxurious and spacious living room at dusk, bathed in the warm glow of ambient lighting. A large 50-inch QLED movable TV on a sleek white stand is the focal point, displaying a breathtaking cinematic scene with ultra-vivid colors and deep blacks. A person is comfortably lounging on a modern sofa, completely immersed in the content. The room features minimalist decor with subtle elegant touches. High definition, cinematic, dramatic lighting, warm and inviting atmosphere, photorealistic, high detail.`
 
-### **카드뉴스 3컷**
+### 3️⃣ 세 번째 컷: 메인 상품 2 (32인치)
 
-*   **들어갈 텍스트:**
-    *   **제목:** 30만원대 32인치 QLED! 침실, 주방 어디든 OK!
-    *   **본문:** 최고의 가성비! 32인치 QLED로 침실, 주방 어디든 '나만의 TV'를! 컴팩트한 디자인으로 공간 활용 끝판왕! (💖 무빙큐빅스 32인치 삼탠바이미)
+*   **텍스트:**
+    **슬라이드 제목:** ✨ 내 방, 내 취향대로! 32인치 FHD QLED 컴팩트 이동식 TV
+    **제품명 & 가격:** 무빙큐빅스 32인치 FHD QLED 삼탠바이미 | 329,000원
+    **핵심:** 최고의 입문용 가성비! 30만원대 QLED 고화질, 컴팩트한 사이즈로 자유로운 이동!
 *   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A split image or dynamic collage. On one side, a clean, white 32-inch portable smart TV showing a cooking show in a modern, bright kitchen. On the other side, the same TV displaying a relaxed streaming scene in a cozy, minimalist bedroom with soft indirect lighting. Seamless transitions, bright and inviting. --ar 1:1 --v 5.2
-    ```
+    `A serene and cozy bedroom with soft morning light filtering through a window. A compact 32-inch QLED movable TV on a elegant white stand is positioned near a bed, displaying a bright, high-definition image of a popular drama or cozy content. The room has light, airy decor, perhaps a small potted plant on a bedside table and a stack of books. The focus is on personal space and convenience. Clean, bright, inviting, soft focus, photorealistic, warm pastel color palette.`
 
-### **카드뉴스 4컷**
+### 4️⃣ 네 번째 컷: 총정리 & CTA
 
-*   **들어갈 텍스트:**
-    *   **제목:** 스탠바이미 가성비 끝판왕! 지금 바로 만나보세요!
-    *   **본문:** 스탠바이미 대체부터 이동식 거치대, 버스킹 스피커까지! 당신의 스마트 라이프를 업그레이드할 모든 것!
-    *   **CTA:** (🔗 프로필 링크 클릭!)
+*   **텍스트:**
+    **슬라이드 제목:** 🤯 60만원대로 50인치 4K QLED 이동식 TV를? 믿기지 않는 가성비!
+    **본문:** 이제 당신도 영화관을 통째로 옮겨놓은 듯한 경험을!
+    **CTA:** 더 자세한 정보는 프로필 링크에서 확인하세요!
+    **해시태그:** #스탠바이미가성비 #이동식TV #삼탠바이미 #QLEDTV #내돈내산템 #스마트TV
 *   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A vibrant and energetic collage of all the recommended products (a 50-inch portable TV, a 32-inch portable TV, a sleek Samsung TV, a minimalist TV stand, a powerful portable speaker) floating in a stylized, modern digital space. Bright, appealing product shots with subtle glow effects. A bold "Shop Now" or "Discover More" button integrated into the design. Futuristic, dynamic, and enticing. --ar 1:1 --v 5.2
-    ```
+    `A vibrant and dynamic collage or montage-style image. The main composition shows multiple small frames or windows, each depicting a different person happily enjoying a movable TV in various settings: a living room watching a movie, a bedroom playing a game, a kitchen following a recipe, and a balcony enjoying content outdoors. Overlaid graphic elements include subtle price tags, arrows pointing to benefits, and a call-to-action button "Learn More". Bright, energetic, modern, aspirational, editorial, high detail, pop art influence.`
