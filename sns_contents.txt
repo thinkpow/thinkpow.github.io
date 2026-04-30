@@ -1,84 +1,74 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠 / 틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 분량 스크립트
 
-**제목:** 스탠바이미 비싸서 포기? 놉! 가성비 삼탠바이미가 답! ✨
-
-**[영상 구성]**
-
-*   **초반 0-3초 (훅):** 비싼 스탠바이미 가격에 좌절하는 모습 또는 화면에 띄워진 스탠바이미 가격표를 보고 '헉' 하는 표정.
-*   **중반 3-12초:** 55인치/50인치 삼탠바이미의 매력적인 사용 장면 (거실, 침실, 주방 등 다양한 공간에서 이동하며 콘텐츠 시청), 제품의 큰 화면과 선명한 화질 강조. 가격 자막 오버레이.
-*   **후반 12-15초 (클로징):** 두 제품이 나란히 있는 모습 또는 사용자 만족스러운 표정, 명확한 CTA.
+**제목:** 스탠바이미 살 돈이 없다면? 이걸로 끝내! (feat. 가성비 끝판왕)
 
 ---
 
-**[스크립트]**
+**[영상 스크립트]**
 
-**0-3초 (훅! 시선강탈!):**
-(화면: 스탠바이미 검색 결과와 높은 가격표, 실망한 표정의 연기자)
-**나레이션:** "스탠바이미 사고 싶어서 들어왔는데... 가격보고 '헉' 하셨죠? 잠시만요!"
+**(0-3초) 훅(Hook) & 문제 제기**
+*   **화면:** "LG 스탠바이미" 로고 크게 → 옆에 비싼 가격표 등장 (ex: 120만원!) → "응, 비싸!" 자막 크게 뜨면서 가격표에 X 표시!
+*   **내레이션 (흥분된 목소리):** "스탠바이미 갖고 싶어서 검색했다가 가격 보고 심장 멎을 뻔 했어요?!"
+*   **효과음:** 웅장한 드럼 비트 + '꽝!' 타격음
 
-**3-8초:**
-(화면: 무빙큐빅스 55인치 삼탠바이미가 거실에서 영화를 재생하는 모습, '55인치 QLED', '60만원대', '방문설치' 자막 오버레이)
-**나레이션:** "이젠 비싼 스탠바이미 대신 **'삼탠바이미'**가 대세! 55인치 초대형 QLED TV가 단돈 60만원대? 심지어 전문 기사님이 방문설치까지!"
+**(3-12초) 핵심 해결책 & 제품 소개**
+*   **화면:** (빠르게 전환)
+    *   ① **무빙큐빅스 50인치 제품 풀샷:** 깔끔한 거실에서 영화 감상하는 모습. (자막: 50인치 4K QLED!)
+    *   ② **무빙큐빅스 32인치 제품 풀샷:** 침대 옆, 주방 등 여러 공간에서 활용하는 모습. (자막: 32인치 QLED!)
+    *   ③ 추가 추천 상품들 썸네일 빠르게 지나감 (삼성 TV, 이동식 거치대, 버스킹 스피커)
+*   **내레이션 (빠르고 신나는 목소리):** "걱정 마! 이제 **60만원대 50인치 4K 대화면!** 영화관이 내 방으로 쏙! 🤩"
+*   **내레이션:** "더 작고 저렴한 거? **30만원대 32인치 QLED!** 침실, 주방 어디든 나만의 TV! 💖"
+*   **내레이션:** "삼성 TV, 이동식 거치대, 심지어 이동식 노래방까지?"
+*   **배경음악:** 경쾌하고 빠른 비트의 트렌디한 숏폼 음악
 
-**8-12초:**
-(화면: 무빙큐빅스 50인치 삼탠바이미가 침실에서 넷플릭스를 재생하는 모습, '50인치 QLED', '50만원대', '자가설치' 자막 오버레이. 부드럽게 이동하는 모습 강조)
-**나레이션:** "더 저렴하게? 50인치 자가설치는 50만원대! 거실, 침실, 주방 어디든 끌고 다니며 나만의 극장 만들 수 있다고요!"
-
-**12-15초 (강력한 CTA):**
-(화면: 55인치와 50인치 제품이 나란히 놓여있고, 빛나는 효과와 함께 '압도적 가성비' 강조, '프로필 링크 클릭!' 자막)
-**나레이션:** "고화질 대화면, 이동의 자유! 압도적 가성비 삼탠바이미! 지금 바로 프로필 링크 클릭하세요!"
-
----
-
-## 📸 인스타그램 카드뉴스 (4컷)
-
----
-
-### 1️⃣ 첫 번째 컷
-
-*   **텍스트:**
-    **스탠바이미, 갖고 싶지만... 가격이 헉?! 🤯**
-    비싼 TV는 이제 그만!
-    현명한 당신을 위한 '가성비 삼탠바이미' 대공개!
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A disappointed young woman looking at a phone showing a high price tag for a sleek, modern mobile smart TV. The background is a minimalist, stylish living room with soft, inviting lighting. Cinematic, high contrast, warm tones. --ar 1:1 --v 5.2`
+**(12-15초) 마무리 & CTA**
+*   **화면:** 모든 추천 상품이 모인 콜라주 이미지 (화려하고 밝게) + "지금 바로 링크 클릭!" 자막 크게!
+*   **내레이션 (활기차게):** "이 모든 걸 초특가로! ✨ 더 자세한 정보는 댓글/더보기 링크 확인!"
+*   **효과음:** 밝고 신나는 징글 사운드
 
 ---
 
-### 2️⃣ 두 번째 컷
+## 2. 인스타그램 카드뉴스 4컷
 
-*   **텍스트:**
-    **돈 낭비 멈춰! 이젠 '삼탠바이미'가 대세! ✨**
-    원본보다 더 큰 화면!
-    더 뛰어난 화질!
-    훨씬 합리적인 가격으로 홈 엔터테인먼트의 신세계를 경험하세요!
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A modern, stylish living room with a large, sleek mobile smart TV (Samtanbyme) as the centerpiece. A joyful person is casually interacting with the TV, showcasing freedom of movement. Bright, vibrant, clean aesthetic. --ar 1:1 --v 5.2`
+### **카드뉴스 1컷**
 
----
+*   **들어갈 텍스트:**
+    *   **제목:** 스탠바이미? 🤯 가격보고 놀랐다면 주목!
+    *   **본문:** "LG 스탠바이미"의 감성은 갖고 싶지만... 통장 잔고가 울고 있다면? 😥 '가성비'와 '가심비' 모두 잡은 이동식 스마트 TV 대안을 찾고 계셨죠?
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A dynamic shot of a luxurious, minimalist living room with a blurred, expensive-looking portable TV in the background. In the foreground, a person's hand holds a smartphone showing a "too high price" error message or a shocked emoji. The overall feeling is sleek, modern, with a hint of dissatisfaction that leads to a solution. Soft, diffused natural light. --ar 1:1 --v 5.2
+    ```
 
-### 3️⃣ 세 번째 컷
+### **카드뉴스 2컷**
 
-*   **텍스트:**
-    **📺 55인치 QLED 대화면 + 방문설치!**
-    **무빙큐빅스 55인치 삼탠바이미**
-    - 60만원대 압도적 가성비!
-    - 전문 기사님 방문설치까지!
-    - 극장 같은 몰입감 경험하세요!
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A luxurious 55-inch QLED smart TV on a contemporary mobile stand, positioned in a spacious, sunlit modern living room. The screen displays a vibrant, high-definition movie scene. Emphasize crisp picture quality and sleek design. --ar 1:1 --v 5.2`
+*   **들어갈 텍스트:**
+    *   **제목:** 60만원대 50인치 4K QLED! 거실을 영화관으로!
+    *   **본문:** 압도적 몰입감! 50인치 대화면 4K QLED로 거실이 영화관으로 변신! 방문 설치까지 완벽! (✨ 무빙큐빅스 50인치 삼탠바이미)
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A wide shot of a spacious, modern living room at dusk, with a sleek, white 50-inch portable smart TV (resembling a large StandbyMe) displaying a vibrant 4K movie scene. The TV is on a minimalist stand. A cozy atmosphere with soft ambient lighting from the TV screen. Cinematic, high-resolution. --ar 1:1 --v 5.2
+    ```
 
----
+### **카드뉴스 3컷**
 
-### 4️⃣ 네 번째 컷 (CTA 포함)
+*   **들어갈 텍스트:**
+    *   **제목:** 30만원대 32인치 QLED! 침실, 주방 어디든 OK!
+    *   **본문:** 최고의 가성비! 32인치 QLED로 침실, 주방 어디든 '나만의 TV'를! 컴팩트한 디자인으로 공간 활용 끝판왕! (💖 무빙큐빅스 32인치 삼탠바이미)
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A split image or dynamic collage. On one side, a clean, white 32-inch portable smart TV showing a cooking show in a modern, bright kitchen. On the other side, the same TV displaying a relaxed streaming scene in a cozy, minimalist bedroom with soft indirect lighting. Seamless transitions, bright and inviting. --ar 1:1 --v 5.2
+    ```
 
-*   **텍스트:**
-    **💰 50인치 QLED 자가설치 50만원대!**
-    **무빙큐빅스 50인치 삼탠바이미**
-    - 극강의 가성비로 스마트 라이프 시작!
-    - 침실, 주방, 어디든 나만의 공간으로!
-    - >> 지금 바로 확인하기 (프로필 링크 클릭!)
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A cozy, minimalist bedroom with a 50-inch QLED smart TV on a simple, elegant mobile stand next to a bed. A person is comfortably watching content with a relaxed, happy expression. Soft, warm ambient lighting. --ar 1:1 --v 5.2`
+### **카드뉴스 4컷**
+
+*   **들어갈 텍스트:**
+    *   **제목:** 스탠바이미 가성비 끝판왕! 지금 바로 만나보세요!
+    *   **본문:** 스탠바이미 대체부터 이동식 거치대, 버스킹 스피커까지! 당신의 스마트 라이프를 업그레이드할 모든 것!
+    *   **CTA:** (🔗 프로필 링크 클릭!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A vibrant and energetic collage of all the recommended products (a 50-inch portable TV, a 32-inch portable TV, a sleek Samsung TV, a minimalist TV stand, a powerful portable speaker) floating in a stylized, modern digital space. Bright, appealing product shots with subtle glow effects. A bold "Shop Now" or "Discover More" button integrated into the design. Futuristic, dynamic, and enticing. --ar 1:1 --v 5.2
+    ```
