@@ -1,62 +1,70 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**(음악: 빠르고 경쾌하며 도파민 폭발하는 팝 음악)**
+**제목:** LG 스탠바이미 200만원? 이제 '가성비 삼탠바이미'로 반값 인생템 겟!
 
-**[0-3초] 훅 (Hook):**
-*   **비주얼:** 화면을 가득 채운 "스탠바이미 가격 200만원? 🤯" 텍스트가 번쩍! -> 바로 이어 50인치 4K QLED 이동식 TV가 엄청난 스케일로 등장하며 "이게 60만원대라고?!!!!!" 자막과 함께 폭발적인 효과음.
-*   **대사 (빠르게, 흥분한 목소리):** "헉! 스탠바이미 200만원 실화? 이 압도적 스케일의 50인치 4K QLED가 겨우 60만원대라고?!"
+**화면 구성 및 대사:**
 
-**[3-13초] 본문:**
-*   **비주얼:**
-    *   **3-7초:** `무빙큐빅스 50인치 4K QLED 삼탠바이미` (제품 이미지)가 등장, 거실 소파에 앉아 영화를 보는 사람들의 행복한 모습 오버레이. "초대형 50인치 4K QLED" 강조 자막.
-    *   **7-11초:** `무빙큐빅스 32인치 FHD QLED 삼탠바이미` (제품 이미지)가 등장, 침대에 누워 드라마를 보는 사람, 주방에서 요리하며 보는 사람 모습 오버레이. "내 방엔 32인치! 30만원대 QLED!" 강조 자막.
-    *   **11-13초:** 두 제품이 함께 등장하며 다양한 공간에서 자유롭게 움직이는 연출.
-*   **대사 (빠르게, 자신감 넘치는 목소리):**
-    *   "이게 바로 '무빙큐빅스 50인치 삼탠바이미'! 60만원대에 4K QLED 대화면 실화냐? 거실을 나만의 영화관으로!"
-    *   "작은 방엔 컴팩트한 32인치도 있어! 30만원대 QLED? 미쳤다 진짜! 침실, 주방, 어디든 이동하며 즐겨!"
+**(0-3초) 훅: 강렬한 비트의 음악 시작, 화면 빠르게 전환**
+*   **화면:** (1초) LG 스탠바이미 이미지 + '200만원' 크게 깜빡임 ➡️ (2초) 좌절하는 표정의 사람 ➡️ (3초) 번개처럼 'STOP!' 글자 등장!
+*   **대사:** "LG 스탠바이미 200만원? 잠시만요! ✋" (단호하고 빠른 톤)
 
-**[13-15초] 클로징 & CTA:**
-*   **비주얼:** 제품 썸네일과 함께 "프로필 링크에서 스탠바이미 가성비 끝판왕 보러가기!" 텍스트 명확하게 노출.
-*   **대사 (밝고 활기차게):** "가성비 스탠바이미 끝판왕 정보는 지금 바로 프로필 링크 확인!"
+**(3-10초) 제품 소개: 활기찬 음악으로 전환, 제품 장점 빠르게 강조**
+*   **화면:** (3-5초) 세련된 이동식 TV (무빙큐빅스 50인치)가 침대 옆에 있는 모습, 화면에 넷플릭스 재생. (텍스트 오버레이: ✨ 50인치 QLED 4K, 50만원대!)
+*   **대사:** "갖고 싶던 이동식 스마트TV, 비싸서 망설였다면? ❌"
+*   **화면:** (5-7초) 무빙큐빅스 50인치 TV가 주방, 거실 등 여러 공간으로 이동하는 모습 빠르게 편집. (텍스트 오버레이: 🚀 어디든 OK! QLED 대화면!)
+*   **대사:** "여기, 50인치 QLED 대화면에 넷플릭스까지 기본 탑재! 가격은 50만원대!" (놀라움 강조)
+*   **화면:** (7-10초) 무빙큐빅스 55인치 TV가 거실에 설치되는 모습 (방문설치 강조). (텍스트 오버레이: 💡 더 큰 55인치, 방문설치까지! 60만원대!)
+*   **대사:** "더 크게? 55인치 대화면에 전문가 방문설치까지 60만원대! 화질? 이동성? 다 잡았죠!" (자신감 있는 톤)
+
+**(10-15초) 클로징 및 CTA: 제품 이미지 강조, 구매 유도**
+*   **화면:** (10-13초) 두 제품 (50인치, 55인치)이 나란히 비교되는 깔끔한 그래픽. (텍스트 오버레이: 💎 가성비 끝판왕 삼탠바이미!)
+*   **대사:** "비싼 돈 주고 LG 스탠바이미 살 필요 없어요! 스마트한 당신의 선택!"
+*   **화면:** (13-15초) 프로필 링크 강조 이미지 + "지금 바로 확인!" 버튼. (배경 음악 페이드 아웃)
+*   **대사:** "지금 바로 프로필 링크에서 '인생 삼탠바이미' 만나보세요! 😉"
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### 1️⃣ 첫 번째 컷: 훅 & 문제 제기
+### 1️⃣ 첫 번째 컷: 훅! 가격 부담 해결 & 가성비 제안
 
-*   **텍스트:**
-    **슬라이드 제목:** 💸 스탠바이미 사고 싶었는데... 가격에 놀랐다고? 🤯
-    **본문:** 이제 망설이지 마세요! ✨ 스탠바이미 가성비 끝판왕, 여기 다 모았어!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A visually striking, modern, and cozy living room scene with soft natural light. In the foreground, a thought bubble above a person's head contains a large, red "SOLD OUT" sign or a '$$$' symbol, expressing frustration. In the background, a sleek, minimalist movable TV stand is visible, hinting at a solution. The overall atmosphere is warm and inviting, emphasizing affordable luxury. High resolution, photorealistic, cinematic lighting, editorial style, shallow depth of field, warm color palette.`
+*   **컷 텍스트:**
+    **LG 스탠바이미 갖고 싶어서 검색했는데... 200만원은 너무 비싸! 💸**
+    ✨ **2024년 '가성비 삼탠바이미' 완벽 구매 가이드!**
+    (가격은 1/4! 만족도는 200%!)
+*   **Midjourney 프롬프트:**
+    A dynamic, eye-catching scene in a modern, minimalist living room. In the foreground, a frustrated young adult holds their head in despair while looking at a sleek, expensive-looking portable TV with a glowing "₩2,000,000+" price tag floating above it. In the background, a bright, inviting alternative portable TV (representing a '삼탠바이미') is visible, glowing with a "₩500,000~" price tag and surrounded by positive light. Use vibrant colors, sharp focus, and a touch of futuristic aesthetic. Cinematic lighting, high contrast. --ar 1:1 --v 5.2
 
-### 2️⃣ 두 번째 컷: 메인 상품 1 (50인치)
+### 2️⃣ 두 번째 컷: 메인 상품 1 (무빙큐빅스 50인치) 소개
 
-*   **텍스트:**
-    **슬라이드 제목:** 🎬 거실을 나만의 영화관으로! 50인치 4K QLED 대화면!
-    **제품명 & 가격:** 무빙큐빅스 50인치 4K QLED 삼탠바이미 | 629,000원
-    **핵심:** 압도적 가성비! 60만원대에 4K QLED 프리미엄 화질, 편리한 이동성 & 방문설치!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A luxurious and spacious living room at dusk, bathed in the warm glow of ambient lighting. A large 50-inch QLED movable TV on a sleek white stand is the focal point, displaying a breathtaking cinematic scene with ultra-vivid colors and deep blacks. A person is comfortably lounging on a modern sofa, completely immersed in the content. The room features minimalist decor with subtle elegant touches. High definition, cinematic, dramatic lighting, warm and inviting atmosphere, photorealistic, high detail.`
+*   **컷 텍스트:**
+    **👑 가성비 끝판왕! 50인치 QLED 삼탠바이미**
+    ✔️ **50인치 4K QLED 대화면!**
+    ✔️ **50만원대 미친 가격!**
+    ✔️ **OTT 내장, 스마트 기능 완벽!**
+    ✨ **"무빙큐빅스 스마트 50인치"**
+*   **Midjourney 프롬프트:**
+    A cozy, stylish bedroom or studio apartment. A sleek, modern 50-inch portable QLED TV on an elegant stand is positioned perfectly next to a comfortable bed or sofa. The TV screen displays vibrant, high-definition 4K content (e.g., a popular streaming service logo like Netflix or Disney+). Soft, warm lighting creates an inviting atmosphere. Emphasize the slim design and brilliant screen quality. Minimalist decor, aesthetic composition, shallow depth of field. --ar 1:1 --v 5.2
 
-### 3️⃣ 세 번째 컷: 메인 상품 2 (32인치)
+### 3️⃣ 세 번째 컷: 메인 상품 2 (무빙큐빅스 55인치) 소개
 
-*   **텍스트:**
-    **슬라이드 제목:** ✨ 내 방, 내 취향대로! 32인치 FHD QLED 컴팩트 이동식 TV
-    **제품명 & 가격:** 무빙큐빅스 32인치 FHD QLED 삼탠바이미 | 329,000원
-    **핵심:** 최고의 입문용 가성비! 30만원대 QLED 고화질, 컴팩트한 사이즈로 자유로운 이동!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A serene and cozy bedroom with soft morning light filtering through a window. A compact 32-inch QLED movable TV on a elegant white stand is positioned near a bed, displaying a bright, high-definition image of a popular drama or cozy content. The room has light, airy decor, perhaps a small potted plant on a bedside table and a stack of books. The focus is on personal space and convenience. Clean, bright, inviting, soft focus, photorealistic, warm pastel color palette.`
+*   **컷 텍스트:**
+    **🚀 한 단계 업그레이드! 55인치 방문설치 삼탠바이미**
+    ✔️ **압도적인 55인치 대화면!**
+    ✔️ **설치 걱정 NO! 전문가 방문 설치!**
+    ✔️ **하이엔드 QLED 화질로 몰입감 최고!**
+    ✨ **"무빙큐빅스 스마트 55인치"**
+*   **Midjourney 프롬프트:**
+    A bright, spacious open-plan living area or kitchen, filled with natural light. An elegant 55-inch portable QLED TV is being effortlessly positioned by a professional-looking, friendly installer (or a happy customer easily moving it) near a dining table or kitchen island. The TV screen shows vivid, dynamic content (e.g., a cooking show or a sports match). Focus on the ease of installation and the large, immersive screen. Clean, modern interior design, airy ambiance, high-tech and convenient feel. --ar 1:1 --v 5.2
 
-### 4️⃣ 네 번째 컷: 총정리 & CTA
+### 4️⃣ 네 번째 컷: 최종 요약 & CTA
 
-*   **텍스트:**
-    **슬라이드 제목:** 🤯 60만원대로 50인치 4K QLED 이동식 TV를? 믿기지 않는 가성비!
-    **본문:** 이제 당신도 영화관을 통째로 옮겨놓은 듯한 경험을!
-    **CTA:** 더 자세한 정보는 프로필 링크에서 확인하세요!
-    **해시태그:** #스탠바이미가성비 #이동식TV #삼탠바이미 #QLEDTV #내돈내산템 #스마트TV
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A vibrant and dynamic collage or montage-style image. The main composition shows multiple small frames or windows, each depicting a different person happily enjoying a movable TV in various settings: a living room watching a movie, a bedroom playing a game, a kitchen following a recipe, and a balcony enjoying content outdoors. Overlaid graphic elements include subtle price tags, arrows pointing to benefits, and a call-to-action button "Learn More". Bright, energetic, modern, aspirational, editorial, high detail, pop art influence.`
+*   **컷 텍스트:**
+    **✨ LG 스탠바이미, 비쌀 필요 없어요!**
+    **가격, 화질, 편리함 다 잡은**
+    **'가성비 삼탠바이미'로 똑똑하게 즐기세요!**
+    👇 **지금 바로 프로필 링크 확인!**
+*   **Midjourney 프롬프트:**
+    A dynamic collage or split-screen image. On one side, a blurred, generic image of an expensive, unattainable portable TV with a giant "PRICE TOO HIGH" stamp. On the other side, two clear, brightly lit portable QLED TVs (representing the '무빙큐빅스' 50-inch and 55-inch models) showcasing vibrant, attractive content. Text bubbles around the affordable TVs say "Amazing Value!", "Stunning QLED!", "Smart & Portable!". The overall mood is empowering and optimistic. Modern graphic design, bright and clean aesthetic, strong call to action visual elements. --ar 1:1 --v 5.2
