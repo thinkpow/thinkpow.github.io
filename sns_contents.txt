@@ -1,93 +1,95 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 비싼 스탠바이미? 이제 50만원대로 쌉가능! 💰 (feat. 삼탠바이미)
+**콘텐츠 제목:** 내 방을 영화관으로! ✨ 이동식 스마트 TV & 삼탠바이미 완벽 구매 가이드!
 
-**[영상 구성]**
-
-*   **HOOK (0-3초):** 비싼 스탠바이미 가격에 좌절하는 모습 (x 표시).
-*   **전환 (3-7초):** 저렴한 삼탠바이미가 등장하며 표정이 환해짐.
-*   **상품 1 (7-11초):** 무빙큐빅스 50인치 삼탠바이미의 대화면과 올인원 구성 강조.
-*   **상품 2 (11-14초):** 무빙큐빅스 55인치 삼탠바이미의 크기와 설치 편의성 강조.
-*   **마무리 (14-15초):** "더 자세한 정보는 댓글/프로필 링크 클릭!" (화면 텍스트로도 강조)
+**(영상 시작 전: 빠르고 경쾌하며 트렌디한 BGM 시작!)**
 
 ---
 
-**[스크립트]**
+**[0-3초] 💥 훅(Hook): 시선 강탈! 초고속 전환 영상 (BGM 볼륨 UP!)**
 
-(빠른 비트의 경쾌한 BGM 시작)
+*   **비주얼:**
+    *   (0-1초) 침대 위, 이불 덮고 누워있는 사람이 이동식 TV로 영화 보는 장면 (밤, 아늑함)
+    *   (1-2초) 주방 조리대 옆, 이동식 TV로 레시피 영상이나 예능 보는 장면 (낮, 활기참)
+    *   (2-3초) 베란다/거실 창가, 커피 마시며 이동식 TV로 드라마 보는 장면 (햇살, 여유로움)
+    *   (전체적으로 빠르게 전환되며 '어디든' 활용 가능하다는 느낌 강조)
+*   **대사 (내레이터 - 빠르고 신나는 톤):** "미쳤다! 집! 밖! 가리지 않고! 내 맘대로 초대형 화면? 이거 실화냐?!"
 
-**0-3초 (HOOK):**
-**나레이션:** "스탠바이미 비싸서 포기했어? 댓츠 노노! 💸"
-*(자막: 🙅‍♀️ 스탠바이미 비싸?! No!)*
+**[3-12초] 🌟 핵심 기능 및 추천 상품 소개**
 
-**3-7초:**
-**나레이션:** "이제 50만원대로! 꿈의 '이동식 TV' 쌉가능! ✨ '삼탠바이미'가 왔잖아!"
-*(자막: 50만원대 삼탠바이미 등장!)*
+*   **비주얼:**
+    *   (3-6초) 삼성 삼탠바이미 M1 43인치 AI 무빙스타일 제품의 세련된 디자인 강조. 현대적인 거실에 놓인 모습. (고급스러움, 큰 화면)
+    *   **대사 (내레이터 - 자신감 있는 톤):** "삼성 M1 43인치! AI 무빙스타일로 품격 있게 즐기는 프리미엄 라이프!"
+    *   (6-9초) 위드라이프 스마트 40인치 삼탠바이미TV 무빙라이프세트의 활용 모습. 방에서 편안하게 사용하는 모습. (가성비, 실용성)
+    *   **대사 (내레이터 - 친근하고 에너지 넘치는 톤):** "가성비 끝판왕! 위드라이프 40인치로 어디든 나만의 극장 만들어요!"
+    *   (9-12초) 넷플릭스, 유튜브, 웨이브 등 OTT 앱 아이콘 빠르게 보여주기 + 이동식 스탠드 굴러가는 모습
+    *   **대사 (내레이터 - 명확하게):** "넷플릭스, 유튜브는 기본! 설치 NO! 이동은 OK! 당신의 스마트 라이프를 UP!"
 
-**7-11초:**
-**나레이션:** "50인치 QLED 4K 대화면이 이 가격에 TV+거치대 올인원! 압도적 가성비!"
-*(자막: 📺 50인치 QLED 4K! 올인원!)*
+**[12-15초] ➡️ 강력한 CTA (Call To Action)**
 
-**11-14초:**
-**나레이션:** "더 크게! 55인치에 방문설치까지? 😱 이건 무조건 사야 해!"
-*(자막: ⚡️ 55인치+방문설치! 미쳤다!)*
-
-**14-15초:**
-**나레이션:** "자세한 정보는 지금 바로 댓글/프로필 링크 확인!"
-*(자막: ⬇️ 링크 클릭! 더 많은 정보!)*
-
-(BGM 팡파레로 마무리)
-
----
-
-## 📸 인스타그램 카드뉴스 4컷
+*   **비주얼:**
+    *   (12-15초) 삼성 M1과 위드라이프 40인치 제품 이미지 나란히 배치. 큰 글씨로 "지금 바로 프로필 링크 확인!" 텍스트 오버레이.
+    *   (BGM 점점 커지며 마무리)
+*   **대사 (내레이터 - 설득력 있고 힘찬 톤):** "지금 바로 프로필 링크에서 나만의 무빙 라이프를 시작하세요! 놓치지 마세요!"
 
 ---
 
-### **[카드뉴스 1컷]**
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-*   **들어갈 텍스트:**
-    **비싼 스탠바이미? 이제 그만! 💸**
-    **똑똑한 당신은 '삼탠바이미'로 갈아타세요!**
-    (핵심 키워드: #스탠바이미 #가성비 #삼탠바이미 #이동식TV)
+---
 
+### **카드 1/4: 🎬 내 집이 영화관?! 이동식 스마트 TV & 삼탠바이미의 세계로!**
+
+*   **카드 텍스트:**
+    > 영화관이 내 집으로? 🏡 극강의 자유! 이동식 스마트 TV & 삼탠바이미 ✨ 거실? 침실? 베란다? 원하는 곳 어디든 나만의 극장을 만들어요!
 *   **Midjourney 스타일 영문 프롬프트:**
-    A dynamic, vibrant image of a stylish living room with a large, expensive-looking mobile smart TV. Overlay an infographic style "NO" symbol or a crossed-out price tag ($$$) on the TV screen. In the background, a person (silhouette or blurred) looks initially frustrated, then relieved and smiling. Modern, sleek design with a touch of luxury meets affordability. Cinematic lighting, high contrast. --ar 1:1 --v 5.2
+    ```
+    A dynamic, aesthetically pleasing scene of a modern, cozy apartment living room transitioning into a bedroom and then a balcony. In each space, a sleek, portable smart TV on a minimalist mobile stand is prominently featured, displaying vibrant movie scenes or streaming content. The lighting is warm and inviting, capturing different times of day (morning sun on balcony, evening in living room, night in bedroom). Emphasize comfort, freedom, and stylish living. High resolution, cinematic quality, soft focus in background. --ar 1:1 --v 5.2
+    ```
 
 ---
 
-### **[카드뉴스 2컷]**
+### **카드 2/4: 👑 프리미엄의 품격! 삼성 삼탠바이미 M1 43인치 AI 무빙스타일**
 
-*   **들어갈 텍스트:**
-    **✨ 50만원대! 50인치 QLED 4K '무빙큐빅스' ✨**
-    **TV+거치대 올인원! 이 가격에 이런 스펙은 미쳤다!**
-    **#무빙큐빅스50인치 #가성비TV #QLED4K**
-
+*   **카드 텍스트:**
+    > ✨ 압도적 몰입감! 삼성 M1 43인치 AI 무빙스타일 ✨
+    > 삼성의 강력한 브랜드 파워와 43인치 대화면이 선사하는 몰입감! 'AI 무빙스타일'로 최적의 시청 경험까지!
+    > ✅ 프리미엄 디자인
+    > ✅ AI 무빙 기술
+    > ✅ 43인치 대화면
 *   **Midjourney 스타일 영문 프롬프트:**
-    A cozy and modern bedroom, bathed in soft, warm morning light. A 50-inch QLED 4K smart TV on a sleek, minimalist mobile stand is positioned next to the bed. The TV screen displays a vibrant, high-definition movie scene or a picturesque landscape. A person's hand is gently touching the screen or holding a remote. Emphasize the all-in-one nature and stunning visual quality. Inviting, comfortable atmosphere. --ar 1:1 --v 5.2
+    ```
+    A sophisticated, minimalist modern living room with a large window. A premium Samsung M1 43-inch portable smart monitor on a sleek, metallic mobile stand is the focal point. The screen displays a breathtaking 4K UHD nature scene. The room features high-end furniture, a subdued color palette, and subtle accent lighting. The overall impression is one of luxury, technology, and seamless integration into an elegant interior. Professional product photography, sharp details, warm ambient light. --ar 1:1 --v 5.2
+    ```
 
 ---
 
-### **[카드뉴스 3컷]**
+### **카드 3/4: 💰 가성비 끝판왕! 위드라이프 40인치 삼탠바이미TV 무빙라이프세트**
 
-*   **들어갈 텍스트:**
-    **⚡️ 더 크게! 55인치에 방문 설치까지! 📺**
-    **'무빙큐빅스 55인치'로 공간의 제약을 없애다!**
-    **#무빙큐빅스55인치 #대화면TV #방문설치**
-
+*   **카드 텍스트:**
+    > 💰 가성비 끝판왕! 위드라이프 40인치 삼탠바이미TV 🎬
+    > 합리적인 가격에 모든 것을 갖춘 풀세트! 구글 안드로이드 OS로 넷플릭스, 유튜브 무제한!
+    > ✅ 합리적 가격 (32만원대!)
+    > ✅ 40인치 대중적인 화면
+    > ✅ 이동식 스탠드 포함
+    > ✅ 에너지 효율 1등급
 *   **Midjourney 스타일 영문 프롬프트:**
-    A spacious, bright, and clean living room with minimalist decor. A professional-looking technician is carefully installing a large 55-inch QLED 4K smart TV onto a sturdy mobile stand. The scene highlights the ease of the installation service and the impressive size of the screen. Focus on convenience and premium experience. Clean, crisp lighting, high-tech vibe. --ar 1:1 --v 5.2
+    ```
+    A cozy, bright, and inviting bedroom or studio apartment with a friendly, casual atmosphere. A Withlife 40-inch portable smart TV on its simple, functional mobile stand is positioned comfortably near a bed or armchair. The screen shows a popular streaming service's user interface (e.g., Netflix or YouTube). The room is decorated with soft blankets, personal items, and natural light. Emphasize accessibility, comfort, and the "full set" convenience. Realistic, warm, and inviting product shot. --ar 1:1 --v 5.2
+    ```
 
 ---
 
-### **[카드뉴스 4컷]**
+### **카드 4/4: 💡 나에게 딱 맞는 이동식 TV는? 지금 바로 확인!**
 
-*   **들어갈 텍스트:**
-    **결론: 비싼 돈 낭비 No! 🙅‍♀️**
-    **'삼탠바이미'로 스마트한 라이프 시작! 💰**
-    **[더 자세한 정보는 프로필 링크 클릭! 🔗]**
-
+*   **카드 텍스트:**
+    > 💡 당신의 라이프스타일에 딱 맞는 #이동식TV 는?
+    > 프리미엄 삼성 M1부터 가성비 위드라이프, 그리고 DIY 거치대까지!
+    > ➡️ 지금 바로 프로필 링크에서 #나만의극장 을 만들어보세요!
+    > #삼탠바이미 #스탠바이미대안 #자취필수템 #스마트모니터
 *   **Midjourney 스타일 영문 프롬프트:**
-    A dynamic split image. The left side shows a person happily and effortlessly moving a mobile smart TV to various rooms (living room, kitchen, balcony) while watching content, conveying freedom and convenience. The right side features stylized infographic elements: a dollar sign, a checkmark, a lightbulb icon, and the bold text "SAMTENBYME". The overall aesthetic is bright, cheerful, and action-oriented, emphasizing value and smart choice. --ar 1:1 --v 5.2
+    ```
+    A vibrant, collage-style image or split screen. One side showcases a luxurious, high-tech interior with a premium portable smart TV (representing Samsung M1), emphasizing elegance and advanced features. The other side shows a cozy, practical, and budget-friendly setup with a value-for-money portable smart TV (representing Withlife 40-inch or 32-inch), highlighting comfort and affordability. A subtle third element (like a mobile stand) is partially visible to suggest DIY options. Use modern, clean typography for "Premium" and "Value" text overlays. The overall image is bright, engaging, and action-oriented with an arrow graphic pointing towards a "Link in Bio" button. --ar 1:1 --v 5.2
+    ```
