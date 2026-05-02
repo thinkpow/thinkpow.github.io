@@ -1,54 +1,68 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
+## 도파민 폭발 15초 쇼츠 스크립트 (유튜브 쇼츠 / 틱톡)
 
-*(배경음악: 신나고 중독성 강한 K-POP 비트)*
-
-**[0-3초] 훅 (Hook)**
-*   **화면**: LG 스탠바이미 로고와 함께 "200만원대?"라고 크게 띄우며, 좌절하거나 충격받은 사람의 얼굴 클로즈업. 이어서 비장하게 "NO!" 자막.
-*   **대사**: "스탠바이미? 사려다 가격보고 심장 멎을 뻔 했어? 😱 이젠 그럴 필요 없어!"
-
-**[3-7초] 문제 제기 및 새로운 대안 제시**
-*   **화면**: '삼탠바이미'라는 글자가 화려하게 터지듯 등장! 무빙큐빅스 55인치 제품이 세련된 거실에서 스르륵 움직이는 모습.
-*   **대사**: "댓츠 노노! 이제 '삼탠바이미' 시대! 이동식 TV, 비싸게 살 필요 없잖아?"
-
-**[7-11초] 핵심 제품 강조**
-*   **화면**: 무빙큐빅스 55인치 (영화 감상) → 50인치 (침실에서 넷플릭스) 등 다양한 공간에서 활용되는 모습 빠르게 전환. "4K QLED" "초고화질" 자막 강조.
-*   **대사**: "55인치 대화면 QLED, 4K 초고화질은 기본! 어디든 이동 가능한 초강력 가성비!"
-
-**[11-15초] 가격 & Call to Action**
-*   **화면**: 55인치 모델 가격 '60만원대' / 50인치 모델 가격 '50만원대' 자막 크게 강조. 마지막에 두 제품 썸네일과 함께 "더보기" 버튼이 나타남.
-*   **대사**: "방문설치 55인치 60만원대! 직접설치 50인치 50만원대! 믿어져? 지금 바로 더 자세한 정보를 확인해!"
+**콘텐츠 제목:** 스탠바이미 비싸서 포기? 🙅‍♀️ 50만원대에 50인치 삼탠바이미 본 적 있어? | 내 방을 영화관으로!
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**[스크립트]**
 
-### 1. 첫 번째 컷
-*   **들어갈 텍스트**:
-    스탠바이미 드림.. 가격보고 헉! 😫
-    이젠 '삼탠바이미'로 가성비 끝판왕 찍자!
-    (이동식 스마트 TV의 새로운 기준!)
-*   **Midjourney 스타일 영문 프롬프트**:
-    A minimalist, futuristic living room. A person looks shocked at a giant, glowing price tag (e.g., "$2,000,000" in Korean Won) on a sleek, expensive-looking mobile TV. In the foreground, a much more stylish and affordable 'SamtanbyME' mobile TV with a "Value King" banner glows invitingly. The overall vibe is clean, modern, with a hint of tech-futurism. --ar 1:1 --v 5.2
+*   **[0-3초] (훅) ⚡️**
+    *   **화면:** 'LG 스탠바이미' 로고, '100만원 이상', '작은 화면' 텍스트가 번개처럼 지나가고 '좌절하는 이모지' 등장. 이어서 '가성비 끝판왕!' 텍스트와 함께 눈이 번쩍 뜨이는 표정의 인물 등장.
+    *   **나레이션:** "스탠바이미 예쁜데... 비싸고 작아서 포기했어? 🙅‍♀️ 잠깐! 50만원대에 50인치 삼탠바이미 본 적 있어?"
+*   **[3-7초] (핵심 제품 소개) 💰**
+    *   **화면:** `무빙큐빅스 스마트 50인치 4K UHD QLED 삼탠바이미` 제품 이미지와 '549,000원' 가격 텍스트가 시원하게 나타남.
+    *   **나레이션:** "LG 스탠바이미 절반 가격! 50인치 4K QLED TV에 이동식 스탠드까지? 이거 미쳤다!"
+*   **[7-11초] (활용성 & 장점) ✨**
+    *   **화면:** 침대 옆, 주방, 거실 등 다양한 공간에서 삼탠바이미를 자유롭게 사용하는 모습이 빠르게 전환됨. QLED의 선명한 화면 강조.
+    *   **나레이션:** "거실, 침실, 주방 어디든 내 맘대로! QLED 대화면으로 넷플릭스, 유튜브 다 되는 나만의 스마트 TV!"
+*   **[11-14초] (프리미엄 옵션 & 결정타) 🚀**
+    *   **화면:** `무빙큐빅스 스마트 55인치 방문설치` 제품 이미지와 '689,000원', '전문가 방문설치!' 텍스트 강조.
+    *   **나레이션:** "더 큰 55인치 대화면에 전문 기사 방문설치까지 원해? 💸 이건 무조건 사야 돼!"
+*   **[14-15초] (클로징 & CTA) ✅**
+    *   **화면:** '프로필 링크 클릭!' 텍스트와 함께 손가락 이모지가 강조되며 제품 구매 유도.
+    *   **나레이션:** "지금 바로 프로필 링크 확인하고 내 방을 영화관으로 바꿔봐!"
 
-### 2. 두 번째 컷
-*   **들어갈 텍스트**:
-    ✨ 압도적 55인치! QLED 4K + 방문설치까지 60만원대!
-    (무빙큐빅스 55인치 삼탠바이미)
-*   **Midjourney 스타일 영문 프롬프트**:
-    A luxurious and spacious modern living room with large windows overlooking a city skyline. A sleek, white 55-inch 4K QLED mobile TV (SamtanbyME style) on a stand is prominently displayed, showing a vibrant, high-definition movie scene. A professional-looking technician is subtly in the background, suggesting convenient installation. Elegant, bright, and premium feel. --ar 1:1 --v 5.2
+---
 
-### 3. 세 번째 컷
-*   **들어갈 텍스트**:
-    🔥 50만원대 극강 가성비! 50인치 4K QLED 이동식 TV!
-    (무빙큐빅스 50인치 삼탠바이미)
-*   **Midjourney 스타일 영문 프롬프트**:
-    A cozy, minimalist bedroom with soft, inviting lighting. A white 50-inch 4K QLED mobile TV (SamtanbyME style) on a stand is positioned perfectly for comfortable viewing from the bed, displaying a colorful, lively streaming service interface. A relaxed person is partially visible in the bed, enjoying the view. Warm, comfortable, and inviting atmosphere. --ar 1:1 --v 5.2
+## 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-### 4. 네 번째 컷
-*   **들어갈 텍스트**:
-    거실, 방, 부엌, 캠핑 어디든! 🏕️
-    나만의 스마트 라이프, 지금 시작하세요! ➡️ (더보기 링크)
-*   **Midjourney 스타일 영문 프롬프트**:
-    A dynamic split-screen collage: one panel shows a mobile TV in a modern, stylish living room; another shows it in a cozy bedroom; a third panel shows it on a kitchen island; and the fourth panel features it inside a trendy glamping tent. All scenes are connected by a theme of seamless mobility and smart lifestyle. Bright, energetic, and visually appealing. --ar 1:1 --v 5.2
+---
+
+### **[카드 1]**
+*   **텍스트:**
+    **스탠바이미 예쁜데... 비싸고 작아서 포기했어? 🙅‍♀️**
+    (부제: LG 스탠바이미, 매력은 알지만 가격/화면 때문에 망설인다면 주목!)
+*   **Midjourney 프롬프트:**
+    `A luxurious, minimalist living room featuring a sleek, modern portable smart TV that is visibly smaller than expected for the grand space, representing an expensive but visually appealing product like LG StandbyMe. The atmosphere is aspirational but with a subtle hint of longing or hesitation. Clean lines, soft ambient lighting, high contrast, cinematic, hyperrealistic, --ar 4:5 --style raw --v 5.2`
+
+---
+
+### **[카드 2]**
+*   **텍스트:**
+    **잠깐! 🤯 50만원대에 50인치 4K QLED 삼탠바이미?!**
+    (부제: LG 스탠바이미 절반 가격으로 대화면+최고 화질을 한번에!)
+*   **Midjourney 프롬프트:**
+    `A modern, cozy bedroom bathed in warm natural light, showcasing a large 50-inch QLED smart TV on a sleek white portable stand (SamTanbyMe style). The screen displays vibrant 4K UHD content, with a happy person comfortably enjoying the immersive viewing experience. The design is minimalist and stylish, emphasizing the all-in-one solution. Cinematic, hyperrealistic, --ar 4:5 --style raw --v 5.2`
+
+---
+
+### **[카드 3]**
+*   **텍스트:**
+    **QLED 대화면 + 이동성 💯 55인치에 방문설치까지 가능하다고? 😲**
+    (부제: 거실, 침실, 주방 어디든 OK! 더 큰 화면과 편리함까지!)
+*   **Midjourney 프롬프트:**
+    `A bright and inviting open-plan living space or studio apartment, featuring a massive 55-inch QLED portable smart TV (SamTanbyMe style) on an elegant white stand. The screen shows a breathtaking cinematic scene with vivid colors. The overall setup is clean, professional, and luxurious, subtly implying the convenience of expert installation. Abundant natural light, modern design, cinematic, hyperrealistic, --ar 4:5 --style raw --v 5.2`
+
+---
+
+### **[카드 4]**
+*   **텍스트:**
+    **내 방을 영화관으로! 💰 현명한 당신의 선택은?**
+    **프로필 링크 GO!**
+    (부제: 스탠바이미 가성비 끝판왕! 지금 바로 확인하세요!)
+*   **Midjourney 프롬프트:**
+    `A joyful and satisfied person relaxing in a chic, modern living space, smiling while interacting with a sleek, portable smart TV (SamTanbyMe style). The scene conveys a feeling of achieving affordable luxury and ultimate home entertainment. A subtle 'Click Here' or 'Link in Bio' call-to-action graphic could be integrated into the design. Bright, positive atmosphere, clean aesthetics, cinematic, hyperrealistic, --ar 4:5 --style raw --v 5.2`
+
+---
