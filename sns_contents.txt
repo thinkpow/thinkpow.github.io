@@ -1,79 +1,61 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 📢 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
 
 **[영상 컨셉]**
-도입 3초 안에 LG 스탠바이미의 높은 가격표를 보여주며 시선을 강탈하고, 바로 가성비 대안을 제시하며 문제 해결! 빠르게 제품 특징을 보여주고 구매 전환을 유도합니다.
+빠른 화면 전환, 텍스트 효과, 신나는 배경 음악.
+첫 3초 안에 시선을 사로잡는 강력한 훅과 제품의 핵심 강점(가성비, 이동성, 스마트 기능)을 빠르게 어필.
 
 ---
 
 **[스크립트]**
 
-**[0-3초] ⚡️ (훅: 충격적인 가격 공개 및 반전!)**
-*   **화면:** (LG 스탠바이미 이미지와 함께) "LG 스탠바이미.. 이 가격 실화?" 😱 (화면 전환되며 가격표에 큼지막한 X표시, 그 옆에 '20만원대부터!' 강력하게 강조)
-*   **내레이션:** "스탠바이미, 너무 비싸서 망설였다면? 🚨 지금부터 집중!"
+**(0-3초) 훅! (강렬한 효과음, 빠른 텍스트 등장)**
+- **나레이션:** "스탠바이미 비싸서 못 샀다고? 😡 놉!"
+- **화면:** LG 스탠바이미 이미지가 "X" 표시와 함께 사라지고, 활짝 웃는 사람의 얼굴이 클로즈업되며 "이거 봐!" 자막 등장.
 
-**[3-7초] (문제 제시 & 해결책 제시)**
-*   **화면:** (침대 옆, 주방 등 다양한 공간에서 이동식 TV를 사용하는 모습 빠르게 교차)
-*   **내레이션:** "침실에서 넷플릭스, 주방에서 유튜브? 비싼 돈 안 쓰고도 이동식 스마트TV 가능해!"
+**(3-8초) 솔루션 제시 & 첫 번째 제품 (빠르게 전환)**
+- **나레이션:** "이제 20만원대로 이동식 스마트TV 끝판왕 만난다!"
+- **화면:** 🛋️침대 옆, 🧑‍🍳주방, ⛺캠핑장 등 다양한 장소에서 무빙이지 구글 스마트TV를 사용하는 모습이 빠르게 전환되며 "무빙이지 구글 스마트TV" 자막 등장.
+- **나레이션:** "구글TV에 이동식 스탠드까지 한 번에! 넷플릭스, 유튜브 다~ 돼!"
+- **화면:** 넷플릭스 로고, 유튜브 로고가 빠르게 지나가고 "229,000원!" 가격 자막이 크게 뜬다.
 
-**[7-12초] (메인 추천 상품 2개 소개)**
-*   **화면:** (무빙큐빅스 40인치 제품 이미지와 장점 텍스트)
-*   **내레이션:** "첫 번째! **💥 40인치 대화면이 30만원대!** 디자인까지 예쁜 무빙큐빅스 삼탠바이미!"
-*   **화면:** (티브이지 구글 스마트TV 제품 이미지와 장점 텍스트)
-*   **내레이션:** "두 번째! **💰 20만원대 실화? 구글TV 탑재!** 가성비 끝판왕 티브이지 세트!"
+**(8-12초) 두 번째 제품 & 특징 (세련된 전환)**
+- **나레이션:** "좀 더 큰 화면? 40인치 '무빙큐빅스' 화이트 에디션!"
+- **화면:** 무빙큐빅스 40인치 화이트 에디션이 세련된 모던 인테리어에 놓여있는 모습, 디테일 샷 (화이트 스탠드, 얇은 베젤 등)
+- **나레이션:** "세련된 디자인에 30만원대 대화면 스마트TV까지!"
+- **화면:** "40인치 대화면!", "369,000원!" 자막 등장.
 
-**[12-15초] (클로징 & CTA)**
-*   **화면:** (두 제품이 나란히 비교되거나, 행복하게 사용하는 모습)
-*   **내레이션:** "내 돈 아끼고 삶의 질 수직 상승! 놓치면 후회할 걸? 지금 바로 프로필 링크에서 확인하세요!"
-
----
-
-## 2. 인스타그램 카드뉴스 4컷
-
-**[컨셉]**
-스탠바이미의 '비싼 가격'이라는 페인 포인트를 첫 장에서 확실히 짚고, 이커머스 MD의 전문성을 내세워 엄선된 '가성비 삼탠바이미' 2종을 소개하며 해결책을 제시합니다. 마지막은 강력한 구매 유도로 마무리.
+**(12-15초) 강력한 CTA! (도파민 터지는 효과)**
+- **나레이션:** "내 지갑은 지키고 삶의 질은 UP! 🔥 지금 바로 프로필 링크에서 가성비 이동식 TV 만나봐!"
+- **화면:** 두 제품이 나란히 배치된 최종 비교 이미지와 함께 "프로필 링크 클릭!", "지금 바로 구매!" 등의 강조 텍스트가 번쩍이며 사라진다.
 
 ---
 
-**[카드뉴스]**
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### **카드 1/4: 훅(Hook) & 문제 제기**
+---
 
-*   **들어갈 텍스트:**
-    🚨 LG 스탠바이미 가격보고 좌절했니? 이제 NO!
-    ✨ 10년차 MD가 뽑은 '가성비 삼탠바이미' TOP 2 공개! ✨
-*   **Midjourney 스타일 영문 프롬프트:**
-    A sleek, minimalist, and luxurious bedroom with an expensive-looking mobile smart TV on a stand. Overlay effect: a giant, vivid red "X" crossing out a high price tag. Below the "X", bright, inviting text says "Affordable SamtenbyMe, YES!". The overall mood is modern, clean, with a hint of dramatic contrast. Midjourney style, --ar 1:1 --v 5.2
+### **[카드뉴스 1/4]**
 
-### **카드 2/4: 메인 추천 1 - 무빙큐빅스 40인치**
+*   **카드 텍스트:** "스탠바이미 갖고 싶었는데... 너무 비싸서 망설였다고? 😫"
+*   **Midjourney 프롬프트:**
+    `A stylish, minimalist living room with warm indirect lighting. In the center, a sleek, modern, high-end portable smart TV (like LG StandbyMe) is prominently displayed, looking luxurious but with a subtle hint of being out of reach. The atmosphere is aspirational but slightly melancholic, reflecting desire and hesitation. --ar 1:1 --v 5.2`
 
-*   **들어갈 텍스트:**
-    💥 40인치 대화면이 30만원대? 압도적 가성비!
-    **[무빙큐빅스 40인치 삼탠바이미 화이트에디션 SET]**
-    ✅ 30만원대 40인치 대화면으로 몰입감 UP!
-    ✅ 스마트TV + 이동식 스탠드 올인원 구성!
-    ✅ 어떤 인테리어에도 찰떡! 세련된 화이트 디자인!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A cozy and modern bedroom with soft natural light streaming through a window. A stylish, white 40-inch mobile smart TV (similar to a SamtenbyMe) is elegantly positioned next to the bed, displaying a vibrant, high-definition movie scene. The room features minimalist decor with warm, inviting textures. High-resolution, cinematic, and relaxing atmosphere. Midjourney style, --ar 1:1 --v 5.2
+### **[카드뉴스 2/4]**
 
-### **카드 3/4: 메인 추천 2 - 티브이지 구글 스마트TV 세트**
+*   **카드 텍스트:** "걱정 마! 20만원대로 스탠바이미 감성 완벽 구현! ✨ 무빙이지 구글 스마트TV 세트"
+*   **Midjourney 프롬프트:**
+    `A cozy bedroom scene. A cheerful person is lying on a bed, happily watching a show on a compact, white portable smart TV with a movable stand (like 'Moving Easy Google Smart TV Set'). The TV is positioned perfectly for viewing from the bed. Room has soft, natural light. Minimalist, clean aesthetic. --ar 1:1 --v 5.2`
 
-*   **들어갈 텍스트:**
-    💰 20만원대 초저가 실화! 가성비 끝판왕!
-    **[티브이지 구글 스마트TV + 무빙스탠드세트]**
-    ✅ 20만원대 믿기 힘든 가격으로 스탠바이미 경험!
-    ✅ 구글 스마트TV 탑재로 넷플릭스, 유튜브 모두 OK!
-    ✅ 무빙 스탠드 기본 포함! 추가 지출 ZERO!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A bright, clean, and functional kitchen space. A compact, black mobile smart TV (like a SamtenbyMe) on an ergonomic stand is showing a lively cooking show or a popular YouTube video. A person is happily watching the screen while casually preparing food or sipping coffee. The scene is cheerful, practical, and highlights everyday convenience. Midjourney style, --ar 1:1 --v 5.2
+### **[카드뉴스 3/4]**
 
-### **카드 4/4: 클로징 & CTA**
+*   **카드 텍스트:** "대화면+세련된 디자인을 원한다면? 🚀 40인치 무빙큐빅스 화이트 에디션"
+*   **Midjourney 프롬프트:**
+    `A modern, bright living space with a large 40-inch white portable smart TV with a sleek stand (like 'Moving Cubix White Edition'). The TV blends seamlessly into the minimalist white and light-toned interior, displaying a vibrant movie scene. Emphasize the wide screen and elegant design. A plant or subtle decor enhances the sophisticated atmosphere. --ar 1:1 --v 5.2`
 
-*   **들어갈 텍스트:**
-    비싼 LG 스탠바이미? 이제 망설이지 마세요!
-    당신의 지갑을 지키면서 삶의 질은 높여줄
-    '나만의 가성비 삼탠바이미'를 지금 만나보세요!
-    👉 **자세한 정보는 프로필 링크 클릭!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    A dynamic collage or split scene showcasing three distinct settings: a person happily watching a movie on a mobile smart TV in a cozy bed, another person watching a recipe on a mobile TV in a bright kitchen, and a third person enjoying sports on a mobile TV in a small, modern living room. The overall visual tone is vibrant, convenient, and joyful, emphasizing a "smart life" solution. Text overlay "Your Smart Choice Awaits!". Midjourney style, --ar 1:1 --v 5.2
+### **[카드뉴스 4/4]**
+
+*   **카드 텍스트:** "내 방을 영화관으로! 침대 옆, 주방, 캠핑까지! 프로필 링크에서 나에게 딱 맞는 가성비 TV 찾아봐! ➡️"
+*   **Midjourney 프롬프트:**
+    `A dynamic collage of three scenes: 1) A person watching a portable smart TV in a cozy bedroom. 2) Someone watching a portable smart TV while cooking in a bright kitchen. 3) A portable smart TV set up at a scenic outdoor camping site with a campfire. Each scene should convey joy, freedom, and convenience. Seamless transitions between scenes, vibrant colors, active lifestyle. --ar 1:1 --v 5.2`
