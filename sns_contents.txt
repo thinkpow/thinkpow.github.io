@@ -1,90 +1,79 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 스탠바이미 가성비 끝판왕 15초 쇼츠/틱톡 스크립트
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발!)
 
-**제목:** 🚨 스탠바이미 비싸서 망설여? 20만원대 '이동식 스마트TV' 지금 당장 득템해! 🔥
-
-**[영상 구성 아이디어]**
-*   **시각:** 빠르게 전환되는 이미지, 텍스트 오버레이, 강조 효과 (줌인/줌아웃, 번쩍임)
-*   **사운드:** 트렌디하고 신나는 BGM, 강조되는 부분에 효과음 (띠링, 쾅, 와우 등)
-*   **화자:** 활기차고 에너지 넘치는 톤
+**콘텐츠 제목:** LG 스탠바이미 비켜! 지갑 사수하는 가성비 '이동식 스마트TV' TOP2!
 
 ---
 
-**(0-3초) 훅: 시선 강탈!**
-*   **화면:** LG 스탠바이미 이미지가 나오고 바로 X 표시, 그 옆으로 "가격 보고 심장 멈췄다면 🚨"이라는 텍스트가 번개처럼 빠르게 나타남. 놀란 표정의 인물 얼굴 이모티콘 (😱) 오버레이.
-*   **대사:** "스탠바이미 갖고 싶은데… 가격 보고 심장이 멈췄다고요? 🚨 (정색하며) 이제 그 고민, 제가 끝내드릴게요!"
+**(0-3초) 훅! 시선을 강탈하는 초고속 전환**
 
-**(3-7초) 문제 제기 및 해결책 제시**
-*   **화면:** "10년차 MD가 직접 찾은!" 텍스트가 빠르게 등장, 이어서 "✨ 삼탠바이미 가성비 끝판왕 조합 ✨"이라는 화려한 텍스트 애니메이션. 다양한 공간에서 사람들이 이동식 TV를 즐기는 모습 짧게 스쳐 지나감.
-*   **대사:** "걱정 마세요! 10년차 MD가 찾아낸 '삼탠바이미' 가성비 끝판왕이 여기 있습니다! 딱 2가지만 기억하세요!"
+*   **화면:** (빠른 템포의 경쾌한 배경음악 시작) LG 스탠바이미 비싼 가격표 (예: 120만원!) 클로즈업 -> 망설이는 사람의 얼굴 (애처로움) -> ❌표시 효과!
+*   **대사 (내레이터, 신나는 톤):** "LG 스탠바이미 갖고 싶지만 헉 소리 나는 가격에 망설였다고?! 😩"
+*   **자막:** "LG 스탠바이미? 놉!" / "💸 가성비 이동식 TV 대안 등장!"
 
-**(7-11초) 첫 번째 추천 제품 어필**
-*   **화면:** '티브이지 무빙이지 삼탠바이미' 제품 이미지(혹은 사용 영상)가 등장하며 가격(22.9만원) 크게 강조. 넷플릭스, 유튜브 아이콘이 TV 화면에 나타나는 연출. 침실, 거실 등에서 자유롭게 이동하는 모습 짧게 전환.
-*   **대사:** "첫 번째! (손가락 1개 펼치며) 20만원대 초반! **티브이지 구글 스마트TV!** 넷플릭스, 유튜브 다 되는데, 이동까지 완전 자유로워요! 이 가격 실화?"
+**(3-8초) 가성비 끝판왕 등장!**
 
-**(11-14초) 두 번째 추천 제품 어필**
-*   **화면:** '이노스 32인치 삼탠바이미 스마트 TV' 제품 이미지(혹은 사용 영상)가 등장하며 가격(27.9만원) 강조. 32인치 화면 크기를 강조하는 자막 (32인치!). 선명한 FHD 화질을 보여주는 듯한 영상미 강조.
-*   **대사:** "두 번째! (손가락 2개 펼치며) 32인치 대화면! **이노스 FHD 삼탠바이미!** 20만원대에 선명한 화질, 이동성까지 완벽! 큰 화면으로 몰입감 UP!"
+*   **화면:** (TVG 삼탠바이미 상품 이미지 등장, 가격 229,000원 큼직하게 강조) -> 침대 옆, 주방에서 편하게 보는 모습 몽타주.
+*   **대사:** "걱정 마! 20만원대 실화?! 구글 스마트TV로 넷플, 유튜브 다 되는 #티브이지 삼탠바이미!"
+*   **자막:** "💰 20만원대 실화?!" / "구글TV + OTT 다 된다!"
 
-**(14-15초) 마무리 및 CTA**
-*   **화면:** 두 제품이 나란히 놓여있거나, 핵심 장점이 요약된 카드형 이미지. 마지막으로 "지금 바로 득템 기회!" 문구와 "링크 확인!" 강조.
-*   **대사:** "내 삶을 업그레이드할 기회! 지금 바로 영상 고정 댓글 & 프로필 링크 확인하세요! 놓치지 마세요!"
+**(8-13초) 화질 포기 못 해? 업그레이드 버전!**
+
+*   **화면:** (와이드뷰 삼탠바이미 상품 이미지 등장, 가격 445,230원 강조) -> 4K 고화질 화면 (영화/드라마) 클로즈업, 43인치 대화면 체감 샷.
+*   **대사:** "난 화질 포기 못 해? 그럼 4K QLED 43인치 대화면도 40만원대! #와이드뷰 삼탠바이미가 정답!"
+*   **자막:** "✨ 4K QLED + 43인치 대화면!" / "넘사벽 화질 가성비!"
+
+**(13-15초) 마무리 & 강력한 CTA**
+
+*   **화면:** 두 상품 나란히 비교샷 + (화면 톡톡 두드리는 손가락 애니메이션)
+*   **대사:** "취향 따라 선택해! 더 자세한 정보는 지금 바로 댓글/프로필 링크 확인! #삼탠바이미 #가성비TV"
+*   **자막:** "👇 더 많은 정보는 댓글/링크로!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷) 및 Midjourney 프롬프트
+## 📸 인스타그램 카드뉴스 4컷
 
 ---
 
-### **카드뉴스 1/4**
-
-*   **카드 텍스트:**
-    **스탠바이미는 갖고 싶은데... 가격 때문에 망설였죠? 💸**
-    10년차 MD가 찾아낸 ✨ **'삼탠바이미' 가성비 끝판왕 조합** ✨ 지금 바로 공개합니다!
+### **[카드뉴스 1/4]**
+*   **텍스트:**
+    **LG 스탠바이미 갖고 싶지만... 💸 비싸서 망설여진다면?**
+    현실적인 지갑 사수 대안! 여기 주목하세요!
 
 *   **Midjourney 프롬프트:**
-    A minimalist, modern interior living space, with a stylish but expensive-looking movable smart TV in the background, subtly blurred. In the foreground, a thought bubble or translucent overlay showing a disappointed person looking at a high price tag. Emphasize light and shadow, clean lines, neutral colors with a pop of gold/silver for value, 8k, cinematic, --ar 1:1 --v 6.0
+    `A stylish, modern living room with a person (back view) looking longingly at a blurred, sleek mobile TV on a stand. Above their head, a subtle thought bubble displays a red "X" over a money bag or a sad face emoji. Soft, warm lighting, minimalist aesthetic, a feeling of desire mixed with hesitation. --ar 1:1 --v 5.2`
 
 ---
 
-### **카드뉴스 2/4**
-
-*   **카드 텍스트:**
-    **1. 티브이지 구글 스마트TV + 무빙스탠드세트**
-    (229,000원)
-    ✅ **압도적인 최저가!** 20만원대 초반 실화?
-    ✅ **구글 스마트TV 내장!** 넷플릭스, 유튜브 바로!
-    ✅ **무빙 스탠드 포함!** 원하는 곳 어디든 자유롭게!
-    ➡️ MD's PICK! 가격에 민감한 당신을 위한 최고의 선택!
+### **[카드뉴스 2/4]**
+*   **텍스트:**
+    **걱정 마! '이동식 스마트TV' = #삼탠바이미 가 있으니까!**
+    자유로운 이동성 + 스마트 기능! 부담 없는 가격으로 즐겨봐!
 
 *   **Midjourney 프롬프트:**
-    A cozy, inviting bedroom scene bathed in soft, warm morning light. A person is comfortably lounging in bed, smiling while watching a streaming service (Netflix logo visible) on a slim, white movable smart TV on a stand. The TV screen is vibrant and clear. Modern, clean aesthetic, high detail, realistic photography style, --ar 1:1 --v 6.0
+    `A seamless blend of a cozy bedroom and a vibrant living room, showing a versatile mobile smart TV on a clean, white stand being effortlessly rolled between the two spaces. A smiling person is casually watching the TV, highlighting its flexibility. Bright, natural sunlight, comfortable and modern lifestyle. --ar 1:1 --v 5.2`
 
 ---
 
-### **카드뉴스 3/4**
-
-*   **카드 텍스트:**
-    **2. 이노스 FHD 삼탠바이미 스마트 TV + 무빙거치대**
-    (279,000원)
-    ✅ **32인치 대화면!** 시원한 사이즈로 몰입감 UP!
-    ✅ **선명한 FHD 화질!** 영화, 드라마도 생생하게!
-    ✅ **스마트TV & 무빙거치대 일체형!** 받자마자 바로 사용!
-    ➡️ 가성비와 화면 크기, 두 마리 토끼를 잡고 싶다면!
+### **[카드뉴스 3/4]**
+*   **텍스트:**
+    **💰 20만원대 실화? #티브이지 삼탠바이미**
+    **✅ 구글TV OS 탑재로 OTT 끝판왕!**
+    **✅ 20만원 초반대 압도적 최저가!**
+    첫 '삼탠바이미' 입문용으로 강력 추천!
 
 *   **Midjourney 프롬프트:**
-    A bright, airy kitchen with a sleek, minimalist design. A person is casually preparing food on a counter, while a slightly larger (32-inch) modern smart TV on a moving stand displays a vibrant cooking show or a music video. Natural light streams through a window. High resolution, crisp details, lifestyle photography, --ar 1:1 --v 6.0
+    `A close-up, inviting shot of a 27-inch mobile smart TV screen displaying a vibrant Netflix movie. The TV is on a minimalist white stand in a cozy, sunlit bedroom. A hand with a remote control is gently resting nearby. Emphasize comfort, affordability, and easy access to streaming. --ar 1:1 --v 5.2`
 
 ---
 
-### **카드뉴스 4/4**
-
-*   **카드 텍스트:**
-    **🚀 당신의 라이프스타일을 업그레이드할 기회!**
-    **더 다양한 삼탠바이미 (프리미엄, 삼성 브랜드 등) 옵션은?**
-    ➡️ 지금 바로 프로필 링크의 블로그에서 확인하세요!
-    #삼탠바이미 #스탠바이미가성비 #가성비TV #이동식TV #스마트TV #꿀템
+### **[카드뉴스 4/4]**
+*   **텍스트:**
+    **✨ 4K QLED 43인치도 40만원대! #와이드뷰 삼탠바이미**
+    **✅ 4K UHD QLED 압도적 화질!**
+    **✅ 43인치 대화면으로 몰입감 UP!**
+    화질과 크기, 절대 포기 못 한다면 이거야!
 
 *   **Midjourney 프롬프트:**
-    A futuristic, sleek smart home interior with various smart devices seamlessly integrated. In the center, a glowing, stylized infographic or portal hinting at "more options" or "discover more." The overall scene is dynamic, with clean lines, vibrant light accents, and a sense of innovation and discovery. High-tech, conceptual art, --ar 1:1 --v 6.0
+    `An immersive, high-definition view of a 43-inch 4K UHD QLED mobile smart TV, showcasing a breathtaking nature documentary scene with vivid colors and sharp details. The TV is elegantly placed in a modern, spacious living area with luxurious accents. Highlight the superior visual quality and large screen size. --ar 1:1 --v 5.2`
