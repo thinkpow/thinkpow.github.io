@@ -1,58 +1,97 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (도파민 폭발 Ver.)
+## 🔥 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**(영상 시작: 빠르게 전환되는 LG 스탠바이미 이미지와 함께 X 표시, 바로 가성비 삼탠바이미 제품군 이미지 등장)**
-
-*   **훅 (0-3초):** "스탠바이미 갖고 싶은데 너무 비싸서 고민? 💥 걱정 마! 가성비 삼탠바이미 끝판왕이 떴다!"
-*   **본문 (3-12초):**
-    *   "침대에서, 주방에서, 어디든 내 맘대로 이동! 🚀 이제 공간 제약 없이 스마트TV를 즐겨봐!"
-    *   "**첫째, 20만원대 티브이지 삼탠바이미! 😮** 구글 스마트TV로 넷플릭스, 유튜브 다 돼! 🤩" (화면: 티브이지 제품이 침대 옆, 주방에서 사용되는 모습 빠르게 전환)
-    *   "**둘째, 32인치 이노스 삼탠바이미! ✨** 대화면+이동성 완벽 균형!" (화면: 이노스 제품이 거실, 서재에서 사용되는 모습 빠르게 전환)
-    *   "스마트 기능은 기본, 움직이는 나만의 극장 탄생! 🎬"
-*   **CTA (12-15초):** "자세한 정보는 프로필 링크에서 확인! 지금 바로 겟해봐! 💸" (화면: 다양한 삼탠바이미 제품 이미지와 함께 '더보기' 또는 '프로필 링크 클릭' 유도 문구)
+**콘셉트:** 비싼 '스탠바이미' 대신 20만원대 '삼탠바이미'로 가성비와 스마트함을 동시에 잡는다는 메시지를 강렬하게 전달! 시청자의 '지갑 사수' 욕구를 자극.
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[영상 시작 0-3초: 훅! 시선 강탈!]**
 
-### **카드 1/4: 훅 & 문제 제기/해결**
+**화면:**
+*   (0-1초) LG 스탠바이미 비싼 가격표 (예: 100만원 이상) 크게 클로즈업. 텍스트: "스탠바이미... 이걸 산다고?"
+*   (1-2초) 화면이 깨지는 듯한 효과와 함께 "NO!" 글자 크게 등장, 밝은 전환 효과.
+*   (2-3초) 20만원대 '티브이지 삼탠바이미' 제품 이미지와 229,000원 가격표 번개처럼 등장. 텍스트: "잠깐! 20만원대 삼탠바이미가 있다고?!"
 
-*   **텍스트:**
-    "LG 스탠바이미 비싸서 망설였다면? 😱
-    #가성비_삼탠바이미 끝판왕이 나타났다!
-    이동성 + 스마트 기능 + 합리적 가격!
-    내 삶의 질을 UP! 시킬 기회, 놓치지 마세요!"
-*   **배경 이미지 프롬프트 (Midjourney 스타일 영문):**
-    `Vibrant, cinematic photo of a cozy modern living room with a bright, stylish portable smart TV on a sleek moving stand, displaying a futuristic user interface. A person is comfortably lounging on a sofa, happily watching. Soft natural light, bokeh background, wide-angle shot, inviting atmosphere. --ar 1:1 --v 5.2`
+**음성/대사:**
+(놀랍고 다급한 톤)
+"스탠바이미! 그 비싼 거 아직도 고민하세요? **(빠르게) NO! 잠시만요!** 20만원대 삼탠바이미가 있다는 걸 모르면 완전 손해!"
 
-### **카드 2/4: 메인 추천 상품 1**
+---
 
-*   **텍스트:**
-    "✨ 압도적 가성비! 티브이지 구글 스마트TV 삼탠바이미 (22만 9천원!)
-    ✔️ 구글OS로 넷플릭스/유튜브 무제한! 끊김 없는 OTT 경험
-    ✔️ 침실, 주방 어디든 OK! 이동식 스탠드 기본 포함
-    ✔️ 첫 삼탠바이미 구매자에게 강력 추천!"
-*   **배경 이미지 프롬프트 (Midjourney 스타일 영문):**
-    `Close-up, high-angle shot of a sleek, minimalist smart TV on a black mobile stand in a modern, cozy bedroom. The screen shows a Google TV interface with Netflix logo prominently. Soft warm light from a bedside lamp, a comfy bed with soft linen in the background. Clean, inviting, realistic. --ar 1:1 --v 5.2`
+**[영상 3-15초: 가성비 폭발 정보 전달]**
 
-### **카드 3/4: 메인 추천 상품 2**
+**화면:**
+*   (3-7초) **티브이지 구글 스마트 삼탠바이미** (제품샷 + 사용 장면 전환)
+    *   텍스트: "✅ 20만원대 초반! 압도적 최저가!"
+    *   텍스트: "✅ 구글 스마트 OS 기본 탑재!" (넷플릭스, 유튜브 앱 아이콘 번쩍)
+    *   텍스트: "✅ 이동식 스마트 TV 끝판왕!"
+*   (7-11초) **이노스 삼탠바이미 스마트 TV (32인치)** (제품샷 + 다양한 공간 활용 장면)
+    *   텍스트: "✅ 30만원대 올인원 풀세트!"
+    *   텍스트: "✅ FHD 화질 & 32인치! 입문용으로 딱!"
+    *   텍스트: "✅ 침실? 주방? 어디든 내 극장!"
+*   (11-13초) 두 제품이 나란히 비교되는 화면. 텍스트: "고민은 배송만 늦출 뿐!"
+*   (13-15초) CTA 화면: "더 많은 삼탠바이미 정보는? 프로필 링크 클릭!"
 
-*   **텍스트:**
-    "👀 32인치 대화면의 완벽 균형! 이노스 FHD 삼탠바이미 (29만 9천원!)
-    ✔️ 넉넉한 32인치 화면으로 몰입감 UP!
-    ✔️ 스마트TV OS 내장, 별도 장치 필요 無
-    ✔️ 안정적인 이동형 거치대까지!
-    ✔️ 나만의 방을 극장으로!"
-*   **배경 이미지 프롬프트 (Midjourney 스타일 영문):**
-    `Bright, airy home office or study with a 32-inch smart TV on a white mobile stand. The screen displays a vivid, colorful movie scene or a productive workspace dashboard. A stylish wooden desk with a green plant and natural light streaming in from a large window. Modern, clean aesthetic, comfortable. --ar 1:1 --v 5.2`
+**음성/대사:**
+(더욱 신나고 빠르게)
+"첫 번째! **22만원대 티브이지 삼탠바이미!** 가격이 미쳤는데 구글 OS까지 기본 탑재! 넷플릭스, 유튜브, 다 돼! 완전 **가성비 끝판왕**이에요!"
+"두 번째! **29만원대 이노스 삼탠바이미!** 32인치 FHD에 올인원 구성! 처음 써보는 분들께 **강력 추천**! 침대 옆, 주방, 어디든 옮겨 다니면서 보세요!"
+"진짜 스탠바이미랑 똑같은데 가격은 **1/5 수준!** 고민할 시간에 그냥 클릭하세요! 프로필 링크에서 **초특가 정보** 확인!"
 
-### **카드 4/4: 요약 & CTA**
+---
 
-*   **텍스트:**
-    "똑똑한 당신의 현명한 선택!
-    이동성 + 스마트 기능 + 가성비 모두 잡으세요!
-    내 공간을 더욱 스마트하고 특별하게! 💖
-    더 많은 추천 제품은 프로필 링크에서 확인하세요! 👆"
-*   **배경 이미지 프롬프트 (Midjourney 스타일 영문):**
-    `Dynamic collage of various cozy home scenes (bedroom, kitchen, living room, a modern balcony) each featuring a different portable smart TV on a stand. Seamless transitions between scenes, showcasing versatility and comfort in a playful, energetic way. Bright, inviting, warm atmosphere, with subtle infographics like arrows and checkmarks integrated into the design. --ar 1:1 --v 5.2`
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+
+**콘셉트:** '스탠바이미'의 비싼 가격에 대한 공감대를 형성하고, '삼탠바이미'라는 합리적인 대안을 매력적인 비주얼과 함께 제시하여 클릭을 유도.
+
+---
+
+### **[첫 번째 컷] - 훅! 문제 제기 및 시선 끌기**
+
+**카드 텍스트:**
+**"스탠바이미... 비싸서 망설여지세요? 😥"**
+**(작은 글씨) 당신의 지갑을 지켜줄 '삼탠바이미' 대안이 여기!**
+
+**Midjourney 프롬프트:**
+`A luxurious, sleek LG StandbyMe TV in a modern, minimalist living room, but with a dramatic, slightly melancholic filter. A hand is reaching towards it with a hesitant expression. Overhead shot. High contrast, cinematic lighting, shallow depth of field, pastel colors. No text.`
+
+---
+
+### **[두 번째 컷] - 가성비 끝판왕 소개 (티브이지)**
+
+**카드 텍스트:**
+**"💸 20만원대 삼탠바이미? 이거 실화냐?!"**
+**'티브이지 구글 스마트 삼탠바이미'**
+*   **압도적 최저가 229,000원!**
+*   **구글 스마트 OS 기본 탑재!**
+*   **스마트 TV + 이동식 스탠드 올인원!**
+
+**Midjourney 프롬프트:**
+`A sleek, modern portable smart TV (resembling '티브이지 구글 스마트 삼탠바이미') standing in a cozy, sunlit bedroom. On the screen, icons of Netflix and YouTube are visible. A small piggy bank is smiling next to the TV. Focus on affordability and smart features. Bright, inviting atmosphere, minimalist, clean lines, soft natural light. No text.`
+
+---
+
+### **[세 번째 컷] - 입문용 삼탠바이미 소개 (이노스)**
+
+**카드 텍스트:**
+**"💖 삼탠바이미 입문템! 30만원대 올인원!"**
+**'이노스 삼탠바이미 스마트 TV (32인치)'**
+*   **합리적인 299,000원!**
+*   **FHD 화질 & 32인치 딱 좋은 크기!**
+*   **침실, 주방 어디든 옮겨 다니는 나만의 TV!**
+
+**Midjourney 프롬프트:**
+`A 32-inch portable smart TV (resembling '이노스 삼탠바이미 스마트 TV') on a mobile stand, effortlessly moving between a modern kitchen island and a comfortable bedroom. The screen shows a vibrant movie scene. Emphasize versatility and ease of use. Warm, inviting home interior, bright, clean, soft focus on the TV, cinematic. No text.`
+
+---
+
+### **[네 번째 컷] - CTA (클릭 유도)**
+
+**카드 텍스트:**
+**"비싼 스탠바이미? 이제 그만! 🙅‍♀️"**
+**"진짜 '가성비 삼탠바이미' 보러가기!"**
+**👉 프로필 링크 클릭!**
+
+**Midjourney 프롬프트:**
+`A hand is dramatically waving goodbye to a blurred, expensive-looking TV in the background. In the foreground, a vibrant, sparkling arrow points towards an abstract "Link in Bio" button. Dynamic, energetic, positive vibe. Modern, digital art style, bright colors, subtle gradient background. No text, only visual elements. --ar 1:1`
