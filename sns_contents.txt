@@ -1,62 +1,75 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발!)
+## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**콘셉트:** 스탠바이미 비싼 가격에 좌절한 사람들에게 '가성비 삼탠바이미'라는 해결책을 제시하며, 핵심 상품 2종을 빠르게 소개하는 훅 강탈 영상.
+**[영상 컨셉]**
+빠른 전환, 경쾌한 BGM, 핵심 텍스트 자막 병행, 제품 실제 사용 모습 클립 활용. 마지막엔 구매 링크 QR코드 또는 '프로필 링크 확인' 유도.
 
----
+**[스크립트]**
 
-**[영상 시작 - 0초]**
+*   **0-3초 (훅):**
+    *   **영상:** 좌절한 표정으로 비싼 TV 가격을 보는 사람 → 딩동! 알림음과 함께 화면 전환, 눈을 반짝이는 표정.
+    *   **대사:** "스탠바이미... 비싸서 망설였죠? 😫 딱 3초만 집중! 당신 지갑 지켜줄 가성비 끝판왕 제가 찾았습니다! ✨" (배경음악 시작, 템포 빠르게)
 
-**(화면: 최고급 스탠바이미 이미지에 100만원대 가격표가 크게 뜨다가, "잠깐!"이라는 텍스트가 번개처럼 나타나며 X표시)**
-**내레이션 (빠르고 경쾌하게):** "충격! 스탠바이미랑 똑같은데 가격은 1/5? 😱"
+*   **3-8초 (제품 1):**
+    *   **영상:** 티브이지 구글 스마트TV + 무빙스탠드세트 제품 이미지 및 침실, 주방 등에서 사용 모습 빠르게 전환. 229,000원 가격 강조.
+    *   **대사:** "첫 번째! 💥 20만원대? 믿을 수 없는 티브이지 구글 스마트TV! 스탠드까지 올인원인데 넷플릭스, 유튜브 다 돼요! 공간활용 최고👍"
 
-**[3초]**
+*   **8-13초 (제품 2):**
+    *   **영상:** 무빙큐빅스 40인치 제품 이미지 및 넓은 거실, 방에서 영화처럼 몰입하는 모습 전환. 379,000원 가격 강조.
+    *   **대사:** "두 번째! 🎬 대화면은 포기 못 해? 그럼 무빙큐빅스 40인치! 30만원대로 영화관 몰입감 그대로! 깔끔한 화이트는 덤!"
 
-**(화면: 답답해하는 표정의 인물, 그 옆으로 '비싼 스탠바이미' 글자가 나타났다가, 가성비 삼탠바이미 이미지와 '똑똑한 선택!' 글자로 빠르게 전환)**
-**내레이션 (속삭이듯 궁금증 유발):** "비싼 스탠바이미, 이제 그만! 🙅‍♀️ 요즘 대세는 가성비 '삼탠바이미'라고!"
-
-**[7초]**
-
-**(화면: '티브이지 구글 스마트TV + 무빙스탠드세트' 상품 이미지와 가격 229,000원 크게 노출. 구글TV 로고 강조)**
-**내레이션 (자신감 있게):** "고민 노노! 20만원대 '티브이지'는 구글TV에 무빙 스탠드까지? 진짜 미쳤다!"
-
-**[11초]**
-
-**(화면: '와이드뷰 4K UHD QLED 스마트 TV + 와이드무빙뷰 V3 세트' 상품 이미지와 '4K QLED 43인치' 강조. 영화 속 한 장면 같은 고화질 화면 예시)**
-**내레이션 (감탄하며):** "아님 4K QLED 43인치 '와이드뷰'로 화질까지 flex! ✨"
-
-**[14초]**
-
-**(화면: 두 상품이 나란히 비교되는 간략한 이미지와 '더 많은 정보는 댓글/링크 확인!' 문구)**
-**내레이션 (마지막 강조):** "더 자세한 정보는 댓글에! 지금 바로 득템하세요!"
+*   **13-15초 (클로징 & CTA):**
+    *   **영상:** 두 제품 나란히 비교하며 '당신의 선택은?' 텍스트, 손가락이 위로 올라가는 제스처.
+    *   **대사:** "더 많은 가성비 스탠바이미는 지금 바로 댓글/프로필 링크에서 확인! 🚀" (음악 마무리, 효과음: 짠!)
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
+**[공통 스타일]**
+*전반적으로 밝고 모던한 인테리어, 깔끔한 미니멀리즘 감성, 감각적인 빛 활용.*
+
 ---
 
-### 컷 1
+### 🌟 1컷 (도입/훅)
 
-*   **텍스트:** 스탠바이미 갖고 싶지? 근데 가격 실화...? 💸
-*   **이미지 프롬프트 (Midjourney 스타일):**
-    `A young person with wide eyes and a comically shocked expression, holding an almost empty wallet, looking at a luxurious, sleek mobile TV (similar to StandbyMe) with an exaggeratedly high price tag displayed prominently next to it. The setting is a cozy, modern living room bathed in warm, soft light. Cinematic, vibrant colors, slightly exaggerated style. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    **스탠바이미, 너무 비싸다고? 💸**
+    **당신의 로망, 가성비로 현실로!**
+    (핵심 키워드: #스탠바이미 #가성비 #이동식TV)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A minimalistic, stylish living room bathed in soft, natural light. In the center, a silhouetted figure looks wistfully at a shimmering "dream TV" with a high price tag (implied by subtle money symbols around it), while another glowing, more affordable "alternative TV" stands brightly next to it. Concept of affordable luxury, modern design, cinematic, realistic photo, vibrant colors, --ar 1:1`
 
-### 컷 2
+---
 
-*   **텍스트:** 걱정마! 이젠 '삼탠바이미'로 똑똑하게 즐겨봐! 🤩
-*   **이미지 프롬프트 (Midjourney 스타일):**
-    `A vibrant, dynamic collage of diverse people happily using portable smart TVs (on moving stands) in various home settings: one person laughing while watching in bed, another enjoying a cooking show in a stylish kitchen, and a couple playing a game in a bright living room. Emphasize freedom, convenience, and joy. Bright, clean, modern home interior design. --ar 1:1 --v 5.2`
+### 🌟 2컷 (제품 1: 티브이지 구글 스마트TV)
 
-### 컷 3
+*   **텍스트:**
+    **✨ 20만원대! 압도적 가성비 끝판왕!**
+    **티브이지 구글 스마트TV + 스탠드 올인원!**
+    (구글 스마트TV, 넷플릭스, 유튜브, 32인치)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A sleek, compact 32-inch smart TV on a mobile stand, prominently displayed in a cozy, modern bedroom. The TV screen shows the Netflix interface. Soft morning light streams through a window. Emphasize all-in-one convenience and affordability (subtle price tag overlay, "200,000 KRW" implied). Realistic photo, clean aesthetic, warm tones, --ar 1:1`
 
-*   **텍스트:** 💰 20만원대 초반! #티브이지 : 구글TV+무빙스탠드 이걸 다? 가성비 끝판왕!
-*   **이미지 프롬프트 (Midjourney 스타일):**
-    `A sleek portable smart TV (similar to TVG, with a clean black bezel and a minimalist moving stand) displaying the Google TV interface with clear icons for YouTube and Netflix. The TV is positioned in a bright, minimalist apartment setting, perhaps next to a comfy sofa or a bed. A golden coin graphic subtly floats near the TV, symbolizing extreme affordability and value. High-resolution, crisp details, natural lighting, product photography style. --ar 1:1 --v 5.2`
+---
 
-### 컷 4
+### 🌟 3컷 (제품 2: 무빙큐빅스 40인치 스마트 삼탠바이미)
 
-*   **텍스트:** ✨ 4K QLED 43인치 #와이드뷰 : 화질까지 포기 못하면 '프리미엄 가성비'로!
-*   **이미지 프롬프트 (Midjourney 스타일):**
-    `A large 43-inch portable smart TV (similar to Wideview, with ultra-thin bezels and a sturdy, elegant moving stand) displaying a stunning, vibrant 4K QLED image (e.g., a breathtaking nature documentary scene with lush greens and vivid blues, or a dynamic movie still). The TV is the focal point in a modern, slightly luxurious living space, highlighting its immersive, premium viewing experience. Emphasize sharpness, rich colors, and high fidelity. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    **🎬 40인치 대화면 몰입감!**
+    **무빙큐빅스 화이트 에디션으로 영화관 만들기!**
+    (40인치, 대화면, 화이트 디자인, 이동성)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A elegant 40-inch white smart TV on a stylish mobile stand, positioned in a spacious, minimalist living room. The screen displays a vibrant, cinematic movie scene. A comfortable couch is visible nearby. Focus on the large screen's immersive quality and the clean white design. Modern, luxurious yet accessible feel. Realistic photo, soft ambient lighting, --ar 1:1`
+
+---
+
+### 🌟 4컷 (마무리/CTA)
+
+*   **텍스트:**
+    **당신의 '스탠바이미'는? ➡️**
+    **더 많은 추천은 프로필 링크에서!**
+    (핵심 키워드: #삼탠바이미 #스마트TV추천 #자취템 #필수템)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A split image or collage showing the two recommended smart TVs (compact and large screen) in different modern home settings (bedroom, living room), with subtle arrows pointing towards them as if offering a choice. Above, a text overlay that says "Which one is your pick?". Below, a clear call to action like "Link in Bio". Clean, bright, energetic, realistic photo, --ar 1:1`
