@@ -1,80 +1,89 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-**✨ 콘셉트:** LG 스탠바이미를 꿈꾸지만 가격 때문에 망설였던 이들을 위한 '가성비 삼탠바이미' 초고속 소개! 빠른 전환, 눈을 사로잡는 비주얼, 강렬한 후킹으로 구매 욕구 자극.
+**콘셉트:** 스탠바이미의 로망은 있지만 가격 때문에 망설였던 사람들을 위한 가성비 대안 소개. 빠르고 감각적인 영상 전환으로 시선 집중!
 
----
-
-**🎬 15초 숏폼 스크립트**
-
-**(0-3초) 💥훅! 시선 강탈 인트로**
-*   **화면:** (빠르게 전환) LG 스탠바이미 이미지 (비싼 가격 강조) ➡️ 실망한 표정의 사람 ➡️ 갑자기 화면 전환, 저렴하고 세련된 '삼탠바이미' 등장 (반짝이 효과!)
-*   **대사 (강렬한 효과음과 함께, 속삭이듯 빠르게):** "스탠바이미? 너무 비싸! 포기했니?"
-*   **대사 (경쾌하고 자신감 있게):** "잠깐! ✨ 이제 '삼탠바이미'가 있잖아!"
-
-**(3-9초) 🔥 핵심 기능 & 매력 어필**
-*   **화면:** 침대 옆, 주방 식탁, 거실 소파 등 다양한 공간에서 '삼탠바이미'가 편리하게 이동하며 사용되는 모습 (넷플릭스, 유튜브 화면 빠르게 전환)
-*   **대사:** "방-거실-주방, 어디든 OK! 구글TV 기본 탑재로 넷플릭스, 유튜브 다 돼!"
-*   **화면:** '티브이지 최강 가성비 삼탠바이미' 제품 이미지 & 가격 (229,000원) 크게 강조!
-*   **대사:** "무엇보다 대박은... 20만원대부터 시작하는 미친 가성비!"
-
-**(9-12초) 🤩 압도적 비주얼 & 가심비 강조**
-*   **화면:** '무빙큐빅스 40인치 화이트 삼탠바이미' 제품 이미지 & 가격 (379,000원) 크게 강조! 세련된 화이트 디자인과 대화면 강조.
-*   **대사:** "40인치 대화면, 세련된 화이트 디자인까지! 스탠바이미 감성 그대로~"
-
-**(12-15초) 👆 강력한 CTA (Call To Action)**
-*   **화면:** 다양한 삼탠바이미 제품들이 모여있는 화면 ➡️ 프로필 링크를 가리키는 손가락 아이콘 & 문구
-*   **대사:** "내 취향 삼탠바이미, 지금 바로 프로필 링크에서 만나봐! 후회 안 할 걸?" (힙한 배경음악과 함께 마무리)
+**영상 길이:** 15초
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**[0-3초] 훅 (Hook)**
+*   **화면:**
+    *   [0-1초] LG 스탠바이미 광고처럼 세련된 침실에서 모델이 TV를 옮기는 로맨틱한 장면. (꿈)
+    *   [1-2초] 갑자기 화면에 큼지막한 **"₩100만원대? 헉!"** 가격표와 놀라는 자막이 뜬다.
+    *   [2-3초] 스마트폰을 들고 한숨 쉬는 사용자 (짜증, 포기하는 듯한 표정).
+*   **음성:** (경쾌하고 통통 튀는 브금 시작) "스탠바이미.. 너무 비싸다고 포기했나요?"
+
+**[3-6초] 문제 제기 & 해결책 제시**
+*   **화면:**
+    *   화면이 반으로 갈라지며 왼쪽에는 **'무빙큐빅스 40인치'** (세련된 화이트 디자인 강조) 제품 이미지와 **"30만원대!"** 가격, 오른쪽에는 **'홈플래닛 40인치'** (슬림 베젤 강조) 제품 이미지와 **"10만원대!"** 가격이 시각적으로 대비되며 빠르게 등장.
+*   **음성:** "이젠 그 로망! 단 돈 10만원대로 현실 가능!"
+
+**[6-9초] 제품 1: 무빙큐빅스 40인치 삼탠바이미 세트**
+*   **화면:** 무빙큐빅스 40인치 화이트 모델이 침실, 주방, 거실 등 다양한 공간에서 세련되게 활용되는 몽타주 (빠른 전환).
+*   **음성:** "첫 번째, 완벽 올인원! 💖 무빙큐빅스 40인치! 스탠드랑 한 세트, 30만원대로 인테리어 완성!"
+
+**[9-12초] 제품 2: 홈플래닛 40인치 베젤리스 FHD LED TV**
+*   **화면:** 홈플래닛 40인치 TV 단독 샷 (베젤리스 디자인 강조), 이후 사용자가 저렴한 이동식 스탠드와 결합하는 DIY 장면, 마지막으로 영화를 즐기는 모습.
+*   **음성:** "두 번째, DIY 가성비 끝판왕! 💰 홈플래닛 40인치 TV, 10만원대로 득템하고 스탠드는 원하는 대로! 베젤리스 디자인까지!"
+
+**[12-15초] 마무리 & CTA (Call To Action)**
+*   **화면:**
+    *   두 제품이 함께 놓여있거나, 각 제품이 활용되는 라이프스타일 컷들이 빠르게 지나감.
+    *   화면에 큼지막하게 **"침실, 주방, 어디든 나만의 영화관! 🛋️✨"** 문구.
+    *   마지막으로 **"지금 바로 프로필 링크 확인!"** 텍스트 오버레이.
+*   **음성:** "침실, 주방, 작업실! 어디든 나만의 스마트TV! 스탠바이미 비싼 돈 주고 사지 마세요! 자세한 정보는 지금 바로 확인하세요!" (음악과 함께 신나게 마무리)
 
 ---
 
-### **🖼️ 카드뉴스 1/4**
+## 인스타그램 카드뉴스 4컷
 
-*   **카드 텍스트:**
-    **1. 스탠바이미 갖고 싶었니? 🤑**
-    **2. 비싸서 포기했다고? 이제 '가성비 삼탠바이미' 시대! 💥**
-    **3. 스탠바이미 감성 그대로, 가격은 반값!**
+**콘셉트:** 스탠바이미 대안 '삼탠바이미'의 가성비와 활용성을 직관적이고 감각적인 비주얼로 어필.
 
+---
+
+### **[카드뉴스 1/4] 훅 (Hook)**
+
+*   **들어갈 텍스트:**
+    스탠바이미 로망… 💰 가격에 포기했니?
+    이제 NO! ✋ 단돈 10만원대로 그 로망 현실로!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic split image. Left side: A person looking wistfully at an expensive, sleek LG StandbyMe, depicted with a thought bubble containing a large, sad money bag. The atmosphere is slightly desaturated, conveying longing and high cost. Right side: The same person with an ecstatic, joyful expression, pointing triumphantly at a modern, affordable "Samtanbyme" (portable smart TV alternative) that looks similar to StandbyMe, in a brightly lit, cozy living space. Next to the Samtanbyme, a vibrant, glowing digital price tag displays "$229,000 WON". The overall style is energetic, pop art inspired, with volumetric lighting and high contrast, --ar 1:1 --v 5.2`
+    `A vibrant, aesthetically pleasing living room, cozy and modern, with a sleek, minimalist portable smart TV on a stand. On the TV screen, an "X" mark boldly crosses out a large, expensive price tag (e.g., "$1200"), replaced by a much smaller, affordable price (e.g., "$150"). The scene exudes a sense of relief and joy. Trendy, minimalist aesthetic, warm diffused lighting, cinematic quality, high detail, --ar 1:1`
 
 ---
 
-### **🖼️ 카드뉴스 2/4**
+### **[카드뉴스 2/4] 완벽 올인원 솔루션**
 
-*   **카드 텍스트:**
-    **1. 방-거실-주방 어디든 뒹굴뒹굴~ 🛋️**
-    **2. 구글TV로 넷플릭스, 유튜브는 기본!**
-    **3. ✨ 심지어 20만원대부터 시작하는 최강 가성비 올인원!**
-
+*   **들어갈 텍스트:**
+    ✨ 인테리어 완성템!
+    **무빙큐빅스 40인치 올인원 삼탠바이미 세트**
+    (379,000원)
+    ✔️ 화이트 디자인 & 편리한 이동성
+    ✔️ 40인치 FHD 스마트TV + 스탠드 한번에!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A vibrant, multi-panel collage showcasing a sleek, portable smart TV ("Samtanbyme") in different home environments. One panel shows a person comfortably lounging in a modern bedroom, streaming Netflix. Another panel depicts the TV in a bright, minimalist kitchen, displaying a cooking tutorial on YouTube. A third panel shows the TV easily wheeled into a cozy living room. The TV screens clearly show the Google TV interface with Netflix and YouTube logos. Emphasize the seamless mobility and smart functionality. The style is modern, bright, and inviting, with soft, natural lighting, --ar 1:1 --v 5.2`
+    `A chic, modern bedroom interior bathed in soft morning light. A stylish white portable smart TV (40-inch screen) on a matching white, sleek stand is positioned beside a bed. The TV displays a cozy movie scene. Emphasize clean lines, soft textures, a sense of seamless integration into the decor. Aesthetic, minimalist, high detail, --ar 1:1`
 
 ---
 
-### **🖼️ 카드뉴스 3/4**
+### **[카드뉴스 3/4] DIY 가성비 끝판왕**
 
-*   **카드 텍스트:**
-    **1. "와, 40인치인데 이 가격?" 압도적 대화면, 화이트 삼탠바이미! 🎬**
-    **2. 세련된 화이트 디자인! 인테리어까지 UP!**
-    **3. 몰입감 넘치는 시청 경험이 단돈 30만원대 후반! 😮**
-
+*   **들어갈 텍스트:**
+    😲 10만원대? DIY 가성비 끝판왕!
+    **홈플래닛 40인치 베젤리스 FHD LED TV**
+    (169,990원)
+    ✔️ 얇은 베젤, 선명한 FHD 화질
+    ✔️ 내가 직접 만드는 가성비 삼탠바이미
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A captivating scene in a stylish, minimalist living room during golden hour. A person is comfortably seated, fully engrossed in watching a high-definition movie on a large (approximately 40-inch) white portable smart TV ("Samtanbyme"). The TV's screen displays a vibrant, cinematic scene, and its sleek, white design perfectly complements the modern interior. Focus on the immersive viewing experience and the aesthetic appeal of the TV as a piece of decor. Cinematic lighting, soft shadows, a clean and uncluttered background, ultra-realistic, --ar 1:1 --v 5.2`
+    `A bright, contemporary kitchen or a clean home office space. A slim-bezel 40-inch smart TV (without a stand) is featured prominently, showcasing its sleek design and thin edges. A simple, elegant portable stand is nearby, implying DIY assembly. The TV displays a vibrant, high-definition image. Focus on the modern, practical, and minimalist aesthetic. High detail, --ar 1:1`
 
 ---
 
-### **🖼️ 카드뉴스 4/4**
+### **[카드뉴스 4/4] CTA (Call To Action)**
 
-*   **카드 텍스트:**
-    **1. 내 취향 삼탠바이미 PICK! 💘**
-    **2. 삼성 4K부터 DIY까지 다~ 있어!**
-    **3. 더 많은 '가성비 이동식TV'는 프로필 링크에서 확인! 👈**
-
+*   **들어갈 텍스트:**
+    침실, 주방, 작업실! 어디든 나만의 스마트TV 📺
+    더 많은 **'가성비 삼탠바이미'** 정보는
+    **프로필 링크 Click!** ✨
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A vibrant and inviting product display showcasing a diverse range of "Samtanbyme" portable smart TVs. The TVs vary in size (e.g., 32-inch, 40-inch), and style (e.g., sleek white, modern black, a DIY-friendly bare TV). They are elegantly arranged on a clean, subtly glowing platform against a soft, blurred background that suggests a modern digital interface. A human hand gently reaches out towards one of the TVs, symbolizing selection and choice. The overall image conveys abundance, quality, and easy access. Clean product photography style, bright and inviting colors, shallow depth of field, --ar 1:1 --v 5.2`
+    `A dynamic, multi-panel or split-screen collage image. One panel shows a person comfortably watching a streaming service in bed on a portable TV. Another panel shows someone following a recipe on a portable TV in a bright kitchen. A third panel shows a student or remote worker using a portable TV as a second monitor in a neat home office. All scenes are bright, modern, and exude comfort and versatility. Inviting, high detail, --ar 1:1`
