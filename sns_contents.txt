@@ -1,85 +1,61 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
+## 📢 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠 / 틱톡)
 
-**영상 컨셉:** 빠르고 경쾌한 전환과 흥미를 유발하는 자막 효과. 훅에서 시청자의 공감대를 형성하고 바로 해결책을 제시하여 구매 욕구를 자극합니다.
+**콘텐츠 제목**: 😱 스탠바이미 비싸서 포기? 30만원대로 똑같이 즐기는 법! (가성비 끝판왕)
 
----
-
-**[숏폼 스크립트]**
-
-**[0-3초] 훅! 시선 강탈 구간**
-*   **화면:** 고급스러운 LG 스탠바이미가 클로즈업되다가 갑자기 '💸헉!' 가격표가 뜨면서 실망한 표정의 사람 얼굴이 빠르게 오버랩. (템포 빠른 배경음악 시작)
-*   **대사:** (놀란 목소리) "LG 스탠바이미 사고 싶은데… 가격 보고 헉 하셨죠? 💸"
-
-**[3-7초] 문제 해결 제시**
-*   **화면:** 실망한 표정에서 밝은 미소로 전환, 동시에 깔끔한 '삼탠바이미'가 등장하며 침대 옆, 주방 등 다양한 공간에서 활용되는 모습 빠르게 전환.
-*   **대사:** (밝고 자신감 있는 목소리) "걱정 마세요! **'삼탠바이미'**가 있잖아요! 이동식 스마트TV 끝판왕!"
-
-**[7-12초] 핵심 장점 어필**
-*   **화면:** '삼탠바이미' 화면에 넷플릭스, 유튜브 앱이 뜨고, 사용자가 편안하게 OTT를 시청하는 모습, 바퀴로 스탠드를 쉽게 옮기는 모습. 제품 가격(20만원대) 자막 강조.
-*   **대사:** "넷플릭스, 유튜브 다~ 돼! 20만원대로 원하는 곳 어디든 끌고 다니며 즐겨봐! 🛋️🍳"
-
-**[12-15초] CTA 및 제품 언급**
-*   **화면:** '위드라이프', '무빙큐빅스' 두 메인 제품의 이미지와 가격이 짧게 오버랩되며 마지막에 "프로필 링크" 또는 "더 알아보기" 화살표 자막.
-*   **대사:** "위드라이프, 무빙큐빅스! 가성비 삼탠바이미 지금 바로 보러가기! ➡️" (배경음악 마무리)
+**러닝타임**: 15초
+**음악**: 트렌디하고 경쾌한 배경음악
+**화면 전환**: 빠르고 역동적으로
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[영상 시작]**
 
-**[카드뉴스 1컷]**
+**(0-3초) 훅: 스탠바이미 갖고 싶어서 검색했다가 가격보고 깜짝 놀라셨죠?**
+*   **화면**: 비싼 스탠바이미 가격표가 뜨면서 좌절하는 듯한 표정의 사람 (혹은 물음표 가득한 화면), 이후 "잠깐!" 텍스트와 함께 손가락으로 멈추는 제스처.
+*   **대사**: "스탠바이미 비싸서 포기하셨다고요? 잠깐! 30만원대로 이 감성 그대로 즐기는 법, 알려드릴게요!"
 
-*   **텍스트:**
-    ## LG 스탠바이미 로망? 💸
-    **가격은 넘사벽?**
-    이제 '삼탠바이미'로
-    **가성비 & 스마트함**을 동시에!
-    #스탠바이미 #삼탠바이미 #가성비TV
+**(3-8초) 이노스 삼탠바이미 소개: 30만원대 올인원 가성비 끝판왕!**
+*   **화면**: 32인치 이노스 삼탠바이미가 침실, 거실, 주방 등 다양한 공간을 자유롭게 이동하며 사용되는 모습. 넷플릭스, 유튜브 로고가 화면에 잠시 등장.
+*   **대사**: "짜잔! 이게 바로 30만원대 '이노스 삼탠바이미 32인치'! 이동식 거치대에 스마트TV 기능까지 올인원! 침실, 원룸 어디든 나만의 OTT 영화관 완성!"
 
-*   **Midjourney 프롬프트 (영문):**
-    `A modern, minimalist living room with soft, indirect lighting. A sleek, high-end portable smart TV (like LG StandbyMe) is prominent in the foreground, but a subtle, glowing price tag overlay above it indicates a very high price, creating a sense of longing and expense. The background is slightly blurred to emphasize the TV. Cinematic, high contrast. --ar 1:1 --v 5.2`
+**(8-13초) 와이드뷰 QLED 삼탠바이미 소개: 4K QLED 대화면으로 몰입감 UP!**
+*   **화면**: 43인치 와이드뷰 QLED 삼탠바이미의 선명한 4K UHD 영상이 클로즈업. 영화나 게임 화면이 역동적으로 재생되는 모습.
+*   **대사**: "화질과 사이즈 포기 못 해? 그럼 40만원대 '와이드뷰 43인치 QLED 삼탠바이미'! 4K UHD 대화면에 QLED로 압도적인 몰입감까지!"
 
----
-
-**[카드뉴스 2컷]**
-
-*   **텍스트:**
-    ## 📺 찐 '삼탠바이미'의 정석!
-    **위드라이프 구글 스마트 삼탠바이미**
-    ✅ 구글 스마트TV 탑재 (넷플릭스/유튜브 무제한)
-    ✅ 32인치 대화면 & 자유로운 이동
-    **✨ 25만 5천원!**
-    #이동식TV #스마트TV #OTT시청
-
-*   **Midjourney 프롬프트 (영문):**
-    `A cozy bedroom scene. A person is comfortably lying in bed, smiling while watching Netflix on a sleek, black portable smart TV on a movable stand (similar to Withlife product). The screen shows a vibrant movie scene. Warm, soft lighting creates an inviting atmosphere. Google TV interface is visible. --ar 1:1 --v 5.2`
+**(13-15초) 마무리 & CTA: 지금 바로 확인!**
+*   **화면**: 두 제품이 나란히 놓여있거나, 사용자들이 행복하게 제품을 사용하는 모습, 댓글/프로필 링크 강조 텍스트.
+*   **대사**: "스탠바이미 가성비 끝판왕 찾고 있다면? 지금 바로 프로필 링크에서 확인하세요! 놓치면 후회!"
 
 ---
 
-**[카드뉴스 3컷]**
+## 📸 인스타그램 카드뉴스 (4컷)
 
-*   **텍스트:**
-    ## ✨ 디자인까지 완벽!
-    **무빙큐빅스 스마트 삼탠바이미 SET**
-    ✅ 스마트 TV & 이동식 거치대 세트
-    ✅ 깔끔하고 모던한 디자인으로 어떤 인테리어에도 찰떡!
-    **✨ 27만 5천원!**
-    #모던인테리어 #TV추천 #가전제품
+### 1️⃣ 첫 번째 컷
+*   **카드 텍스트**:
+    *   **헤드라인**: 스탠바이미 비싸서 망설였다면? 😥
+    *   **본문**: 30만원대로 '스탠바이미 감성' 그대로 즐기는 법!
+*   **Midjourney 이미지 프롬프트**:
+    `A cozy, modern living room with soft, warm lighting. A person looks frustrated at an expensive price tag on a screen, then their expression brightens as they see a stylish, more affordable mobile smart TV on a stand in the corner. The vibe is aspirational yet relatable, hinting at a smart solution. Cinematic, vibrant colors, soft focus background. --ar 1:1 --v 6.0`
 
-*   **Midjourney 프롬프트 (영문):**
-    `A bright, airy, modern kitchen with Scandinavian-inspired decor. A white or light-colored portable smart TV on a clean, minimalist movable stand (similar to Moving Cubix product) is placed near a kitchen counter. Someone is casually looking at the screen, which displays a cooking recipe or a YouTube video. Natural light, clean lines. --ar 1:1 --v 5.2`
+### 2️⃣ 두 번째 컷
+*   **카드 텍스트**:
+    *   **헤드라인**: ✨ 30만원대 '진정한 가성비' 이노스 삼탠바이미 32인치!
+    *   **본문**: 이동식 거치대 + 스마트TV 올인원! 침실, 주방 어디든 OK!
+*   **Midjourney 이미지 프롬프트**:
+    `A minimalist, bright bedroom with morning sunlight. A person is comfortably lying in bed, smiling and watching a 32-inch Innos Samtanbyme TV on a sleek, white mobile stand. The TV screen displays a streaming service (e.g., Netflix logo subtly visible). The room looks tidy and inviting, emphasizing convenience and versatility. --ar 1:1 --v 6.0`
 
----
+### 3️⃣ 세 번째 컷
+*   **카드 텍스트**:
+    *   **헤드라인**: 🚀 40만원대 '프리미엄 가성비' 와이드뷰 QLED 삼탠바이미 43인치!
+    *   **본문**: 4K UHD QLED 대화면으로 압도적인 몰입감!
+*   **Midjourney 이미지 프롬프트**:
+    `A luxurious, modern living space with dark, rich tones. A 43-inch Wideview QLED Samtanbyme TV on a sophisticated mobile stand displays stunning 4K UHD content, possibly a vibrant nature scene or an action movie. The QLED screen emits brilliant colors and deep contrasts. The overall atmosphere emphasizes a premium visual experience and large screen immersion. --ar 1:1 --v 6.0`
 
-**[카드뉴스 4컷]**
-
-*   **텍스트:**
-    ## 나에게 딱 맞는
-    **'가성비 스탠바이미'는?**
-    👉 프로필 링크에서
-    **추천 제품 확인!**
-    #쿠팡파트너스 #내돈내산 #스마트리빙
-
-*   **Midjourney 프롬프트 (영문):**
-    `A vibrant collage or split image showing different aspects of smart living. One section shows a hand interacting with a portable smart TV in a living room, another shows a person relaxing in a bed with a TV, and a third shows a happy couple enjoying entertainment. A subtle 'checkmark' or 'choice' graphic element is integrated. Bright colors, energetic and positive mood. --ar 1:1 --v 5.2`
+### 4️⃣ 네 번째 컷
+*   **카드 텍스트**:
+    *   **헤드라인**: 더 이상 고민 NO! 당신의 스마트 라이프를 업그레이드할
+    *   **본문**: 스탠바이미 가성비템! 지금 바로 프로필 링크에서 확인하세요! ➡️
+*   **Midjourney 이미지 프롬프트**:
+    `A dynamic and energetic scene. Two diverse people, one excitedly pointing towards a mobile smart TV screen (showing a "Shop Now" or "Discover More" icon) and the other smiling broadly. The background is a blurred, bright, and inviting modern home setting. The overall image conveys joy, discovery, and ease of access. Vibrant, optimistic mood. --ar 1:1 --v 6.0`
