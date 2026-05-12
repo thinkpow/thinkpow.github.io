@@ -2,70 +2,71 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 스탠바이미는 너무 비싸?! 😡 10년차 MD가 엄선한 '가성비 삼탠바이미' BEST!
-
-**(0-3초) 훅: 빠르게, 배경에 LG 스탠바이미의 높은 가격표가 번쩍! 💸 이모지, 🙅‍♀️ 표시 강조**
-**나레이션:** "스탠바이미? 예쁜데... 가격이 너무 비싸! 😱 저만 비싸다고 생각한 거 아니죠?"
-*(시선을 강탈하는 공감대 형성!)*
-
-**(3-7초) 문제 해결 제시: 다양한 장소에서 이동식 TV를 편리하게 사용하는 모습 빠르게 전환 (침실, 주방, 거실 등). '이동성', '스마트TV', '디자인' 키워드 플래시)**
-**나레이션:** "이제 눈물 닦고! 😭 10년차 MD가 찾아낸 '찐' 가성비 삼탠바이미 대안이 여기 있어요!"
-"이동성, 스마트 기능, 디자인까지 완벽하게 잡은 ✨ 보석 같은 제품들!"
-
-**(7-12초) 메인 제품 소개: 무빙큐빅스 40인치, 32인치 제품 이미지를 빠르게 보여주며 가격 오버레이)**
-**나레이션:** "특히 이 '무빙큐빅스' 시리즈는 대박이에요! 🤩 40인치가 30만원대 후반! 32인치는 30만원대 초반으로 올인원 스마트 이동식 TV를 내 방으로! "
-
-**(12-15초) 마무리 & CTA: 화면에 '더 많은 상품은 프로필 링크 클릭!👆' 문구, 스마트폰을 가리키는 손동작)**
-**나레이션:** "더 이상 고민하지 마세요! 당신의 라이프스타일에 딱 맞는 '나만의 스탠바이미'를 지금 바로 프로필 링크에서 만나보세요!"
+**[영상 컨셉]**
+도파민 폭발! 빠르고 경쾌한 비트의 배경음악과 함께 화면이 다이나믹하게 전환되며 시청자의 눈을 사로잡습니다. 스탠바이미의 높은 가격으로 인한 좌절감 -> 삼탠바이미의 합리적인 가격과 편리함으로 인한 행복감을 대비시켜 보여줍니다.
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[스크립트]**
 
-### **💡 인스타그램 카드뉴스 (4컷)**
-
----
-
-**[1/4컷]**
-
-*   **카드 텍스트:**
-    스탠바이미 갖고 싶어서 눈물 났니? 💧
-    MD가 엄선한 '가성비 삼탠바이미' 대공개!
-*   **Midjourney 프롬프트 (영문):**
-    A person looking wistfully at a luxurious LG StandbyMe, with a single tear rolling down their cheek that reflects a small price tag. The overall mood is slightly humorous yet empathetic. Minimalist interior background, soft lighting, cinematic style, digital art, --ar 1:1 --v 5.2
-
----
-
-**[2/4컷]**
-
-*   **카드 텍스트:**
-    비싼 스탠바이미 대신 '이 3가지'만 보세요!
-    ✅ 이동성 ✅ 스마트TV ✅ 디자인
-    ✨ 이 모든 걸 합리적인 가격으로!
-*   **Midjourney 프롬프트 (영문):**
-    A sleek, modern portable smart TV (not explicitly LG) with wheels, effortlessly moving between a bright, minimalist living room and a cozy bedroom. Icons for 'mobility', 'smart features', and 'design' float around it. Clean, high-key lighting, product photography style, --ar 1:1 --v 5.2
+*   **(0-2초) [훅! 시선강탈]**
+    *   **화면:** (빠른 템포의 배경음악 시작, 초고속 줌인/아웃) 고급스러운 스탠바이미 이미지 -> 가격표(200만원대)에 빨간색 'X' 표시, 좌절하는 사람 이모지
+    *   **나레이션 (빠르게, 흥분한 목소리):** "스탠바이미 너무 비싸서 포기했다면? 잠깐! 2초만 집중!"
+*   **(2-5초) [문제 해결 제시]**
+    *   **화면:** (화면 전환) 깔끔한 화이트 삼탠바이미가 침대 옆, 주방, 거실 등 다양한 공간으로 이동하는 짧은 클립들 연속. 가격표(30만원대)에 'V' 표시, 환호하는 사람 이모지
+    *   **나레이션 (시원하게):** "돈 없어도 괜찮아! 가성비 끝판왕 '삼탠바이미'가 있잖아!"
+*   **(5-9초) [삼탠바이미 핵심 어필]**
+    *   **화면:** (애니메이션 효과) '이동식 거치대' 글자 위로 TV가 움직이는 모습 -> '스마트TV' 글자 위로 넷플릭스 로고 -> '깔끔한 디자인' 글자 위로 세련된 화이트 TV
+    *   **나레이션:** "이동식 거치대! 스마트TV 기능! 깔끔한 디자인까지! 스탠바이미 장점 그대로!"
+*   **(9-12초) [메인 제품 추천]**
+    *   **화면:** (각 제품별 짧은 소개)
+        1.  무빙큐빅스 40인치 삼탠바이미 제품 이미지 + **"40인치 대화면! 내 방이 영화관으로!"** 텍스트 오버레이
+        2.  무빙큐빅스 32인치 삼탠바이미 제품 이미지 + **"30만원대! 오리지널 감성 그대로!"** 텍스트 오버레이
+    *   **나레이션 (강조):** "내 방을 영화관으로! 40인치 대화면 무빙큐빅스!" (잠깐 텀) "30만원대 32인치! 오리지널 감성 그대로, 어디든 착붙!"
+*   **(12-15초) [마무리 & CTA]**
+    *   **화면:** (두 제품이 나란히 놓여있는 모습) 강조 텍스트: **"고민은 배송만 늦출 뿐! 🚀 프로필 링크 클릭!"**
+    *   **나레이션 (빠르고 활기차게):** "고민은 배송만 늦출 뿐! 지금 바로 프로필 링크에서 가성비 끝판왕을 만나보세요!"
 
 ---
 
-**[3/4컷]**
+## 2. 인스타그램 카드뉴스 (4컷)
 
-*   **카드 텍스트:**
-    ✨ 압도적 대화면! 무빙큐빅스 40인치 삼탠바이미 SET
-    ✅ 40인치 FHD 디스플레이
-    ✅ 스마트TV 기능 올인원
-    ✅ 💰 379,000원!
-*   **Midjourney 프롬프트 (영문):**
-    A stylish white 40-inch portable smart TV (Moving Cubix style) with a clean stand, displaying a vibrant, high-definition movie scene. It's positioned in a modern, comfortable bedroom with soft ambient lighting. Focus on the screen clarity and the sleek design of the TV, product photography, --ar 1:1 --v 5.2
+**[카드뉴스 전체 컨셉]**
+스탠바이미의 높은 가격에 대한 공감으로 시작하여, 합리적인 대안 '삼탠바이미'를 소개하고, 핵심 제품 2가지의 매력을 시각적으로 어필합니다. 모든 이미지는 깔끔하고 모던한 인테리어에 잘 어울리는 제품의 디자인을 강조합니다.
 
 ---
 
-**[4/4컷]**
+### **카드뉴스 1/4**
 
-*   **카드 텍스트:**
-    🤫 30만원대 초반?! 무빙큐빅스 32인치 삼탠바이미 SET
-    ✅ 콤팩트 사이즈 & 완벽 이동성
-    ✅ 스마트 운영체제 탑재
-    ✅ 💰 329,000원!
-    👉 더 많은 '가성비 삼탠바이미'는 프로필 링크에서 확인하세요!
-*   **Midjourney 프롬프트 (영문):**
-    A compact, elegant white 32-inch portable smart TV (Moving Cubix style) on wheels, located in a bright, minimalist home office or a small cozy living space. It's playing a diverse range of content (e.g., fitness video, streaming service logo). Emphasize its portability and smart features. Product shot, clean background, --ar 1:1 --v 5.2
+*   **텍스트:**
+    "스탠바이미는 좋은데... 가격이 너무 비싸?! 😱"
+    "갖고 싶어도 너무 비싸서 망설였다면? 당신을 위한 해결책이 여기 있어요!"
+*   **이미지 프롬프트 (Midjourney Style):**
+    "A stylish, modern living room with minimalist white walls and warm wooden accents. A young person is looking disappointed at a sleek, mobile TV on a stand, which displays a shocking, high price tag in glowing red numbers. The person is holding their head in their hands in despair. Dramatic, high-contrast lighting, cinematic. Focus on the person's emotion and the expensive price tag. --ar 4:5 --v 5.2"
+
+### **카드뉴스 2/4**
+
+*   **텍스트:**
+    "✨ 정답은 '삼탠바이미'! ✨"
+    "이동식 거치대, 스마트TV 기능, 깔끔한 디자인까지 스탠바이미 감성 그대로! 이제 더 저렴하게 즐겨봐! 🤩"
+*   **이미지 프롬프트 (Midjourney Style):**
+    "A bright, cheerful, minimalist apartment interior. A sleek, white smart TV on a mobile stand is being easily rolled by a smiling person across different areas: watching movies in a cozy bedroom, following a recipe in a modern kitchen. Sunlight streams through a large window. Focus on convenience, versatility, and modern aesthetics. Clean lines, warm, inviting atmosphere. --ar 4:5 --v 5.2"
+
+### **카드뉴스 3/4**
+
+*   **텍스트:**
+    "🎬 몰입감 끝판왕! 무빙큐빅스 40인치 스마트 삼탠바이미 (37만원대!)"
+    "- 40인치 대화면으로 내 방을 영화관처럼! 🍿"
+    "- 완벽한 가성비 올인원 솔루션!"
+*   **이미지 프롬프트 (Midjourney Style):**
+    "A close-up of an elegant, white 40-inch smart TV on a slender mobile stand, positioned in a cozy, modern bedroom. The screen is vibrant, displaying a dramatic movie scene with rich colors and high resolution. A bowl of popcorn and a soft blanket are subtly visible in the foreground. Soft, ambient lighting creates a cinematic atmosphere. Focus on immersive viewing and the TV's sleek design. --ar 4:5 --v 5.2"
+
+### **카드뉴스 4/4**
+
+*   **텍스트:**
+    "💖 컴팩트한 오리지널 감성! 무빙큐빅스 32인치 스마트 삼탠바이미 (32만원대!)"
+    "- 침실, 주방 어디든 착붙! 최고의 이동성!"
+    "- 부담 없는 가격으로 스탠바이미 경험!"
+    "👆 지금 바로 프로필 링크 클릭!"
+*   **이미지 프롬프트 (Midjourney Style):**
+    "A split image or collage showcasing a sleek, white 32-inch smart TV on a mobile stand. The left side shows the TV in a minimalist bedroom next to a bed with soft linen. The right side shows the same TV on a clean, modern kitchen countertop with fresh fruits. Emphasize portability, versatility, and stylish integration into different home environments. Bright, inviting, modern aesthetic with clean lines. --ar 4:5 --v 5.2"
