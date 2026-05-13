@@ -1,76 +1,46 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**콘텐츠 제목:** 텅장 방지! 스탠바이미 대신 '이것'! 😲✨ 가성비 삼탠바이미 완벽 가이드!
+**제목:** 스탠바이미? 이제 삼탠바이미로 가성비 끝판왕 찍어! 💸
 
-**(영상 시작 - 0-3초)**
-*   **화면:** LG 스탠바이미가 멋지게 서 있다. 화면 중앙에 '가격: 200만원대'라는 텍스트가 붉은색으로 크게 팝업된다. 순간 '🚨삐빅!🚨' 경고음과 함께 '헉!'하는 놀란 표정의 사람 얼굴이 클로즈업된다.
-*   **내레이션 (놀란 목소리):** "스탠바이미 드림, 드디어 살까 했더니... 응? 잠깐, 이 가격 실화?!"
-*   **BGM:** 밝고 경쾌한 힙합/팝 비트 시작 (도파민 폭발)
+**(BGM: 신나고 트렌디한 숏폼 배경음악)**
 
-**(전환 - 3-7초)**
-*   **화면:** 빠른 전환! '좌절 금지! 텅장 방지!' 텍스트가 번쩍인다. 여러 종류의 이동형 스마트 TV들이 각기 다른 공간(침실, 주방, 거실)에서 스르륵 움직이며 등장한다.
-*   **내레이션 (활기찬 목소리):** "걱정 마! 10년차 MD가 엄선한 '가성비 삼탠바이미' 대안들!"
-
-**(메인 상품 1 - 7-10초)**
-*   **화면:** 이노스 32인치 삼탠바이미가 침대 옆에 놓여있고, 화면에서는 넷플릭스 드라마가 재생 중이다. 한 사람이 침대에 편안히 누워 TV를 리모컨으로 조작하며 미소 짓는다. (텍스트: 🌟30만원대 올인원!)
-*   **내레이션 (친근하게):** "30만원대 올인원! 이노스 32인치, 스마트TV+이동거치대 한 번에 끝!"
-
-**(메인 상품 2 - 10-13초)**
-*   **화면:** 와이드뷰 43인치 삼탠바이미가 거실 중앙에서 4K UHD 영화를 재생하고 있다. 화면의 색감과 선명함이 극대화되어 표현된다. 가족들이 소파에 앉아 몰입해서 시청하는 모습. (텍스트: 🎬4K QLED 화질 끝판왕!)
-*   **내레이션 (감탄하며):** "화질 끝판왕! 43인치 4K QLED 와이드뷰! 영화관이 우리 집으로!"
-
-**(마무리 & CTA - 13-15초)**
-*   **화면:** 이노스, 와이드뷰 외에 다른 가성비 TV들이 함께 전시된 듯한 감각적인 편집. '나만의 스탠바이미 가성비' 문구가 크게 뜨고, 하단에 '👆 프로필 링크에서 자세히 보기!' 텍스트가 뜬다.
-*   **내레이션 (빠르고 명확하게):** "내 로망 실현! 더 많은 가성비 정보는 프로필 링크 확인하세요!"
-*   **BGM:** 경쾌한 비트가 절정으로 치닫다 빠르게 마무리.
+*   **0-3초 (훅):**
+    *   **(화면: 고급스러운 스탠바이미를 부러운 듯 보는 표정, 이내 실망한 표정으로 변함. "가격 헉!" 텍스트 오버레이)**
+    *   **내레이션:** 스탠바이미? 아직도 그 비싼 거 고민해? 놉! 🙅‍♀️ 이제 삼탠바이미가 대세!
+*   **3-8초 (문제 제기 & 솔루션):**
+    *   **(화면: 스탠바이미 vs 삼탠바이미 가격 비교 인포그래픽 빠르게 스쳐 지나감. "감성은 그대로, 가격은 1/3!" 텍스트 오버레이)**
+    *   **내레이션:** 스탠바이미 감성은 그대로, 가격은 1/3?! 이게 바로 똑똑한 가성비 삼탠바이미!
+*   **8-12초 (핵심 제품 소개):**
+    *   **(화면: 이노스 32인치 삼탠바이미가 침실, 주방 등 다양한 공간에서 활용되는 모습 빠른 편집. 텍스트: "이노스 32인치: 30만원대 입문 끝판왕!")**
+    *   **내레이션:** 30만원대 입문 끝판왕, 이노스 32인치! 침실, 주방 어디든 OK!
+    *   **(화면: 와이드뷰 43인치 4K QLED 삼탠바이미로 영화나 게임을 즐기는 모습. 선명한 화질 강조. 텍스트: "와이드뷰 43인치: 4K QLED 화질까지 올킬!")**
+    *   **내레이션:** 화질까지 욕심난다면? 와이드뷰 43인치 4K QLED! 영화관이 집으로 뿅!
+*   **12-15초 (클로징 & CTA):**
+    *   **(화면: 두 제품이 나란히 배치된 최종 모습. "내 라이프스타일에 딱!" 텍스트. 아래에 "자세한 정보는 댓글/프로필 링크 클릭!" 텍스트 크게)**
+    *   **내레이션:** 내 라이프스타일에 딱 맞는 삼탠바이미, 더 자세한 정보는 댓글과 프로필 링크에서 확인해! 지금 바로 겟해봐!
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 4컷
 
----
+### 카드뉴스 1/4
 
-### **🖼️ 카드뉴스 1/4: 훅! 가격에 놀란 당신을 위해!**
+*   **카드 텍스트:** 스탠바이미 탐나지만 너무 비싸다고? 💸 이제 '삼탠바이미'로 감성과 가성비 둘 다 잡아봐!
+*   **Midjourney 프롬프트:** A split image: on the left, a luxurious LG StandbyMe in a minimalist, high-end living room, soft natural light, very clean and aesthetic. on the right, a vibrant, cozy, and functional "SammtembyMe" setup (a smart TV on a stylish mobile stand) in a modern, warm apartment, showcasing portability and smart features, bright and inviting. Realistic photography style, high detail. --ar 1:1 --v 5.2
 
-*   **들어갈 텍스트:**
-    *   **제목:** 스탠바이미 드림, 가격 때문에 포기했니? 😭
-    *   **부제:** 걱정 마! 텅장 방지! 2024 가성비 삼탠바이미 완벽 가이드! ✨
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy, modern living room with soft natural light. A person looking at an empty space where a movable TV should be, with a slightly disappointed expression. In the foreground, a thought bubble shows a stylish LG StandbyMe with a huge, glowing, red "$$$ TOO EXPENSIVE $$" price tag overlay. Cinematic, warm tones, volumetric lighting, highly detailed, emotional. --ar 1:1 --style raw --v 5.2`
+### 카드뉴스 2/4
 
----
+*   **카드 텍스트:** [PICK 1] 30만원대 삼탠바이미 입문 끝판왕! 이노스 32인치 FHD 스마트 무빙 스탠드 TV 세트
+*   **Midjourney 프롬프트:** A cozy and inviting bedroom scene. A sleek, modern 32-inch smart TV (like Innos 32-inch SammtembyMe) on a minimalist mobile stand is positioned next to a bed, showing a movie playing. Soft, warm lighting. Aesthetic, comfortable interior design. High-resolution, realistic photo. --ar 1:1 --v 5.2
 
-### **🖼️ 카드뉴스 2/4: 30만원대 올인원! 스마트 + 이동성 다 잡았다!**
+### 카드뉴스 3/4
 
-*   **들어갈 텍스트:**
-    *   **제목:** ✨ 30만원대 올인원! 이노스 32인치 삼탠바이미
-    *   **내용:** 스마트TV + 이동형 거치대 모두 포함! 침실, 주방 어디든 OK! 고객 직접 설치로 추가 비용 없이 스탠바이미 경험 시작!
-    *   **가격 강조:** 🌟 316,000원!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A person happily lounging in a cozy, minimalist bedroom, comfortably watching a popular OTT show on a 32-inch smart TV placed on a sleek, white movable stand. The TV is perfectly positioned beside the bed. Soft morning light streams through the window. Modern, comfortable aesthetic, slightly candid angle, realistic, warm and inviting atmosphere. --ar 1:1 --style raw --v 5.2`
+*   **카드 텍스트:** [PICK 2] 화질까지 올킬! 4K QLED 대화면 와이드뷰 43인치 스마트 무빙 거치대 V3 세트
+*   **Midjourney 프롬프트:** A vibrant and immersive home entertainment setup. A large 43-inch 4K QLED smart TV (like Wideview 43-inch SammtembyMe) on a sleek mobile stand, displaying a high-resolution, colorful movie scene or game. The room is modern, slightly dim, with LED backlighting enhancing the screen's glow. Dynamic and cinematic feel. Realistic photo. --ar 1:1 --v 5.2
 
----
+### 카드뉴스 4/4
 
-### **🖼️ 카드뉴스 3/4: 화질 끝판왕! 4K QLED 대화면으로 몰입감 UP!**
-
-*   **들어갈 텍스트:**
-    *   **제목:** 🌈 화질 끝판왕! 4K QLED 와이드뷰 43인치 삼탠바이미 V3
-    *   **내용:** 4K UHD QLED 대화면으로 영화관 감동 그대로! 거실 메인 TV로도 완벽! 스탠바이미 뛰어넘는 스펙 가성비!
-    *   **가격 강조:** 🌟 431,460원!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A luxurious living room at dusk, a family gathered on a plush sofa, deeply engaged in watching a vibrant action movie on a large 43-inch QLED smart TV. The TV is on a sophisticated black movable stand, displaying stunning, high-definition colors that pop off the screen. Ambient lighting from indirect sources, creating a cinematic feel. Sharp focus on the TV and the family's captivated faces. --ar 1:1 --style raw --v 5.2`
-
----
-
-### **🖼️ 카드뉴스 4/4: 나에게 딱 맞는 가성비 스탠바이미는?**
-
-*   **들어갈 텍스트:**
-    *   **제목:** 나에게 딱 맞는 '스탠바이미 가성비'는?
-    *   **내용:** 텅장 걱정 없이, 스마트함과 이동성을 동시에! 오늘 소개된 제품들로 나만의 엔터테인먼트 공간을 완성하세요!
-    *   **CTA:** 👉 프로필 링크에서 자세히 보기!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage or multi-panel image showcasing various stylish movable smart TVs (some on white stands, some on black, some sleek, some minimalist designs) integrated seamlessly into different modern room settings (a cozy bedroom, a bright kitchen island, a chic living room, a sunny patio). Diverse people are interacting with them in different ways – cooking, exercising, relaxing. Soft, diffused natural light, vibrant yet cohesive color palette, modern lifestyle, highly detailed, inviting atmosphere. Top-down view or slightly elevated perspective. --ar 1:1 --style raw --v 5.2`
-
----
+*   **카드 텍스트:** 내 라이프스타일에 딱! 지금 바로 '삼탠바이미' 보러가기! (자세한 내용은 프로필 링크 클릭!)
+*   **Midjourney 프롬프트:** A young person (20s-30s, gender neutral) happily browsing portable smart TV options on a tablet or smartphone, surrounded by subtle icons representing smart home, entertainment, and convenience. Bright, energetic, and hopeful atmosphere, suggesting an exciting purchase decision. Modern minimalist design. Illustration or realistic photo style. --ar 1:1 --v 5.2
