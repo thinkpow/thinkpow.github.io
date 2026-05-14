@@ -1,69 +1,97 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 스탠바이미 가성비 끝판왕 15초 숏폼 대본
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발 훅 포함!)
 
-### 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+**제목:** 스탠바이미 비싸서 못 샀니? 이제 '삼탠바이미'로 갈아타! 💥 (가성비 끝판왕)
 
-**[영상 연출 가이드]**
-*   **템포:** 빠르고 리드미컬하게 전환.
-*   **자막:** 핵심 키워드 크게 강조 (예: "스탠바이미", "100만원?", "30만원대!", "이동식", "스마트TV").
-*   **BGM:** 경쾌하고 밝은 브이로그/하울링 스타일 음악.
+**[영상 구성 및 대사]**
 
----
+**(0-3초) ⚡️ 시선 강탈 훅!**
+*   **화면:** 침대에 누워 폰으로 스탠바이미 광고를 보다가 가격에 놀라 입을 떡 벌리는 표정 (좌절하는 모습), 또는 텅 빈 지갑 보여주기.
+*   **자막:** 스탠바이미 300만원 실화?! 😱
+*   **내레이션 (빠르고 경쾌하게):** "스탠바이미 갖고 싶은데... 300만원 실화냐고?!" (짜증 섞인 한숨)
 
-**[스크립트 시작]**
+**(3-7초) 💡 문제 해결 제시!**
+*   **화면:** (장면 전환) 화사한 침실/주방에서 '삼탠바이미'를 자유롭게 움직이며 사용하는 모습. 화면에 넷플릭스, 유튜브 로고 빠르게 스쳐 지나감.
+*   **자막:** 댓츠 노노! 🙅‍♀️ 이제 '삼탠바이미'가 대세!
+*   **내레이션 (점점 신나게):** "댓츠 노노! 이제 똑똑하고 이동까지 자유로운 '삼탠바이미'가 대세야! 가격은 반의 반의 반값!"
 
-**0-3초 (훅)**
-*   **화면:** (1초) LG 스탠바이미 비싼 가격표 (100만원 이상) 클로즈업 → (2초) 좌절하거나 깜짝 놀라는 사람의 표정 클로즈업
-*   **대사:** "스탠바이미 로망? 가격보고 '헉'했던 사람? 🚨"
+**(7-12초) ✨ 핵심 제품 & 가성비 강조!**
+*   **화면:**
+    *   **7-9초:** 무빙큐빅스 스마트 32인치 삼탠바이미 (화이트 에디션) 제품 이미지/영상. 깔끔한 인테리어에 녹아드는 모습.
+    *   **자막:** 📺 무빙큐빅스 30만원대! 인테리어까지 갓벽!
+    *   **9-12초:** 위드라이프 구글 32인치 스마트TV 삼탠바이미 세트 제품 이미지/영상. 구글 OS 인터페이스 보여주기.
+    *   **자막:** 💸 위드라이프 20만원대! 구글OS, 앱 무제한!
+*   **내레이션 (흥분해서):** "무빙큐빅스 화이트 에디션은 30만원대! 구글 OS 위드라이프는 무려 20만원대라고?!"
 
-**3-7초 (문제 제기 & 솔루션 소개)**
-*   **화면:** (3-4초) 고민하는 표정에서 확신에 찬 표정으로 전환 → (5-7초) 깔끔한 화이트 삼탠바이미 등장, 스무스하게 이동하는 모습
-*   **대사:** "하지만 이제 걱정 끝! 🤫 '이동식 스마트 TV'를 30만원대로 만나는 법! '삼탠바이미'가 답이에요!"
-
-**7-12초 (핵심 장점 어필)**
-*   **화면:** (7-9초) 삼탠바이미가 침실, 주방 등 다양한 공간으로 이동하는 모습 빠르게 전환 → (10-12초) TV 화면에 넷플릭스, 유튜브 로고 및 시청 장면 → 40인치/32인치 제품 자막과 함께 가격 강조
-*   **대사:** "침실에서, 주방에서, 거실에서! 넷플릭스, 유튜브는 기본! 🤩 40인치 대화면? 32인치 컴팩트? 원하는 대로 고르세요! 스탠바이미의 '이동성+스마트 기능'을 그대로! 가성비는 폭발!"
-
-**12-15초 (클로징 & CTA)**
-*   **화면:** (12-14초) 두 제품 나란히 배치 후 깔끔한 이미지 → (14-15초) 화면 하단에 "프로필 링크 확인!" 자막 크게
-*   **대사:** "지금 바로 프로필 링크 확인하고 내 삶의 질을 UP! 👆"
-
-**[스크립트 끝]**
+**(12-15초) 🚀 강력한 CTA (Call to Action)!**
+*   **화면:** 다양한 삼탠바이미 사용 예시 (요리, 운동, 게임 등) 빠르게 교차. 마지막엔 제품들을 모아놓고 "PICK YOURS!" 메시지.
+*   **자막:** #스탠바이미가성비 #삼탠바이미 #중소바이미 #가성비TV #자취필수템
+*   **내레이션 (최고조):** "인생템 등극! 비싼 거 사지 말고 현명하게 '삼탠바이미'로 바로 갈아타! 지금 바로 검색!"
 
 ---
 
-## 📸 시선 강탈 인스타그램 카드뉴스 (4컷)
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-### 카드 1
-*   **텍스트:**
-    **스탠바이미 로망… 가격 실화? 💸**
-    100만원 넘는 TV, 포기할 수밖에 없었나요?
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A modern living room with a sleek white portable smart TV, a person looking regretful or shocked, a large, exaggerated price tag (e.g., "$1000+") overlayed on the TV screen, minimalist aesthetic, soft natural light, clean lines, high quality, --ar 1:1 --v 5.2`
+**콘셉트:** LG 스탠바이미의 높은 가격 부담 없이 이동성과 스마트 기능을 누리고 싶은 소비자를 위한 '삼탠바이미' 추천. 직관적인 가격 비교와 핵심 장점 어필.
 
-### 카드 2
-*   **텍스트:**
-    **NO! 이제 '삼탠바이미'로 로망 현실화! ✨**
-    이동식 스마트 TV 30만원대부터?
-    이거 실화? 🤩
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A hand points emphatically towards a stylish, sleek white portable smart TV, the TV screen displaying various OTT app icons (Netflix, YouTube, Disney+), bright and inviting atmosphere, modern minimalist interior, sense of discovery and excitement, --ar 1:1 --v 5.2`
+---
 
-### 카드 3
-*   **텍스트:**
-    **👀 압도적 가성비 끝판왕!**
-    #무빙큐빅스 40인치 삼탠바이미
-    **👉 37만원대!**
-    대화면에 스마트 기능까지! 거실/침실 만능템!
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A large 40-inch white portable smart TV in a cozy yet modern bedroom, a vibrant movie scene playing on the screen, soft warm lighting, minimalist decor, comfortable ambiance, high quality product shot, --ar 1:1 --v 5.2`
+### **카드 1**
 
-### 카드 4
-*   **텍스트:**
-    **👍 컴팩트한 만능템!**
-    #무빙큐빅스 32인치 삼탠바이미
-    **👉 32만원대!**
-    좁은 공간도 OK! 1인 가구, 서브 TV로 완벽!
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A compact 32-inch white portable smart TV in a bright, clean minimalist kitchen, displaying a cooking recipe or a morning news program, natural daylight streaming in, sleek countertops, fresh plants, --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    **슬라이드 1/4**
+    **제목:** 스탠바이미? 300만원 실화?! 😮
+    **내용:** 이제 '삼탠바이미'로 반값도 아닌 1/10 가격에 즐기세요!
+    #스탠바이미가성비 #삼탠바이미 #중소바이미
+
+*   **Midjourney 이미지 프롬프트 (영문):**
+    A dynamic, pop-art style image of a broken piggy bank with money spilling out, next to a sleek, modern, yet affordable mobile smart TV (SamtanbyMe) on a stand. The scene is set in a bright, inviting living space. The vibe is "smart saving, smart living" with high contrast and vibrant colors. --ar 1:1 --v 5.2
+
+---
+
+### **카드 2**
+
+*   **카드 텍스트:**
+    **슬라이드 2/4**
+    **제목:** ✨ 무빙큐빅스 32인치 삼탠바이미 X1 ✨
+    **내용:**
+    ✅ 30만원대!
+    ✅ 32인치 스마트TV + 이동식 거치대 세트
+    ✅ 화이트 디자인으로 인테리어까지 UP!
+    (침대 옆, 주방 어디든 나만의 영화관!)
+    #무빙큐빅스 #가성비TV #이동식TV
+
+*   **Midjourney 이미지 프롬프트 (영문):**
+    A minimalist, aesthetic interior shot of a modern bedroom with white and light wood tones. A sleek, white 32-inch mobile smart TV (SamtanbyMe) on a stand is positioned next to a bed, displaying a cozy movie scene. Soft, natural lighting creates a calm and inviting atmosphere. --ar 1:1 --v 5.2
+
+---
+
+### **카드 3**
+
+*   **카드 텍스트:**
+    **슬라이드 3/4**
+    **제목:** 💸 위드라이프 구글 32인치 삼탠바이미 💸
+    **내용:**
+    ✅ 20만원대 파격가! 🤯
+    ✅ 구글OS로 넷플릭스, 유튜브 앱 무제한!
+    ✅ 에너지 효율 1등급으로 전기세까지 절약!
+    (극강의 가성비, 놓치면 후회!)
+    #위드라이프 #구글TV #안드로이드TV #자취템
+
+*   **Midjourney 이미지 프롬프트 (영문):**
+    A vibrant, tech-focused image showing a person happily using a 32-inch mobile smart TV (SamtanbyMe) in a modern, brightly lit kitchen. The TV screen clearly displays the Google TV interface with popular app icons like Netflix and YouTube. Surrounding elements subtly suggest energy efficiency, like a green leaf icon. Bright, clean, and futuristic feel. --ar 1:1 --v 5.2
+
+---
+
+### **카드 4**
+
+*   **카드 텍스트:**
+    **슬라이드 4/4**
+    **제목:** 비싼 스탠바이미는 이제 그만! 🙅‍♀️
+    **내용:** 현명한 소비로 나만의 '삼탠바이미'를 GET하고 스마트한 라이프를 즐겨보세요!
+    **💡상품 보기는 프로필 링크 클릭!**
+    #현명한소비 #스마트TV #꿀템 #쇼핑팁
+
+*   **Midjourney 이미지 프롬프트 (영문):**
+    A triumphant, empowering image of a person smiling brightly and holding a remote control, with a sleek mobile smart TV (SamtanbyMe) on a stand visible in the background. The scene conveys smart choice, satisfaction, and modern convenience. The overall style is clean, optimistic, and inviting. --ar 1:1 --v 5.2
