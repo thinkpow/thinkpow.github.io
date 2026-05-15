@@ -1,34 +1,35 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 숏폼 스크립트 (유튜브 쇼츠/틱톡 15초)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**[영상 컨셉]**
-빠르게 전환되는 화면과 경쾌한 BGM. 첫 3초 안에 시청자의 공감을 얻고, 빠르게 핵심 제품 정보를 전달하며, 마지막에 강력한 CTA로 마무리.
+**제목:** 스탠바이미 비싸? 🤑 30만원대 '이동식 스마트TV' 삼탠바이미 BEST 2! (도파민 폭발!)
 
-**[스크립트]**
+---
 
-*   **0-3초 (훅! 시선 강탈)**
-    *   **(화면)**: 비싼 스탠바이미 가격표 보며 한숨 쉬는 사람 -> 순간 눈 번쩍 뜨며 놀라는 표정으로 전환!
-    *   **(자막)**: 💸스탠바이미 비싸서 포기? 놉! 🙅‍♀️
-    *   **(내레이션)**: 스탠바이미? 몇 백만 원 주고 사기 아깝지? 놉!
+**[영상 시작 - 0초]**
 
-*   **3-6초 (문제 제기 & 솔루션 예고)**
-    *   **(화면)**: 침실, 주방 등 다양한 공간에서 이동식 TV를 편하게 사용하는 모습 빠르게 전환. (제품은 가려진 상태)
-    *   **(자막)**: 침실/주방 어디든 맘껏! 이동식 스마트TV, 반값으로 즐겨봐!
-    *   **(내레이션)**: 침실, 주방 어디든! 넷플릭스 맘껏 볼 이동식 스마트TV! MD가 찾아왔어!
+*   **시각:** 화면 상단에 '스탠바이미 너무 비싸!' 텍스트 오버레이. 답답한 표정의 사람, 작은 화면으로 영화 보다가 불편해하는 모습 빠르게 교차 (지루함/불편함 강조)
+*   **대사:** (빠른 템포의 배경 음악 시작) "아직도 스탠바이미 가격 때문에 망설여?"
 
-*   **6-11초 (메인 추천 제품 2개 소개)**
-    *   **(화면)**: 이노스 삼탠바이미 32인치 제품 클로즈업 및 사용 장면. (넷플릭스 화면 등)
-    *   **(자막)**: 📺 MD's Pick 1️⃣ 이노스 삼탠바이미 32인치 (30만원대)
-    *   **(내레이션)**: 첫 번째! 이노스 삼탠바이미 32인치! 스마트TV+거치대 올인원! 30만원대!
-    *   **(화면)**: 무빙큐빅스 40인치 화이트 제품 클로즈업 및 사용 장면. (세련된 인테리어 강조)
-    *   **(자막)**: ✨ MD's Pick 2️⃣ 무빙큐빅스 40인치 화이트 (30만원대)
-    *   **(내레이션)**: 두 번째! 무빙큐빅스 40인치 화이트! 더 크고 예쁜 디자인! 이것도 30만원대!
+**[훅 - 1~3초]**
 
-*   **11-15초 (강력한 CTA)**
-    *   **(화면)**: 두 제품이 함께 등장하며 "스탠바이미 가성비" 문구 강조.
-    *   **(자막)**: ✨ 비싼 스탠바이미 살 바엔 이거지! 프로필 링크 GO! 💨
-    *   **(내레이션)**: 비싼 스탠바이미 살 바엔 이거지! 더 자세한 정보는 프로필 링크에서 만나봐!
+*   **시각:** 화면이 전환되며, 깔끔한 '삼탠바이미' 제품이 등장. (이노스 또는 무빙큐빅스 제품의 매력적인 앵글) '이젠 삼탠바이미 시대!' 텍스트 강조!
+*   **대사:** "NO! 이젠 '삼탠바이미'로 가성비 끝판왕 찍어봐!" (목소리 톤 업, 활기차게)
+
+**[본론 1 - 4~8초]**
+
+*   **시각:** 이노스 32인치 삼탠바이미 제품이 다양한 공간(침대 옆, 주방)에서 사용되는 모습. 넷플릭스/유튜브 화면 강조.
+*   **대사:** "첫 번째! ✨ 이노스 32인치 삼탠바이미! 30만원대 초반 가격에 스마트TV + 이동식 거치대 통째로! 넷플릭스, 유튜브 바로 되니까 진짜 편해!"
+
+**[본론 2 - 9~13초]**
+
+*   **시각:** 무빙큐빅스 40인치 화이트 에디션 제품이 거실 등 넓은 공간에서 고급스럽게 연출된 모습. 세련된 화이트 디자인 강조.
+*   **대사:** "두 번째! 💖 무빙큐빅스 40인치! 더 큰 화면과 세련된 화이트 디자인까지! 내 방, 거실 어디든 나만의 극장을 만들 수 있어!"
+
+**[클로징 & CTA - 14~15초]**
+
+*   **시각:** 두 제품이 함께 등장하거나, 다시 '삼탠바이미' 컨셉을 강조하는 그래픽. 화면 하단에 '프로필 링크 클릭!' 강조.
+*   **대사:** "스탠바이미 대신 '삼탠바이미'로 스마트한 라이프 시작! 더 자세한 정보는 프로필 링크에서 만나봐!" (도파민 터지는 사운드 이펙트)
 
 ---
 
@@ -36,45 +37,49 @@
 
 ---
 
-### **[1컷]**
+### **1컷. (제목/훅)**
 
-*   **들어갈 텍스트**:
-    💸 스탠바이미 비싸서 포기? 놉! 🙅‍♀️
-    MD가 찾았다! '반값' 이동식 스마트TV 대공개!
+*   **텍스트:**
+    ## 스탠바이미, 너무 비싸서 포기했나요? 😭
+    움직이는 스마트TV, 이제는 **가성비**로 누리세요!
 
-*   **Midjourney 스타일 영문 프롬프트**:
-    `A person's face showing initial disappointment then surprise and joy, looking at a portable smart TV (StandbyMe alternative) with a clear 'price tag' showing a significantly lower price. The background is a bright, modern room, evoking a sense of smart, accessible technology. Vibrant, clean, advertisement style. --ar 1:1 --v 5.2`
-
----
-
-### **[2컷]**
-
-*   **들어갈 텍스트**:
-    MD's Pick 1️⃣ 이노스 삼탠바이미 32인치 📺
-    30만원대로 '스마트TV+거치대' 올인원! 넷플릭스 무제한!
-
-*   **Midjourney 스타일 영문 프롬프트**:
-    `A 32-inch black Innos brand portable smart TV (StandbyMe alternative) on a minimalist mobile stand, positioned in a cozy, modern bedroom. The TV screen clearly displays the Netflix interface. Soft, inviting lighting, high-quality product photography, warm and clean aesthetic. --ar 1:1 --v 5.2`
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    `A minimalistic, modern living room. A person is looking frustrated at a blurred, expensive-looking mobile TV in the background. The foreground shows a hand holding an empty wallet. High contrast, warm lighting, cinematic, evoking a sense of longing and financial struggle. --ar 1:1 --v 5.2`
 
 ---
 
-### **[3컷]**
+### **2컷. (문제 해결/개념)**
 
-*   **들어갈 텍스트**:
-    MD's Pick 2️⃣ 무빙큐빅스 40인치 화이트 ✨
-    더 크고 예쁘게! 감성 인테리어까지 UP!
+*   **텍스트:**
+    ## 정답은 #삼탠바이미 ✨
+    일반 스마트TV + 이동식 거치대 조합으로
+    #스탠바이미 의 모든 기능을 **30만원대**로!
 
-*   **Midjourney 스타일 영문 프롬프트**:
-    `A sleek, white 40-inch MovingCubes brand portable smart TV (StandbyMe alternative style) with a white mobile stand. It's placed in a bright, minimalist Scandinavian living room. The TV screen shows vibrant, high-definition content. Natural light, elegant product styling, high-end interior design magazine aesthetic. --ar 1:1 --v 5.2`
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    `A bright, clean studio apartment with a sleek, modern portable smart TV on a minimalist white mobile stand. The TV screen shows a happy couple watching a movie. There's a subtle glow of "Smart TV" and "Mobility" icons around it. Optimistic, futuristic, clean lines, concept art, high-resolution. --ar 1:1 --v 5.2`
 
 ---
 
-### **[4컷]**
+### **3컷. (상품 1 상세)**
 
-*   **들어갈 텍스트**:
-    이제 비싼 돈 NO! 🙅‍♂️
-    스탠바이미 가성비로 스마트 라이프 시작! 🎁
-    (MD 추천템은 프로필 링크에서!)
+*   **텍스트:**
+    ## 1. 이노스 32인치 삼탠바이미 📺
+    **319,000원!** 압도적 가성비!
+    스마트TV & 이동 거치대 SET에 넷플릭스, 유튜브까지!
 
-*   **Midjourney 스타일 영문 프롬프트**:
-    `A dynamic collage or split-screen image featuring the Innos 32-inch portable smart TV in a cozy kitchen and the MovingCubes 40-inch white portable smart TV in a stylish living room, both actively being used by smiling people. A large, stylized "AFFORDABLE SMART TV" text overlay. Bright, energetic, modern, aspirational lifestyle advertisement. --ar 1:1 --v 5.2`
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    `A cozy bedroom interior. A 32-inch black smart TV on a simple, sturdy mobile stand is positioned next to a bed. The TV displays a vibrant Netflix streaming screen. Soft, warm ambient lighting. Comfortable, inviting atmosphere. Focus on convenience and compact design. Product photography style. --ar 1:1 --v 5.2`
+
+---
+
+### **4컷. (상품 2 상세)**
+
+*   **텍스트:**
+    ## 2. 무빙큐빅스 40인치 삼탠바이미 💖
+    **379,000원!** 대화면 + 화이트 디자인
+    거실/침실 어디든 인테리어 살리는 나만의 영화관!
+
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    `A chic, modern living room with a large 40-inch white smart TV on an elegant white mobile stand. The screen shows a beautiful, high-definition movie scene. Natural light streams in, highlighting the clean, sophisticated interior. Focus on the large screen size and stylish white aesthetic. Editorial, luxurious yet accessible feel. --ar 1:1 --v 5.2`
+
+---
