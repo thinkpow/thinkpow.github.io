@@ -1,80 +1,75 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (도파민 폭발 훅 포함)
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**콘셉트:** LG 스탠바이미의 높은 가격에 좌절하던 사람들에게, 합리적인 가격으로 동일한 만족감을 주는 '스마트 삼탠바이미'의 매력을 역동적으로 전달. 빠른 전환과 핵심 메시지 강조.
-
----
-
-**[영상 시작]**
-
-**[0-3초] 훅 (Hook): 가격에 좌절하는 모습과 반전**
-*   **화면:** 고급스러운 LG 스탠바이미 광고 영상이 나오다가 가격표(200만원대)를 본 손이 멈칫, 이내 좌절하는 표정. "비싸서 포기했다고?" 자막이 큼직하게 뜸.
-*   **사운드:** 웅장하고 고급진 배경음악이 나오다 "띠용!" 효과음과 함께 뚝 끊김.
-*   **내레이션 (빠르고 흥분된 목소리):** 스탠바이미... 비싸서 눈물만 흘렸다고? 댓츠 노노!
-
-**[3-8초] 문제 해결 & 제품 소개: '스마트 삼탠바이미'의 등장**
-*   **화면:** (빠른 비트의 경쾌한 배경음악 시작) "문제 해결!" 자막과 함께, 침실-주방-거실 등 다양한 공간에서 '무빙큐빅스 스마트 삼탠바이미'가 자유롭게 이동하며 사용되는 모습이 빠르게 전환. 넷플릭스/유튜브 로고가 오버레이됨.
-*   **내레이션:** 이거 봐! '스마트 삼탠바이미'가 나타났다! 이동식 스탠드+스마트TV=어디든 내 영화관!
-
-**[8-12초] 핵심 기능 & 가성비 강조**
-*   **화면:** 넷플릭스 시청 화면, 유튜브 레시피 화면 등 스마트 기능 활용 장면과 함께 40인치/32인치 제품의 세련된 화이트 디자인이 번갈아 보임. 화면 하단에 "30만원대!" 가격이 크게 강조되며, 놀라는 이모티콘들이 튀어나옴.
-*   **내레이션:** 넷플릭스, 유튜브? 셋톱박스 없이 바로 OK! 40인치/32인치, 화이트 디자인까지! 근데 가격은 거의 반값?! 갓성비!
-
-**[12-15초] 행동 유도 (Call to Action)**
-*   **화면:** 40인치와 32인치 제품이 나란히 배치된 클린한 이미지. 중앙에 "🔥 프로필 링크 확인! 🔥" 자막이 번쩍이며 강조됨.
-*   **사운드:** 효과음 (반짝임, 클릭 유도)
-*   **내레이션:** 망설일 시간 없어! 핵꿀템! 지금 바로 프로필 링크 클릭! 품절각이니 서둘러!
-
-**[영상 끝]**
+**제목:** 🚨스탠바이미 사고 돈 모으다 포기? 이제 20만원대 '삼탠바이미'로 끝장내! #가성비스마트TV
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[영상 구성 및 대사]**
 
-**콘셉트:** LG 스탠바이미의 매력을 원하는 소비자들의 니즈를 충족시키면서도, 합리적인 가격의 '스마트 삼탠바이미'가 훌륭한 대안임을 명확하게 전달. 각 컷마다 핵심 메시지와 시각적 매력을 동시에 제공.
+**0-3초 (훅! 시선 강탈):**
+*   **영상:** 한숨 쉬며 스탠바이미 가격표를 보고 좌절하는 사람 (코믹하게). 갑자기 화면 전환! 밝고 스타일리시한 '삼탠바이미' 제품이 등장하며 손가락으로 가리킴.
+*   **음악/효과음:** (경고음) 띠링! 💸 (후회하는 소리) 아... (웅장한 배경음악 시작)
+*   **대사:** "스탠바이미? 비싸서 포기했다고? 🚨STOP! 이젠 '삼탠바이미' 시대!"
 
----
+**3-7초 (문제 제기 & 솔루션):**
+*   **영상:** LG 스탠바이미와 '삼탠바이미' 제품 가격 비교 그래프 또는 화면 분할 (확연한 가격 차이 강조).
+*   **음악/효과음:** (놀라움 효과음) 와우!
+*   **대사:** "이동식 스마트TV, 비싸게 살 필요 없어요! 20만원대로 LG 스탠바이미 감성, 완벽 구현 가능!"
 
-### **[1/4컷] - 훅: 비싼 스탠바이미, 현명한 대안은?**
+**7-12초 (핵심 제품 소개):**
+*   **영상:** (빠르게 전환) 1. 위드라이프 삼탠바이미 (구글TV 화면 강조, 다양한 OTT 로고) 2. 무빙큐빅스 화이트 에디션 (깔끔한 화이트 디자인 강조, 인테리어에 녹아든 모습)
+*   **음악/효과음:** (제품 기능 설명 시 경쾌한 효과음)
+*   **대사:** "✨구글TV 탑재 위드라이프는 25만원! 화이트 감성 무빙큐빅스도 30만원대 초반! 어디든 내 마음대로 옮기는 스마트 라이프!"
 
-*   **텍스트:**
-    **스탠바이미 갖고 싶었지만 비싸서 망설였다면? 🚨 주목!**
-    **'스마트 삼탠바이미'로 가성비 끝판왕 찍어봐!**
-*   **Midjourney 프롬프트 (영문):**
-    `A stylish, minimalist modern living room. A person is looking longingly at a blurred, expensive-looking LG StandbyME in the background. In the foreground, a vibrant, glowing thought bubble with "Cost-Effective Alternative" appears, hinting at a smart, movable TV solution. The overall mood is aspirational yet practical. Clean lines, soft lighting. --ar 1:1 --v 5.2`
-
----
-
-### **[2/4컷] - 메인 제품 1: 대화면 40인치 삼탠바이미**
-
-*   **텍스트:**
-    **✨ 40인치 대화면 + 스마트 기능 + 이동성!**
-    **무빙큐빅스 스마트 삼탠바이미 40인치 (화이트)**
-    **침실, 거실 어디든 나만의 홈 시네마 완성! (379,000원)**
-*   **Midjourney 프롬프트 (영문):**
-    `A sleek 40-inch white smart TV on a minimalist movable stand in a bright, cozy bedroom with natural light. The TV is displaying a vibrant movie scene. The room features modern, clean aesthetic with white and light wood elements. Focus on the TV as the centerpiece, integrated seamlessly into the space. --ar 1:1 --v 5.2`
+**12-15초 (클로징 & CTA):**
+*   **영상:** 두 제품이 함께 놓여있거나, 한 사람이 소파에 편안히 앉아 삼탠바이미를 즐기는 모습. 하단에 '프로필 링크 확인' 텍스트 크게 노출.
+*   **음악/효과음:** (마무리 음악, 설득력 있는 목소리)
+*   **대사:** "내돈내산 찐리뷰는 댓글/프로필 링크 확인! 지금 바로 득템하고 스마트 라이프 시작하세요!"
 
 ---
 
-### **[3/4컷] - 메인 제품 2: 콤팩트 32인치 삼탠바이미**
-
-*   **텍스트:**
-    **🏡 좁은 공간도 OK! 실용성 갑 32인치!**
-    **무빙큐빅스 스마트 삼탠바이미 32인치 (화이트)**
-    **침대 옆, 주방에서도 부담 없는 완벽 파트너! (329,000원)**
-*   **Midjourney 프롬프트 (영문):**
-    `A chic 32-inch white smart TV on a compact movable stand placed next to a bed in a small, modern studio apartment. The TV is showing a cooking show or YouTube video. Emphasize space efficiency and coziness with soft textures and warm lighting. The room is minimalist but inviting. --ar 1:1 --v 5.2`
+## 📸 인스타그램 카드뉴스 (4컷)
 
 ---
 
-### **[4/4컷] - 요약 및 CTA: 현명한 당신의 선택!**
-
-*   **텍스트:**
-    **🔥 LG 스탠바이미 핵심 기능 그대로!**
-    **✅ 이동성 ✅ 스마트 TV (넷플릭스, 유튜브) ✅ 합리적인 가격!**
-    **지금 바로 프로필 링크에서 상세 정보 확인하고 현명하게 겟하세요!**
-*   **Midjourney 프롬프트 (영문):**
-    `An abstract infographic style image featuring three prominent icons: a stylized moving cart/wheel for mobility, a smart TV screen icon with Netflix and YouTube logos, and a piggy bank/money bag icon with a checkmark for affordability. All icons are rendered in a modern, clean, flat design against a vibrant, gradient background of soft pastel colors (e.g., light blue, soft pink, pale yellow), connected by subtle, flowing lines. --ar 1:1 --v 5.2`
+### **[1컷]**
+*   **카드 텍스트:**
+    **🚨 LG 스탠바이미 사고 싶지만, 가격에 망설였다면? 🚨**
+    **이제 '삼탠바이미'로 가성비 끝판왕 찍으세요!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish, minimalist living room with a focus on a portable smart TV on a stand, wheels subtly visible, bright and airy, showing connectivity to streaming apps on the screen, modern design, no people, photorealistic, 4k --ar 1:1`
 
 ---
+
+### **[2컷]**
+*   **카드 텍스트:**
+    **💰 20만원대 위드라이프 삼탠바이미!**
+    **구글 TV로 넷플릭스, 유튜브 다~ 돼!**
+    **(에너지 효율 1등급은 덤!)**
+    `#위드라이프 #구글TV #스마트TV`
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A sleek, modern portable smart TV (SamtanbyMe style) with a prominent screen displaying the Google TV interface (Netflix, YouTube, Disney+ icons clearly visible), in a bright, inviting living space, focus on the screen and minimalist design, photorealistic, 4k --ar 1:1`
+
+---
+
+### **[3컷]**
+*   **카드 텍스트:**
+    **🤍 무빙큐빅스 화이트 에디션!**
+    **인테리어까지 책임지는 세련된 디자인!**
+    **우리 집 감성템 등극!**
+    `#무빙큐빅스 #화이트인테리어 #감성템`
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A pristine white portable smart TV (SamtanbyMe style) with a sleek, modern design, placed in a sunlit, minimalist aesthetic living room. The screen shows a beautiful art piece, emphasizing its role as an interior decor item. No people, photorealistic, 4k --ar 1:1`
+
+---
+
+### **[4컷]**
+*   **카드 텍스트:**
+    **✨ LG 스탠바이미 핵심 기능은 그대로, 가격은 1/3?!**
+    **이제 스마트 라이프, 부담 없이 즐기세요!**
+    **(자세한 비교는 프로필 링크 확인!)**
+    `#스탠바이미가성비 #삼탠바이미추천 #이동식TV`
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A collage or split screen image representing "value for money." On one side, a luxurious, expensive portable smart TV. On the other side, a stylish and affordable "SamtanbyMe" smart TV. Both are in modern, inviting home settings, with emphasis on smart features and portability. Clean, bright, aspirational, photorealistic, 4k --ar 1:1`
