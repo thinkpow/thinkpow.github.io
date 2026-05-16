@@ -1,85 +1,72 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
+## 🎥 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 스탠바이미 비싸? 🤑 30만원대 '이동식 스마트TV' 삼탠바이미 BEST 2! (도파민 폭발!)
+**콘셉트:** LG 스탠바이미의 높은 가격에 좌절한 사람들에게 '가성비 삼탠바이미'라는 해결책을 제시, 핵심 기능과 놀라운 가격을 강조하여 즉각적인 구매 욕구 자극.
 
 ---
 
-**[영상 시작 - 0초]**
+**[영상 제목]** 🤯 스탠바이미 1/5 가격 실화?! #가성비삼탠바이미 #이동식TV
 
-*   **시각:** 화면 상단에 '스탠바이미 너무 비싸!' 텍스트 오버레이. 답답한 표정의 사람, 작은 화면으로 영화 보다가 불편해하는 모습 빠르게 교차 (지루함/불편함 강조)
-*   **대사:** (빠른 템포의 배경 음악 시작) "아직도 스탠바이미 가격 때문에 망설여?"
+**(0-3초) 훅: 시선 강탈 & 문제 제기**
+*   **자막:** 💥 LG 스탠바이미.. 가격 실화?!
+*   **화면:** (빠르게 전환) LG 스탠바이미 고가 가격표 이미지 → 낙담하는 사람 표정 → "하지만!" 텍스트 팝업
+*   **내레이션/대사:** "LG 스탠바이미.. 갖고 싶다 했더니 가격 보고 놀랐죠? 😱"
 
-**[훅 - 1~3초]**
+**(3-7초) 문제 해결 & 솔루션 제시**
+*   **자막:** 이동식 스마트TV, 30만원대라고?!
+*   **화면:** 깔끔하고 모던한 '무빙큐빅스 삼탠바이미' 제품 정면 샷 (화이트)
+*   **내레이션/대사:** "걱정 마! 이제 1/5 가격으로 이동식 스마트 TV, 삼탠바이미를 만날 시간! 📺✨"
 
-*   **시각:** 화면이 전환되며, 깔끔한 '삼탠바이미' 제품이 등장. (이노스 또는 무빙큐빅스 제품의 매력적인 앵글) '이젠 삼탠바이미 시대!' 텍스트 강조!
-*   **대사:** "NO! 이젠 '삼탠바이미'로 가성비 끝판왕 찍어봐!" (목소리 톤 업, 활기차게)
+**(7-12초) 핵심 기능 & 가성비 강조**
+*   **자막:** 침실-주방-거실 어디든! 넷플릭스, 유튜브 다 돼!
+*   **화면:** (빠른 전환) 침대 옆에서 넷플릭스 보는 모습, 주방에서 요리 영상 보는 모습, 거실에서 OTT 앱 사용하는 모습
+*   **내레이션/대사:** "침대 옆, 주방, 거실 어디든 내맘대로! 넷플릭스, 유튜브 기본! 🎬 요게 30만원대라고? 미쳤다!"
 
-**[본론 1 - 4~8초]**
-
-*   **시각:** 이노스 32인치 삼탠바이미 제품이 다양한 공간(침대 옆, 주방)에서 사용되는 모습. 넷플릭스/유튜브 화면 강조.
-*   **대사:** "첫 번째! ✨ 이노스 32인치 삼탠바이미! 30만원대 초반 가격에 스마트TV + 이동식 거치대 통째로! 넷플릭스, 유튜브 바로 되니까 진짜 편해!"
-
-**[본론 2 - 9~13초]**
-
-*   **시각:** 무빙큐빅스 40인치 화이트 에디션 제품이 거실 등 넓은 공간에서 고급스럽게 연출된 모습. 세련된 화이트 디자인 강조.
-*   **대사:** "두 번째! 💖 무빙큐빅스 40인치! 더 큰 화면과 세련된 화이트 디자인까지! 내 방, 거실 어디든 나만의 극장을 만들 수 있어!"
-
-**[클로징 & CTA - 14~15초]**
-
-*   **시각:** 두 제품이 함께 등장하거나, 다시 '삼탠바이미' 컨셉을 강조하는 그래픽. 화면 하단에 '프로필 링크 클릭!' 강조.
-*   **대사:** "스탠바이미 대신 '삼탠바이미'로 스마트한 라이프 시작! 더 자세한 정보는 프로필 링크에서 만나봐!" (도파민 터지는 사운드 이펙트)
+**(12-15초) 마무리 & 강력한 CTA**
+*   **자막:** 🏃‍♀️💨 내 스마트 라이프, 지금 바로 시작! (프로필 링크 클릭!)
+*   **화면:** 제품의 다양한 활용 모습과 '지금 구매하기' 버튼이 합성된 듯한 화면, 마지막에 프로필 링크를 가리키는 손가락 아이콘.
+*   **내레이션/대사:** "이동의 자유! 스마트 라이프! 지금 바로 프로필 링크 클릭! 놓치지 마세요! 🏃‍♀️💨"
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
+**콘셉트:** LG 스탠바이미에 대한 대중의 니즈와 가격 부담을 명확히 제시하고, '가성비 삼탠바이미'라는 대안을 구체적인 제품과 함께 소개해 구매 전환 유도.
+
 ---
 
-### **1컷. (제목/훅)**
-
+### 1컷
 *   **텍스트:**
-    ## 스탠바이미, 너무 비싸서 포기했나요? 😭
-    움직이는 스마트TV, 이제는 **가성비**로 누리세요!
+    **스탠바이미 갖고 싶어서 검색했다가...**
+    **가격에 놀랐죠? 💸**
+    **걱정 마! 1/5 가격으로 즐기는 #삼탠바이미 등장! ✨**
+*   **Midjourney 프롬프트:**
+    "A person looking shocked at a digital screen displaying a very high price for a modern smart TV on a stand. In the background, another sleek, minimalist screen shows a significantly lower, appealing price with a 'solution' vibe. The setting is a clean, modern home with natural light. Emphasize the contrast between expense and affordability. --ar 1:1 --style raw"
 
-*   **배경 이미지 프롬프트 (Midjourney 스타일):**
-    `A minimalistic, modern living room. A person is looking frustrated at a blurred, expensive-looking mobile TV in the background. The foreground shows a hand holding an empty wallet. High contrast, warm lighting, cinematic, evoking a sense of longing and financial struggle. --ar 1:1 --v 5.2`
-
----
-
-### **2컷. (문제 해결/개념)**
-
+### 2컷
 *   **텍스트:**
-    ## 정답은 #삼탠바이미 ✨
-    일반 스마트TV + 이동식 거치대 조합으로
-    #스탠바이미 의 모든 기능을 **30만원대**로!
+    **이거 하나면 끝! 무빙큐빅스 삼탠바이미 SET 📺**
+    **✔ 32인치 스마트TV + 이동식 거치대 올인원**
+    **✔ 넷플릭스, 유튜브 기본! 압도적 가성비 329,000원!**
+*   **Midjourney 프롬프트:**
+    "A 32-inch white smart TV on a sleek, mobile stand placed in a modern, brightly lit kitchen. The TV screen clearly displays streaming service logos like Netflix, YouTube, and Coupang Play. A stylish young adult is happily watching content while casually leaning against a kitchen island. The setting emphasizes an all-in-one, versatile smart home device. --ar 1:1 --style raw"
 
-*   **배경 이미지 프롬프트 (Midjourney 스타일):**
-    `A bright, clean studio apartment with a sleek, modern portable smart TV on a minimalist white mobile stand. The TV screen shows a happy couple watching a movie. There's a subtle glow of "Smart TV" and "Mobility" icons around it. Optimistic, futuristic, clean lines, concept art, high-resolution. --ar 1:1 --v 5.2`
-
----
-
-### **3컷. (상품 1 상세)**
-
+### 3컷
 *   **텍스트:**
-    ## 1. 이노스 32인치 삼탠바이미 📺
-    **319,000원!** 압도적 가성비!
-    스마트TV & 이동 거치대 SET에 넷플릭스, 유튜브까지!
+    **더 저렴하게! 더 세련되게!**
+    **X1시리즈 화이트 에디션 🤍**
+    **✔ 만원 더 저렴한 319,000원!**
+    **✔ 깔끔한 화이트 디자인으로 인테리어 완성**
+    **✔ 고객 직접 설치 OK! 간편함은 덤!**
+*   **Midjourney 프롬프트:**
+    "A close-up shot of a 32-inch white mobile smart TV (SamTenByMe X1 series) in a minimalist white bedroom. The design is exceptionally sleek and modern, blending perfectly with the clean, aesthetic decor. A hand is shown easily tilting the screen, implying user-friendly setup and flexibility. Soft, diffused natural light illuminates the scene, highlighting the product's elegance. --ar 1:1 --style raw"
 
-*   **배경 이미지 프롬프트 (Midjourney 스타일):**
-    `A cozy bedroom interior. A 32-inch black smart TV on a simple, sturdy mobile stand is positioned next to a bed. The TV displays a vibrant Netflix streaming screen. Soft, warm ambient lighting. Comfortable, inviting atmosphere. Focus on convenience and compact design. Product photography style. --ar 1:1 --v 5.2`
-
----
-
-### **4컷. (상품 2 상세)**
-
+### 4컷
 *   **텍스트:**
-    ## 2. 무빙큐빅스 40인치 삼탠바이미 💖
-    **379,000원!** 대화면 + 화이트 디자인
-    거실/침실 어디든 인테리어 살리는 나만의 영화관!
-
-*   **배경 이미지 프롬프트 (Midjourney 스타일):**
-    `A chic, modern living room with a large 40-inch white smart TV on an elegant white mobile stand. The screen shows a beautiful, high-definition movie scene. Natural light streams in, highlighting the clean, sophisticated interior. Focus on the large screen size and stylish white aesthetic. Editorial, luxurious yet accessible feel. --ar 1:1 --v 5.2`
-
----
+    **비싼 스탠바이미 이제 그만! 👋**
+    **내 공간을 스마트하게! 이동의 자유를 누리세요!**
+    **👇 더 자세한 정보는 프로필 링크 클릭!**
+    **#스탠바이미대안 #이동식티비 #스마트라이프 #가성비템**
+*   **Midjourney 프롬프트:**
+    "A dynamic, cheerful collage of multiple scenes. One scene shows a person relaxing in a cozy bedroom watching the mobile smart TV, another shows someone in a bright kitchen following a recipe on the TV, and a third shows a family laughing in a modern living room with the TV. The overall atmosphere is joyful, convenient, and liberating, symbolizing smart living without boundaries. The style is bright and inviting. --ar 1:1 --style raw"
