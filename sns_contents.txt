@@ -1,83 +1,70 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
+## 📢 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-**영상 컨셉:** 빠르고 경쾌한 전환, 시각적으로 매력적인 제품 활용 모습.
-**BGM:** 최신 트렌디하고 밝은 숏폼 BGM
+**콘텐츠 제목:** 스탠바이미 갖고 싶어서 현기증 나? 😫 30만원대 '이것' 하나면 끝!
 
----
+**[영상 시작 - 훅 (0-3초)]**
 
-**[스크립트]**
+*   **화면:** (빠르게 전환되는 장면: LG 스탠바이미 비싼 가격표 → 좌절하는 표정의 사람 → 번개처럼 'NO!' 스탬프가 찍히며 표정이 밝아짐)
+*   **대사:** "스탠바이미? 갖고 싶어서 현기증 나는데… 가격 보면 심장마비?!"
 
-**(0-3초) 훅! 시선 강탈**
-*   **화면:** (빠르게 전환) LG 스탠바이미 가격표 화면 클로즈업 ➡️ '129만원?' 글자 깜빡임 ➡️ 좌절하는 사람 표정 ➡️ 갑자기 화면 전환, 밝게 웃는 사람 & "잠깐!" 텍스트 오버레이
-*   **내레이션 (빠르고 경쾌하게):** "스탠바이미 129만원? 너무 비싸서 포기했어요?"
+**[문제 제기 및 솔루션 제시 (3-7초)]**
 
-**(3-8초) 문제 해결 & 제품 소개 (메인 1)**
-*   **화면:** 침대 옆, 소파 앞 등 다양한 공간에서 '무빙큐빅스 X1시리즈'를 편리하게 사용하는 모습 (넷플릭스, 유튜브 등) ➡️ 제품명 & 가격(319,000원) 텍스트 오버레이
-*   **내레이션:** "이제 그 고민 끝! 30만원대 '삼탠바이미'가 있잖아요? 보세요, 무빙큐빅스 X1시리즈! 올인원 구성에 이 가격, 실화?!"
+*   **화면:** (활짝 웃는 얼굴, 배경으로 다양한 공간에서 활용되는 '삼탠바이미' 연출 이미지 빠르게 교차: 침대 옆, 주방, 홈트 공간)
+*   **대사:** "걱정 마! 이제 30만원대로 '스탠바이미 감성' 완벽 구현 가능하다고?!"
 
-**(8-12초) 제품 소개 (메인 2) & 장점 어필**
-*   **화면:** 주방에서 요리 레시피 보거나 거실에서 친구와 게임하는 모습 등 '무빙큐빅스 GTNB321HD11' 활용 모습 ➡️ 제품명 & 가격(329,000원) 텍스트 오버레이 ➡️ "화이트 디자인", "어디든 OK" 텍스트 강조
-*   **내레이션:** "또 다른 대안! GTNB321HD11! 깔끔한 화이트 디자인에 스탠바이미 기능 그대로! 침실, 거실, 주방 어디든 옮겨 다니며 스마트하게!"
+**[핵심 상품 소개 1 (7-10초)]**
 
-**(12-15초) 마무리 & CTA**
-*   **화면:** 두 제품 함께 나란히 있는 모습 (혹은 활용 모습 빠르게 교차) ➡️ "내돈내산 고민 끝! 가성비 삼탠바이미!" 텍스트 오버레이 ➡️ "더 많은 꿀템은 프로필 링크!" 또는 "지금 바로 검색!"
-*   **내레이션:** "비싼 스탠바이미 말고, 똑똑한 가성비 삼탠바이미! 더 많은 정보는 프로필 링크에서 확인하세요!"
+*   **화면:** (상품 1 '무빙큐빅스 스마트 삼탠바이미 SET' 제품 이미지 클로즈업 → 깔끔한 거실에서 여유롭게 TV 보는 장면)
+*   **대사:** "첫 번째! 무빙큐빅스 삼탠바이미 SET! 32인치 스마트TV+거치대 올인원! 🤩"
 
----
+**[핵심 상품 소개 2 (10-13초)]**
 
-## 2. 인스타그램 카드뉴스 4컷
+*   **화면:** (상품 2 '무빙큐빅스 스마트 삼탠바이미 X1시리즈' 제품 이미지 클로즈업 → 세련된 침실에서 영화 보는 장면)
+*   **대사:** "두 번째! X1시리즈 화이트에디션! 만원 더 싸게, 더 세련된 디자인으로 FLEX! ✨"
 
----
+**[마무리 및 CTA (13-15초)]**
 
-**1. 첫 번째 컷: 훅(Hook) & 문제 제기**
-
-*   **들어갈 텍스트:**
-    **"스탠바이미, 너무 비싸서 고민?"**
-    **"🔥가성비 대란템! '삼탠바이미'가 온다!🔥"**
-    *   LG 스탠바이미, 갖고 싶지만 💸가격 부담은 NO!
-    *   이젠 현명하게, 스마트하게 즐기세요!
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A person looking stressed while holding an expensive price tag for a sleek, modern portable TV, feeling defeated. The scene is brightly lit in a minimalist interior, with a soft blur in the background. Cinematic, dramatic lighting, ultra-realistic. --ar 1:1 --v 5.2`
+*   **화면:** (두 상품이 나란히 있는 모습 + '더 많은 정보는 댓글 확인!' 자막 크게 띄우기)
+*   **대사:** "와… 진짜 똑똑한 소비 아니냐? 댓글 링크 확인하고, 당신만의 스마트 라이프 시작해봐! 🏃‍♀️"
 
 ---
 
-**2. 두 번째 컷: 삼탠바이미 소개 & 메인 제품 1**
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-*   **들어갈 텍스트:**
-    **"삼탠바이미? 그게 뭔데?"**
-    *   스마트 모니터 + 이동식 거치대 = **나만의 스탠바이미!**
-    *   **✨압도적 가성비 '무빙큐빅스 X1'✨**
-    *   32인치 올인원, 세련된 화이트 디자인, 간편 설치까지!
-    *   (319,000원)
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A stylish 32-inch white smart monitor on a sleek, minimalist mobile stand (SamtenbyMe), placed in a modern living room with warm sunlight streaming in. A person is casually watching content on it while relaxing on a sofa. Clean lines, inviting atmosphere, high resolution, soft focus. --ar 1:1 --v 5.2`
+### **👉 1/4 컷**
 
----
+*   **카드뉴스 텍스트:**
+    **스탠바이미? 💸 이젠 가성비 '삼탠바이미' 시대!**
+    (LG 스탠바이미 가격보고 좌절했던 당신 주목!)
 
-**3. 세 번째 컷: 메인 제품 2 & 활용성 강조**
+*   **Midjourney 프롬프트 (배경 이미지):**
+    A sleek, modern living room. On the left, an expensive, minimalist LG StandbyMe TV with a high price tag. On the right, a visually similar, stylish white portable smart TV (SamtanbyMe style) with a much more affordable price tag clearly displayed. The overall atmosphere should be clean, bright, and aspirational, highlighting the contrast in price while maintaining aesthetic appeal. High contrast, vibrant colors. --ar 1:1 --v 5.2
 
-*   **들어갈 텍스트:**
-    **"어디든 OK! 내 라이프스타일에 맞춤!"**
-    *   **✨또 다른 가성비 대안 '무빙큐빅스 GTNB321HD11'✨**
-    *   침실, 주방, 거실 어디든 옮겨 다니며 즐기는 스마트 라이프!
-    *   완벽한 구성, 화이트 컬러로 인테리어까지 UP!
-    *   (329,000원)
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A modern, minimalist white mobile smart TV (SamtenbyMe GTNB321HD11) seamlessly integrated into different home environments: first in a cozy bedroom with someone watching before sleep, then quickly transitioning to a bright kitchen with someone following a recipe, finally in a sleek living room during a casual gathering. Focus on versatility and ease of movement. Soft, natural lighting. --ar 1:1 --v 5.2`
+### **👉 2/4 컷**
 
----
+*   **카드뉴스 텍스트:**
+    **📺 30만원대 올인원! 무빙큐빅스 스마트 삼탠바이미 SET**
+    32인치 스마트TV + 이동식 거치대, 모든 공간을 내 영화관으로!
 
-**4. 네 번째 컷: 추가 꿀템 & CTA**
+*   **Midjourney 프롬프트 (배경 이미지):**
+    A cozy, minimalist bedroom scene. A young person is comfortably lounging on a bed, smiling, and watching a 32-inch white portable smart TV (Moving Cubix SamtanbyMe SET style) on a sleek, mobile stand placed next to the bed. The TV screen displays a popular streaming service. Soft, warm natural lighting from a nearby window. Modern, serene aesthetic. --ar 1:1 --v 5.2
 
-*   **들어갈 텍스트:**
-    **"여기서 끝이 아니라고? 🤫 숨겨진 꿀템 BEST!"**
-    *   **✔️ 내 TV를 스탠바이미로! '이동식 거치대'**
-    *   (66,040원)
-    *   다양한 라이프스타일 꿀템, 블로그에서 확인하세요!
-    *   **"👇프로필 링크에서 [삼탠바이미] 검색!"**
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A split image or montage showing: (left) a sleek, minimalist mobile TV stand (without a screen) standing alone in a modern, light-filled room, implying DIY possibilities. (right) a small, stylized icon or graphic representing "hidden gems" or "unexpected finds," perhaps a treasure chest or a sparkling star. Overall clean, inviting, and discovery-focused aesthetic. --ar 1:1 --v 5.2`
+### **👉 3/4 컷**
 
----
+*   **카드뉴스 텍스트:**
+    **✨ 더 저렴하게, 더 세련되게! X1시리즈 화이트에디션**
+    1만원 더 싸게, 감각적인 디자인으로 인테리어까지 UP!
+
+*   **Midjourney 프롬프트 (배경 이미지):**
+    A stylish, bright kitchen or a modern home office space. A person is casually cooking or working on a laptop, with a 32-inch white portable smart TV (Moving Cubix X1 Series White Edition style, slightly different from previous, with a distinct design element) on a mobile stand in the background. The TV screen shows a recipe video or a presentation. Clean lines, elegant, contemporary design with subtle decorative elements. --ar 1:1 --v 5.2
+
+### **👉 4/4 컷**
+
+*   **카드뉴스 텍스트:**
+    **➕ 기존 TV도 OK! 이동식 거치대로 '삼탠바이미' 만들기!**
+    (더 많은 가성비 아이템은 프로필 링크 확인!)
+
+*   **Midjourney 프롬프트 (배경 이미지):**
+    A sleek, minimalist white mobile TV stand (without a TV attached) standing empty in a versatile, bright home environment, perhaps at the edge of a living room leading to a balcony or a reading nook. The background should be blurred slightly to emphasize the stand. A vibrant, inviting atmosphere. A smartphone displaying a "link in bio" icon or "More products" text should be subtly overlaid in a corner. Clean, bright, inviting. --ar 1:1 --v 5.2
