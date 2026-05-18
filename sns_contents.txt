@@ -1,58 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발 15초 쇼츠/틱톡 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (도파민 폭발 훅 포함)
 
-**제목:** 스탠바이미 비싸서 포기? 🙅‍♀️ 20만원대로 DIY 끝판왕! #가성비스탠바이미
+**[영상 컨셉]**
+빠른 화면 전환, 경쾌하고 중독성 있는 BGM, 텍스트 효과와 함께 제품의 핵심 매력을 어필.
 
-**등장인물:** 활기찬 인플루언서 1명 (혹은 빠른 자막과 효과음 위주)
-**배경음악:** 트렌디하고 경쾌한 템포의 브이로그/테크 사운드
+**[스크립트]**
 
----
+**(0-3초) ⚡️ 훅: LG 스탠바이미의 비싼 가격표에 좌절하는 모습! (고민하는 표정 / '비싸잖아?!' 자막)**
+**내레이션:** "LG 스탠바이미.. 꿈의 TV지만 가격이 너무 비싸 고민이셨죠? 😩"
+*(화면: 비싼 가격표의 스탠바이미 이미지 -> 'NO!' 도장 쾅)*
 
-**[0-3초] 훅 (⚡️시선강탈! 빠른 컷 전환, 충격적인 효과음)**
-*   **인플루언서:** "헉, 스탠바이미 비싸서 못 샀다고요? 딱 3초만 보세요! 20만원대에 DIY로 만드는 법 알려드림!"
-*   **(화면:** 비싼 스탠바이미 광고 영상 → 좌절하는 표정 → 반짝이는 아이디어 전구 아이콘)
+**(3-7초) 🚀 문제 해결: 삼탠바이미 등장! (다양한 공간에서 삼탠바이미 사용하는 모습 빠르게 전환)**
+**내레이션:** "이제 그 고민 끝! 이동식 스마트TV, 20만원대로 즐기는 '삼탠바이미' 시대가 왔습니다!"
+*(화면: 침대 옆, 주방, 캠핑 등에서 즐겁게 TV 보는 사람들 / '삼탠바이미' 로고 등장)*
 
-**[3-7초] 문제 제기 & 해결책 1 (🚚움직임 강조! 스탠드 이동 모습)**
-*   **인플루언서:** "방방곳곳 이동식 TV 로망? 이제 끝! 6만원대 초가성비 거치대만 있으면 돼요!"
-*   **(화면:** 깔끔한 이동식 거치대에 모니터/TV를 연결, 침실에서 주방으로 부드럽게 이동하는 모습. 가격 텍스트 오버레이: '6만원대 초가성비!')
+**(7-11초) ✨ 제품 소개 1: 와이드뷰 QLED 삼탠바이미 (화려한 QLED 화면 강조)**
+**내레이션:** "✨ QLED 화질에 고급스러운 화이트 디자인까지! 인테리어까지 생각한다면, 와이드뷰 QLED 삼탠바이미!"
+*(화면: 와이드뷰 제품의 우아한 디자인과 선명한 QLED 화면 강조)*
 
-**[7-11초] 해결책 2 (🤯놀라움 강조! TV 화면 확대)**
-*   **인플루언서:** "화면이 없다고요? 걱정 마세요! 스탠바이미랑 똑같은 32인치 TV가 10만원대! 화질도 좋음!"
-*   **(화면:** 거치대에 32인치 TV가 장착된 모습. TV 화면에서 넷플릭스/유튜브 영상 재생. 가격 텍스트 오버레이: '32인치 HD TV 10만원대!')
+**(11-14초) 🔥 제품 소개 2: 프리토스 구글 스마트 삼탠바이미 (압도적 가성비 강조)**
+**내레이션:** "🔥 20만원대 실화?! 압도적인 가성비에 구글 스마트TV까지! 프리토스 삼탠바이미는 무조건 강추!"
+*(화면: 프리토스 제품의 구글 TV 인터페이스, 넷플릭스 로고 등 / '20만원대!' 강조)*
 
-**[11-14초] 강조 & 총정리 (✨힙한 조합! 완성된 DIY 스탠바이미)**
-*   **인플루언서:** "총 20만원대로 스탠바이미 풀셋 완성! 영화, 요리, 게임 뭐든지 이동하면서 즐겨봐!"
-*   **(화면:** 완성된 DIY 스탠바이미가 거실, 침실 등 다양한 공간에서 활용되는 몽타주. 총 가격 텍스트 오버레이: '총 20만원대!')
-
-**[14-15초] CTA (👆클릭 유도! 화살표 아이콘)**
-*   **인플루언서:** "자세한 정보는 프로필 링크에서 확인하세요! #스탠바이미가성비 #DIY스마트TV"
-*   **(화면:** 프로필 링크 클릭 유도 화살표, 해시태그 크게 노출)
+**(14-15초) 🎬 클로징: 구매 유도 (두 제품 나란히 보여주며 CTA)**
+**내레이션:** "더 자세한 정보는 지금 바로 프로필 링크를 확인하세요!"
+*(화면: 두 제품 나란히 비교, '프로필 링크 클릭!' 자막 크게 강조)*
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+## 2. 인스타그램 카드뉴스 4컷
 
-### **💡 1. 첫 번째 컷**
+### 📸 카드뉴스 1/4
 
-*   **들어갈 텍스트:** 📺 스탠바이미 갖고싶은데 너무 비싸서 포기했어요? 🙅‍♀️ 놉! 20만원대로 나만의 #DIY스탠바이미 만드는 법 공개!
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A split image. On the left, a frustrated person looking at a sleek, expensive, modern portable TV (similar to LG StandbyME) in a luxurious but out-of-reach showroom. On the right, the same person smiling brightly, holding a smartphone and looking towards a vision of a cozy, modern living room with a smart, affordable DIY portable TV setup. Dynamic composition, cinematic lighting, vibrant colors. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    **"LG 스탠바이미, 갖고 싶지만 너무 비싸? 😱"**
+    **"이동식 스마트TV, 이제 '삼탠바이미'로 20만원대에 즐겨봐!"**
+*   **Midjourney 프롬프트:**
+    `A young woman relaxing on a cozy sofa, holding a tablet, looking at an expensive price tag floating over a sleek, minimalist smart TV (like LG StandbyME). The TV has a large question mark over it. Next to it, a more affordable, modern mobile TV on a stand is glowing with a much lower price tag. Smart home interior, soft lighting, modern design, cinematic, high detail, --ar 1:1 --v 5.2`
 
-### **💡 2. 두 번째 컷**
+### 📸 카드뉴스 2/4
 
-*   **들어갈 텍스트:** 스탠바이미 핵심은 '이동성'! 6만원대 거치대로 모니터, TV를 내맘대로 끌고 다니세요! 🚶‍♀️💨
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A sleek, minimalist monitor stand with hidden wheels, effortlessly gliding across a polished concrete floor in a modern, sunlit apartment. A person is lightly pushing it with one hand, demonstrating its smooth mobility. The stand holds a generic black monitor. Focus on ease of movement and modern design. Clean lines, soft shadows. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    **"✨ QLED 화질에 감성 디자인까지? 와이드뷰 삼탠바이미"**
+    **"깔끔한 화이트 에디션 & 생생한 QLED 패널로 공간을 빛내줄 프리미엄 가성비!"**
+    **"💰 30만원대, 완벽한 올인원 세트"**
+*   **Midjourney 프롬프트:**
+    `A pristine white QLED mobile smart TV, similar to StandbyME, elegantly placed in a minimalist, modern living room. The screen displays vibrant, high-definition content like a movie scene. Soft, warm ambient lighting. Focus on the sleek design and high-quality screen. Elegant, luxurious, bright, --ar 1:1 --v 5.2`
 
-### **💡 3. 세 번째 컷**
+### 📸 카드뉴스 3/4
 
-*   **들어갈 텍스트:** 이동성 잡았으니 이제 스크린! 32인치 HD TV를 10만원대에! 스탠바이미랑 같은 화면 크기인데 이 가격 실화? 🤯
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A close-up shot of a vibrant 32-inch HD TV screen displaying a high-quality movie scene. In the background, a person's eyes are wide with surprise and excitement, pointing at the TV. Emphasize sharp display quality and the "wow" factor of an affordable price. Modern, bright, slightly blurred background to highlight the screen. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    **"🔥 20만원대 실화? 극강 가성비! 프리토스 구글 스마트 삼탠바이미"**
+    **"넷플릭스, 유튜브, 디즈니플러스? 구글 스마트TV로 바로 즐겨! 이동식 스탠드 일체형"**
+    **"💰 20만원대 초반, 압도적 가격!"**
+*   **Midjourney 프롬프트:**
+    `A functional, sleek black mobile smart TV with Google TV interface clearly visible on the screen (showing Netflix logo), positioned next to a cozy bed in a modern, practical bedroom. The user is comfortably watching content. Focus on the user enjoying streaming effortlessly. Warm, inviting atmosphere, minimalist, practical design, --ar 1:1 --v 5.2`
 
-### **💡 4. 네 번째 컷**
+### 📸 카드뉴스 4/4
 
-*   **들어갈 텍스트:** ⚡️총 20만원대 초반으로 완성되는 나만의 #가성비스탠바이미! 지금 바로 똑똑하게 누려보세요! (링크 클릭)
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A cozy and modern bedroom scene. A "DIY StandbyME" setup is perfectly positioned beside a bed, featuring the mobile stand with a 32-inch TV mounted on it. A person is comfortably lying in bed, smiling and watching content on the screen. The scene exudes relaxation, smart living, and affordable luxury. Warm, soft natural light, minimalist aesthetic. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    **"더 이상 비싼 돈 주지 마세요! 똑똑한 당신을 위한 '삼탠바이미' 끝판왕"**
+    **"당신의 공간에 자유를! 🚀"**
+    **"👉 프로필 링크에서 자세히 확인하세요!"**
+*   **Midjourney 프롬프트:**
+    `A dynamic, energetic scene showing multiple mobile smart TVs (like StandbyME alternatives) in various modern, stylish settings: one in a sunlit living room, one in a sleek kitchen, one on a balcony with a vibrant city view. People are happily interacting with them, smiling. Bright, futuristic, optimistic, seamless technology integration, high tech, --ar 1:1 --v 5.2`
