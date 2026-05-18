@@ -1,56 +1,74 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**(0-3초 훅 - 빠르고 강렬하게!)**
-**화면:** (놀란 표정으로) 스탠바이미 사고 싶은데 가격보고 깜놀? 😱 댓츠 노노~!
-**대사:** "스탠바이미 가격보고 심장 쿵! 했다면 주목!"
+### 💥 도파민 폭발 15초 스크립트: 스탠바이미 가성비 끝판왕! 🤯
 
-**(3-8초 문제 제기 & 해결책 제시)**
-**화면:** (좌절하는 표정에서 밝은 표정으로 전환) "비싸서 포기했다고? 이제 그럴 필요 없어!"
-**대사:** "여기 찐 가성비 '삼탠바이미'가 나타났다! 20만원대부터 스마트TV+이동성 다 잡는 비법!"
+**[영상 구성 및 대사]**
 
-**(8-13초 상품 소개 & 장점 강조)**
-**화면:** (메가TV 32인치 이미지 빠르게 지나가며) "20만원대 초반, 구글 스마트TV 32인치 메가TV!"
-**화면:** (무빙큐빅스 40인치 이미지 빠르게 지나가며) "더 크게? 40인치 대화면 무빙큐빅스 화이트 에디션까지!"
-**대사:** "넷플릭스, 유튜브는 기본! 내 방, 거실, 심지어 캠핑까지? 🏕️ 어디든 나만의 영화관 완성!"
+**[0-3초] 훅 (Hook):**
+*   **화면:** 빠르고 현란한 컷 편집. LG 스탠바이미 고가 이미지 (가격표 200만원 😱) -> 실망한 표정의 인물 (혹은 돈이 불타는 효과) -> '포기하지 마!' 텍스트 전환
+*   **대사:** "LG 스탠바이미 200만원? 😱 비싸서 포기 NO!" (높은 텐션으로 시작!)
 
-**(13-15초 클로징 & CTA)**
-**화면:** (두 제품이 나란히 배치된 장면) "고민할 시간 없어! 🔥"
-**대사:** "상세 정보는 댓글/링크 확인해봐!"
+**[3-6초] 문제 제기:**
+*   **화면:** 침실, 주방 등에서 스마트 TV를 간절히 원하는 듯한 모습. 고민하는 표정.
+*   **대사:** "움직이는 스마트 TV 갖고 싶지만... 가격이 후덜덜했죠?"
+
+**[6-9초] 해결책 소개:**
+*   **화면:** 10년차 MD가 비장하게 등장 (혹은 MD 캐릭터). 화면 가득 'MD's PICK!' '가성비' 강조 텍스트.
+*   **대사:** "10년차 MD가 찾아왔다! '스탠바이미 가성비' 찢은 꿀템 2가지!"
+
+**[9-12초] 메인 상품 1 소개:**
+*   **화면:** '무빙큐빅스 삼탠바이미 올인원 세트'가 침실, 주방 등 여러 공간에서 사용되는 모습. 제품 이미지, 가격(329,000원) 강조.
+*   **대사:** "첫째! 바로 쓰는 올인원 '무빙큐빅스 삼탠바이미'! 32인치 TV 포함 단 32만원대!"
+
+**[12-15초] 메인 상품 2 + 추가 상품 소개 & CTA:**
+*   **화면:** 'DIY 스탠바이미 이동식 TV 거치대' 단독 이미지 → 거치대에 '이브이 32인치 TV'를 결합하는 모습. 총 금액(6만원대 거치대 + 9만원대 TV = 15만원대) 강조. 마지막으로 "지금 바로 확인!" 텍스트와 함께 링크 유도 제스처.
+*   **대사:** "둘째! 내 TV로 DIY! 6만원대 거치대에 9만원대 TV 조합하면... 총 15만원대 이동식 TV 완성! 침실, 주방 어디든 OK! 지금 바로 링크 클릭!"
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 인스타그램 카드뉴스 4컷
 
-### 📸 1컷
-**카드뉴스 텍스트:**
-스탠바이미 사고 싶은데 가격보고 깜놀? 😱
-이제 '삼탠바이미'로 가성비+스마트라이프 둘 다 잡으세요!
+### 📸 MD's Pick! 스탠바이미 가성비 끝판왕! (4컷 카드뉴스)
 
-**Midjourney 스타일 영문 프롬프트:**
-`A vibrant, modern living room. On one side, a luxurious, abstract "expensive" TV (like a blurred, high-end StandbyMe) with a huge, daunting price tag hovering over it. On the other side, a sleek, minimalist portable smart TV (representing "삼탠바이미") with a glowing, inviting screen showing various streaming apps, surrounded by a subtle aura of affordability. A person looks surprised at the expensive TV but turns with excitement towards the affordable one. Cinematic, high contrast, golden hour lighting. --ar 1:1 --v 5.2`
+**[카드 1]**
 
-### 📸 2컷
-**카드뉴스 텍스트:**
-✨ 20만원대 초반의 기적! 메가TV 32인치 삼탠바이미
-구글 스마트TV 탑재! 넷플릭스, 유튜브 끊김 없이 맘껏!
+*   **들어갈 텍스트:**
+    LG 스탠바이미 비싸서 포기? 🙅‍♀️
+    10년차 MD가 찾은
+    ✨'가성비 스탠바이미' 꿀팁 대방출!✨
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A young woman looking shocked and slightly frustrated, hands covering her mouth, standing in front of a giant, blurred, expensive price tag. Suddenly, a bright, guiding light or an arrow appears, pointing towards a stylized representation of "StandbyMe Cost-effectiveness" or a 'solution' concept in a modern, clean home environment. Bright, hopeful atmosphere. Photorealistic, highly detailed, cinematic lighting. --ar 4:5 --v 5.2"
 
-**Midjourney 스타일 영문 프롬프트:**
-`A cozy, modern bedroom with soft, inviting lighting. A sleek 32-inch portable smart TV on a minimalist wheeled stand is positioned next to a comfortable bed, displaying a vibrant Netflix show. A hand holding a remote control is gently resting on the bed. The room features warm textures and a plant in the corner. Focus on comfort and accessibility. Cinematic, soft focus background. --ar 1:1 --v 5.2`
+**[카드 2]**
 
-### 📸 3컷
-**카드뉴스 텍스트:**
-🔥 몰입감 최고! 40인치 대화면 무빙큐빅스 삼탠바이미
-세련된 화이트 에디션으로 인테리어까지 UP! 🤍
+*   **들어갈 텍스트:**
+    **1. 번거로움 ZERO! ✨**
+    **무빙큐빅스 삼탠바이미 올인원 세트**
+    32인치 TV + 거치대 단돈 32만원대!
+    침실, 주방 어디든 뚝딱! (설치 걱정 없이 바로 GO!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A sleek, modern, 32-inch all-in-one portable smart TV on a movable stand (similar to LG StandbyMe but generic/simplified) effortlessly transitioning between a cozy bedroom (showing movie watching) and a minimalist kitchen (showing cooking video). The screen displays vibrant streaming content. Soft, natural lighting, clean interior design. Emphasize ease of use and mobility. Photorealistic, highly detailed. --ar 4:5 --v 5.2"
 
-**Midjourney 스타일 영문 프롬프트:**
-`A stylish, bright minimalist living space with large windows and natural light. A pristine white 40-inch portable smart TV on a sleek white stand is the focal point, displaying a dynamic, high-resolution movie scene. The design emphasizes clean lines and modern aesthetics. Subtle touches of elegance, like a decorative vase or a stylish armchair, are in the background. --ar 1:1 --v 5.2`
+**[카드 3]**
 
-### 📸 4컷
-**카드뉴스 텍스트:**
-내 방, 주방, 캠핑 어디든 🎬 나만의 스마트 영화관 완성!
-지금 바로 프로필 링크에서 '가성비 끝판왕' 삼탠바이미를 만나보세요!
+*   **들어갈 텍스트:**
+    **2. 내 TV로 직접 만드는! 🛠️**
+    **DIY 이동식 TV 거치대** (6만원대)
+    **+ 이브이 32인치 HD TV** (9만원대)
+    합치면? 총 15만원대 이동식 TV 완성!
+    (이게 바로 찐 가성비!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A person joyfully assembling a stylish, minimalist mobile TV stand in a brightly lit living room. Next to it, a separate 32-inch flat-screen TV. In the background, an infographic subtly illustrating the combination of the stand and TV to create a super cost-effective mobile smart screen setup. DIY, clever, affordable. Photorealistic, clean aesthetic, focus on the hands and products. --ar 4:5 --v 5.2"
 
-**Midjourney 스타일 영문 프롬프트:**
-`A dynamic split-screen or collage image showcasing the versatility of a portable smart TV. One panel shows someone comfortably watching TV in bed, another shows someone watching while cooking in a modern kitchen, and a third panel shows friends enjoying a movie in a cozy glamping tent or outdoor setting. The portable smart TV is a sleek, unifying element across all scenes. Bright, engaging, lifestyle photography style. --ar 1:1 --v 5.2`
+**[카드 4]**
+
+*   **들어갈 텍스트:**
+    비싼 스탠바이미 이제 그만!
+    당신의 라이프를 스마트하게 바꿀
+    **가성비 끝판왕 무빙 TV!**
+    지금 바로 MD's Pick 확인하세요! 👇
+    (링크는 프로필 상단에 있어요!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A diverse group of happy people (young adults, a couple) actively using and enjoying sleek, mobile smart TVs in different modern home scenarios: one person watching movies in a comfortable armchair, another following a recipe in the kitchen, and a couple enjoying content outdoors on a patio. Vibrant, modern, joyful atmosphere, emphasizing smart living and convenience. Photorealistic, cinematic lighting. --ar 4:5 --v 5.2"
