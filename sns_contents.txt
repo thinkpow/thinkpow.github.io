@@ -1,74 +1,58 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 유튜브 쇼츠/틱톡용 15초 스크립트
+## 📺 도파민 폭발 15초 쇼츠/틱톡 스크립트
 
-### 💥 도파민 폭발 15초 스크립트: 스탠바이미 가성비 끝판왕! 🤯
+**제목:** 스탠바이미 비싸서 포기? 🙅‍♀️ 20만원대로 DIY 끝판왕! #가성비스탠바이미
 
-**[영상 구성 및 대사]**
-
-**[0-3초] 훅 (Hook):**
-*   **화면:** 빠르고 현란한 컷 편집. LG 스탠바이미 고가 이미지 (가격표 200만원 😱) -> 실망한 표정의 인물 (혹은 돈이 불타는 효과) -> '포기하지 마!' 텍스트 전환
-*   **대사:** "LG 스탠바이미 200만원? 😱 비싸서 포기 NO!" (높은 텐션으로 시작!)
-
-**[3-6초] 문제 제기:**
-*   **화면:** 침실, 주방 등에서 스마트 TV를 간절히 원하는 듯한 모습. 고민하는 표정.
-*   **대사:** "움직이는 스마트 TV 갖고 싶지만... 가격이 후덜덜했죠?"
-
-**[6-9초] 해결책 소개:**
-*   **화면:** 10년차 MD가 비장하게 등장 (혹은 MD 캐릭터). 화면 가득 'MD's PICK!' '가성비' 강조 텍스트.
-*   **대사:** "10년차 MD가 찾아왔다! '스탠바이미 가성비' 찢은 꿀템 2가지!"
-
-**[9-12초] 메인 상품 1 소개:**
-*   **화면:** '무빙큐빅스 삼탠바이미 올인원 세트'가 침실, 주방 등 여러 공간에서 사용되는 모습. 제품 이미지, 가격(329,000원) 강조.
-*   **대사:** "첫째! 바로 쓰는 올인원 '무빙큐빅스 삼탠바이미'! 32인치 TV 포함 단 32만원대!"
-
-**[12-15초] 메인 상품 2 + 추가 상품 소개 & CTA:**
-*   **화면:** 'DIY 스탠바이미 이동식 TV 거치대' 단독 이미지 → 거치대에 '이브이 32인치 TV'를 결합하는 모습. 총 금액(6만원대 거치대 + 9만원대 TV = 15만원대) 강조. 마지막으로 "지금 바로 확인!" 텍스트와 함께 링크 유도 제스처.
-*   **대사:** "둘째! 내 TV로 DIY! 6만원대 거치대에 9만원대 TV 조합하면... 총 15만원대 이동식 TV 완성! 침실, 주방 어디든 OK! 지금 바로 링크 클릭!"
+**등장인물:** 활기찬 인플루언서 1명 (혹은 빠른 자막과 효과음 위주)
+**배경음악:** 트렌디하고 경쾌한 템포의 브이로그/테크 사운드
 
 ---
 
-## 인스타그램 카드뉴스 4컷
+**[0-3초] 훅 (⚡️시선강탈! 빠른 컷 전환, 충격적인 효과음)**
+*   **인플루언서:** "헉, 스탠바이미 비싸서 못 샀다고요? 딱 3초만 보세요! 20만원대에 DIY로 만드는 법 알려드림!"
+*   **(화면:** 비싼 스탠바이미 광고 영상 → 좌절하는 표정 → 반짝이는 아이디어 전구 아이콘)
 
-### 📸 MD's Pick! 스탠바이미 가성비 끝판왕! (4컷 카드뉴스)
+**[3-7초] 문제 제기 & 해결책 1 (🚚움직임 강조! 스탠드 이동 모습)**
+*   **인플루언서:** "방방곳곳 이동식 TV 로망? 이제 끝! 6만원대 초가성비 거치대만 있으면 돼요!"
+*   **(화면:** 깔끔한 이동식 거치대에 모니터/TV를 연결, 침실에서 주방으로 부드럽게 이동하는 모습. 가격 텍스트 오버레이: '6만원대 초가성비!')
 
-**[카드 1]**
+**[7-11초] 해결책 2 (🤯놀라움 강조! TV 화면 확대)**
+*   **인플루언서:** "화면이 없다고요? 걱정 마세요! 스탠바이미랑 똑같은 32인치 TV가 10만원대! 화질도 좋음!"
+*   **(화면:** 거치대에 32인치 TV가 장착된 모습. TV 화면에서 넷플릭스/유튜브 영상 재생. 가격 텍스트 오버레이: '32인치 HD TV 10만원대!')
 
-*   **들어갈 텍스트:**
-    LG 스탠바이미 비싸서 포기? 🙅‍♀️
-    10년차 MD가 찾은
-    ✨'가성비 스탠바이미' 꿀팁 대방출!✨
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A young woman looking shocked and slightly frustrated, hands covering her mouth, standing in front of a giant, blurred, expensive price tag. Suddenly, a bright, guiding light or an arrow appears, pointing towards a stylized representation of "StandbyMe Cost-effectiveness" or a 'solution' concept in a modern, clean home environment. Bright, hopeful atmosphere. Photorealistic, highly detailed, cinematic lighting. --ar 4:5 --v 5.2"
+**[11-14초] 강조 & 총정리 (✨힙한 조합! 완성된 DIY 스탠바이미)**
+*   **인플루언서:** "총 20만원대로 스탠바이미 풀셋 완성! 영화, 요리, 게임 뭐든지 이동하면서 즐겨봐!"
+*   **(화면:** 완성된 DIY 스탠바이미가 거실, 침실 등 다양한 공간에서 활용되는 몽타주. 총 가격 텍스트 오버레이: '총 20만원대!')
 
-**[카드 2]**
+**[14-15초] CTA (👆클릭 유도! 화살표 아이콘)**
+*   **인플루언서:** "자세한 정보는 프로필 링크에서 확인하세요! #스탠바이미가성비 #DIY스마트TV"
+*   **(화면:** 프로필 링크 클릭 유도 화살표, 해시태그 크게 노출)
 
-*   **들어갈 텍스트:**
-    **1. 번거로움 ZERO! ✨**
-    **무빙큐빅스 삼탠바이미 올인원 세트**
-    32인치 TV + 거치대 단돈 32만원대!
-    침실, 주방 어디든 뚝딱! (설치 걱정 없이 바로 GO!)
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A sleek, modern, 32-inch all-in-one portable smart TV on a movable stand (similar to LG StandbyMe but generic/simplified) effortlessly transitioning between a cozy bedroom (showing movie watching) and a minimalist kitchen (showing cooking video). The screen displays vibrant streaming content. Soft, natural lighting, clean interior design. Emphasize ease of use and mobility. Photorealistic, highly detailed. --ar 4:5 --v 5.2"
+---
 
-**[카드 3]**
+## 📸 인스타그램 카드뉴스 4컷
 
-*   **들어갈 텍스트:**
-    **2. 내 TV로 직접 만드는! 🛠️**
-    **DIY 이동식 TV 거치대** (6만원대)
-    **+ 이브이 32인치 HD TV** (9만원대)
-    합치면? 총 15만원대 이동식 TV 완성!
-    (이게 바로 찐 가성비!)
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A person joyfully assembling a stylish, minimalist mobile TV stand in a brightly lit living room. Next to it, a separate 32-inch flat-screen TV. In the background, an infographic subtly illustrating the combination of the stand and TV to create a super cost-effective mobile smart screen setup. DIY, clever, affordable. Photorealistic, clean aesthetic, focus on the hands and products. --ar 4:5 --v 5.2"
+### **💡 1. 첫 번째 컷**
 
-**[카드 4]**
+*   **들어갈 텍스트:** 📺 스탠바이미 갖고싶은데 너무 비싸서 포기했어요? 🙅‍♀️ 놉! 20만원대로 나만의 #DIY스탠바이미 만드는 법 공개!
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A split image. On the left, a frustrated person looking at a sleek, expensive, modern portable TV (similar to LG StandbyME) in a luxurious but out-of-reach showroom. On the right, the same person smiling brightly, holding a smartphone and looking towards a vision of a cozy, modern living room with a smart, affordable DIY portable TV setup. Dynamic composition, cinematic lighting, vibrant colors. --ar 1:1 --v 5.2`
 
-*   **들어갈 텍스트:**
-    비싼 스탠바이미 이제 그만!
-    당신의 라이프를 스마트하게 바꿀
-    **가성비 끝판왕 무빙 TV!**
-    지금 바로 MD's Pick 확인하세요! 👇
-    (링크는 프로필 상단에 있어요!)
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A diverse group of happy people (young adults, a couple) actively using and enjoying sleek, mobile smart TVs in different modern home scenarios: one person watching movies in a comfortable armchair, another following a recipe in the kitchen, and a couple enjoying content outdoors on a patio. Vibrant, modern, joyful atmosphere, emphasizing smart living and convenience. Photorealistic, cinematic lighting. --ar 4:5 --v 5.2"
+### **💡 2. 두 번째 컷**
+
+*   **들어갈 텍스트:** 스탠바이미 핵심은 '이동성'! 6만원대 거치대로 모니터, TV를 내맘대로 끌고 다니세요! 🚶‍♀️💨
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A sleek, minimalist monitor stand with hidden wheels, effortlessly gliding across a polished concrete floor in a modern, sunlit apartment. A person is lightly pushing it with one hand, demonstrating its smooth mobility. The stand holds a generic black monitor. Focus on ease of movement and modern design. Clean lines, soft shadows. --ar 1:1 --v 5.2`
+
+### **💡 3. 세 번째 컷**
+
+*   **들어갈 텍스트:** 이동성 잡았으니 이제 스크린! 32인치 HD TV를 10만원대에! 스탠바이미랑 같은 화면 크기인데 이 가격 실화? 🤯
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A close-up shot of a vibrant 32-inch HD TV screen displaying a high-quality movie scene. In the background, a person's eyes are wide with surprise and excitement, pointing at the TV. Emphasize sharp display quality and the "wow" factor of an affordable price. Modern, bright, slightly blurred background to highlight the screen. --ar 1:1 --v 5.2`
+
+### **💡 4. 네 번째 컷**
+
+*   **들어갈 텍스트:** ⚡️총 20만원대 초반으로 완성되는 나만의 #가성비스탠바이미! 지금 바로 똑똑하게 누려보세요! (링크 클릭)
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A cozy and modern bedroom scene. A "DIY StandbyME" setup is perfectly positioned beside a bed, featuring the mobile stand with a 32-inch TV mounted on it. A person is comfortably lying in bed, smiling and watching content on the screen. The scene exudes relaxation, smart living, and affordable luxury. Warm, soft natural light, minimalist aesthetic. --ar 1:1 --v 5.2`
