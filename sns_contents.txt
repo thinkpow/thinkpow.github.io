@@ -1,67 +1,78 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (도파민 폭발 훅 포함)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
 **[영상 컨셉]**
-빠른 화면 전환, 경쾌하고 중독성 있는 BGM, 텍스트 효과와 함께 제품의 핵심 매력을 어필.
+'스탠바이미'의 비싼 가격에 놀라는 모습으로 시작, 현명한 대안 '삼탠바이미'를 소개하며 다양한 활용 장면과 핵심 장점을 빠르고 경쾌하게 보여줌. "도파민 폭발" 컨셉에 맞춰 시각적 자극과 빠른 전환 활용.
 
-**[스크립트]**
-
-**(0-3초) ⚡️ 훅: LG 스탠바이미의 비싼 가격표에 좌절하는 모습! (고민하는 표정 / '비싸잖아?!' 자막)**
-**내레이션:** "LG 스탠바이미.. 꿈의 TV지만 가격이 너무 비싸 고민이셨죠? 😩"
-*(화면: 비싼 가격표의 스탠바이미 이미지 -> 'NO!' 도장 쾅)*
-
-**(3-7초) 🚀 문제 해결: 삼탠바이미 등장! (다양한 공간에서 삼탠바이미 사용하는 모습 빠르게 전환)**
-**내레이션:** "이제 그 고민 끝! 이동식 스마트TV, 20만원대로 즐기는 '삼탠바이미' 시대가 왔습니다!"
-*(화면: 침대 옆, 주방, 캠핑 등에서 즐겁게 TV 보는 사람들 / '삼탠바이미' 로고 등장)*
-
-**(7-11초) ✨ 제품 소개 1: 와이드뷰 QLED 삼탠바이미 (화려한 QLED 화면 강조)**
-**내레이션:** "✨ QLED 화질에 고급스러운 화이트 디자인까지! 인테리어까지 생각한다면, 와이드뷰 QLED 삼탠바이미!"
-*(화면: 와이드뷰 제품의 우아한 디자인과 선명한 QLED 화면 강조)*
-
-**(11-14초) 🔥 제품 소개 2: 프리토스 구글 스마트 삼탠바이미 (압도적 가성비 강조)**
-**내레이션:** "🔥 20만원대 실화?! 압도적인 가성비에 구글 스마트TV까지! 프리토스 삼탠바이미는 무조건 강추!"
-*(화면: 프리토스 제품의 구글 TV 인터페이스, 넷플릭스 로고 등 / '20만원대!' 강조)*
-
-**(14-15초) 🎬 클로징: 구매 유도 (두 제품 나란히 보여주며 CTA)**
-**내레이션:** "더 자세한 정보는 지금 바로 프로필 링크를 확인하세요!"
-*(화면: 두 제품 나란히 비교, '프로필 링크 클릭!' 자막 크게 강조)*
+**[시각 효과 및 사운드 제안]**
+*   **BGM:** 빠르고 신나는 트렌디한 숏폼 배경음악
+*   **자막:** 핵심 키워드 강조 (예: 100만원대?, 20만원대!, 구글OS, 에너지1등급)
+*   **화면 전환:** 틱톡/릴스 인기 전환 효과 (빠른 줌인/아웃, 화면 흔들림, 플래시 등)
+*   **사운드 효과:** "헉!", "뿅!", "짠!" 등 짧고 임팩트 있는 효과음
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[스크립트]**
 
-### 📸 카드뉴스 1/4
+**[0-3초] (훅)**
+*   **화면:** (놀란 표정의 인물 클로즈업) ➡️ (반짝이는 스탠바이미 이미지에 '100만원대?' 큰 글씨 오버랩) ➡️ (재빠르게 '잠시만요!' 텍스트 전환)
+*   **대사:** "헉! 스탠바이미 100만원대? 😱 이거 사면 후회할 걸요?"
 
-*   **텍스트:**
-    **"LG 스탠바이미, 갖고 싶지만 너무 비싸? 😱"**
-    **"이동식 스마트TV, 이제 '삼탠바이미'로 20만원대에 즐겨봐!"**
-*   **Midjourney 프롬프트:**
-    `A young woman relaxing on a cozy sofa, holding a tablet, looking at an expensive price tag floating over a sleek, minimalist smart TV (like LG StandbyME). The TV has a large question mark over it. Next to it, a more affordable, modern mobile TV on a stand is glowing with a much lower price tag. Smart home interior, soft lighting, modern design, cinematic, high detail, --ar 1:1 --v 5.2`
+**[3-7초] (문제 제시 & 솔루션 시작)**
+*   **화면:** (침실, 주방, 거실 등 다양한 공간에서 삼탠바이미가 편리하게 사용되는 모습 빠르게 전환) ➡️ ('20만원대로 끝!' 텍스트 크게 강조)
+*   **대사:** "이젠 20만원대로 침실부터 주방까지! 어디든 옮겨 다니는 나만의 스마트TV!"
 
-### 📸 카드뉴스 2/4
+**[7-12초] (핵심 제품 기능 강조)**
+*   **화면:** (위드라이프 구글 삼탠바이미 제품 클로즈업, 구글 OS 화면이 선명하게 보이는 장면) ➡️ (넷플릭스, 유튜브 앱 로고 오버레이) ➡️ (이노스 삼탠바이미 제품의 깔끔한 디자인 강조)
+*   **대사:** "MD가 찾은 압도적 가성비 끝판왕! 구글 OS로 넷플릭스, 유튜브 다~ 되는 위드라이프! 🔋 에너지 1등급에 깔끔한 이노스 디자인까지!"
 
-*   **텍스트:**
-    **"✨ QLED 화질에 감성 디자인까지? 와이드뷰 삼탠바이미"**
-    **"깔끔한 화이트 에디션 & 생생한 QLED 패널로 공간을 빛내줄 프리미엄 가성비!"**
-    **"💰 30만원대, 완벽한 올인원 세트"**
-*   **Midjourney 프롬프트:**
-    `A pristine white QLED mobile smart TV, similar to StandbyME, elegantly placed in a minimalist, modern living room. The screen displays vibrant, high-definition content like a movie scene. Soft, warm ambient lighting. Focus on the sleek design and high-quality screen. Elegant, luxurious, bright, --ar 1:1 --v 5.2`
+**[12-15초] (클로징 & CTA)**
+*   **화면:** (두 제품 나란히 비교하며 '내 PICK은?' 텍스트 오버레이) ➡️ (활짝 웃는 얼굴과 함께 '지금 바로 확인!' 텍스트) ➡️ (프로필/댓글 링크 유도 화살표)
+*   **대사:** "비쌀 필요 있나요? 스마트한 당신을 위한 현명한 선택! ✨ 지금 바로 댓글 링크 확인하세요!"
 
-### 📸 카드뉴스 3/4
+---
 
-*   **텍스트:**
-    **"🔥 20만원대 실화? 극강 가성비! 프리토스 구글 스마트 삼탠바이미"**
-    **"넷플릭스, 유튜브, 디즈니플러스? 구글 스마트TV로 바로 즐겨! 이동식 스탠드 일체형"**
-    **"💰 20만원대 초반, 압도적 가격!"**
-*   **Midjourney 프롬프트:**
-    `A functional, sleek black mobile smart TV with Google TV interface clearly visible on the screen (showing Netflix logo), positioned next to a cozy bed in a modern, practical bedroom. The user is comfortably watching content. Focus on the user enjoying streaming effortlessly. Warm, inviting atmosphere, minimalist, practical design, --ar 1:1 --v 5.2`
+## 🖼️ 인스타그램 카드뉴스 4컷
 
-### 📸 카드뉴스 4/4
+**[전체 컨셉]**
+스탠바이미의 높은 가격이라는 페인 포인트를 제시하고, MD가 추천하는 두 가지 '삼탠바이미'를 시각적으로 매력적이게 소개하며 구매를 유도합니다.
 
-*   **텍스트:**
-    **"더 이상 비싼 돈 주지 마세요! 똑똑한 당신을 위한 '삼탠바이미' 끝판왕"**
-    **"당신의 공간에 자유를! 🚀"**
-    **"👉 프로필 링크에서 자세히 확인하세요!"**
-*   **Midjourney 프롬프트:**
-    `A dynamic, energetic scene showing multiple mobile smart TVs (like StandbyME alternatives) in various modern, stylish settings: one in a sunlit living room, one in a sleek kitchen, one on a balcony with a vibrant city view. People are happily interacting with them, smiling. Bright, futuristic, optimistic, seamless technology integration, high tech, --ar 1:1 --v 5.2`
+---
+
+### 컷 1/4
+
+*   **들어갈 텍스트:**
+    **스탠바이미 사고 싶었는데… 가격 보고 헉!? 😱**
+    **100만원대 TV는 이제 그만! MD가 찾아왔어요!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    "Dynamic, eye-catching image. A person with a shocked expression reacting to a large, glowing price tag of "$1,000+" displayed on a sleek, modern portable smart TV in a futuristic minimalist room. The phrase 'Too expensive!' is subtly integrated as a thought bubble or holographic text. Vibrant neon lights and a sense of discovery. Midjourney style, vibrant colors, high contrast, cinematic lighting."
+
+### 컷 2/4
+
+*   **들어갈 텍스트:**
+    **MD픽 압도적 가성비 💸 위드라이프 구글 삼탠바이미 세트**
+    ✨ 20만원대 풀세트!
+    📱 구글 안드로이드 OS로 넷플릭스, 유튜브 무제한!
+    🔋 에너지 1등급 스마트 라이프!
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A sleek, modern 32-inch portable smart TV (resembling a high-end moving stand TV) in a cozy, yet modern bedroom. The screen clearly displays the Google Android TV interface with prominent Netflix and YouTube app logos. A subtle, elegant digital price tag of '₩255,000' is displayed near the base. Soft, warm ambient lighting. Focus on smart functionality and comfort. Midjourney style, minimalist, inviting atmosphere."
+
+### 컷 3/4
+
+*   **들어갈 텍스트:**
+    **깔끔한 디자인 선호한다면? 🖤 이노스 FHD 삼탠바이미 풀세트**
+    🏠 어떤 인테리어에도 찰떡!
+    🛌 거실, 주방, 침실 어디든 OK!
+    💡 선명한 FHD 화질로 몰입감 UP!
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A clean, minimalist 32-inch portable smart TV (resembling a high-end moving stand TV) on a stylish, simple mobile stand, positioned in a bright, Scandinavian-style living room. The TV screen displays a vibrant, high-definition nature documentary scene. Emphasize seamless integration into home decor and aesthetic appeal. Plenty of natural light, green plants. Midjourney style, clean lines, serene ambiance."
+
+### 컷 4/4
+
+*   **들어갈 텍스트:**
+    **더 이상 비쌀 필요 없어요! 당신의 스마트한 미디어 라이프 ✨**
+    **두 제품 모두 20만원대! ✌️ 어떤 제품이 더 끌리나요?**
+    **👉 지금 바로 프로필 링크에서 상세 정보 확인!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A dynamic split-screen or side-by-side comparison of two generic, sleek portable smart TVs on mobile stands. One side subtly shows elements of smart OS (e.g., app icons blurred), the other emphasizes a clean, modern design. A hand is reaching out as if choosing one of them. Energetic, engaging, and modern feel. A bold arrow icon pointing downwards, suggesting a link or 'learn more'. Bright, inviting background. Midjourney style, vibrant, high-energy, call-to-action focus."
