@@ -1,71 +1,62 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
+## 📢 도파민 폭발! 15초 숏폼 스크립트
 
-**제목:** LG 스탠바이미? 아직도 비싸? 놉! 가성비 끝판왕 삼탠바이미로 FLEX!
+**제목:** LG 스탠바이미 비싸서 포기? 🙅‍♀️ 20만원대 '갓성비 삼탠바이미' 실화냐?!
 
----
+**[영상 시작 - 0~3초: 훅(Hook)]**
+*   **화면:** (빠르게 전환되는 장면)
+    *   1초: 고급스러운 LG 스탠바이미가 멋진 공간에 놓여있음. (잠깐의 욕망 자극)
+    *   2초: 이어서 '가격: 100만원대' 같은 자막이 크게 떠오름과 동시에 'OMG' '헉!' 같은 이모티콘과 함께 좌절하는 표정의 사람 클로즈업.
+    *   3초: 가격표에 빨간색 'X' 표시가 크게 생기며 화면이 빠르게 다음 장면으로 전환.
+*   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미? 너무 비싸서 포기했어?! ㅠㅠ"
+*   **배경음악:** 긴장감 있는 효과음 후 '띠용!' 하는 놀라는 효과음.
 
-**[영상 구성]**
+**[4~12초: 본문]**
+*   **화면:**
+    *   4-6초: 밝은 미소의 유튜버(또는 인플루언서 역할)가 '이거 실화냐?!' 하는 표정으로 손가락으로 '20만원대'를 가리킴. 화면 뒤로 '스카이뷰 화이트에디션' 제품 이미지와 '25만원대!' 자막 오버레이.
+    *   7-9초: (장면 전환) 깔끔한 화이트 삼탠바이미가 주방에서 요리하는 사람 옆에 놓여있고, 화면에는 넷플릭스 재생 화면. '이동식+스마트TV 한 번에!' 자막.
+    *   10-12초: (장면 전환) 이번엔 '메가TV 구글 스마트TV' 제품 이미지와 '27만원대!' 자막. 구글TV OS 화면이 확대되며 다양한 앱 아이콘들이 눈에 띄게 강조됨. 침대에서 편안하게 사용하는 모습.
+*   **내레이션 (점점 더 신나게):** "잠깐! 이제 20만원대에 이동식 스마트TV를 가질 수 있다고? 실화냐?! ✨"
+    "✨ 화이트 감성! '스카이뷰 삼탠바이미'로 주방에서 넷플릭스 요리!"
+    "📺 구글OS 풀장착! '메가TV'로 침대에서 유튜브 무한 시청! 완전 스마트해!"
+*   **배경음악:** 트렌디하고 밝은 숏폼 인기 BGM.
 
-*   **0-3초 (훅):**
-    *   **(화면: 고급스러운 LG 스탠바이미 이미지가 빠르게 스쳐 지나가고, 이어서 일반 TV 앞에서 불편해하거나 좌절하는 사람의 모습 클로즈업)**
-    *   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미, 갖고 싶지만 너무 비싸? 아직도 비싸다고 포기해?"
-    *   **(음향: '놉!' 하는 효과음 또는 삐 소리 후 '띵-동!' 하는 시원한 효과음)**
-    *   **내레이션:** "댓츠 노노! 이젠 '삼탠바이미'로 가성비 끝판왕 찍어봐!"
-*   **4-8초 (제품 1 소개):**
-    *   **(화면: '위드라이프 구글 삼탠바이미' 제품 이미지/영상. 넷플릭스, 유튜브 화면이 시연되는 모습)**
-    *   **내레이션:** "구글 스마트TV 탑재! 넷플릭스, 유튜브 다~ 돼! 25만원대 위드라이프 삼탠바이미!"
-*   **9-12초 (제품 2 소개):**
-    *   **(화면: '스카이뷰 화이트 삼탠바이미' 제품 이미지/영상. 깔끔한 인테리어에 놓인 모습, 침실이나 거실 등 다양한 공간 활용 보여주기)**
-    *   **내레이션:** "모던 화이트 디자인은 덤! 인테리어까지 살리는 스카이뷰 삼탠바이미!"
-*   **13-15초 (클로징 및 CTA):**
-    *   **(화면: 두 제품이 나란히 비교되거나, "로망 실현 20만원대!" 같은 문구가 크게 강조. 마지막엔 "프로필 링크 클릭!" 자막)**
-    *   **내레이션:** "이 모든 게 20만원대! 로망 실현은 지금 바로! 프로필 링크 확인!"
-    *   **(음악: 밝고 경쾌한 배경음악 유지, 끝부분에 더욱 고조)**
+**[13~15초: 클로징 및 CTA]**
+*   **화면:** 두 제품이 나란히 놓여있는 깔끔한 인테리어 이미지. '가성비 끝판왕!' '내 삶의 질 UP!' '바로 겟!' 등 강력한 문구가 애니메이션 효과로 등장.
+*   **내레이션 (강조):** "이동성, 스마트 기능, 가성비까지! 더 자세한 정보는 지금 바로 프로필 링크 확인!"
+*   **배경음악:** '쨍!' 하는 효과음과 함께 마무리 음악.
 
 ---
 
 ## 📸 인스타그램 카드뉴스 4컷
 
----
+### 1️⃣ 첫 번째 컷
+*   **카드뉴스 텍스트:**
+    **스탠바이미? 사고 싶지만 너무 비싸잖아! 🤯**
+    **(LG 스탠바이미 가격보고 좌절한 적 있다면 주목!)**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A young woman looking disappointed and shocked at an exorbitantly high price tag for a sleek, modern portable smart TV (like LG StandbyMe) in a stylish, minimalist living room. Her hand covers her mouth in disbelief. The TV screen shows a sad emoji. Soft, natural lighting, realistic photo, cinematic, high detail, wide angle, --ar 1:1 --v 5.2`
 
-### 🌟 1컷: 도입/문제 제기 & 솔루션 제시
+### 2️⃣ 두 번째 컷
+*   **카드뉴스 텍스트:**
+    **걱정 마! 20만원대 '갓성비 삼탠바이미' 등장! ✨**
+    **(당신의 로망, 이제 현실이 됩니다!)**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A joyful young man and woman excitedly pointing at a bright, stylish, and affordable portable smart TV (resembling '삼탠바이미') with a huge smile. A spotlight shines on the TV, highlighting its surprisingly low price tag of "20만원대!" The background is a modern, cozy apartment with subtle bokeh, dynamic composition, warm and inviting atmosphere, realistic photo, high detail, --ar 1:1 --v 5.2`
 
-*   **텍스트:**
-    *   **헤더:** **LG 스탠바이미 로망, 비싸서 포기했어? 😭**
-    *   **바디:** **"댓츠 노노!" 🙅‍♀️ 이젠 20만원대 '가성비 삼탠바이미'로 스마트한 이동식 TV 로망 실현!**
-*   **Midjourney 프롬프트:**
-    ```
-    A stylish, minimalist living room with abundant natural light. A sleek, modern mobile smart TV (not explicitly LG StandbyMe, but similar concept) is positioned prominently. A thought bubble above shows '$$$' crossed out, then replaced with '✨ Affordable Quality ✨'. The overall mood is sophisticated, accessible, and aspirational. Bright, clean aesthetic, high detail, volumetric lighting, 8k, --ar 1:1
-    ```
+### 3️⃣ 세 번째 컷
+*   **카드뉴스 텍스트:**
+    **🏆BEST PICK 1: 스카이뷰 화이트에디션**
+    **✨ 화이트 감성으로 주방, 침실 어디든!**
+    **✔️ 32인치 FHD 스마트TV + 고품질 이동식 스탠드**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A pristine white 32-inch portable smart TV (resembling '삼탠바이미') on a sleek mobile stand, placed in a bright, minimalist kitchen. A person is casually watching a cooking show on the TV while preparing food. The interior is modern and clean, with elegant decor. Natural light streaming through a window, realistic photography, high resolution, soft focus on background, --ar 1:1 --v 5.2`
 
-### 🌟 2컷: 메인 상품 1 (위드라이프 구글 삼탠바이미)
-
-*   **텍스트:**
-    *   **헤더:** **🚀 압도적 가성비! 위드라이프 구글 삼탠바이미**
-    *   **바디:** **📺 25만원대! 구글 스마트TV OS로 넷플릭스, 유튜브 무제한! 어디든 나만의 극장으로!**
-*   **Midjourney 프롬프트:**
-    ```
-    A modern, well-lit apartment interior with a sense of freedom and mobility. A stylish, dark-colored mobile smart TV (resembling the Widlife model) is displaying a 'Google TV' interface with various OTT app icons like Netflix and YouTube. The TV is on a sleek movable stand, and soft light illuminates it. Focus on smart features and entertainment, clean lines, high contrast, 8k, --ar 1:1
-    ```
-
-### 🌟 3컷: 메인 상품 2 (스카이뷰 화이트 삼탠바이미)
-
-*   **텍스트:**
-    *   **헤더:** **✨ 화이트 감성 인테리어 완성! 스카이뷰 삼탠바이미**
-    *   **바디:** **💖 세련된 화이트 디자인! FHD 화질로 우리 집 인테리어와 공간 활용도 UP! 쉬운 설치는 덤!**
-*   **Midjourney 프롬프트:**
-    ```
-    A pristine, minimalist white interior, possibly a studio apartment or a stylish bedroom. An elegant, all-white mobile smart TV (resembling the Skyview model) is the focal point, displaying a high-definition, vibrant nature scene. The design is sleek and modern, blending seamlessly with the white decor. Soft, diffused lighting, clean aesthetic, high detail, 8k, --ar 1:1
-    ```
-
-### 🌟 4컷: 요약 및 콜투액션 (CTA)
-
-*   **텍스트:**
-    *   **헤더:** **비싸다고 망설이지 마세요! 지금이 기회! 🎁**
-    *   **바디:** **로망의 이동식 스마트TV, 20만원대로 내 품에! 💖 더 많은 정보는 프로필 링크에서 지금 바로 확인하세요!**
-*   **Midjourney 프롬프트:**
-    ```
-    A celebratory and empowering scene. A hand reaches out to easily touch a screen on a sleek, mobile smart TV. Around it, dynamic graphic elements show 'Affordable!' 'My Own TV!' and 'Smart Life!' with sparkles and confetti. The background is a mix of modern home elements and digital interfaces. Bright, optimistic colors, high energy, digital illustration style, 8k, --ar 1:1
-    ```
+### 4️⃣ 네 번째 컷
+*   **카드뉴스 텍스트:**
+    **🏆BEST PICK 2: 메가TV 구글 스마트TV**
+    **📺 구글OS로 모든 OTT/앱을 내 손안에!**
+    **✔️ 압도적인 스마트 기능 + 풀패키지 구성**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A modern 32-inch black portable smart TV (resembling '삼탠바이미') on a sturdy mobile stand, prominently displaying the Google TV operating system interface with Netflix, YouTube, and other app icons. The TV is in a cozy, modern bedroom, with a person comfortably lounging in bed, remote in hand. Warm ambient lighting, inviting atmosphere, realistic photo, high detail, --ar 1:1 --v 5.2`
