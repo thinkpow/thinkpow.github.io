@@ -1,39 +1,54 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**(화면 전환 빠르고 역동적인 BGM과 함께)**
-
-**(0-3초) 훅: (충격받은 표정, 찡그린 얼굴로 카메라 응시) 헉! 스탠바이미 가격 실화야? 통장 털 뻔했잖아! 😨 잠깐만!**
-**(3-5초) (환하게 웃으며) 나만 아는 '가성비 삼탠바이미' 비법 지금 공개합니다! ✨**
-**(5-8초) 첫 번째, 20만원대 이노스 32인치! FHD에 스마트TV까지! 가성비 끝판왕으로 입문하세요! (TV가 침실에서 넷플릭스 보여주는 장면, 주방에서 유튜브 보여주는 장면 빠르게 전환)**
-**(8-12초) 두 번째, 좀 더 좋은 거? 4K QLED 43인치 와이드뷰! 40만원대로 극강 화질과 대화면을! (TV가 거실에서 영화 보여주는 장면, 게임 보여주는 장면 빠르게 전환, 스탠드 회전 기능 강조)**
-**(12-15초) 침대, 주방 어디든 OK! 원하는 스펙, 가격으로 나만의 삼탠바이미 Pick! 더 자세한 내용은 링크 확인! 👆 (화면 하단에 '자세히 보기' 또는 '링크 클릭' 자막 오버레이)**
+**[영상 컨셉]**
+빠른 컷 전환, 트렌디한 배경음악, 제품의 실제 사용 모습과 감각적인 텍스트 애니메이션 조합.
+"스탠바이미 비싸서 포기했니?" → "놉! 삼탠바이미가 있잖아!" → 제품 사용의 편리함과 뛰어난 화질 강조.
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[숏폼 스크립트]**
 
-**[카드뉴스 1/4]**
-*   **텍스트:** 스탠바이미 너무 비싸서 포기? 🙅‍♀️
-    이제 돈 아끼면서 예쁜 '삼탠바이미' 들이자! ✨
-*   **Midjourney 스타일 영문 프롬프트:** A stylish, minimalist living room with a person looking disappointed at a high price tag, then a "Eureka" moment, bright, modern aesthetic, soft natural light, clean lines, high-angle shot, cinematic, --ar 1:1 --v 5.2 --style raw
+**(0-3초) 훅: 문제 제기 + 반전 (강렬한 효과음, 빠른 줌인/아웃)**
+*   **화면:** LG 스탠바이미 가격표 클로즈업 ➡️ '포기' 글자 위에 X 표시 ➡️ 밝고 경쾌한 전환 효과
+*   **대사:** "스탠바이미.. 비싸서 포기했니? 🙅‍♀️ 딱 15초, 이 영상 보면 답 나온다! 💡"
+*   **자막:** 스탠바이미 가격? 놉! / 15초면 끝!
 
-**[카드뉴스 2/4]**
-*   **텍스트:** 💸 20만원대 가성비 끝판왕!
-    **#이노스32인치 #FHD스마트TV**
-    침실, 주방 어디든 착! 이동형 TV로 딱!
-*   **Midjourney 스타일 영문 프롬프트:** A cozy, modern bedroom with a 32-inch portable smart TV on a sleek stand, displaying Netflix. Soft warm lighting, minimalist decor, a person comfortably watching from bed, inviting atmosphere, --ar 1:1 --v 5.2 --style raw
+**(3-8초) 솔루션 소개: '삼탠바이미' 컨셉 + 첫 번째 추천 (제품 사용 장면)**
+*   **화면:** 다양한 공간(거실, 침실, 주방)에서 이동식 스마트TV를 편리하게 사용하는 모습.
+    메가TV 삼탠바이미(32인치)가 넷플릭스 재생되는 장면 교차.
+*   **대사:** "이동식 스마트TV 로망? 이제 '삼탠바이미'로 현실! 🚀 20만원대 구글OS 탑재, 메가TV 삼탠바이미! 넷플릭스? 유튜브? 다 돼! ✨"
+*   **자막:** #삼탠바이미 #가성비TV / 20만원대 구글OS! / 메가TV 삼탠바이미
 
-**[카드뉴스 3/4]**
-*   **텍스트:** 🤩 4K QLED 대화면!
-    **#와이드뷰43인치 #프리미엄가성비**
-    영화, 게임 몰입감 UP! 와이드무빙뷰 스탠드로 자유롭게!
-*   **Midjourney 스타일 영문 프롬프트:** A spacious, bright living room with a large, sleek 43-inch portable 4K QLED smart TV displaying a vibrant movie scene. Modern and luxurious furniture, comfortable sofa, wide-angle shot, natural light, --ar 1:1 --v 5.2 --style raw
+**(8-13초) 두 번째 추천: 압도적 화질/크기 강조 (제품 사용 장면)**
+*   **화면:** 와이드뷰 삼탠바이미(43인치 4K QLED)로 고화질 영화나 게임을 즐기는 모습. 화면의 선명함 강조.
+*   **대사:** "더 대박은! 😱 43인치 4K QLED, 와이드뷰 삼탠바이미! 내 방이 그냥 영화관으로 변신! 🍿"
+*   **자막:** 43인치 4K QLED! / #와이드뷰삼탠바이미 / 영화관이 우리집에!
 
-**[카드뉴스 4/4]**
-*   **텍스트:** 당신의 '삼탠바이미'는? 🤔
-    ✅ 20만원대 이노스 32인치
-    ✅ 40만원대 와이드뷰 43인치
-    **👉 더 자세한 정보는 프로필 링크 확인!**
-*   **Midjourney 스타일 영문 프롬프트:** A split screen image. Left side: a simple, cozy room with a 32-inch portable TV. Right side: a more luxurious room with a 43-inch portable QLED TV. Both scenes conveying comfort and modern style, minimalist, decision-making, choice, comparison, --ar 1:1 --v 5.2 --style raw
+**(13-15초) 마무리 & CTA (빠른 템포, 시선 강탈 효과)**
+*   **화면:** 두 제품 이미지 나란히 보여주며, 프로필 링크 강조 텍스트 오버레이.
+*   **대사:** "LG 스탠바이미 비쌀 때, 현명한 선택은? 지금 바로 프로필 링크 확인! ➡️"
+*   **자막:** 현명한 선택은? / ⭐️프로필 링크 클릭⭐️
+
+---
+
+## 📸 인스타그램 카드뉴스 (4컷)
+
+---
+
+### **[1/4컷]**
+*   **카드 텍스트:** "스탠바이미 로망, 가격 때문에 망설였죠? 😩"
+*   **Midjourney 프롬프트:** A stylish, minimalistic living room with soft, warm lighting. A person looks longingly at a blurred, expensive LG StandbyMe in the background. Modern interior design, slightly wistful atmosphere. --ar 1:1 --v 5.2
+
+### **[2/4컷]**
+*   **카드 텍스트:** "걱정 마! 가성비 '삼탠바이미'가 있잖아! ✨"
+*   **Midjourney 프롬프트:** A vibrant and energetic scene of a sleek, portable smart TV (resembling a "Samtanbymi" but not explicitly LG) being easily moved around a bright, stylish home. The user is smiling, highlighting convenience and joy. Bright, optimistic colors. --ar 1:1 --v 5.2
+
+### **[3/4컷]**
+*   **카드 텍스트:** "20만원대 구글 OS 탑재! 넷플릭스 맘껏 즐겨! 🎬\n**메가TV 삼탠바이미**"
+*   **Midjourney 프롬프트:** A cozy bedroom setting. Close-up shot of a 32-inch portable smart TV (MegaTV Samtanbymi style) displaying a Netflix interface. A person's hand is holding a remote control, with soft, ambient lighting. --ar 1:1 --v 5.2
+
+### **[4/4컷]**
+*   **카드 텍스트:** "대화면 43인치 4K QLED로 영화관 변신! 🍿\n**와이드뷰 삼탠바이미**"
+*   **Midjourney 프롬프트:** A dim, cinematic living room. A person is excitedly watching a high-quality movie on a large 43-inch portable smart TV (Wideview Samtanbymi style), with popcorn and a drink nearby. Rich, deep colors, immersive viewing experience. --ar 1:1 --v 5.2
