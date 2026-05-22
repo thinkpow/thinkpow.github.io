@@ -1,70 +1,92 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 🚀 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠 / 틱톡)
 
-**(시선 강탈 훅: 0~3초)**
+**콘텐츠 제목**: 스탠바이미 비싸서 못 샀다면? 이걸로 끝! ✨ 가성비 '삼탠바이미' 등장!
 
-**[영상 시작: 돈이 펑펑 터지는 듯한 효과음과 함께 스탠바이미 가격표가 빠르게 스쳐 지나가는 화면]**
-
-**내레이션 (급박하고 흥분된 목소리):** 스탠바이미... 100만원 넘는 거 실화야?! 💸 비싸서 포기했지?! **잘 들어!**
-
-**(본론: 3~12초)**
-
-**[화면 전환: 깔끔한 화이트톤 인테리어에 놓인 '스카이뷰 화이트에디션' 제품]**
-
-**내레이션 (밝고 경쾌하게):** 드디어 찾았다! 20만원대 **가성비 끝판왕 삼탠바이미!** ✨
-첫 번째, **스카이뷰 화이트!** 깔끔한 디자인에 스마트 기능까지, 인테리어 싹- 바꿔주는 **넘사벽 가성비!**
-
-**[화면 전환: 다양한 OTT 앱 아이콘이 떠다니는 '메가TV 구글 스마트TV' 제품]**
-
-**내레이션 (더욱 확신에 찬 목소리):** 두 번째는 **메가TV 구글 스마트TV!** 넷플릭스, 유튜브... 구글 플레이 앱 다 깔려! 🎮 침대 옆, 주방, 어디든 **스마트 허브 완성!**
-
-**(마무리 & CTA: 12~15초)**
-
-**[화면 전환: 두 제품이 나란히 비교되는 분할 화면 또는 제품들을 자유롭게 사용하는 사람들의 모습]**
-
-**내레이션 (하이톤으로 마무리):** 비싼 돈 주고 스탠바이미 살 필요 없어! 지금 바로 **내 취향 삼탠바이미 찾으러 가자!**
-**[화면 하단에 '더보기' 또는 '링크 클릭' 자막 강조]**
+**(배경음악: 신나고 트렌디한 BGM 시작)**
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[0-3초] 훅 (Hook)**
+*   **화면**: (빠르게 전환) 정품 스탠바이미 가격표 클로즈업 -> 비싼 가격에 놀란 표정 (놀람 이모티콘) -> "아니, 이 가격 실화?" 자막 띄우기
+*   **대사 (빠른 템포)**: "스탠바이미... 너무 비싸서 엄두도 못 냈다고? 이제 포기하지 마!"
 
-### 컷 1: 훅 & 문제 제기
+**[3-8초] 문제 제기 & 솔루션 소개**
+*   **화면**: 평범한 공간 (침실, 주방 등)에서 답답해하는 모습 -> 갑자기 세련된 '삼탠바이미' 등장하며 공간이 환해지는 연출 (반짝임 효과)
+*   **대사**: "이동식 스마트TV의 로망, 지갑은 지키면서 완벽하게 누리는 법! 바로 '삼탠바이미'야!"
 
-*   **들어갈 텍스트:**
-    **스탠바이미? 아직도 고민해? 💸**
-    **비싸서 못 샀다면... 드디어 찾았다!**
-    **✨ 가성비 끝판왕 #삼탠바이미 대안 총정리!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, modern living room with a slightly frustrated person looking at an empty space where a TV could be, money flying away from their wallet, a thought bubble showing an expensive TV. Minimalist white and grey home decor. Vibrant lighting. --ar 1:1 --style raw --v 5.2`
+**[8-12초] 핵심 장점 & 제품 소개 (빠르게)**
+*   **화면**:
+    *   '무빙큐빅스 27인치' 제품이 침실/주방에서 활용되는 모습 (드라마 시청, 요리 레시피 등) 자막: "27인치 만능템! 26만9천원부터!"
+    *   '메가TV 32인치 구글TV' 제품이 거실/안방에서 영화처럼 활용되는 모습 (넷플릭스, 유튜브 아이콘 등) 자막: "32인치 구글TV! 대화면 끝판왕!"
+*   **대사**: "27인치 '무빙큐빅스'는 침실/주방 만능! 32인치 '메가TV'는 대화면으로 구글TV까지!"
 
-### 컷 2: 메인 추천 1 - 스카이뷰 화이트에디션
+**[12-15초] 구매 유도 (Call to Action)**
+*   **화면**: 두 제품이 나란히 비교되는 컷 -> "자세한 정보는 여기!" 텍스트와 함께 프로필 링크 유도 화살표
+*   **대사**: "MD가 엄선한 가성비 끝판왕 삼탠바이미! 지금 바로 프로필 링크에서 만나봐! 후회 안 할 걸?"
 
-*   **들어갈 텍스트:**
-    **✅ 찐 가성비! 20만원대!**
-    **✨ 스카이뷰 화이트에디션 삼탠바이미**
-    *   **깔끔한 화이트 디자인**으로 인테리어 완성!
-    *   **FHD 스마트 TV 기능**까지 부족함 없이!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A bright, minimalist bedroom with soft morning light. A person is comfortably watching a sleek white mobile smart TV (like a StandbyMe alternative) next to their bed. The TV displays a streaming service. Cozy, modern aesthetic. --ar 1:1 --style raw --v 5.2`
+---
 
-### 컷 3: 메인 추천 2 - 메가TV 구글 스마트TV SET
+## 📸 인스타그램 카드뉴스 4컷
 
-*   **들어갈 텍스트:**
-    **✅ 구글 스마트 TV 장착!**
-    **🎮 메가TV 삼탠바이미 SET**
-    *   **구글 플레이 앱 무제한!** 스마트 허브로 변신!
-    *   **안정적인 운영체제**로 끊김 없는 시청!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A modern kitchen island with warm, inviting light. A person is cooking or casually interacting with a black mobile smart TV (like a StandbyMe alternative) displaying a recipe app, YouTube, or Netflix. Functional, clean, and inviting. --ar 1:1 --style raw --v 5.2`
+---
 
-### 컷 4: 최종 CTA & 비교 정리
+### **[1/4컷] 스탠바이미의 로망, 비싼 가격 때문에 포기했니?**
 
-*   **들어갈 텍스트:**
-    **이제 어디든 나만의 스마트 극장! 🎬**
-    **내 취향 & 예산에 맞는 삼탠바이미는?**
-    **👉 자세한 정보는 프로필 링크 클릭!**
-    (광고) 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 일정액의 수수료를 제공받습니다.
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic split screen showing the white Skyview mobile smart TV in a chic bedroom on one side, and the black MegaTV Google Smart TV in a modern living room on the other. Both TVs are displaying engaging content. High contrast, inviting atmosphere, with a clear call to action area at the bottom. --ar 1:1 --style raw --v 5.2`
+*   **컷 텍스트**:
+    ### **스탠바이미, 비싸서 포기? 😥**
+    **이제 '삼탠바이미'로 로망 실현!**
+    MZ세대 필수템 스탠바이미!
+    하지만 가격이 너무 비싸 망설였다면?
+    **가성비 끝판왕 '삼탠바이미'가 정답!**
+    이커머스 MD가 엄선한 베스트템을 소개합니다!
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A young person looking longingly at a luxurious but expensive mobile smart TV in a modern, minimalist living room, with a thought bubble showing a high price tag and a sad emoji. The room is bright with natural light, soft aesthetic, high-resolution photography, film grain, subtle cinematic lighting.`
+
+---
+
+### **[2/4컷] MD가 엄선! 가성비 삼탠바이미의 핵심은?**
+
+*   **컷 텍스트**:
+    ### **"스마트TV + 이동성" 다 잡았다!**
+    **💰 가격은 1/N, 기능은 ALL-IN!**
+    현직 MD가 수십가지 제품 중 엄선한
+    **가성비 삼탠바이미 핵심 기준!**
+    ✔️ **스마트 TV 기능**: 넷플릭스, 유튜브 기본!
+    ✔️ **완벽한 이동성**: 거실-주방-침실 어디든!
+    ✔️ **압도적인 가격**: 정품 대비 꿀 가성비!
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A split image or montage showing a sleek, modern mobile TV being easily moved from a cozy bedroom (person watching movie) to a bright kitchen (person following recipe), and then to a stylish living room. Overlaid with infographics like "Smart TV Function + Mobility" and a dollar sign with a checkmark. Clean, vibrant, realistic photography style, natural light.`
+
+---
+
+### **[3/4컷] 27인치 무빙큐빅스: 우리 집 만능 엔터테이너!**
+
+*   **컷 텍스트**:
+    ### **무빙큐빅스 스마트 삼탠바이미 27인치**
+    **침실/주방 어디든 만능 스마트TV!**
+    💖 **가격**: 269,000원
+    ✔️ **강력추천**: 공간 활용성 최고!
+    ✔️ **장점**: 스마트TV+이동성 풀세트, 직접 설치로 가성비 UP!
+    작지만 스마트한 퍼포먼스! 지금 경험하세요!
+    ➡️ **(구매링크는 프로필)**
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A close-up shot of a sleek 27-inch "Moving Cubics" mobile smart TV placed in a beautifully lit, minimalist bedroom, showing a person comfortably watching a K-drama. Another small inset image shows it in a modern kitchen with a recipe on screen. The design is clean, Scandinavian aesthetic, soft focus background, natural morning light, product photography.`
+
+---
+
+### **[4/4컷] 32인치 메가TV: 대화면으로 즐기는 영화관 무드!**
+
+*   **컷 텍스트**:
+    ### **메가TV 삼탠바이미 32인치 구글 스마트TV**
+    **압도적 대화면! 완벽한 몰입감!**
+    🔥 **가격**: 278,000원
+    ✔️ **강력추천**: OTT 서비스 덕후라면!
+    ✔️ **장점**: 32인치 대화면, 구글TV 내장(넷플릭스, 유튜브), 이동식 스탠드!
+    나만의 영화관, 학습 공간을 연출해보세요!
+    ➡️ **(구매링크는 프로필)**
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A dynamic shot of a vibrant 32-inch "MegaTV Google Smart TV" on a mobile stand in a cozy yet modern living room, with a family or couple enjoying a movie on Netflix. The screen displays rich, immersive visuals. Warm, ambient lighting, cinematic feel, wide-angle lens, product in focus, blurred background, high-quality photography.`
+
+---
