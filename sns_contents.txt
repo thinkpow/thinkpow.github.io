@@ -1,46 +1,73 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
+## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목**: LG 스탠바이미 비싸서 포기했어? 🤯 갓성비 '삼탠바이미' BEST 2 🔥
-
-**[0-3초] 훅 (Hook)**
-*   **영상**: (화려한 LG 스탠바이미 이미지가 스쳐 지나가며 가격표가 크게 '비쌈'으로 표시된 후, 바로 합리적인 가격대의 삼탠바이미로 전환되는 빠르고 경쾌한 전환 효과)
-*   **대사**: "LG 스탠바이미 사고 싶었는데... 너무 비싸서 포기했어? 😭 이제 슬퍼 마! 이거 하나면 끝!"
-
-**[3-7초] 문제 제기 및 솔루션 제시**
-*   **영상**: (다양한 OTT 앱 아이콘이 떠다니는 삼탠바이미 화면 클로즈업)
-*   **대사**: "비싼 스탠바이미 대신, 갓성비 '삼탠바이미'가 나타났다! 💫 구글TV로 넷플릭스, 유튜브 다~ 돼!"
-
-**[7-12초] 제품 하이라이트**
-*   **영상**: (위드라이프, 메가TV 삼탠바이미 제품 이미지가 번갈아 빠르게 노출되며 특징 강조)
-*   **대사**: "🌟 20만원대 위드라이프! 최저가+1등급 효율! (위드라이프) 🌟 안정적 품질 메가TV! 깔끔한 디자인은 덤! (메가TV)"
-
-**[12-15초] 클로징 및 CTA**
-*   **영상**: (두 제품이 함께 놓인 감각적인 인테리어 컷, '더 자세한 내용은 프로필 링크 클릭!' 자막)
-*   **대사**: "내 방을 영화관으로! 지금 바로 프로필 링크에서 만나봐! 😉"
+**콘셉트:** LG 스탠바이미의 높은 가격에 망설이는 소비자들의 공감을 얻고, 즉각적으로 '삼탠바이미'라는 가성비 대안을 제시하며 구매 욕구를 자극하는 빠르고 직관적인 영상. 첫 3초 안에 시선을 강탈하는 문제 제기와 해결책 제시!
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+### **▶ 15초 숏폼 대본**
 
-### 📍1컷: 훅 (문제 제기)
+**[0-3초] ⚡️ 훅(Hook)! 시선 강탈 구간**
+*   **화면:** (화면 중앙에 'LG 스탠바이미' 제품 이미지와 함께 엄청나게 높은 가격표 '200만원대!!'가 빨간색으로 깜빡이며 등장. 배경에 절망하는 듯한 사람 실루엣)
+*   **자막:** 스탠바이미...? 가격 실화냐고?! 😱
+*   **내레이션 (빠르고 경쾌하게):** "스탠바이미 가격보고 깜놀했다고요? 이젠 고민 끝!"
+*   **효과음:** (놀람, 충격 효과음 → '띵!' 하는 해결책 제시 효과음)
 
-*   **텍스트**: LG 스탠바이미 사고 싶었는데... 너무 비싸서 포기하셨죠? 😭
-*   **배경 이미지 프롬프트**: A luxurious, minimalist living room with soft natural light. A person sits on a stylish sofa, looking wistfully at an expensive-looking, sleek portable TV (resembling LG StandbyMe) with a prominent, disheartening price tag overlaid on the screen. The atmosphere is slightly melancholic but aesthetically pleasing. --ar 1:1 --v 5.2
+**[3-10초] ✨ 문제 해결 & 제품 어필**
+*   **화면:** (장면 전환! 침대에서 편안하게 넷플릭스를 보는 사람, 주방에서 요리하며 유튜브를 보는 사람 등 '삼탠바이미'의 실제 활용 모습 빠르게 교차)
+*   **자막:** 반값으로 즐기는 '이동형 스마트TV'!
+*   **내레이션:** "반값으로 스탠바이미 감성 그대로! 침실, 거실, 주방 어디든 내 손안의 영화관! 🎥✨"
+*   **화면:** (메가TV 삼탠바이미 세트 제품 이미지와 가격 '27만원대' 텍스트 등장)
+*   **자막:** 1. 메가TV 삼탠바이미 (27만원대!)
+*   **내레이션:** "구글 스마트TV + 이동식 스탠드 풀세트! 넷플릭스, 유튜브는 기본!"
+*   **화면:** (위드라이프 삼탠바이미 세트 제품 이미지와 가격 '28만원대' 텍스트 등장)
+*   **자막:** 2. 위드라이프 삼탠바이미 (28만원대!)
+*   **내레이션:** "심지어 1등급 에너지 효율! 전기세 걱정 NO!"
+*   **효과음:** (신나는 배경음악 유지, 제품 특징 강조 시 '뿅!' 하는 효과음)
 
-### 📍2컷: 해결책 제시
+**[10-15초] 🚀 강력한 CTA**
+*   **화면:** (3가지 '삼탠바이미' 관련 제품(메가TV, 위드라이프, 지트론 거치대) 썸네일과 함께 '지금 바로 확인!' 텍스트. 하단에 '프로필 링크 클릭!' 자막 크게)
+*   **자막:** 스탠바이미 가성비 끝판왕! ➡️ 프로필 링크에서 만나보세요!
+*   **내레이션:** "더 이상 비싼 돈 주지 마세요! 지금 바로 프로필 링크에서 가성비 끝판왕 삼탠바이미를 만나보세요! 후회 안 할 걸요? 👍"
+*   **효과음:** (마지막 강한 '뾰로롱' 효과음과 함께 음악 마무리)
 
-*   **텍스트**: 걱정 마세요! 가성비 끝판왕 '삼탠바이미' 등장! 🤩
-*   **배경 이미지 프롬프트**: A vibrant, modern room with a comfortable bed or sofa. In the center, a sleek, white portable smart TV on a movable stand (resembling a "삼탠바이미") is radiating a warm, inviting glow. The screen displays various bright OTT app icons. A hand reaches out as if to touch the screen. The overall mood is exciting and full of possibilities. --ar 1:1 --v 5.2
+---
 
-### 📍3컷: 제품 소개 1 (위드라이프 삼탠바이미)
+## 📸 인스타그램 카드뉴스 (4컷)
 
-*   **텍스트**: 💰1. 위드라이프 삼탠바이미: 20만원대 최강 가성비! 구글TV+1등급 효율까지!
-*   **배경 이미지 프롬프트**: A close-up shot of a modern portable smart TV screen (with a sleek, thin bezel) displaying the Google TV interface with Netflix and YouTube icons clearly visible. A small, stylized "Energy Efficiency Class 1" badge is subtly integrated into the corner of the screen or bezel. The background is a blurred, cozy bedroom setting with warm lighting. --ar 1:1 --v 5.2
+**콘셉트:** LG 스탠바이미의 비싼 가격이라는 페인 포인트를 시작으로, '삼탠바이미'라는 합리적인 대안을 각 컷마다 매력적인 이미지와 명확한 메시지로 전달.
 
-### 📍4컷: 제품 소개 2 (메가TV 삼탠바이미) & CTA
+---
 
-*   **텍스트**: ✨2. 메가TV 삼탠바이미: 안정적인 품질과 깔끔한 디자인으로 꾸준히 인기!
-*   **배경 이미지 프롬프트**: A beautifully designed portable smart TV (resembling "삼탠바이미") with a clean, minimalist white or silver stand, placed in a chic, Scandinavian-style living room. The TV screen shows a high-quality movie scene. The focus is on the TV's elegant design and stable structure. A person's hand is holding a sleek remote control in the foreground, slightly out of focus. --ar 1:1 --v 5.2
-*   **추가 CTA (텍스트 오버레이)**: *프로필 링크에서 더 자세히 확인해보세요!*
+### **▶ 카드뉴스 1/4 (훅: 문제 제기 & 해결책 제시)**
+
+*   **텍스트:** 😱 LG 스탠바이미 비싸서 포기했다고? 이제 반값으로 즐겨!
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    ```
+    A dramatic split image. On the left: a frustrated person staring at an expensive LG StandbyMe price tag on a screen, dark, slightly desaturated colors, modern minimalist interior. On the right: a joyful, smiling person interacting with an affordable, sleek portable smart TV (similar to SamtenbyMe), vibrant, warm lighting, cozy and inviting room. High contrast, cinematic, hyperrealistic. --ar 1:1 --v 5.2
+    ```
+
+### **▶ 카드뉴스 2/4 (메인 추천 1: 메가TV 삼탠바이미)**
+
+*   **텍스트:** 📺 메가TV 삼탠바이미 SET: 20만원대 구글 스마트TV+스탠드! 넷플릭스, 유튜브 다 된다!
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    ```
+    A high-angle shot in a brightly lit, cozy modern bedroom. A young adult is comfortably lounging in bed, watching Netflix on a 32-inch portable smart TV with a black mobile stand. The TV screen displays a vibrant Netflix interface. Focus on the ease of use and integrated setup. Soft, diffused natural light, cinematic. --ar 1:1 --v 5.2
+    ```
+
+### **▶ 카드뉴스 3/4 (메인 추천 2: 위드라이프 삼탠바이미)**
+
+*   **텍스트:** ✨ 위드라이프 삼탠바이미 SET: 1등급 에너지 효율! 어디든 나만의 영화관 완성! 디자인까지 완벽!
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    ```
+    A medium shot in a clean, minimalist kitchen with warm wooden accents. A person is preparing food, glancing up with a smile at a white, 32-inch portable smart TV on a sleek mobile stand playing a cooking show or music video from YouTube. Emphasize the product's elegant design and seamless integration into daily life. Bright, modern, high-definition. --ar 1:1 --v 5.2
+    ```
+
+### **▶ 카드뉴스 4/4 (총정리 & CTA)**
+
+*   **텍스트:** 내 TV에 날개를 달아줄 '이동형 TV거치대'도 강추! ➡️ 프로필 링크에서 스탠바이미 가성비템 지금 바로 겟하세요!
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    ```
+    A visually appealing montage or infographic style image. On the left side, a modern living room setting showing a regular smart TV effortlessly mounted on a chic, minimalist black mobile TV stand, allowing it to be moved. On the right side, a smartphone screen with a highlighted "Link in Bio" button, signifying a call to action. Clean lines, bright and inviting, tech-forward aesthetic. --ar 1:1 --v 5.2
+    ```
