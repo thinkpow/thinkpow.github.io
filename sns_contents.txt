@@ -1,86 +1,46 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**콘셉트**: 스탠바이미 비켜! 가성비 끝판왕 삼탠바이미로 삶의 질 수직 상승! 돈 아끼면서 스마트 라이프 즐기는 법 대공개!
-**(빠른 화면 전환, 신나는 배경 음악, 텐션 높은 말투)**
+**제목**: LG 스탠바이미 비싸서 포기했어? 🤯 갓성비 '삼탠바이미' BEST 2 🔥
 
-*   **0-3초 (훅)**
-    *   **화면**: 좌절하는 표정의 사람 옆에 '스탠바이미 가격 (40만원대)' 텍스트 크게 띄우기 → 갑자기 눈이 휘둥그레지며 '이게 된다고?' 텍스트로 빠르게 전환!
-    *   **대사 (빠르게, 활기차게)**: "스탠바이미 갖고 싶지만 비싸서 포기? 댓츠 노노! 삼탠바이미로 가성비 끝판왕 찍자!"
+**[0-3초] 훅 (Hook)**
+*   **영상**: (화려한 LG 스탠바이미 이미지가 스쳐 지나가며 가격표가 크게 '비쌈'으로 표시된 후, 바로 합리적인 가격대의 삼탠바이미로 전환되는 빠르고 경쾌한 전환 효과)
+*   **대사**: "LG 스탠바이미 사고 싶었는데... 너무 비싸서 포기했어? 😭 이제 슬퍼 마! 이거 하나면 끝!"
 
-*   **3-8초 (위드라이프 삼탠바이미 소개)**
-    *   **화면**: 위드라이프 삼탠바이미 실제 사용 모습 (침대 옆, 주방 등 다양한 공간) 빠르게 전환. 가격 '25만 3천원' 강조.
-    *   **대사**: "이거 보세요! 20만원대 최저가 구글TV! 넷플, 유튜브 다 되는데 전기세까지 1등급이라고요?"
+**[3-7초] 문제 제기 및 솔루션 제시**
+*   **영상**: (다양한 OTT 앱 아이콘이 떠다니는 삼탠바이미 화면 클로즈업)
+*   **대사**: "비싼 스탠바이미 대신, 갓성비 '삼탠바이미'가 나타났다! 💫 구글TV로 넷플릭스, 유튜브 다~ 돼!"
 
-*   **8-13초 (스카이뷰 화이트 삼탠바이미 소개)**
-    *   **화면**: 스카이뷰 화이트 삼탠바이미 감성적인 인테리어 연출 컷 빠르게 전환. 가격 '26만 9천원' 강조.
-    *   **대사**: "아니 감성파 주목! 화이트 디자인 미쳤다! FHD 화질로 인테리어 끝판왕까지! 이 모든 게 20만원대라니!"
+**[7-12초] 제품 하이라이트**
+*   **영상**: (위드라이프, 메가TV 삼탠바이미 제품 이미지가 번갈아 빠르게 노출되며 특징 강조)
+*   **대사**: "🌟 20만원대 위드라이프! 최저가+1등급 효율! (위드라이프) 🌟 안정적 품질 메가TV! 깔끔한 디자인은 덤! (메가TV)"
 
-*   **13-15초 (클로징/CTA)**
-    *   **화면**: 두 제품이 나란히 놓여있는 모습 + "더 자세한 정보는 댓글/프로필 링크 클릭!" 텍스트 크게 띄우기.
-    *   **대사**: "스탠바이미 고민 끝! 지금 바로 삶의 질 업그레이드 하세요!"
-
----
-
-## 2. 인스타그램 카드뉴스 4컷
-
-**전체 콘셉트**: "스탠바이미는 너무 비싸? 그래서 준비했어! 가성비 삼탠바이미 BEST 2!"
-**(스타일: 미니멀리즘, 깨끗하고 밝은 톤, 스마트 라이프스타일 강조)**
+**[12-15초] 클로징 및 CTA**
+*   **영상**: (두 제품이 함께 놓인 감각적인 인테리어 컷, '더 자세한 내용은 프로필 링크 클릭!' 자막)
+*   **대사**: "내 방을 영화관으로! 지금 바로 프로필 링크에서 만나봐! 😉"
 
 ---
 
-**[카드 1]**
+## 📸 인스타그램 카드뉴스 4컷
 
-*   **텍스트**:
-    ### 💥 스탠바이미 비켜! 💥
-    **지갑 사수하며 삶의 질 떡상시키는**
-    ✨ **가성비 삼탠바이미 BEST 2!** ✨
-    "비싼 돈 주고 망설이지 마세요! 똑똑한 당신을 위한 스마트한 선택, 지금 공개합니다!"
+### 📍1컷: 훅 (문제 제기)
 
-*   **Midjourney 프롬프트**:
-    `A sleek, minimalist home interior with soft, diffused natural light, a person smiling confidently next to a stylized piggy bank overflowing with coins, a blurred background hinting at a luxury TV, dynamic typography "Bye Bye Expensive TV!" and "Budget-Friendly Smart TV," vibrant and dopamine-rich colors, ultra-realistic, cinematic, --ar 1:1 --v 5.2`
+*   **텍스트**: LG 스탠바이미 사고 싶었는데... 너무 비싸서 포기하셨죠? 😭
+*   **배경 이미지 프롬프트**: A luxurious, minimalist living room with soft natural light. A person sits on a stylish sofa, looking wistfully at an expensive-looking, sleek portable TV (resembling LG StandbyMe) with a prominent, disheartening price tag overlaid on the screen. The atmosphere is slightly melancholic but aesthetically pleasing. --ar 1:1 --v 5.2
 
----
+### 📍2컷: 해결책 제시
 
-**[카드 2]**
+*   **텍스트**: 걱정 마세요! 가성비 끝판왕 '삼탠바이미' 등장! 🤩
+*   **배경 이미지 프롬프트**: A vibrant, modern room with a comfortable bed or sofa. In the center, a sleek, white portable smart TV on a movable stand (resembling a "삼탠바이미") is radiating a warm, inviting glow. The screen displays various bright OTT app icons. A hand reaches out as if to touch the screen. The overall mood is exciting and full of possibilities. --ar 1:1 --v 5.2
 
-*   **텍스트**:
-    ### 🌟 1. 위드라이프 삼탠바이미 세트 🌟
-    **🚀 20만원대 최저가 구글TV! 🚀**
-    *   32인치 구글 스마트TV 세트 중 압도적 최저가!
-    *   넷플릭스, 유튜브, 모든 OTT 무제한!
-    *   1등급 에너지 효율로 전기세 걱정 끝!
-    *   **💰 가격: 253,000원부터!**
+### 📍3컷: 제품 소개 1 (위드라이프 삼탠바이미)
 
-*   **Midjourney 프롬프트**:
-    `A cozy bedroom scene with warm ambient lighting, a modern white mobile smart TV (like StandbyMe but generic) on a sleek stand next to a bed, showing Netflix on screen, a person casually watching, soft minimalist decor, a small price tag overlay effect "Lowest Price Google TV", clean and bright aesthetic, hyper-realistic, --ar 1:1 --v 5.2`
+*   **텍스트**: 💰1. 위드라이프 삼탠바이미: 20만원대 최강 가성비! 구글TV+1등급 효율까지!
+*   **배경 이미지 프롬프트**: A close-up shot of a modern portable smart TV screen (with a sleek, thin bezel) displaying the Google TV interface with Netflix and YouTube icons clearly visible. A small, stylized "Energy Efficiency Class 1" badge is subtly integrated into the corner of the screen or bezel. The background is a blurred, cozy bedroom setting with warm lighting. --ar 1:1 --v 5.2
 
----
+### 📍4컷: 제품 소개 2 (메가TV 삼탠바이미) & CTA
 
-**[카드 3]**
-
-*   **텍스트**:
-    ### 💖 2. 스카이뷰 화이트 삼탠바이미 💖
-    **✨ 감성 인테리어 끝판왕 화이트 에디션 ✨**
-    *   미니멀 감성, 화이트 디자인으로 인테리어 UP!
-    *   FHD 고화질로 선명한 시청 경험!
-    *   디자인+스마트+가성비, 세 마리 토끼 다 잡기!
-    *   **💰 가격: 269,000원부터!**
-
-*   **Midjourney 프롬프트**:
-    `A chic, Scandinavian-style living room, a pristine white mobile smart TV (like StandbyMe but generic) with a sleek design, displaying a beautiful high-definition landscape image, soft natural light streaming through a window, minimalist furniture, aesthetic composition, elegant and clean, photo realistic, --ar 1:1 --v 5.2`
-
----
-
-**[카드 4]**
-
-*   **텍스트**:
-    ### 🎁 이제 비싸게 고민 말고,
-    **똑똑하게 삼탠바이미 GET!**
-    당신의 일상을 업그레이드 할 현명한 선택!
-    지금 바로 프로필 링크에서 만나보세요!
-    #삼탠바이미 #가성비TV #스탠바이미 #이동식TV #스마트TV #구글TV #내돈내산
-
-*   **Midjourney 프롬프트**:
-    `A vibrant and energetic scene of a hand reaching out to touch a stylized "BUY NOW" button on a floating holographic screen, with two distinct mobile smart TVs (one budget-friendly, one sleek white) in the background, surrounded by sparkling confetti and dollar signs, symbolizing smart shopping and joy, dynamic and exciting, --ar 1:1 --v 5.2`
+*   **텍스트**: ✨2. 메가TV 삼탠바이미: 안정적인 품질과 깔끔한 디자인으로 꾸준히 인기!
+*   **배경 이미지 프롬프트**: A beautifully designed portable smart TV (resembling "삼탠바이미") with a clean, minimalist white or silver stand, placed in a chic, Scandinavian-style living room. The TV screen shows a high-quality movie scene. The focus is on the TV's elegant design and stable structure. A person's hand is holding a sleek remote control in the foreground, slightly out of focus. --ar 1:1 --v 5.2
+*   **추가 CTA (텍스트 오버레이)**: *프로필 링크에서 더 자세히 확인해보세요!*
