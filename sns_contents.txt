@@ -1,65 +1,77 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발! 15초 숏폼 대본 🎬
+## 📺 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠 / 틱톡)
 
-### 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
-
-**영상 컨셉:** 빠르고 경쾌한 배경음악과 함께 템포감 있게 전환되는 화면. 스탠바이미의 로망과 가성비 대안의 현실적 매력을 대비하며 보여준다.
-
-**[0-3초] 시선을 강탈하는 훅 (Hook)**
-*   **화면:** (화려한 스탠바이미 광고 영상처럼 연출) 침대에 누워 영화 보고, 부엌에서 레시피 보는 모습 -> 갑자기 화면 정지, 가격표(200만원대)가 큼지막하게 뜨며 X표시. 좌절하는 표정.
-*   **내레이션 (빠르고 격정적으로):** "스탠바이미 갖고 싶어서 돈 모으다 포기했어? 헉 소리 나는 가격에 망설였다면 주목!"
-
-**[3-10초] 문제 제기 & 해결책 제시**
-*   **화면:** (경쾌한 전환) 텍스트 오버레이: "이제 돈 걱정 NO!" / "스탠바이미 감성 그대로, 가성비 끝판왕!"
-*   **내레이션:** "댓츠 노노! 스탠바이미 부럽지 않은 가성비 끝판왕, **삼탠바이미** & **엘텐바이미**가 떴다!"
-*   **화면:** (번갈아 보여주기)
-    *   **메가TV 삼탠바이미:** 32인치 스마트TV에 이동식 스탠드! (가격 27만원대 텍스트 강조) 넷플릭스, 유튜브 막힘없이!
-    *   **엘지 엘텐바이미 패키지:** LG 스마트 모니터에 이동식 스탠드! (가격 46만원대 텍스트 강조) LG 화질, webOS 그대로!
-*   **내레이션:** "이동의 자유! 스마트 기능! 다~ 되는데 가격은 반값?!"
-
-**[10-15초] 마무리 & CTA**
-*   **화면:** (두 제품이 나란히 있는 모습 또는 사용 예시 콜라주)
-*   **내레이션:** "더 이상 비싸서 망설이지 마! 지금 바로 '스탠바이미 가성비' 검색하고 나만의 스마트 스크린 겟 해봐!"
-*   **화면:** "프로필 링크 클릭! 더 자세한 정보 보러가기!" 텍스트 강조.
+**제목**: 비싼 스탠바이미 이제 그만! 💸 삼탠바이미로 갓성비 이동식 TV 즐기기! #스탠바이미 #삼탠바이미 #가성비TV
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+**(영상 시작: 0-3초)**
+*   **[훅] 시각**: 침대, 주방 등 다양한 공간에서 'LG 스탠바이미'가 멋지게 활용되는 모습 빠르게 전환. (고급스럽지만 가격표가 나타나면서 '헉!' 하는 표정)
+*   **[대사]**: "스탠바이미, 부럽지만 너무 비싸서 포기했나요? 😩"
+    *   _자막: "비싼 스탠바이미... 포기했니? "_
 
-### 1. 첫 번째 컷
-*   **텍스트:**
-    ## 💸 스탠바이미 비싸서 포기했다고?
-    ### NO! 가성비 '삼탠바이미' 등장!
-    LG 스탠바이미의 이동성과 스마트 기능,
-    이젠 합리적인 가격으로 누려보세요!
-*   **Midjourney 프롬프트 (영문):**
-    `A frustrated young person looking at a luxurious, expensive portable smart screen (similar to LG StandbyMe) with a giant red 'X' over a high price tag. The room is modern and minimalist, warm ambient lighting. Cinematic, dramatic, high detail, rule of thirds, --ar 1:1 --v 5.2`
+**(영상 3-8초)**
+*   **[시각]**: 첫 번째 상품 "메가TV 삼탠바이미 세트" 등장! 32인치 스마트 TV와 이동식 스탠드가 합쳐진 올인원 세트가 방에서 넷플릭스, 주방에서 요리 유튜브를 보여주는 모습.
+*   **[대사]**: "이제 걱정 마세요! ✨ 갓성비 '삼탠바이미'가 있잖아요! 32인치 스마트TV+스탠드 올인원! 넷플릭스, 유튜브 다 돼!"
+    *   _자막: "✨올인원 삼탠바이미! 32인치 스마트TV+스탠드 세트 "_
 
-### 2. 두 번째 컷
-*   **텍스트:**
-    ## 🌟 가성비 끝판왕! 메가TV 삼탠바이미
-    ### 32인치 스마트TV + 이동식 스탠드 풀세트!
-    27만원대 가격으로 구글 OS 스마트TV와 이동의 자유를!
-    넷플릭스, 유튜브, 내맘대로 즐겨봐!
-*   **Midjourney 프롬프트 (영문):**
-    `A smiling person effortlessly rolling a sleek 32-inch smart TV on a mobile stand (resembling a "Sam-TenbyMe") through a modern living room, then watching Netflix in a cozy bedroom. Bright, airy, functional interior design. Emphasize ease of movement and smart functions. Product shot, lifestyle photography, --ar 1:1 --v 5.2`
+**(영상 8-12초)**
+*   **[시각]**: 두 번째 상품 "위드라이프 32인치 HD TV" + "이동식 스탠바이미 거치대"가 조합된 모습. DIY 느낌 강조. 가격표 강조.
+*   **[대사]**: "나는 오직 가격! 가성비 끝판왕을 원한다면? 10만원대 TV에 이동식 스탠드 조합! 나만의 'DIY 스탠바이미'를 만들 수 있어요!"
+    *   _자막: "💸 극강 가성비 DIY! 10만원대 TV로 나만의 스탠바이미 "_
 
-### 3. 세 번째 컷
-*   **텍스트:**
-    ## ✨ 프리미엄 가성비! LG 엘텐바이미
-    ### LG 스마트 모니터 + 이동형 스탠드 결합!
-    LG 브랜드의 뛰어난 화질과 webOS 스마트 기능 그대로!
-    46만원대로 경험하는 프리미엄 이동식 스크린!
-*   **Midjourney 프롬프트 (영문):**
-    `A sophisticated person using an LG-branded 32-inch smart monitor mounted on an elegant mobile stand (resembling "El-TenbyMe") in a stylish home office, then moving it to a kitchen counter to display a recipe. Focus on LG's distinctive design and display quality. Professional product showcase, modern aesthetic, soft natural light, --ar 1:1 --v 5.2`
+**(영상 12-15초)**
+*   **[시각]**: 두 제품이 모두 침실, 거실, 서재 등 다양한 공간에서 자유롭게 이동하며 사용되는 행복한 장면들.
+*   **[대사]**: "침대 옆, 주방, 작업실! 어디든 나만의 영화관 완성! 💖 더 이상 망설이지 말고 지금 바로 확인하세요!"
+    *   _자막: "프로필 링크 클릭! 이동식 TV로 삶의 질 UP!"_
+    *   _배경음악: 신나고 경쾌한 트렌디한 숏폼 음악_
 
-### 4. 네 번째 컷
-*   **텍스트:**
-    ## 당신의 라이프스타일에 딱 맞는 선택은?
-    ### 자유로운 이동성 + 스마트 기능 + 합리적인 가격
-    이제 비싼 스탠바이미 대신
-    나만의 가성비 스마트 스크린을 만나보세요!
-    **더 많은 정보는 프로필 링크 클릭! 👆**
-*   **Midjourney 프롬프트 (영문):**
-    `A dynamic collage or split screen showing both the "Sam-TenbyMe" and "El-TenbyMe" in different usage scenarios (watching movies, working, cooking). A diverse group of happy people interacting with the screens. Overlaid with subtle text like "Smart," "Mobile," "Affordable." Vibrant colors, engaging composition, aspirational, --ar 1:1 --v 5.2`
+---
+
+## 📸 인스타그램 카드뉴스 (4컷)
+
+---
+
+### **[첫 번째 컷] - 시선 강탈 훅 & 문제 제시**
+
+*   **들어갈 텍스트**:
+    "스탠바이미, 갖고 싶지만 가격이 망설여진다면? 💸"
+    "우리집 침대 옆, 주방, 작업실에도 이동식 스마트 TV가 필요해! ✨"
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A modern, minimalist bedroom with soft morning light, a person comfortably lounging in bed looking wistfully at a sleek, expensive-looking mobile TV in the corner. Overlayed with a subtle, shimmering question mark and dollar sign. Cinematic, warm tones, high contrast, product photography style. --ar 1:1 --v 5.2`
+
+---
+
+### **[두 번째 컷] - 해결책 1: 올인원 삼탠바이미 세트**
+
+*   **들어갈 텍스트**:
+    "✨올인원 삼탠바이미 세트✨ 32인치 스마트TV+스탠드 한번에!"
+    "📺 메가TV 삼탠바이미 세트 (27만원대)"
+    "복잡한 설치, 추가 구매 없이 전원만 꽂으면 끝! 넷플릭스, 유튜브 기본 탑재!"
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A stylish living room with a person smiling while watching Netflix on a 32-inch smart TV on a sleek, integrated mobile stand. The TV screen shows a popular streaming service interface. Modern, cozy interior design, natural light, clean lines, product showcase, hyperrealistic. --ar 1:1 --v 5.2`
+
+---
+
+### **[세 번째 컷] - 해결책 2: DIY 가성비 스탠바이미**
+
+*   **들어갈 텍스트**:
+    "💸극강 가성비 DIY 스탠바이미💸 10만원대 TV로 나만의 조합!"
+    "💡 위드라이프 32인치 HD TV (18만원대) + 이동식 거치대 (6만원대)"
+    "초저가 TV와 스탠드로 스마트한 이동식 TV를 직접 만들어보세요!"
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A bright, functional home office setup, featuring a 32-inch HD TV mounted on a simple, sturdy mobile stand. Hands are shown assembling the TV onto the stand, emphasizing the DIY aspect. Minimalist, clean workspace, affordable yet modern aesthetic, product photography. --ar 1:1 --v 5.2`
+
+---
+
+### **[네 번째 컷] - 베네핏 & 행동 유도**
+
+*   **들어갈 텍스트**:
+    "침대 옆, 주방, 작업실! 어디든 나만의 영화관 완성! 💖"
+    "이제 비싼 돈 들이지 말고 '삼탠바이미'로 현명하게 즐겨보세요! 👇"
+    "프로필 링크에서 더 자세한 정보 확인하기!"
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A split image showcasing different daily scenarios: on one side, a person relaxing in bed watching a mobile TV, on the other, someone cooking in a kitchen following a recipe on a mobile TV. Both scenes are cozy, filled with warm lighting and a sense of convenience. Focus on versatility and comfort. High quality, cinematic, vibrant colors. --ar 1:1 --v 5.2`
+
+---
