@@ -1,51 +1,85 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발!)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**콘셉트:** 스탠바이미 비싸서 망설였던 사람들을 위한 가성비 대안 '삼탠바이미' 소개 및 핵심 상품 2개 빠르게 리뷰.
-
----
-
-**[영상 시작]**
-
-**[0-3초] 훅 (Hook):**
-*   **화면:** (LG 스탠바이미 비싼 가격표가 확대되며 '💰???' 자막과 함께 좌절하는 표정의 사람 등장)
-*   **내레이션:** "스탠바이미... 비싸서 망설였죠? 이제 그만 고민! 🤯"
-*   **사운드:** (비싼 가격에 대한 실망감, 이어서 반전되는 경쾌한 효과음)
-
-**[3-7초] 문제 해결 & 제품 콘셉트 소개:**
-*   **화면:** (다양한 공간 - 침실, 주방, 거실 - 에서 자유롭게 움직이며 사용되는 세련된 '삼탠바이미' 영상. '20만원대' 자막 강조)
-*   **내레이션:** "침대 옆, 주방, 작업실! 어디든 OK! ✨ 20만원대로 '삼탠바이미' 하세요!"
-*   **사운드:** (경쾌하고 희망찬 BGM)
-
-**[7-12초] 메인 상품 2개 초고속 소개:**
-*   **화면:** (1번 상품 '스카이뷰 화이트 삼탠바이미'의 매력적인 디자인과 사용 모습 빠르게 전환)
-*   **내레이션:** "첫 번째! **스카이뷰 화이트 삼탠바이미!** 26만원대에 화이트 디자인까지 갓벽! 🎨"
-*   **화면:** (2번 상품 '메가TV 구글 스마트 삼탠바이미'의 구글 OS 화면과 사용 모습 빠르게 전환)
-*   **내레이션:** "두 번째! **메가TV 구글 스마트 삼탠바이미!** 27만원대에 구글 OS로 OTT 맘껏! 🚀"
-*   **사운드:** (제품별 특징을 강조하는 짧고 명확한 효과음)
-
-**[12-15초] 클로징 & CTA:**
-*   **화면:** (두 삼탠바이미 제품이 나란히 놓여있거나, 핵심 장점 아이콘(가격, 디자인, 스마트)이 강조되며 '프로필 링크 클릭!' 자막)
-*   **내레이션:** "가격, 디자인, 스마트 기능 다 잡은 삼탠바이미! 지금 바로 프로필 링크 클릭! 👆"
-*   **사운드:** (강렬한 마무리 효과음)
+**[영상 컨셉]**
+스탠바이미의 높은 가격에 좌절하던 시청자에게 "삼탠바이미"라는 가성비 넘치는 대안을 역동적이고 빠르게 소개하며, 주요 제품의 핵심 장점을 강조합니다.
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (Midjourney 프롬프트 포함)
+**[숏폼 스크립트]**
 
-### **카드뉴스 1/4**
-*   **텍스트:** 스탠바이미 사고 싶었는데… 가격 보고 헉! 😱 이제 20만원대로 "삼탠바이미" 하세요!
-*   **Midjourney 프롬프트:** A sleek, modern smart TV on a minimalist mobile stand in a brightly lit, Scandinavian-style living room. The TV screen displays a vibrant streaming service logo (e.g., Netflix, YouTube). The overall atmosphere is inviting and cozy, with soft textures and natural light. Emphasize affordability and stylish design. --ar 1:1 --v 5.2 --style raw
+**[0-3초] 훅 (시선 강탈!)**
+*   **자막:** 💥 스탠바이미 비싸서 못 샀다고?
+*   **음성:** "스탠바이미 비싸서 못 샀다고? 😱 그럼 '이거' 보면 눈 돌아갈걸?!"
+*   **화면:** (빠르게 전환) 울상 짓는 사람 → 갑자기 눈이 휘둥그레지는 모습 → (화면 전환) 20만원대 가격표가 크게 뜨고 그 위에 '삼탠바이미' 로고가 번쩍!
 
-### **카드뉴스 2/4**
-*   **텍스트:** ✨ 최저가 + 예쁜 화이트 디자인 = 스카이뷰 화이트 삼탠바이미 (26만원대)
-*   **Midjourney 프롬프트:** A beautiful, all-white smart TV on a matching elegant mobile stand, positioned next to a bed in a minimalist and serene bedroom. The room features light wood furniture and white linens. The TV screen shows a tranquil landscape or a favorite movie scene. Soft, warm morning light streams through a window. Focus on clean lines and aesthetic appeal. --ar 1:1 --v 5.2 --style raw
+**[3-7초] 문제 해결 & 핵심 기능**
+*   **자막:** ✅ 20만원대 삼탠바이미 등장! 🚀
+*   **음성:** "침대 옆, 주방, 거실 어디든! 넷플릭스, 유튜브가 기본 탑재!"
+*   **화면:** 이동식 스탠드에 TV가 설치된 모습이 침실, 주방, 거실 등 다양한 공간에서 자유롭게 움직이는 장면 빠르게 전환. 화면에는 넷플릭스, 유튜브 로고 오버레이.
 
-### **카드뉴스 3/4**
-*   **텍스트:** 🚀 구글 스마트TV OS로 맘껏 즐겨! = 메가TV 구글 스마트 삼탠바이미 (27만원대)
-*   **Midjourney 프롬프트:** A modern smart TV on a mobile stand in a contemporary living space. The TV screen clearly displays the Google TV interface with recognizable app icons (Netflix, YouTube, Disney+). A hand is holding a sleek remote control pointing towards the screen. The setting includes a comfortable sofa and stylish decor. Bright and user-friendly vibe. --ar 1:1 --v 5.2 --style raw
+**[7-12초] 메인 추천 제품 2가지 소개**
+*   **자막:** 💎 스카이뷰 & 메가TV 삼탠바이미!
+*   **음성:** "화이트 감성 스카이뷰! 20만원대 극강 가성비! ✨ 구글 스마트TV 메가TV는 OTT 완전 정복!"
+*   **화면:**
+    *   스카이뷰 삼탠바이미 (화이트, 깔끔한 디자인) 클로즈업. 가격 '269,000원' 강조.
+    *   메가TV 삼탠바이미 (구글 TV 인터페이스 보이는 화면) 클로즈업. 가격 '278,000원' 강조.
 
-### **카드뉴스 4/4**
-*   **텍스트:** 가격, 디자인, 스마트 기능 몽땅 잡은 ✨가성비 끝판왕✨ 삼탠바이미! 지금 바로 만나보세요!
-*   **Midjourney 프롬프트:** A dynamic and engaging collage showcasing the versatility of a mobile smart TV. Include scenes of a person comfortably watching TV in bed, someone following a recipe on TV in a modern kitchen, and another person using the TV for a video call in a stylish home office. Focus on diverse usage scenarios, ease of movement, and high user satisfaction. Bright, energetic, and visually appealing. --ar 1:1 --v 5.2 --style raw
+**[12-15초] 강력한 클로징 & CTA**
+*   **자막:** 🛒 고민은 끝! 지금 바로 최저가 확인!
+*   **음성:** "고민은 이제 그만! 내 손 안의 스마트 극장! 지금 바로 프로필 링크 클릭해봐!"
+*   **화면:** 두 제품이 나란히 놓인 모습, 혹은 제품 사용자가 즐거워하는 모습. 마지막에 '프로필 링크 클릭' 배너가 크게 뜨며 마무리.
+
+---
+
+## 2. 인스타그램 카드뉴스 4컷
+
+**[공통]** 모든 이미지 프롬프트에는 `--ar 1:1 --style raw --v 6.0` 을 추가해 주세요.
+
+---
+
+### **📇 카드뉴스 1/4 (훅)**
+
+*   **들어갈 텍스트:**
+    **LG 스탠바이미 사고 싶지만 비싸서 망설여? 💸**
+    **20만원대 '삼탠바이미'로 가성비 끝판왕 찍자!**
+
+*   **배경 이미지 프롬프트:**
+    `A modern, minimalist living room with a person looking sadly at an empty space where an expensive LG StandbyMe would be, then their face lights up with joy as a glowing "20만원대 삼탠바이미" text appears, symbolizing affordability and smart solution. Soft, inviting lighting, clean lines, high contrast. --ar 1:1 --style raw --v 6.0`
+
+---
+
+### **📇 카드뉴스 2/4 (메인 상품 1: 스카이뷰)**
+
+*   **들어갈 텍스트:**
+    **✨ 스카이뷰 삼탠바이미: 20만원대 극강 가성비**
+    ✅ **FHD 스마트TV + 이동식 스탠드 올인원!**
+    ✅ **깔끔한 화이트 디자인으로 어떤 인테리어에도 찰떡!**
+
+*   **배경 이미지 프롬프트:**
+    `A sleek, white mobile smart TV (SamtanbyMe) with a 32-inch FHD screen displaying a vibrant streaming service, elegantly positioned in a modern, minimalist bedroom. The stand is also white and simple. Sunlight streams through a window, highlighting the clean, bright aesthetic. Cozy and inviting atmosphere. --ar 1:1 --style raw --v 6.0`
+
+---
+
+### **📇 카드뉴스 3/4 (메인 상품 2: 메가TV)**
+
+*   **들어갈 텍스트:**
+    **🚀 메가TV 삼탠바이미: 구글 스마트TV의 힘!**
+    ✅ **넷플릭스, 유튜브 앱 기본! 더 확장된 스마트 기능!**
+    ✅ **32인치 FHD 선명한 화질로 생생하게 즐겨봐!**
+
+*   **배경 이미지 프롬프트:**
+    `A mobile smart TV (SamtanbyMe) with a 32-inch FHD screen clearly showing the Google TV interface with Netflix and YouTube icons prominently displayed. The TV is set up in a cozy living room or study, with a person comfortably interacting with it using a remote. Modern, tech-savvy vibe with warm lighting. --ar 1:1 --style raw --v 6.0`
+
+---
+
+### **📇 카드뉴스 4/4 (클로징 & CTA)**
+
+*   **들어갈 텍스트:**
+    **이제 당신의 공간에 자유를! 💡**
+    **침대, 주방, 거실 어디든 나만의 스마트 극장!**
+    **👇 프로필 링크에서 최저가 확인하고 구매하세요!**
+
+*   **배경 이미지 프롬프트:**
+    `A split image or montage showing people happily using a mobile smart TV (SamtanbyMe) in three different settings: a person relaxing in bed, someone cooking in a stylish kitchen, and a family watching a movie in a cozy living room. Emphasize freedom, convenience, and joy. Bright, positive, and lifestyle-oriented. --ar 1:1 --style raw --v 6.0`
