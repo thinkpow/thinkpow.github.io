@@ -1,53 +1,62 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 💥 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**[0-3초] 훅 (Hook): 시선 강탈!**
-*   **영상:** 고급스러운 LG 스탠바이미가 잠깐 비치며 가격표(₩1,000,000 이상)가 번쩍인다. 이내 한숨 쉬며 좌절하는 사람의 얼굴 클로즈업. 배경에 강렬한 비트의 음악 시작.
-*   **대사:** "LG 스탠바이미 갖고 싶어서 현타 왔니? 💥 잠깐! 이 영상 보면 지갑 사수 가능!"
+**제목:** 💸LG 스탠바이미 반값? 삼탠바이미 가성비 끝판왕 BEST3! (feat. 스카이뷰, 메가TV)
 
-**[3-8초] 가성비 끝판왕 1: 메가TV 삼탠바이미**
-*   **영상:** 부드럽게 침대 옆으로 굴러오는 32인치 메가TV 삼탠바이미. 화면엔 넷플릭스가 재생되고, 사용자가 편안하게 누워 시청하는 모습. 가격(278,000원)과 특징(올인원, 구글 스마트OS) 텍스트 오버레이.
-*   **대사:** "걱정 마! 20만원대로 삼탠바이미 감성 완벽 구현! 32인치 메가TV 세트는 구글TV까지 올인원!"
+**[시작 0-3초: 훅]**
+*   **화면:** 고급스러운 LG 스탠바이미 가격표가 나오다 갑자기 'X' 표시와 함께 돈이 펑펑 터지는 코믹한 이펙트
+*   **내레이션:** "LG 스탠바이미? 너무 비싸! 헉 소리 나죠?! 💸"
 
-**[8-13초] 가성비 끝판왕 2: 아이팔콘 4K QLED**
-*   **영상:** 거실에서 50인치 아이팔콘 4K QLED 이동식 TV로 게임을 하거나 영화를 보는 역동적인 모습. 선명한 화질 강조. 가격(599,000원)과 특징(50인치 4K QLED, 프리미엄 화질) 텍스트 오버레이.
-*   **대사:** "난 큰 화면, 고화질 포기 못해? 그럼 50만원대, 50인치 4K QLED 아이팔콘! 압도적 몰입감에 이동성까지!"
+**[3-6초: 문제 제기 및 공감]**
+*   **화면:** 사람들이 스탠바이미 앞에서 고민하거나 아쉬워하는 모습, '갖고 싶다...' 자막
+*   **내레이션:** "하지만 그 감성, 그 편리함 포기 못 해! 저렴이는 없을까?"
 
-**[13-15초] 마무리 및 CTA**
-*   **영상:** 두 제품이 나란히 서 있는 모습, 또는 다양한 활용 컷 빠르게 전환. "스탠바이미 가성비템"이라는 큰 글자와 함께 손가락이 댓글/프로필 링크를 가리키는 모션.
-*   **대사:** "고민 끝! 현명한 스마트 라이프, 지금 바로 댓글 링크에서 확인해봐!"
-*   **BGM:** 경쾌하고 밝은 비트로 마무리.
+**[6-9초: 해결책 제시]**
+*   **화면:** 깔끔하고 모던한 '스카이뷰 삼탠바이미'가 부드럽게 등장, 밝은 분위기 전환
+*   **내레이션:** "걱정 마! '반값도 안 되는' 삼탠바이미가 있잖아! ✨"
+
+**[9-12초: 핵심 제품 어필]**
+*   **화면:** '스카이뷰 삼탠바이미'와 '메가TV 삼탠바이미' 제품 이미지 교차, 넷플릭스/유튜브 로고 오버레이
+*   **내레이션:** "넷플릭스, 유튜브 기본! 스카이뷰 삼탠바이미는 20만원대, 구글OS 메가TV도 대박이야!"
+
+**[12-15초: 추가 장점 & CTA]**
+*   **화면:** '와이드뷰 삼탠바이미(QLED)'의 선명한 화면 강조, 마지막에 '링크 클릭' 자막 크게
+*   **내레이션:** "심지어 QLED 화질도 있다? 이건 무조건 사야 돼! 더 많은 정보는 댓글/링크 확인!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+## 2. 인스타그램 카드뉴스 4컷
 
-### **📌 1컷**
-*   **들어갈 텍스트:**
-    **LG 스탠바이미? 로망은 현실이 된다!**
-    (부제: 비싼 가격에 망설였다면 주목!)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A dreamy, futuristic living space where a person is looking longingly at a silhouette of a sleek, expensive movable TV (representing LG StandbyMe) with a sparkling halo, while their other hand points at a thought bubble displaying a hefty price tag, contrasted with a hint of a more affordable, modern alternative in the background. Bright, aspirational, cinematic, high contrast, vivid colors, --ar 1:1 --v 5.2
+### 💳 1. LG 스탠바이미는 비싸다? 반값 삼탠바이미가 대세!
 
-### **📌 2컷**
-*   **들어갈 텍스트:**
-    **💰 20만원대 삼탠바이미! 메가TV 32인치 세트**
-    (구글 스마트OS & 이동식 스탠드 올인원!)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A cozy, minimalist bedroom scene with a 32-inch smart TV on a sleek, mobile white stand, displaying a vibrant streaming service interface (like Netflix or YouTube). The user is comfortably enjoying content from their bed. Soft, warm ambient lighting. Emphasize user comfort and convenience. High detail, photorealistic, modern interior design. --ar 1:1 --v 5.2
+*   **텍스트:**
+    *   **메인:** LG 스탠바이미, 탐나지만 가격이 부담스럽다면? 💸
+    *   **서브:** 반값도 안 되는 '삼탠바이미'가 대세! 가성비 끝판왕 BEST 3
+*   **Midjourney 프롬프트 (영문):**
+    `A split image showing a luxurious, expensive LG StandbyMe TV on one side and a stylish, minimalist, equally functional yet clearly more affordable "SamtanbyMe" mobile TV on the other. Both are in a clean, modern living space. The expensive side has a subtle '$$$' icon crossed out, while the affordable side has a 'save money' icon. Bright, inviting, high detail, cinematic lighting. --ar 1:1 --v 5.2`
 
-### **📌 3컷**
-*   **들어갈 텍스트:**
-    **📺 50인치 4K QLED 대화면! 아이팔콘 세트**
-    (프리미엄 화질과 넓은 활용성!)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A spacious, brightly lit living room or home cinema area, featuring a 50-inch 4K QLED smart TV on a robust, elegant mobile stand. The screen shows dynamic, high-resolution movie content with rich colors. People are comfortably watching or interacting with the screen. Modern, sophisticated, vibrant, cinematic quality. --ar 1:1 --v 5.2
+### 💳 2. 최강 가성비! 스카이뷰 삼탠바이미
 
-### **📌 4컷**
-*   **들어갈 텍스트:**
-    **더 싸게? DIY도 가능! 당신의 선택은?**
-    (9만원대 TV + 스탠드 조합부터 완제품까지!)
-    *자세한 내용은 프로필 링크 확인!*
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A vibrant, dynamic collage or split-screen image. On one side, a simple, affordable 32-inch TV next to a separate mobile TV stand, with DIY-style assembly graphics. On the other side, an abstract infographic showing various price points and feature icons, symbolizing different "스탠바이미 가성비" options. A large, inviting "Check Link in Bio" call to action. Clean, modern, informative, energetic. --ar 1:1 --v 5.2
+*   **텍스트:**
+    *   **메인:** 1. 💰 최강 가성비! 스카이뷰 삼탠바이미
+    *   **서브:** ✅ 20만원대! 깔끔한 화이트 디자인 + FHD 스마트TV
+*   **Midjourney 프롬프트 (영문):**
+    `A minimalist, cozy bedroom interior. A sleek, white mobile smart TV (representing "SkyView SamtanbyMe") stands next to a bed with soft linen. The TV screen displays a bright, high-resolution FHD image, suggesting smart TV functionality. Natural light streaming in. Modern, clean aesthetic, comfortable vibe. --ar 1:1 --v 5.2`
+
+### 💳 3. 구글 스마트TV! 메가TV 삼탠바이미
+
+*   **텍스트:**
+    *   **메인:** 2. 💡 구글 스마트TV! 메가TV 삼탠바이미
+    *   **서브:** ✅ 20만원대! 익숙한 구글 OS로 앱 무한 활용
+*   **Midjourney 프롬프트 (영문):**
+    `A vibrant, contemporary living room with a mobile smart TV (representing "MegaTV SamtanbyMe") prominently displayed. The TV screen clearly shows the Google TV interface with various app icons like Netflix and YouTube. A person is casually interacting with the TV using a remote. Cozy, inviting atmosphere, warm lighting, modern furniture. --ar 1:1 --v 5.2`
+
+### 💳 4. QLED 화질! 와이드뷰 삼탠바이미 & 더 보기
+
+*   **텍스트:**
+    *   **메인:** 3. ✨ QLED 화질! 와이드뷰 삼탠바이미
+    *   **서브:** ✅ 더 선명하게! 프리미엄 화질로 즐겨봐
+    *   **CTA:** 놓칠 수 없는 삼탠바이미 더 보러 가기! 👉 프로필 링크 클릭
+*   **Midjourney 프롬프트 (영문):**
+    `A chic, bright home interior (e.g., home office or modern studio apartment) with a mobile smart TV (representing "WideView SamtanbyMe") featuring a QLED screen. The screen displays incredibly vibrant, crisp, and high-contrast visuals, emphasizing superior image quality. Elegant and sophisticated, a coffee cup on a nearby table, soft daylight. --ar 1:1 --v 5.2`
