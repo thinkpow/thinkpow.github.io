@@ -1,62 +1,51 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발!)
 
-**제목:** 💸LG 스탠바이미 반값? 삼탠바이미 가성비 끝판왕 BEST3! (feat. 스카이뷰, 메가TV)
-
-**[시작 0-3초: 훅]**
-*   **화면:** 고급스러운 LG 스탠바이미 가격표가 나오다 갑자기 'X' 표시와 함께 돈이 펑펑 터지는 코믹한 이펙트
-*   **내레이션:** "LG 스탠바이미? 너무 비싸! 헉 소리 나죠?! 💸"
-
-**[3-6초: 문제 제기 및 공감]**
-*   **화면:** 사람들이 스탠바이미 앞에서 고민하거나 아쉬워하는 모습, '갖고 싶다...' 자막
-*   **내레이션:** "하지만 그 감성, 그 편리함 포기 못 해! 저렴이는 없을까?"
-
-**[6-9초: 해결책 제시]**
-*   **화면:** 깔끔하고 모던한 '스카이뷰 삼탠바이미'가 부드럽게 등장, 밝은 분위기 전환
-*   **내레이션:** "걱정 마! '반값도 안 되는' 삼탠바이미가 있잖아! ✨"
-
-**[9-12초: 핵심 제품 어필]**
-*   **화면:** '스카이뷰 삼탠바이미'와 '메가TV 삼탠바이미' 제품 이미지 교차, 넷플릭스/유튜브 로고 오버레이
-*   **내레이션:** "넷플릭스, 유튜브 기본! 스카이뷰 삼탠바이미는 20만원대, 구글OS 메가TV도 대박이야!"
-
-**[12-15초: 추가 장점 & CTA]**
-*   **화면:** '와이드뷰 삼탠바이미(QLED)'의 선명한 화면 강조, 마지막에 '링크 클릭' 자막 크게
-*   **내레이션:** "심지어 QLED 화질도 있다? 이건 무조건 사야 돼! 더 많은 정보는 댓글/링크 확인!"
+**콘셉트:** 스탠바이미 비싸서 망설였던 사람들을 위한 가성비 대안 '삼탠바이미' 소개 및 핵심 상품 2개 빠르게 리뷰.
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[영상 시작]**
 
-### 💳 1. LG 스탠바이미는 비싸다? 반값 삼탠바이미가 대세!
+**[0-3초] 훅 (Hook):**
+*   **화면:** (LG 스탠바이미 비싼 가격표가 확대되며 '💰???' 자막과 함께 좌절하는 표정의 사람 등장)
+*   **내레이션:** "스탠바이미... 비싸서 망설였죠? 이제 그만 고민! 🤯"
+*   **사운드:** (비싼 가격에 대한 실망감, 이어서 반전되는 경쾌한 효과음)
 
-*   **텍스트:**
-    *   **메인:** LG 스탠바이미, 탐나지만 가격이 부담스럽다면? 💸
-    *   **서브:** 반값도 안 되는 '삼탠바이미'가 대세! 가성비 끝판왕 BEST 3
-*   **Midjourney 프롬프트 (영문):**
-    `A split image showing a luxurious, expensive LG StandbyMe TV on one side and a stylish, minimalist, equally functional yet clearly more affordable "SamtanbyMe" mobile TV on the other. Both are in a clean, modern living space. The expensive side has a subtle '$$$' icon crossed out, while the affordable side has a 'save money' icon. Bright, inviting, high detail, cinematic lighting. --ar 1:1 --v 5.2`
+**[3-7초] 문제 해결 & 제품 콘셉트 소개:**
+*   **화면:** (다양한 공간 - 침실, 주방, 거실 - 에서 자유롭게 움직이며 사용되는 세련된 '삼탠바이미' 영상. '20만원대' 자막 강조)
+*   **내레이션:** "침대 옆, 주방, 작업실! 어디든 OK! ✨ 20만원대로 '삼탠바이미' 하세요!"
+*   **사운드:** (경쾌하고 희망찬 BGM)
 
-### 💳 2. 최강 가성비! 스카이뷰 삼탠바이미
+**[7-12초] 메인 상품 2개 초고속 소개:**
+*   **화면:** (1번 상품 '스카이뷰 화이트 삼탠바이미'의 매력적인 디자인과 사용 모습 빠르게 전환)
+*   **내레이션:** "첫 번째! **스카이뷰 화이트 삼탠바이미!** 26만원대에 화이트 디자인까지 갓벽! 🎨"
+*   **화면:** (2번 상품 '메가TV 구글 스마트 삼탠바이미'의 구글 OS 화면과 사용 모습 빠르게 전환)
+*   **내레이션:** "두 번째! **메가TV 구글 스마트 삼탠바이미!** 27만원대에 구글 OS로 OTT 맘껏! 🚀"
+*   **사운드:** (제품별 특징을 강조하는 짧고 명확한 효과음)
 
-*   **텍스트:**
-    *   **메인:** 1. 💰 최강 가성비! 스카이뷰 삼탠바이미
-    *   **서브:** ✅ 20만원대! 깔끔한 화이트 디자인 + FHD 스마트TV
-*   **Midjourney 프롬프트 (영문):**
-    `A minimalist, cozy bedroom interior. A sleek, white mobile smart TV (representing "SkyView SamtanbyMe") stands next to a bed with soft linen. The TV screen displays a bright, high-resolution FHD image, suggesting smart TV functionality. Natural light streaming in. Modern, clean aesthetic, comfortable vibe. --ar 1:1 --v 5.2`
+**[12-15초] 클로징 & CTA:**
+*   **화면:** (두 삼탠바이미 제품이 나란히 놓여있거나, 핵심 장점 아이콘(가격, 디자인, 스마트)이 강조되며 '프로필 링크 클릭!' 자막)
+*   **내레이션:** "가격, 디자인, 스마트 기능 다 잡은 삼탠바이미! 지금 바로 프로필 링크 클릭! 👆"
+*   **사운드:** (강렬한 마무리 효과음)
 
-### 💳 3. 구글 스마트TV! 메가TV 삼탠바이미
+---
 
-*   **텍스트:**
-    *   **메인:** 2. 💡 구글 스마트TV! 메가TV 삼탠바이미
-    *   **서브:** ✅ 20만원대! 익숙한 구글 OS로 앱 무한 활용
-*   **Midjourney 프롬프트 (영문):**
-    `A vibrant, contemporary living room with a mobile smart TV (representing "MegaTV SamtanbyMe") prominently displayed. The TV screen clearly shows the Google TV interface with various app icons like Netflix and YouTube. A person is casually interacting with the TV using a remote. Cozy, inviting atmosphere, warm lighting, modern furniture. --ar 1:1 --v 5.2`
+## 📸 인스타그램 카드뉴스 4컷 (Midjourney 프롬프트 포함)
 
-### 💳 4. QLED 화질! 와이드뷰 삼탠바이미 & 더 보기
+### **카드뉴스 1/4**
+*   **텍스트:** 스탠바이미 사고 싶었는데… 가격 보고 헉! 😱 이제 20만원대로 "삼탠바이미" 하세요!
+*   **Midjourney 프롬프트:** A sleek, modern smart TV on a minimalist mobile stand in a brightly lit, Scandinavian-style living room. The TV screen displays a vibrant streaming service logo (e.g., Netflix, YouTube). The overall atmosphere is inviting and cozy, with soft textures and natural light. Emphasize affordability and stylish design. --ar 1:1 --v 5.2 --style raw
 
-*   **텍스트:**
-    *   **메인:** 3. ✨ QLED 화질! 와이드뷰 삼탠바이미
-    *   **서브:** ✅ 더 선명하게! 프리미엄 화질로 즐겨봐
-    *   **CTA:** 놓칠 수 없는 삼탠바이미 더 보러 가기! 👉 프로필 링크 클릭
-*   **Midjourney 프롬프트 (영문):**
-    `A chic, bright home interior (e.g., home office or modern studio apartment) with a mobile smart TV (representing "WideView SamtanbyMe") featuring a QLED screen. The screen displays incredibly vibrant, crisp, and high-contrast visuals, emphasizing superior image quality. Elegant and sophisticated, a coffee cup on a nearby table, soft daylight. --ar 1:1 --v 5.2`
+### **카드뉴스 2/4**
+*   **텍스트:** ✨ 최저가 + 예쁜 화이트 디자인 = 스카이뷰 화이트 삼탠바이미 (26만원대)
+*   **Midjourney 프롬프트:** A beautiful, all-white smart TV on a matching elegant mobile stand, positioned next to a bed in a minimalist and serene bedroom. The room features light wood furniture and white linens. The TV screen shows a tranquil landscape or a favorite movie scene. Soft, warm morning light streams through a window. Focus on clean lines and aesthetic appeal. --ar 1:1 --v 5.2 --style raw
+
+### **카드뉴스 3/4**
+*   **텍스트:** 🚀 구글 스마트TV OS로 맘껏 즐겨! = 메가TV 구글 스마트 삼탠바이미 (27만원대)
+*   **Midjourney 프롬프트:** A modern smart TV on a mobile stand in a contemporary living space. The TV screen clearly displays the Google TV interface with recognizable app icons (Netflix, YouTube, Disney+). A hand is holding a sleek remote control pointing towards the screen. The setting includes a comfortable sofa and stylish decor. Bright and user-friendly vibe. --ar 1:1 --v 5.2 --style raw
+
+### **카드뉴스 4/4**
+*   **텍스트:** 가격, 디자인, 스마트 기능 몽땅 잡은 ✨가성비 끝판왕✨ 삼탠바이미! 지금 바로 만나보세요!
+*   **Midjourney 프롬프트:** A dynamic and engaging collage showcasing the versatility of a mobile smart TV. Include scenes of a person comfortably watching TV in bed, someone following a recipe on TV in a modern kitchen, and another person using the TV for a video call in a stylish home office. Focus on diverse usage scenarios, ease of movement, and high user satisfaction. Bright, energetic, and visually appealing. --ar 1:1 --v 5.2 --style raw
