@@ -1,62 +1,53 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 💥 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
 
-### 💥 도파민 폭발 15초 숏폼 대본: "스탠바이미? 이제 가성비로 즐겨!"
+**[0-3초] 훅 (Hook): 시선 강탈!**
+*   **영상:** 고급스러운 LG 스탠바이미가 잠깐 비치며 가격표(₩1,000,000 이상)가 번쩍인다. 이내 한숨 쉬며 좌절하는 사람의 얼굴 클로즈업. 배경에 강렬한 비트의 음악 시작.
+*   **대사:** "LG 스탠바이미 갖고 싶어서 현타 왔니? 💥 잠깐! 이 영상 보면 지갑 사수 가능!"
 
-**[시작 0-3초: 훅! (강렬한 효과음과 함께 빠른 전환)]**
+**[3-8초] 가성비 끝판왕 1: 메가TV 삼탠바이미**
+*   **영상:** 부드럽게 침대 옆으로 굴러오는 32인치 메가TV 삼탠바이미. 화면엔 넷플릭스가 재생되고, 사용자가 편안하게 누워 시청하는 모습. 가격(278,000원)과 특징(올인원, 구글 스마트OS) 텍스트 오버레이.
+*   **대사:** "걱정 마! 20만원대로 삼탠바이미 감성 완벽 구현! 32인치 메가TV 세트는 구글TV까지 올인원!"
 
-*   **비주얼:** (화면에 LG 스탠바이미 정품 모델의 세련된 모습과 함께 '비싼' 가격표가 크게 등장, 이어서 좌절하는 표정의 사람 이모티콘)
-*   **대사 (빠르게, 흥분된 목소리):** "스탠바이미 사고 싶지만... 지갑 사정 때문에 매번 좌절했다고? 🙅‍♀️ 이제 그 고민 끝!"
+**[8-13초] 가성비 끝판왕 2: 아이팔콘 4K QLED**
+*   **영상:** 거실에서 50인치 아이팔콘 4K QLED 이동식 TV로 게임을 하거나 영화를 보는 역동적인 모습. 선명한 화질 강조. 가격(599,000원)과 특징(50인치 4K QLED, 프리미엄 화질) 텍스트 오버레이.
+*   **대사:** "난 큰 화면, 고화질 포기 못해? 그럼 50만원대, 50인치 4K QLED 아이팔콘! 압도적 몰입감에 이동성까지!"
 
-**[3-8초: 문제 해결 제시 & 첫 번째 추천]**
-
-*   **비주얼:** (화면에 '가성비 끝판왕 등장!' 텍스트와 함께, '엘텐바이미' 제품 이미지와 'LG' 로고 강조)
-*   **대사:** "LG 브랜드 못 잃어? 그럼 '엘텐바이미' 주목! 🤩 LG전자 스마트모니터에 이동식 스탠드까지! 정품의 반값으로 LG 감성 완벽 구현!"
-
-**[8-13초: 두 번째 추천 & 압도적인 가성비 강조]**
-
-*   **비주얼:** (화면에 '20만원대? 실화냐?!' 텍스트와 함께, '메가TV 중소바이미세트' 제품 이미지, '구글 스마트TV' 기능 강조)
-*   **대사:** "더 미친 가성비 원한다면? 단 20만원대 '중소바이미세트'! 🚀 구글 스마트TV에 이동성까지! 이건 무조건 사야 해!"
-
-**[13-15초: 클로징 & 행동 유도]**
-
-*   **비주얼:** (두 제품이 나란히 비교되는 화면, '고민은 배송만 늦출 뿐!' 텍스트, 프로필 링크 유도)
-*   **대사 (강조하며):** "이동성, 스마트 기능 다 잡은 가성비 삼탠바이미! 지금 바로 프로필 링크에서 겟하세요! 🛒"
+**[13-15초] 마무리 및 CTA**
+*   **영상:** 두 제품이 나란히 서 있는 모습, 또는 다양한 활용 컷 빠르게 전환. "스탠바이미 가성비템"이라는 큰 글자와 함께 손가락이 댓글/프로필 링크를 가리키는 모션.
+*   **대사:** "고민 끝! 현명한 스마트 라이프, 지금 바로 댓글 링크에서 확인해봐!"
+*   **BGM:** 경쾌하고 밝은 비트로 마무리.
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 4컷
 
-### 📸 인스타그램 카드뉴스 제작용 이미지 프롬프트 (Midjourney 스타일)
+### **📌 1컷**
+*   **들어갈 텍스트:**
+    **LG 스탠바이미? 로망은 현실이 된다!**
+    (부제: 비싼 가격에 망설였다면 주목!)
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    A dreamy, futuristic living space where a person is looking longingly at a silhouette of a sleek, expensive movable TV (representing LG StandbyMe) with a sparkling halo, while their other hand points at a thought bubble displaying a hefty price tag, contrasted with a hint of a more affordable, modern alternative in the background. Bright, aspirational, cinematic, high contrast, vivid colors, --ar 1:1 --v 5.2
 
-**[1컷]**
-*   **카드 텍스트:**
-    *   **제목:** 💸 LG 스탠바이미, 비싸서 망설였죠?
-    *   **본문:** 이동성, 스마트 기능은 그대로!
-        가성비 끝판왕 삼탠바이미 2종 추천!
-*   **Midjourney 프롬프트:** A modern, minimalist living room with soft, indirect lighting. In the center, a sleek, expensive-looking mobile smart TV (like LG StandbyME) is prominently displayed, but with a transparent overlay showing a large, red "SALE" or "TOO EXPENSIVE" graphic. A thoughtful, slightly disappointed person is looking at it from a distance. Cinematic, clean aesthetic, --ar 1:1 --style raw --v 5.2
+### **📌 2컷**
+*   **들어갈 텍스트:**
+    **💰 20만원대 삼탠바이미! 메가TV 32인치 세트**
+    (구글 스마트OS & 이동식 스탠드 올인원!)
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    A cozy, minimalist bedroom scene with a 32-inch smart TV on a sleek, mobile white stand, displaying a vibrant streaming service interface (like Netflix or YouTube). The user is comfortably enjoying content from their bed. Soft, warm ambient lighting. Emphasize user comfort and convenience. High detail, photorealistic, modern interior design. --ar 1:1 --v 5.2
 
-**[2컷]**
-*   **카드 텍스트:**
-    *   **제목:** ✨ LG의 품격은 유지! '엘텐바이미'
-    *   **본문:** 📌 LG전자 32인치 스마트모니터 + 이동형 스탠드
-        정품의 반값! 믿을 수 있는 품질과 A/S까지!
-    *   **가격:** 💰 46만원대
-*   **Midjourney 프롬프트:** A bright, elegant bedroom with a 32-inch LG smart monitor on a sleek white mobile stand, playing a vibrant movie scene. A happy young woman is comfortably lounging on the bed, enjoying the view. The monitor has a subtle LG logo. High-end product photography, warm and inviting atmosphere, natural light, --ar 1:1 --style raw --v 5.2
+### **📌 3컷**
+*   **들어갈 텍스트:**
+    **📺 50인치 4K QLED 대화면! 아이팔콘 세트**
+    (프리미엄 화질과 넓은 활용성!)
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    A spacious, brightly lit living room or home cinema area, featuring a 50-inch 4K QLED smart TV on a robust, elegant mobile stand. The screen shows dynamic, high-resolution movie content with rich colors. People are comfortably watching or interacting with the screen. Modern, sophisticated, vibrant, cinematic quality. --ar 1:1 --v 5.2
 
-**[3컷]**
-*   **카드 텍스트:**
-    *   **제목:** 🚀 20만원대로 즐기는 풀옵션! '메가TV 중소바이미세트'
-    *   **본문:** 📌 압도적인 가성비! 구글 스마트TV + 이동식 스탠드 올인원!
-        침실, 주방 어디든 OK!
-    *   **가격:** 💰 27만원대
-*   **Midjourney 프롬프트:** A cozy, modern kitchen or small studio apartment. A cheerful person is making coffee while watching a vivid 32-inch Google smart TV on a dark, minimalist mobile stand. The screen displays a colorful app interface. Warm, natural light, joyful and casual, realistic, --ar 1:1 --style raw --v 5.2
-
-**[4컷]**
-*   **카드 텍스트:**
-    *   **제목:** 💨 고민은 배송만 늦출 뿐!
-    *   **본문:** 당신의 라이프스타일을 업그레이드할
-        스탠바이미 가성비템, 지금 바로 확인하세요!
-    *   **액션:** 프로필 링크 클릭! 👆
-*   **Midjourney 프롬프트:** A dynamic collage or split image showcasing quick glimpses of the two main products (LG '엘텐바이미' and '메가TV 중소바이미세트') in different, inviting home settings. Overlayed with energetic, vibrant text like "Don't Miss Out!" and an arrow pointing down, indicating a call to action. Modern graphic design style, bright, engaging, --ar 1:1 --style raw --v 5.2
+### **📌 4컷**
+*   **들어갈 텍스트:**
+    **더 싸게? DIY도 가능! 당신의 선택은?**
+    (9만원대 TV + 스탠드 조합부터 완제품까지!)
+    *자세한 내용은 프로필 링크 확인!*
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    A vibrant, dynamic collage or split-screen image. On one side, a simple, affordable 32-inch TV next to a separate mobile TV stand, with DIY-style assembly graphics. On the other side, an abstract infographic showing various price points and feature icons, symbolizing different "스탠바이미 가성비" options. A large, inviting "Check Link in Bio" call to action. Clean, modern, informative, energetic. --ar 1:1 --v 5.2
