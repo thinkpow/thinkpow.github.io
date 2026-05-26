@@ -1,77 +1,64 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 분량 스크립트
 
-**제목:** LG 스탠바이미 비싸서 못 샀어? 20만원대로 "삼탠바이미" 로망 실현! 🤑✨
+**제목:** 💥 LG 스탠바이미 비싸서 포기? 20만원대 삼탠바이미 가성비 끝판왕 TOP3!
 
-**[0-3초 훅 (Hook)]**
-*   **영상:** 고급스러운 LG 스탠바이미를 보고 눈만 깜빡이는 사람 -> 가격표 보고 경악하는 표정 (X 표시). 빠르게 화면 전환, 환한 미소로 "삼탠바이미" 화면을 터치하는 모습! (화려한 효과음, 빠른 비트의 배경음악)
-*   **자막:** "스탠바이미 로망, 가격 때문에 포기했어? 😭" -> "NO! 🙅‍♀️ 삼탠바이미가 정답! ✨"
-*   **대사:** "LG 스탠바이미, 너무 비싸서 못 샀다고요? 이제 그럴 필요 없어요! 20만원대로 로망 실현 각!"
+**(화면 전환 및 효과음: 경쾌하고 신나는 비트의 배경음악 시작)**
 
-**[3-10초 본문]**
-*   **영상:** (빠르게 전환) 깔끔한 인테리어의 침실에서 이동식 TV로 넷플릭스를 보는 모습 -> 주방에서 레시피 영상을 보는 모습. 화면에 '위드라이프 삼탠바이미 세트' 이미지와 가격 자막!
-*   **자막:** "📺 20만원대 올인원 세트! (위드라이프 삼탠바이미)" -> "32인치 스마트TV+이동식 스탠드 = 완벽! 넷플릭스, 유튜브 다 돼!"
-*   **대사:** "침대 옆, 주방 어디든! 20만원대 올인원 '위드라이프 삼탠바이미'로 32인치 스마트TV랑 스탠드를 한번에! 넷플릭스, 유튜브 다 되니까 완전 꿀!"
-*   **영상:** (빠르게 전환) 기존에 사용하던 모니터를 이동식 거치대에 장착하는 모습 -> 거실에서 자유롭게 TV 위치를 바꾸는 모습. 화면에 '가성비 이동식 TV 거치대' 이미지와 가격 자막!
-*   **자막:** "✨ 6만원대! 기존 TV도 스탠바이미로! (이동식 거치대)" -> "최소 비용 최대 효율! 공간 활용 끝판왕!"
-*   **대사:** "새 TV 필요 없어! 6만원대 이동식 거치대로 기존 TV를 스탠바이미처럼! 가성비 끝판왕! 공간 활용 대박!"
+**[0-3초] 훅 (Hook)**
+*   **화면:** (좌) LG 스탠바이미 가격표가 X자로 그어지고, (우) 20만원대 가격표가 번개처럼 나타남. (이후 빠르게 침실, 주방 등 다양한 공간에서 삼탠바이미를 사용하는 행복한 사람들 클립 교차)
+*   **대사 (빠르게, 흥분된 목소리):** "LG 스탠바이미 비싸서 좌절했어? 🤯 딱 3초! 20만원대로 이동식 스마트TV 겟하는 법 알려줄게!"
 
-**[10-15초 클로징 및 CTA]**
-*   **영상:** 두 제품이 나란히 놓여있거나, 사용자들이 행복하게 이용하는 모습. 화면 하단에 구매 링크를 유도하는 손가락 이모지나 애니메이션.
-*   **자막:** "MD가 엄선한 내돈내산 추천템! 💖" -> "👉 지금 바로 링크 확인! #스탠바이미 #삼탠바이미 #가성비"
-*   **대사:** "10년차 MD가 직접 써보고 강추하는 찐 가성비템! 스탠바이미 로망, 지금 바로 링크에서 현실로 만들어보세요!"
+**[3-9초] 메인 상품 소개**
+*   **화면:** (이노스 삼탠바이미 제품 클로즈업 및 사용 장면) -> (와이드뷰 삼탠바이미 화이트 제품 클로즈업 및 사용 장면)
+*   **대사 (점점 빨라지며 강조):**
+    *   "첫 번째, 💥 20만원대 압도적 가성비! 이노스 삼탠바이미! 기본적인 스마트 기능에 충실해 실속파라면 무조건 이거!"
+    *   "두 번째, ✨ QLED 화질에 화이트 디자인까지! 와이드뷰 삼탠바이미! 세련된 공간에 찰떡이야!"
+
+**[9-13초] 추가 상품 소개 및 활용**
+*   **화면:** (메가TV 구글 삼탠바이미 짧게 등장) -> (스탠바이미 렉 거치대 짧게 등장) -> (다양한 공간에서 삼탠바이미 사용 모습 교차)
+*   **대사:** "구글TV OS 필요해? 아니면 TV는 있는데 스탠드만? 쿠팡에 다~ 있다! 침실, 주방, 캠핑 어디든 내 맘대로!"
+
+**[13-15초] 클로징 및 CTA**
+*   **화면:** 모든 제품이 한 화면에 모여있고, "지금 바로 쿠팡에서 확인!" 문구 크게 등장. 아래에 "링크는 고정 댓글 확인!"
+*   **대사 (밝게):** "더 자세한 정보는 고정 댓글 확인! 지금 바로 내 로망 실현해봐! 🚀"
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 4컷
 
-### 1. 첫 번째 컷: 훅 (Hook)
+### **카드 1: 훅 & 문제 제기**
 
-*   **카드 텍스트:**
-    **스탠바이미 로망,**
-    **가격 때문에 포기했어? 😥**
-    *(LG 스탠바이미 가격표에 놀란 듯한 사람 표정 이모티콘)*
-    #스탠바이미 #가격 #비싸
-
+*   **텍스트:**
+    **슬라이드 제목:** LG 스탠바이미, 너무 비싸서 포기? 😩
+    **본문:** 놉! 🙅‍♀️ 이제 20만원대 '삼탠바이미'로 당신의 로망을 실현할 시간! 이동식 스마트 TV로 침실, 주방, 어디든 나만의 영화관 완성!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A person looking shocked and frustrated in front of a giant, glowing price tag (e.g., "$1,290,000") displayed on a sleek, modern LG StandbyMe TV. The background is a minimalist, slightly luxurious living room. The person's expression is one of disbelief and longing. cinematic lighting, dramatic, high detail, --ar 1:1 --v 5.2`
+    `A split image showing (left) a frustrated person looking at a luxury, expensive LG StandbyME TV with a huge price tag, cinematic lighting, dramatic expression, modern minimalist apartment. (right) A smiling, relaxed person enjoying an affordable, stylish mobile smart TV (Samtanbyme) in a cozy, bright bedroom, soft ambient light, high detail, photorealistic, --ar 1:1`
 
-### 2. 두 번째 컷: 문제 제기 및 솔루션 제시
+### **카드 2: 메인 추천 1 - 이노스 삼탠바이미**
 
-*   **카드 텍스트:**
-    **NO! 🙅‍♀️**
-    **똑똑한 우리는 '삼탠바이미'로**
-    **가성비 챙긴다! ✨**
-    *(전구 아이디어 이모티콘)*
-    #삼탠바이미 #가성비 #똑똑한소비
-
+*   **텍스트:**
+    **슬라이드 제목:** 💰 20만원대 최저가! 이노스 삼탠바이미
+    **본문:** "가성비"라는 단어가 가장 잘 어울리는 삼탠바이미의 정석! FHD 스마트 TV와 이동식 스탠드를 20만원대 후반에! 기본적인 기능에 충실한 실속형 모델을 찾고 있다면 바로 이 제품!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A bright, vibrant image of a person smiling confidently, pointing towards a stylish, modern "SamtanbyMe" (a non-LG mobile TV stand with a screen) that looks almost identical to LG StandbyMe but with a much smaller, affordable price tag visible. The person has a "eureka" expression. Bright, optimistic lighting, clean modern aesthetic, infographic style, --ar 1:1 --v 5.2`
+    `A modern, minimalist bedroom with an Innos Samtanbyme mobile smart TV (32-inch) featuring an FHD screen and a simple black stand. A person is comfortably watching Netflix on the TV in bed. Soft morning light streams through the window. Cozy and practical atmosphere, high detail, photorealistic, --ar 1:1`
 
-### 3. 세 번째 컷: 핵심 상품 1 소개 (올인원 세트)
+### **카드 3: 메인 추천 2 - 와이드뷰 삼탠바이미**
 
-*   **카드 텍스트:**
-    **📺 20만원대 올인원 세트!**
-    **위드라이프 32인치 구글 스마트TV**
-    **+ 이동식 스탠드**
-    *(체크리스트 이모티콘)*
-    ✅ 넷플릭스, 유튜브 다 돼!
-    ✅ 침실, 주방 어디든 OK!
-    #위드라이프 #스마트TV #올인원
-
+*   **텍스트:**
+    **슬라이드 제목:** ✨ 화질+디자인 다 잡았다! 와이드뷰 QLED 화이트 에디션
+    **본문:** 단순히 저렴한 것만으로는 부족하다면? QLED 패널로 선명한 화질은 물론, LG 스탠바이미 감성의 세련된 화이트 디자인까지! 프리미엄 가성비를 원한다면 이 제품이 정답!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy and modern bedroom scene where a "Withlife" 32-inch Google Smart TV on a sleek mobile stand is positioned next to a bed. A person is comfortably watching Netflix on the screen. The scene is warm and inviting, emphasizing ease of use and smart features. Soft natural light, high-definition, realistic, --ar 1:1 --v 5.2`
+    `A stylish, bright living room with a Wideview Samtanbyme QLED White Edition mobile smart TV (32-inch). The white TV and stand blend seamlessly with the modern interior design. A person is enjoying a vibrant movie on the QLED screen. Elegant and sophisticated atmosphere, cinematic lighting, high detail, photorealistic, --ar 1:1`
 
-### 4. 네 번째 컷: 핵심 상품 2 소개 (이동식 거치대)
+### **카드 4: 추가 추천 & CTA**
 
-*   **카드 텍스트:**
-    **✨ 6만원대! 기존 TV를**
-    **스탠바이미로! 이동식 거치대**
-    *(돈 절약 이모티콘)*
-    💸 돈 아끼고 공간 활용 끝판왕!
-    👍 내 TV가 바로 스탠바이미!
-    #TV거치대 #공간활용 #인생템
-
+*   **텍스트:**
+    **슬라이드 제목:** 내게 맞는 삼탠바이미는? 💡
+    **본문:**
+    *   **강력한 스마트 기능:** 메가TV 구글 스마트TV!
+    *   **기존 TV 활용:** 스탠바이미 렉 이동식 거치대!
+    지금 바로 쿠팡에서 나에게 딱 맞는 삼탠바이미를 찾아보세요! ➡️
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A minimalist and functional living room or workspace. A person is easily attaching their existing flat-screen TV to a modern, stylish mobile TV stand (not an LG StandbyMe, but a generic stand). The scene highlights the versatility and cost-effectiveness of converting a regular TV into a mobile one. Clean lines, practical design, bright and airy, --ar 1:1 --v 5.2`
+    `A dynamic collage showing diverse people enjoying mobile TV in various settings: one person watching Google TV on a sleek black mobile TV, another person easily moving a TV with a standalone mobile TV stand in a home office. Vibrant colors, clean layout, text overlay areas, modern lifestyle, high detail, photorealistic, --ar 1:1`
