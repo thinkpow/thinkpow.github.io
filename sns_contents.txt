@@ -1,67 +1,74 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** LG 스탠바이미? 😱 놉! 20만원대 '이것'만 있으면 돼! #삼탠바이미 #가성비TV
+**제목:** 😲 스탠바이미 비싸? 20만원대 ‘삼탠바이미’가 왔다!
 
 **[영상 구성 및 대사]**
 
-**0-3초 (훅): 시선 강탈! 가격 충격 & 문제 제기**
-*   **화면:** 'LG 스탠바이미' 검색 결과, 엄청난 가격표(100만원대)가 큼지막하게 떴다가 'X' 표시되며 사라짐. 배경에는 침울한 표정의 사람 이모지.
-*   **대사 (나레이션/빠르게):** "스탠바이미 갖고 싶어서 검색했다가... 가격보고 헉! 했지?!"
+**[0-3초] ⚡️ 시선 강탈 훅! (빠른 템포, 경쾌한 비트)**
+*   **화면:** (1초) 어두운 화면, 좌절한 표정으로 빈 지갑을 들고 있는 사람 클로즈업 -> (2초) 화면이 샥 바뀌며 쨍한 조명 아래 세련된 이동식 TV (삼탠바이미) 등장! 반짝이는 효과.
+*   **자막:** 스탠바이미 갖고 싶어서 통장 텅장 됐다고? 💸
+*   **대사:** "아직도 스탠바이미 비싸서 고민해? 놉! 이젠 이거지!"
 
-**3-7초 (해결책 제시): 가성비 대안 등장!**
-*   **화면:** 침울한 표정의 사람 이모지가 갑자기 활짝 웃으며, 위드라이프/메가TV 같은 삼탠바이미 제품이 화사하게 등장.
-*   **대사 (나레이션/신나게):** "걱정 마! 100만원 넘는 LG 대신 20만원대 '삼탠바이미'가 있잖아! ✨"
+**[3-7초] 💡 문제 제기 & 솔루션 제시**
+*   **화면:** (3-4초) 침대 옆, 주방 식탁, 거실 소파 등 다양한 공간에서 삼탠바이미를 자유롭게 사용하는 모습 (빠른 전환).
+*   **자막:** 20만원대 삼탠바이미로 '스탠바이미 감성' 그대로! ✨
+*   **대사:** "LG 스탠바이미 감성 그대로! 20만원대로 이동식 스마트TV 끝!"
 
-**7-12초 (핵심 장점 어필): 스마트 기능 & 이동성 강조**
-*   **화면:** 위드라이프/메가TV 제품이 침실, 거실, 주방으로 자연스럽게 이동하며 넷플릭스, 유튜브 등 OTT 서비스가 끊김 없이 재생되는 모습. (빠른 장면 전환)
-*   **대사 (나레이션/흥분):** "이동식 스탠드에 32인치 구글 스마트TV가 한 번에! 넷플릭스, 유튜브 다~ 돼! 이걸 20만원대에? 실화?"
+**[7-13초] 🔥 핵심 상품 소개 (빠른 전환)**
+*   **화면:** (7-9초) 갓노스 삼탠바이미 제품샷 & 가격 오버레이. (9-11초) 메가TV 구글 스마트 삼탠바이미 제품샷, 구글 TV 인터페이스 보여주는 화면 & 가격 오버레이.
+*   **자막:** (갓노스) 갓성비 킹! 26만원대 최저가! / (메가TV) 구글TV 탑재! 스마트 기능 끝판왕 27만원대!
+*   **대사:** "20만원대 갓노스 삼탠바이미! 가격 미쳤다! 기본에 충실한 초가성비! (뿅!) 아니면 구글 TV 탑재! 폰처럼 편한 스마트 기능 끝판왕! 메가TV로 갈래?"
 
-**12-15초 (클로징 & CTA): 구매 유도!**
-*   **화면:** 다양한 삼탠바이미 제품들이 빠르게 스쳐 지나가며, 화면 중앙에 "가성비 끝판왕! 프로필 링크 확인!" 텍스트와 함께 "클릭!" 애니메이션.
-*   **대사 (나레이션/강조):** "가성비 끝판왕! 지금 바로 프로필 링크에서 만나봐! 후회 안 할 걸?"
+**[13-15초] 🚀 강력한 CTA**
+*   **화면:** 두 제품 다시 함께 보여주며 화살표 & 댓글 유도 애니메이션.
+*   **자막:** 더 많은 가성비 삼탠바이미는? 👇 댓글 링크 확인!
+*   **대사:** "고민은 배송만 늦출 뿐! 👇 더 많은 가성비템은 댓글에서 확인해봐!"
+*   **BGM:** 마지막에 빵 터지는 효과음과 함께 마무리.
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 인스타그램 카드뉴스 4컷
 
-### **카드뉴스 1/4**
+**[카드뉴스 1/4]**
 
-*   **텍스트:**
-    **LG 스탠바이미? 🙅‍♀️**
-    **이제 '삼탠바이미' 시대!**
-    (부제: 100만원 넘는 가격, 부담스러웠지?
-    가성비 끝판왕 대안을 만나봐!)
-*   **배경 이미지 Midjourney 프롬프트:**
-    A vibrant, dynamic image. On the left, a sleek, expensive-looking mobile smart TV (similar to LG StandbyMe) with a huge price tag (e.g., "$1,200") crossed out with a big red 'X'. On the right, a modern, minimalist mobile smart TV (generic Samtanbymi style) with a much smaller, affordable price tag (e.g., "$250") next to a green checkmark. Bright, hopeful lighting, clean lines, pop art aesthetic with clear typography. --ar 1:1 --v 5.2
+*   **들어갈 텍스트:**
+    *   **헤드라인:** 스탠바이미는 너무 비싸?! 😲
+    *   **서브:** 20만원대 '삼탠바이미'로 스탠바이미 감성 그대로! ✨
+*   **Midjourney 스타일 영문 프롬프트:**
+    *   `A stylish young woman looks surprised while holding an empty wallet, next to her is a sleek, modern movable TV (SamtanbyMe) in a bright, minimalist room, inviting atmosphere, cinematic lighting, ultra-realistic, dynamic composition, vibrant colors, 8K, high contrast, soft bokeh.`
 
-### **카드뉴스 2/4**
+**[카드뉴스 2/4]**
 
-*   **텍스트:**
-    **✨ 20만원대 올인원!**
-    **위드라이프 32인치 삼탠바이미**
-    (부제: 이동식 스탠드+구글 스마트TV 한번에!
-    넷플릭스, 유튜브 OK)
-*   **배경 이미지 Midjourney 프롬프트:**
-    A cozy, modern bedroom with warm, inviting ambient light. A 32-inch Google Smart TV, on a sleek, minimalist mobile stand (Samtanbymi style), is perfectly positioned next to a bed. The TV screen displays a vibrant scene from a streaming service like Netflix or Disney+. A person's hand is casually holding a remote control. Realistic, high-definition, cozy lifestyle photography. --ar 1:1 --v 5.2
+*   **들어갈 텍스트:**
+    *   **헤드라인:** 💖 가성비 킹! 갓노스 삼탠바이미 💖
+    *   **내용:**
+        *   32인치 FHD 스마트TV + 무빙거치대 세트!
+        *   269,000원! 시장 최저가 수준!
+        *   부담 없이 '삼탠바이미' 입문하고 싶다면? 이게 정답!
+*   **Midjourney 스타일 영문 프롬프트:**
+    *   `A cozy bedroom scene, a person happily watching a vibrant movie on a modern 32-inch FHD smart TV on a sleek movable stand (SamtanbyMe), golden hour lighting streaming through a window, comfortable duvet, minimalist decor, ultra-realistic, warm tones, high detail, 8K, wide shot.`
 
-### **카드뉴스 3/4**
+**[카드뉴스 3/4]**
 
-*   **텍스트:**
-    **🚀 스마트TV+이동식 스탠드**
-    **메가TV도 강추!**
-    (부제: 중소기업 가성비 끝판왕!
-    안정적인 거치, 스마트한 시청 경험)
-*   **배경 이미지 Midjourney 프롬프트:**
-    A bright, minimalist open-plan kitchen and living room. A 32-inch smart TV on a stylish, mobile stand is effortlessly wheeled from a kitchen counter where a recipe is displayed to a comfortable sofa area where a YouTube video or a sports game is playing on screen. The scene conveys seamless mobility and smart functionality. Modern architecture, bright natural light, clean and functional aesthetic. --ar 1:1 --v 5.2
+*   **들어갈 텍스트:**
+    *   **헤드라인:** 📱 똑똑한 경험! 메가TV 구글 스마트 삼탠바이미 📱
+    *   **내용:**
+        *   구글 TV 탑재로 폰처럼 편하게! 모든 OTT 앱 다 OK!
+        *   278,000원! 스마트 기능 가성비 끝판왕!
+        *   안정적인 OS와 다양한 앱 활용이 중요하면 무조건 PICK!
+*   **Midjourney 스타일 영문 프롬프트:**
+    *   `A modern living room, a person relaxing on a sofa, casually browsing apps (Netflix, YouTube icons clearly visible) on a 32-inch Google Smart TV mounted on a sleek movable stand, soft ambient lighting, clean aesthetic, ultra-realistic, detailed interface, 8K, eye-level shot.`
 
-### **카드뉴스 4/4**
+**[카드뉴스 4/4]**
 
-*   **텍스트:**
-    **💰 더 싸게? DIY 조합도 가능!**
-    **나만의 삼탠바이미를 만들어봐!**
-    (부제: 거치대+TV 개별 조합으로 최저가 도전!
-    자세한 내용은 프로필 링크 확인!)
-*   **배경 이미지 Midjourney 프롬프트:**
-    A dynamic, collage-style image. One section shows hands assembling a mobile TV stand and attaching a separate monitor to it, symbolizing a DIY project. Another section shows a close-up of a smartphone screen with an "explore more" or "link in bio" button prominently displayed, surrounded by small icons of streaming services (Netflix, YouTube). The overall composition should be energetic and informative, with a modern graphic design feel. --ar 1:1 --v 5.2
+*   **들어갈 텍스트:**
+    *   **헤드라인:** 당신의 특별한 니즈를 위한 추천템! ✨
+    *   **내용:**
+        *   **디자인/화질 끝판왕:** QLED 화이트 삼탠바이미 (30만원대)
+        *   **기존 TV 활용:** 이동식 거치대 (6만원대)
+        *   **(보너스!😻)** 고양이 뒷발팡팡 캣닢 인형 (4천원대)
+    *   **CTA:** 지금 바로 프로필 링크 확인하고 겟! 👇
+*   **Midjourney 스타일 영문 프롬프트:**
+    *   `A dynamic collage image featuring three distinct scenes. Left: A sleek white QLED smart TV on a minimalist movable stand in a modern, brightly lit interior, emphasizing sophisticated design. Middle: An existing large flat-screen TV successfully mounted on a stylish, practical movable stand in a cozy living room. Right: A cute, playful cat joyfully interacting with a catnip-filled cushion toy on a clean floor. All scenes are ultra-realistic, well-lit, 8K, cinematic quality with smooth transitions between scenes.`
