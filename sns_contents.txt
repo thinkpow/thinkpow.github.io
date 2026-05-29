@@ -1,59 +1,75 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트 (대사 위주)
+## 📢 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**[영상 콘셉트]**
-화려하고 비싼 LG 스탠바이미를 로망하던 사람들이, 훨씬 저렴하면서도 똑같은 기능을 누릴 수 있는 '삼탠바이미'를 발견하고 놀라워하는 스피디한 구성. 가성비와 스마트함이 핵심 키워드.
-
----
-
-**[숏폼 대본]**
-
-*   **시작 (0-3초) - 훅(Hook):**
-    *   **화면:** (빠른 전환) 화려한 LG 스탠바이미 광고 화면 → 곧이어 '비싼 가격' 텍스트 크게 등장 (예: 100만원대?) → "😩" 이모지 → 'No!' 제스처와 함께 X표시
-    *   **내레이션:** "LG 스탠바이미 비싸서 망설였죠? 이젠 그 고민 끝! 💥"
-*   **중반 (3-12초):**
-    *   **화면:** (템포 빠르게) 침실, 주방, 거실 등 다양한 공간에서 이동형 스마트 TV로 넷플릭스, 유튜브를 즐기는 모습. 제품명이 '이노스 삼탠바이미' '위드라이프 삼탠바이미'로 교차하며 등장. 가격 '20만원대' 강조.
-    *   **내레이션:** "집 어디든 OK! 넷플릭스, 유튜브가 내 맘대로 따라다닌다? ✨ 이게 바로 갓성비 '삼탠바이미'!"
-    *   **내레이션:** "20만원대부터 시작! FHD 선명한 화질에 구글 TV까지! 😱 안되는 게 뭔데?"
-*   **마무리 (12-15초) - CTA:**
-    *   **화면:** 두 제품(이노스, 위드라이프) 나란히 비교하며 장점 강조. "지금 바로 확인!" 문구와 함께 프로필 링크 유도하는 화살표 애니메이션.
-    *   **내레이션:** "10년차 MD가 엄선한 '삼탠바이미' 추천템! 지금 바로 프로필 링크에서 만나보세요! #스탠바이미 #삼탠바이미 #가성비TV"
+**제목:** LG 스탠바이미 비싸서 포기? 놉! 🙅‍♀️ 반값에 '이동성+스마트' 다 잡는 꿀템 BEST 4!
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**(0-3초) 훅: 충격적인 가격 비교 (빠른 전환)**
+*   **화면:** LG 스탠바이미 영상/사진 → 큼지막한 가격표 (예: "100만원 이상?") → 가격표에 빨간 X표시
+*   **자막:** 스탠바이미? 💸 노놉!
+*   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미? 예쁘지만.. 가격 때문에 망설였다면? 잠깐! 💥"
 
-**[공통사항]**
-*   **콘셉트:** 세련된 인테리어에 자연스럽게 녹아드는 이동형 스마트 TV의 장점을 시각적으로 강조. 현대적이고 미니멀한 Midjourney 스타일.
-*   **종횡비:** `--ar 4:5` (인스타그램 세로형에 최적화된 비율)
+**(3-8초) 문제 제기 및 솔루션 제시 (활기찬 분위기)**
+*   **화면:** 침실에서 누워 TV 보는 사람, 주방에서 요리하며 TV 보는 사람 등 다양한 이동식 TV 활용 장면 → "이동성", "스마트", "가성비" 키워드 강조
+*   **자막:** 이동성? 스마트 기능? 가격까지?
+*   **내레이션:** "이동성, 스마트 기능 다 원하는데… 지갑이 가벼웠다고? 이제 고민 끝! ✨"
+
+**(8-12초) 핵심 상품 2가지 빠르게 소개 (제품 강조)**
+*   **화면 1:** '메가TV 삼탠바이미' 등장 (스탠드 움직이는 모습, 넷플릭스/유튜브 화면) + 가격 자막 "20만원대!"
+*   **자막:** 1. 메가TV 삼탠바이미 (20만원대)
+*   **내레이션:** "20만원대에 스마트TV+스탠드 올인원! 넷플릭스, 유튜브 바로 GO! 🤩"
+*   **화면 2:** 'LG 엘텐바이미' 등장 (4K 고화질 화면, 고급스러운 디자인) + 가격 자막 "LG 4K 대화면!"
+*   **자막:** 2. LG 엘텐바이미 (4K 대화면)
+*   **내레이션:** "믿고 쓰는 LG 4K 대화면! 방문설치까지 완벽해! 👏"
+
+**(12-15초) 마무리 및 CTA (긍정적이고 유혹적인 톤)**
+*   **화면:** 4가지 제품 이미지가 한 화면에 나열 → "프로필 링크" 강조 → 클릭 유도 화살표
+*   **자막:** 최저가 9만원대부터 DIY 스탠드까지! ➡️ 프로필 링크!
+*   **내레이션:** "초저가부터 DIY 스탠드까지! ✨ 당신의 스탠바이미 가성비, 지금 프로필 링크에서 만나! (찡긋)"
 
 ---
 
-**<1컷>**
-*   **카드 텍스트:** "LG 스탠바이미, 비싸서 망설였죠? 😩"
-*   **Midjourney 프롬프트:**
-    ```
-    A person looking disappointed while glancing at an expensive, high-end mobile smart TV in a luxurious, minimalist living room. The TV is sleek but has an implied high price tag. Soft, diffused natural lighting, cinematic, high detail, modern interior design, --ar 4:5
-    ```
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-**<2컷>**
-*   **카드 텍스트:** "이젠 갓성비 '삼탠바이미' 시대! 📺 로망을 현실로!"
-*   **Midjourney 프롬프트:**
-    ```
-    A smiling person effortlessly moving a stylish, modern mobile smart TV (not LG brand specific) from a cozy bedroom to a bright kitchen. The TV screen displays vibrant streaming content, signifying freedom and versatility. Clean aesthetic, warm and inviting atmosphere, high resolution, photorealistic, --ar 4:5
-    ```
+### 📊 카드뉴스 1/4 (훅 & 문제 제기)
 
-**<3컷>**
-*   **카드 텍스트:** "20만원대부터 시작! 😱 FHD 고화질 + 안드로이드/구글 TV 탑재!"
-*   **Midjourney 프롬프트:**
-    ```
-    Close-up shot of a 32-inch smart TV screen on a minimalist mobile stand, showing a crisp FHD resolution movie scene with vibrant colors. Prominently displayed on the screen are icons for streaming apps like Netflix, YouTube, and the Google Play Store. The background is a softly blurred, modern living space. High tech, clean UI, studio lighting, --ar 4:5
-    ```
+*   **카드 텍스트:**
+    LG 스탠바이미, 비싸서 포기? 놉! 🙅‍♀️
+    반값에 '이동성+스마트' 다 잡는 꿀템 발견! 💸
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A vibrant, dynamic close-up of a sleek, modern, but expensive-looking portable TV (like LG StandbyMe) with a bright red "X" symbol overlayed on it. Next to it, a hand points to an open, overflowing piggy bank with money spilling out, indicating affordability. The scene is set in a modern, minimalist living room. Emphasize "affordability" and "smart features". High contrast, hyperrealistic, pop art style, studio lighting. --ar 1:1`
 
-**<4컷>**
-*   **카드 텍스트:** "10년차 MD가 엄선한 '삼탠바이미' BEST 2 더 자세한 정보는 프로필 링크 확인! ➡️"
-*   **Midjourney 프롬프트:**
-    ```
-    Two identical, sleek, 32-inch mobile smart TVs (representing affordable alternatives) standing side-by-side in a bright, modern studio. A glowing digital price tag (e.g., "From $200s") is displayed below them. A finger or cursor is pointing towards a "Learn More" call to action. Clean, professional product shot, high detail, --ar 4:5
-    ```
+---
+
+### 📊 카드뉴스 2/4 (메인 리뷰 상품 1: 메가TV 삼탠바이미 세트)
+
+*   **카드 텍스트:**
+    ✨ 20만원대 올인원! '메가TV 삼탠바이미'
+    ➡️ 스마트TV+이동식 스탠드 한번에!
+    (작게: 넷플릭스, 유튜브 바로 OK! 자취생 필수템!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A sleek, modern 32-inch Google Smart TV clearly displaying Netflix and YouTube logos, mounted on a mobile stand with visible wheels. The stand is positioned in a cozy, minimalist studio apartment, showing versatility between a small living area and a bed. Golden hour light streams from a window, creating a warm, inviting atmosphere. Emphasize "all-in-one" and "mobility". Realistic, cinematic lighting. --ar 1:1`
+
+---
+
+### 📊 카드뉴스 3/4 (메인 리뷰 상품 2: LG 43인치 4K UHD 스마트 TV + 이동식 엘텐바이미 스탠드)
+
+*   **카드 텍스트:**
+    💎 LG 4K 대화면 품격! '엘텐바이미'
+    ➡️ 43인치 + 방문설치까지 완벽!
+    (작게: 믿고 쓰는 LG, 압도적 화질!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A sophisticated 43-inch LG 4K UHD Smart TV on an elegant, modern mobile stand, placed in a luxurious, spacious living room with high ceilings and large panoramic windows overlooking a city skyline. The TV screen shows a stunning, high-definition cinematic landscape. Soft, premium, natural lighting, clean lines, minimalist decor. Emphasize "LG brand," "4K quality," and "elegant design." High resolution, realistic. --ar 1:1`
+
+---
+
+### 📊 카드뉴스 4/4 (추가 추천 상품 & CTA)
+
+*   **카드 텍스트:**
+    최저가 9만원대 TV부터 DIY 스탠드까지! 🎁
+    당신의 스마트 라이프, 프로필 링크에서 찾아봐! ➡️
+    (작게: 고민은 배송만 늦출 뿐! 😉)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A dynamic split image or collage. On the left, a small, ultra-affordable 32-inch basic LED TV in a simple, brightly lit room, indicating "low cost." On the right, a versatile, sturdy mobile TV stand without a TV, ready for customization, in a modern home office setting, indicating "DIY." A stylized gift box icon and a sparkling "SALE" tag are prominently displayed in the center. Bright, inviting colors, dynamic composition, with a clear call-to-action arrow pointing right. Flat lay or isometric perspective. --ar 1:1`
