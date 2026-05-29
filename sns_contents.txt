@@ -1,72 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🚀 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-### 📢 시선을 강탈하는 훅 (Hook):
-**0-3초:**
-(빠른 템포의 경쾌한 비트 시작, 화면은 LG 스탠바이미 광고의 화려한 장면 -> 갑자기 가격표가 튀어나오며 '400만원대?!' 경악하는 표정의 인물 클로즈업)
+**[영상 시작: 빠르게 전환되는 화면, 틱톡/릴스 인기 사운드와 함께]**
 
-**나레이션:** "LG 스탠바이미 탐났는데... 가격 보고 현타 왔다고요? 🤯 잠깐! 여기 더 미친 게 있어요!"
+**(0-3초) ⚡️훅!⚡️**
+**화면:** 스탠바이미 비싼 가격표 클로즈업 -> 망연자실한 표정 -> 활짝 웃는 표정으로 전환
+**대사:** "😱 스탠바이미 가격보고 심장 멎었니? 이젠 그만!"
 
-### 🎬 전체 스크립트 (대사 위주)
+**(3-8초)**
+**화면:** 위드라이프 삼탠바이미가 침실, 주방 등 여러 공간에서 활용되는 모습. (넷플릭스/유튜브 화면 강조)
+**대사:** "20만원대 실화? 위드라이프 삼탠바이미로 넷플릭스, 유튜브 다 봐! 이동은 기본!"
 
-**0-3초 (훅):**
-(빠른 템포의 경쾌한 비트 시작, 화면은 LG 스탠바이미 광고의 화려한 장면 -> 갑자기 가격표가 튀어나오며 '400만원대?!' 경악하는 표정의 인물 클로즈업)
-**나레이션:** "LG 스탠바이미 탐났는데... 가격 보고 현타 왔다고요? 🤯 잠깐! 여기 더 미친 게 있어요!"
+**(8-12초)**
+**화면:** LG 엘텐바이미의 세련된 디자인, 다양한 스마트 기능 (웹OS) 활용 모습.
+**대사:** "LG 감성 포기 못해? 엘텐바이미로 디자인, 성능, 브랜드 다 잡았다! ✨"
 
-**3-7초:**
-(화면 전환: '스탠바이미 가성비' 문구와 함께, 뿅! 하고 나타나는 깔끔한 이동식 TV (위드라이프) 보여줌)
-**나레이션:** "10년차 MD가 찾은 '진짜' 가성비! '삼탠바이미' 트렌드, 아직도 몰라?"
-
-**7-12초:**
-(화면 전환: 위드라이프 & 메가TV 두 제품이 나란히 등장. 각 제품의 장점이 핵심 키워드로 화면에 빠르게 스쳐 지나감)
-**나레이션:** "넷플릭스, 유튜브 다 되는 구글 OS! 침대 옆, 주방, 거실 어디든 맘껏! 이 모든 게 무려 20만원대라니!"
-
-**12-15초:**
-(화면 전환: '지금 바로 확인!' 문구와 함께 손가락이 아래를 가리키는 애니메이션)
-**나레이션:** "LG 스탠바이미 대신 '삼탠바이미'로 스마트한 라이프 업그레이드! ✨ 더 자세한 정보는 프로필 링크 클릭!"
-(화면 하단에 #스탠바이미 #삼탠바이미 #가성비TV #이동식TV 해시태그 노출)
+**(12-15초) 💥클로징!💥**
+**화면:** 두 제품이 나란히 있는 모습, 또는 다양한 활용 샷 빠르게 전환, "지금 바로 확인!" 텍스트 오버레이.
+**대사:** "비싸게 살 이유 1도 없어! 가성비 끝판왕 '삼탠바이미' BEST 4! 더 궁금하면 지금 바로 클릭!"
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 4컷
 
-### 🖼️ 1컷: 훅 (Hook)
-*   **텍스트:** "LG 스탠바이미 가격 실화? 🤯 현타 온 당신을 위한 '가성비 삼탠바이미' 대공개!"
+### 1️⃣ 첫 번째 컷: 훅 & 문제 제기/솔루션 소개
+*   **카드뉴스 텍스트:**
+    ## 😱 스탠바이미 비싸서 망설였다면?
+    ### 이젠 '삼탠바이미'로 현명하게 즐기세요!
+    ✅ 10년 차 MD가 엄선한 가성비 끝판왕!
+    ✅ 내 공간을 영화관으로 만드는 마법!
 *   **Midjourney 프롬프트:**
-    ```
-    A person with a shocked expression looking at a glowing, high-tech mobile TV screen displaying an absurdly high price tag. In the background, a silhouette of a sleek, affordable alternative mobile TV (Samtanbyme) is subtly emerging with a bright, inviting aura. Dynamic lighting, cyberpunk elements mixed with cozy home interior, high contrast, cinematic, --ar 1:1 --v 5.2
-    ```
+    `A stylish, minimalist living room with a slightly blurred background. In the foreground, a frustrated young person looking at an empty wallet, next to a dreamy, expensive-looking mobile screen. The overall mood is soft, aspirational but with a hint of financial stress, trending aesthetic, golden hour, f/1.8, cinematic lighting, ultra-realistic.`
 
-### 🖼️ 2컷: 메인 리뷰 1 - 위드라이프
-*   **텍스트:**
-    **"1. 위드라이프 구글 삼탠바이미 (32인치) - 253,000원"**
-    "✅ 구글 OS로 넷플릭스, 유튜브 무제한!"
-    "✅ 1등급 에너지 효율로 전기세 걱정 끝!"
-    "✅ 32인치 스마트TV + 스탠드 '완성형 세트'!"
+### 2️⃣ 두 번째 컷: 메인 상품 1 - 위드라이프 삼탠바이미
+*   **카드뉴스 텍스트:**
+    ## 💰 20만원대 실화? 압도적 가성비!
+    ### 위드라이프 구글 삼탠바이미
+    ✅ 최강의 가격 경쟁력 (253,000원)
+    ✅ 넷플릭스/유튜브 기본 탑재 (구글 스마트TV)
+    ✅ 1등급 에너지 효율 (전기세 걱정 NO!)
+    ✅ 침실, 주방 어디든 OK! (이동식 스탠드)
 *   **Midjourney 프롬프트:**
-    ```
-    A minimalist, modern bedroom with warm natural light. A 32-inch mobile smart TV (like Withlife Google Samtanbyme) on a stylish white stand. The TV screen clearly shows the Google TV interface with Netflix and YouTube icons. A person is casually lounging on the bed, smiling. Clean lines, cozy atmosphere, hyperrealistic, --ar 1:1 --v 5.2
-    ```
+    `A cozy bedroom with warm, inviting lighting. A modern, minimalist 32-inch smart TV on a mobile stand is playing Netflix, clearly visible. A person is comfortably watching from bed, looking relaxed. The scene feels effortless and budget-friendly. Soft focus, realistic photo, natural light, home decor magazine style, ultra-detailed.`
 
-### 🖼️ 3컷: 메인 리뷰 2 - 메가TV
-*   **텍스트:**
-    **"2. 메가TV 삼탠바이미 세트 (32인치) - 278,000원"**
-    "✅ 중소기업 대표 주자, 압도적 가성비!"
-    "✅ 침실, 거실, 주방 어디든 자유롭게 이동!"
-    "✅ 구글 스마트TV로 OTT 활용성 극대화!"
+### 3️⃣ 세 번째 컷: 메인 상품 2 - LG 엘텐바이미
+*   **카드뉴스 텍스트:**
+    ## ✨ 역시 LG! 디자인, 성능 다 잡은
+    ### '엘텐바이미' 스마트 모니터
+    ✅ 믿고 쓰는 LG 브랜드 (433,800원)
+    ✅ 웹OS 기반 스마트 기능 (모니터+TV 올인원)
+    ✅ 고급스러운 디자인 (어떤 인테리어에도 찰떡!)
+    ✅ 이동형 스탠드 포함 (설치 걱정 끝!)
 *   **Midjourney 프롬프트:**
-    ```
-    A bright, contemporary open-plan living space flowing into a kitchen. A person is effortlessly pushing a 32-inch mobile smart TV (like MegaTV Samtanbyme) on a sleek, black stand from the living room towards the kitchen. The TV screen displays a vibrant cooking show or movie. Sense of movement, modern design, clean aesthetic, --ar 1:1 --v 5.2
-    ```
+    `A sleek, modern home office or living space with clean lines and sophisticated decor. A 32-inch LG smart monitor on a stylish mobile stand displays a vibrant digital art piece or a dynamic productivity dashboard. The design emphasizes premium quality and seamless integration into a sophisticated environment. Bright, clean aesthetic, architectural photography style, natural light, high-resolution.`
 
-### 🖼️ 4컷: 마무리 & CTA (Call to Action)
-*   **텍스트:**
-    "비싼 돈 주지 마세요! 🙅‍♀️"
-    "스마트함과 이동성, 그리고 '압도적 가성비'까지!"
-    "이제 당신도 '나만의 삼탠바이미'로 라이프스타일 UP!⬆️"
-    "✨ 더 많은 정보는 프로필 링크에서! ✨"
+### 4️⃣ 네 번째 컷: 추가 상품 언급 & 클로징
+*   **카드뉴스 텍스트:**
+    ## 더 이상 고민 NO!
+    ### 스탠바이미 가성비 끝판왕 '삼탠바이미' 만나러 가기!
+    ✅ 2024년 가성비 BEST 4 (메가TV, 이동식 거치대 등)
+    ✅ 이동성, 스마트 기능 동시 만족!
+    ✅ 당신의 공간이 스마트해진다!
+    ### 👉 프로필 링크 클릭해서 더 많은 정보 확인!
 *   **Midjourney 프롬프트:**
-    ```
-    A vibrant, aspirational collage showcasing different people happily using mobile smart TVs in various home settings (reading in bed, cooking in kitchen, exercising in living room). Overlapping scenes creating a dynamic flow. Bright, optimistic colors, modern typography elements for "UP!", joyful expressions, --ar 1:1 --v 5.2
-    ```
+    `A vibrant, dynamic collage of diverse home settings (living room, kitchen, bedroom, home office) where different mobile TVs/monitors (similar to SamtanbyME) are being used by happy people. The overall impression is energetic, convenient, and smart. Bright colors, modern infographic style, flat lay elements, 'connect the dots' visual metaphor, motion blur subtly applied to represent mobility, joyful and functional.`
