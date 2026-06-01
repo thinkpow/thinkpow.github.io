@@ -1,61 +1,72 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🔥 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**(음악: 밝고 경쾌하며 트렌디한 BGM 시작)**
+**콘텐츠 제목:** 스탠바이미 비싸서 포기? 놉! 🙅‍♀️ 20만원대로 겟하는 '삼탠바이미' 비법!
 
-**[0-3초] 훅 (Hook):**
-**화면:** LG 스탠바이미 사진이 뜨며 X표시, 이어서 가격표가 크게 나타나며 놀라는 표정의 사람
-**내레이션:** "LG 스탠바이미 사고 싶죠? 근데... 비싸죠? 😱 걱정 마세요! '이것'만 알면 반값에 스탠바이미 즐겨요!"
-
-**[3-8초] 핵심 개념 소개:**
-**화면:** 스마트TV와 이동식 거치대가 합쳐지는 모션 그래픽, 침대 옆, 주방 등 다양한 공간에서 TV 보는 장면 빠르게 전환
-**내레이션:** "이게 바로 요즘 대세, **'가성비 삼탠바이미'**! 내 손안의 움직이는 TV! 저렴하게 꿈을 실현시켜 줄 베스트 2!"
-
-**[8-12초] 메인 상품 2가지 소개:**
-**화면:**
-*   (8-10초) 프리토스 구글 삼탠바이미 제품 이미지와 가격(24.5만원) 크게 노출. 구글 로고, 넷플릭스/유튜브 앱 아이콘 강조.
-*   (10-12초) 이노스 FHD 삼탠바이미 제품 이미지와 가격(26.9만원) 크게 노출. '이노스' 로고, FHD 아이콘 강조.
-**내레이션:**
-"첫 번째, **프리토스 32인치!** 20만원대 실화? 구글TV로 넷플릭스, 유튜브 다~ 즐겨요!"
-"두 번째, **이노스 32인치!** 믿을 수 있는 브랜드에 선명한 FHD 고화질까지! 절대 후회 없을 거예요!"
-
-**[12-15초] 클로징 및 CTA:**
-**화면:** 5가지 제품 모두 나오는 이미지 혹은 매력적인 라이프스타일 컷. "더 자세한 정보는 댓글/프로필 링크!" 텍스트 오버레이.
-**내레이션:** "침실, 거실, 주방 어디든! 나만의 스마트 스크린, 지금 바로 득템하세요! 더 자세한 정보는 댓글과 프로필 링크를 확인하세요!"
-
-**(음악: 점점 고조되며 마무리)**
+**시선 강탈 훅 (0-3초):**
+*   **화면:** (0-1s) "스탠바이미" 로고와 함께 높은 가격표(예: 100만원 이상)가 크게 나타남. 이내 빨간색 'X' 표시와 함께 "비싸서 고민?" 텍스트. (1-3s) "놉!" 소리와 함께 화면이 전환되며, "20만원대!"라는 숫자가 폭발하듯 나타나고, 스타일리시한 '삼탠바이미' 제품이 스무스하게 등장.
+*   **대사 (빠르게, 활기찬 톤):** "스탠바이미? 놉! ⚡️ 20만원대로 겟하는 '삼탠바이미' 비법!"
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**본문 (3-13초):**
+*   **화면:** (3-5s) 침실에서, 주방에서, 거실에서 삼탠바이미를 자유롭게 옮겨 다니며 활용하는 모습 몽타주. 배경에 "이동식 스마트 TV" 자막.
+*   **대사:** "비싸서 고민했던 이동식 스마트 TV! 이젠 가성비 끝판왕으로 즐겨봐!"
 
-### **📌 1컷**
-*   **텍스트:**
-    LG 스탠바이미, 꿈의 TV? 🙅‍♀️
-    현실은 비싼 가격... 😱
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A person looking longingly and slightly frustrated at a futuristic, minimalist mobile smart TV in a luxurious, modern living room, with a transparent overlay of a high price tag. The person has a disappointed expression. Cinematic lighting, soft shadows, warm tones, high detail, --ar 1:1`
+*   **화면:** (5-9s) '이노스 삼탠바이미' 제품 풀샷. 이어서 침대 옆에서 넷플릭스를 보는 사람의 모습. 텍스트 오버레이: "⭐ 이노스 삼탠바이미 (26.9만원) - 압도적 가성비!"
+*   **대사:** "첫 번째, '이노스 삼탠바이미'! 😲 20만원대라는 놀라운 가격으로 FHD 스마트TV와 무빙 거치대 세트를 동시에!"
 
-### **📌 2컷**
-*   **텍스트:**
-    걱정 마! 가성비 끝판왕
-    ✨ '삼탠바이미' ✨ 가 있잖아!
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A split image. On one side, a sleek, expensive LG StandbyME in a minimalist, slightly out-of-reach room. On the other side, a regular smart TV mounted on a modern, mobile stand in a cozy, inviting living space, with a happy, relaxed person enjoying it. A glowing 'Smart Value' or 'Best Deal' symbol on the Sam-tan-by-ME side. Bright, optimistic lighting, clean aesthetic, --ar 1:1`
+*   **화면:** (9-13s) '메가TV 구글 삼탠바이미' 제품 풀샷. 구글 TV OS 화면 (넷플릭스, 유튜브 아이콘 등)이 강조되며, 리모컨으로 조작하는 손이 클로즈업. 텍스트 오버레이: "💡 메가TV 구글 삼탠바이미 (27.8만원) - 구글OS 탑재!"
+*   **대사:** "두 번째, '메가TV 구글 삼탠바이미'! 구글 OS로 앱 확장성 대박! 더 스마트하게 즐겨봐!"
 
-### **📌 3컷**
-*   **텍스트:**
-    **BEST 1. 🚨 20만원대!**
-    **프리토스 구글 삼탠바이미 32인치**
-    💬 압도적 가성비! 구글TV로 넷플릭스, 유튜브 다 즐겨!
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A 32-inch smart TV on a minimalist white mobile stand, placed in a cozy, modern bedroom. The TV screen clearly displays the Netflix logo and a popular streaming show. A person is comfortably watching from bed, relaxed and happy. The room has soft, natural light from a window, making the scene feel inviting and convenient. High detail, photorealistic, --ar 1:1`
+---
 
-### **📌 4컷**
+**클로징 (13-15초):**
+*   **화면:** (13-15s) 이노스, 메가TV 두 제품이 나란히 비교되는 깔끔한 그래픽. 하단에 "선택은 당신의 몫!" 텍스트. 마지막 1초 동안 프로필 링크/더보기 클릭 유도 문구가 크게 뜸.
+*   **대사:** "선택은 당신의 몫! 😉 더 자세한 정보는 프로필 링크 클릭!"
+
+---
+
+## 📸 인스타그램 카드뉴스 (4컷)
+
+---
+
+### **[1/4컷]**
 *   **텍스트:**
-    **BEST 2. 🌟 믿고 쓰는 브랜드!**
-    **이노스 FHD 삼탠바이미 32인치**
-    💬 선명한 FHD 고화질로 몰입감 UP!
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A 32-inch smart TV on a sleek, dark mobile stand, positioned in a bright, contemporary living room or kitchen. The TV screen displays vibrant, high-definition content, like a nature documentary or a vibrant movie scene, showcasing excellent picture quality. The setting is clean and stylish, emphasizing the TV's modern design and crisp display. Photorealistic, --ar 1:1`
+    스탠바이미 비싸서 포기? 🙅‍♀️
+    20만원대 '삼탠바이미'로 인생 TV 겟!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A sleek, modern portable smart TV (resembling LG StandbyMe but generic design) in a bright, minimalist, and stylish living room. A person is smiling and effortlessly moving the TV from one corner to another. The scene is vibrant, clean, and has a high-tech aesthetic with soft, cinematic lighting. Dynamic shot, high detail, --ar 1:1 --style raw
+
+---
+
+### **[2/4컷]**
+*   **텍스트:**
+    압도적 가성비! ✨ 이노스 삼탠바이미
+    💸 269,000원
+    ✅ 20만원대! FHD 스마트TV + 무빙 거치대 세트!
+    ✅ 최고의 기본 가성비 모델!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A stylish 27-inch FHD smart TV on a white, minimalist movable stand in a cozy, modern bedroom. A person is comfortably watching Netflix in bed, with warm natural light filtering in from a window. The room has soft textures, clean lines, and minimalist decor. Focus on the TV's screen displaying a movie, high detail, --ar 1:1 --style raw
+
+---
+
+### **[3/4컷]**
+*   **텍스트:**
+    스마트함까지! 📱 메가TV 구글 삼탠바이미
+    💸 278,000원
+    ✅ 구글 OS 탑재! 뛰어난 앱 확장성!
+    ✅ 넷플릭스, 유튜브 등 편리한 스마트 기능!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A modern portable smart TV with its screen clearly displaying the vibrant Google TV operating system interface. Various app icons like Netflix, YouTube, Disney+, and a web browser are visible. A hand is holding a sleek remote control, pointing at the screen. The background is a clean, tech-focused environment, emphasizing the smart features. Vibrant screen, high detail, --ar 1:1 --style raw
+
+---
+
+### **[4/4컷]**
+*   **텍스트:**
+    현명한 당신의 선택은? 💰
+    (이노스 vs 메가TV)
+    📍 프로필 링크에서 지금 바로 확인하세요!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A striking comparison infographic design, showing two distinct stylish portable smart TVs side-by-side (one representing a basic model, the other a smart Google OS model). Subtle glowing outlines around each TV, with clear text overlays highlighting "Price" and "Key Features" for each. The background is clean and abstract with modern geometric lines. Professional, clean, high detail, --ar 1:1 --style raw
