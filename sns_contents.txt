@@ -1,86 +1,81 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발 15초 숏폼 스크립트 및 인스타그램 카드뉴스 기획
-
-### 1. 유튜브 쇼츠/틱톡 15초 스크립트 (시선 강탈 훅 포함)
-
----
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
 
 **[영상 컨셉]**
-빠른 컷 전환, 배경 음악은 경쾌하고 신나는 톤. 자막 강조 필수.
+빠른 전환, 경쾌한 BGM, 자막 활용 필수. 비싼 스탠바이미 가격에 놀라는 표정, 이어서 가성비 삼탠바이미를 발견하고 환호하는 표정 연출. 침실, 주방 등 다양한 공간에서 삼탠바이미를 활용하는 모습 클립.
 
 **[스크립트]**
 
-**(0-3초) 훅! 시선 강탈 & 문제 제기**
-*   **화면:** (초고속 전환) 비싼 LG 스탠바이미 제품 이미지와 가격표 (예: 120만원) -> 경악하는 표정의 인물 클로즈업
-*   **대사:** "LG 스탠바이미? 😫 가격 보고 심장 철렁했다면 당장 보세요!"
-*   **자막:** 💥 가격 실화?! 😱
+*   **0-3초 (훅):**
+    *   **화면:** (놀란 표정 클로즈업, 화면에 "스탠바이미 200만원대?!😱" 크게 뜸)
+    *   **대사:** "스탠바이미 사고 싶었는데... 가격 보고 동공 지진 났다고요?!!"
 
-**(3-7초) 해결책 제시 & 핵심 장점**
-*   **화면:** 세련된 '삼탠바이미' (이동식 스마트TV)가 등장, 가격표 (예: 25만원)가 확 뜨는 효과. 다양한 공간(침실, 주방)에서 활용되는 모습 빠르게 전환.
-*   **대사:** "수십만원 더 싸게! 😮 스마트 기능은 그대로, 이동성까지 완벽한 '삼탠바이미'!"
-*   **자막:** ✨ 스탠바이미 가성비 끝판왕!
+*   **3-8초 (문제 해결 & 제품 소개):**
+    *   **화면:** (밝아진 표정, 화면에 "20만원대 삼탠바이미?!✨" 뜸. 위드라이프 삼탠바이미 제품 등장)
+    *   **대사:** "이제 고민 끝! 20만원대에 스마트TV+이동식 스탠드까지?! 일명 '삼탠바이미'!"
 
-**(7-11초) 주요 상품 어필 & 기능 강조**
-*   **화면:** '위드라이프 32인치 삼탠바이미' 이미지 (넷플릭스 화면) -> '위드라이프 40인치 삼탠바이미' 이미지 (영화 장면). 구글OS 아이콘/OTT 앱 목록 강조.
-*   **대사:** "20만원대 32인치부터, 영화관 부럽지 않은 40인치 대화면까지! 넷플릭스, 유튜브 다~ 돼!"
-*   **자막:** 🎬 32인치 ➡️ 40인치! 구글TV로 ALL OTT!
+*   **8-12초 (핵심 기능 강조):**
+    *   **화면:** (위드라이프 삼탠바이미로 넷플릭스 보는 모습, 이노스 삼탠바이미로 침대에서 영화 보는 모습)
+    *   **대사:** "구글TV로 넷플릭스, 유튜브 다~ 되고! (빠르게) 선명한 FHD 화질에, 원하는 곳 어디든 OK!"
 
-**(11-15초) 강력한 마무리 & 행동 유도 (CTA)**
-*   **화면:** 여러 사람들이 삼탠바이미를 즐기는 행복한 모습 몽타주. (침대에서, 요리하며, 친구들과 게임하며 등) -> 마지막에 '링크 클릭' 유도하는 화살표/문구 강조.
-*   **대사:** "침실, 주방, 거실 어디든 나만의 스마트 극장! 🎬 링크 클릭하고 후회 없는 가성비템 득템하세요!"
-*   **자막:** 🚀 삶의 질 UP! 지금 바로 득템! (프로필 링크 클릭!)
+*   **12-15초 (클로징 & CTA):**
+    *   **화면:** (두 제품 함께 배치, "가성비 끝판왕! 지금 바로 확인!" 자막, 링크 손가락으로 가리키는 모션)
+    *   **대사:** "침실, 주방이 나만의 영화관! 스탠바이미 가성비 끝판왕! 자세한 정보는 댓글 링크에서 확인하세요!"
 
 ---
 
-### 2. 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+## 2. 인스타그램 카드뉴스 4컷
+
+**[공통 디자인 키워드]**
+Modern, minimalist, cozy home, clean aesthetic, natural light, soft focus, lifestyle photography.
 
 ---
 
-**[전체 컨셉]**
-LG 스탠바이미의 세련된 감성은 유지하되, '가성비'와 '스마트 기능', '이동성'을 강조하는 밝고 현대적인 디자인.
+### **1컷: 훅 & 문제 제기**
 
----
-
-**카드 1/4**
 *   **텍스트:**
-    **LG 스탠바이미? NO! 🙅‍♀️**
-    **✨ 2024 가성비 끝판왕 #삼탠바이미 ✨**
-    **#움직이는스마트TV #똑똑한소비**
+    **스탠바이미 로망, 가격 때문에 포기했나요? 😥**
+    200만원대 TV는 부담스러웠던 당신을 위한 ✨ **20만원대 가성비 삼탠바이미** ✨
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A visually striking collage showing a luxurious, expensive LG StandbyME mobile TV with a big, red "X" over its price tag, juxtaposed with a modern, sleek, and affordable "SamtanbyME" mobile TV. The "SamtanbyME" has a bright, appealing price tag. The background is a clean, minimalist room with warm, inviting light. Cinematic, vibrant colors, product photography style.`
+    `A sleek, minimalist portable smart TV with a stand in a modern, cozy living room. The TV screen is slightly blurred with a sad emoji overlaid, representing high cost. Soft natural light, high-end photography, cinematic, --ar 1:1 --v 5.2 --style raw`
 
 ---
 
-**카드 2/4**
+### **2컷: 솔루션 제시 & 핵심 가치**
+
 *   **텍스트:**
-    **🔥 20만원대 32인치 #위드라이프 삼탠바이미!**
-    **✅ 구글TV로 모든 OTT OK!**
-    **✅ 자취생 필수템, 내 방의 작은 영화관!**
-    **#32인치TV #자취템 #넷플릭스TV**
+    **침실, 주방, 나만의 공간! 🎬**
+    어디든 옮겨 다니는 스마트TV!
+    **스마트 기능 + 이동성 + 가성비** 이 모든 걸 한번에!
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy, modern bedroom interior. A stylish 32-inch mobile smart TV (SamtanbyME) on a movable stand is positioned perfectly next to a comfortable bed. The TV screen displays a vibrant Netflix interface. Warm, soft lighting creates an inviting atmosphere. A person's hand is subtly visible holding a remote. Cinematic, intimate, high detail, golden hour lighting.`
+    `A joyful person easily moving a portable smart TV on a stand in a bright, modern bedroom. The TV screen shows a happy, streaming icon. Cozy home atmosphere, natural light, warm tones, high-quality photograph, --ar 1:1 --v 5.2 --style raw`
 
 ---
 
-**카드 3/4**
+### **3컷: 메인 추천 상품 1 (위드라이프)**
+
 *   **텍스트:**
-    **🎬 40인치 대화면 #위드라이프 삼탠바이미!**
-    **✅ 압도적 몰입감, 온 가족 시네마!**
-    **✅ 30만원대, 이 가격에 40인치?!**
-    **#40인치TV #거실TV #가족영화**
+    **1. 위드라이프 구글 삼탠바이미**
+    ✅ **25만원대 압도적 가성비!**
+    ✅ **구글 안드로이드 TV 탑재** (넷플릭스, 유튜브 프리패스!)
+    ✅ **32인치 & 무빙 거치대**로 어디든 완벽!
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A bright and spacious living room with a modern minimalist design. A sleek 40-inch mobile smart TV (SamtanbyME) on a stand is the focal point, displaying a vibrant movie scene. A happy family (parents and a child) is comfortably seated on a sofa, watching together with delight. Abundant natural light, clean lines, cinematic, high resolution, wide shot.`
+    `A close-up shot of a 32-inch Google Android smart TV on a stylish mobile stand in a modern, sunlit living room. The TV screen displays a Netflix interface. Emphasize sleek design and smart features. High-detail, product photography, --ar 1:1 --v 5.2 --style raw`
 
 ---
 
-**카드 4/4**
+### **4컷: 메인 추천 상품 2 (이노스) & CTA**
+
 *   **텍스트:**
-    **🤔 왜 망설여? 가성비+이동성+스마트 기능!**
-    **🤩 침실, 주방, 거실 어디든 나만의 극장!**
-    **지금 바로 '삼탠바이미' 만나보세요!**
-    **#이동식TV #스마트가전 #인생템**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic and energetic montage showing multiple scenes of people happily using a mobile smart TV (SamtanbyME) in various household settings: one person watching in bed, another following a recipe in the kitchen, a third doing yoga in the living room, and a fourth on a cozy balcony. All scenes are brightly lit and full of joy and convenience. Vibrant, modern, action-packed, seamless transitions between scenes, cinematic, ultra wide angle.`
+    **2. 이노스 FHD 삼탠바이미**
+    ✅ **믿을 수 있는 국내 브랜드!**
+    ✅ **선명한 FHD 화질**로 몰입감 최고!
+    ✅ **스마트 기능 & 뛰어난 이동 편의성!**
+    **👇 지금 바로 당신의 라이프스타일을 업그레이드하세요!** (프로필 링크 클릭!)
 
----
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A sleek portable smart TV on a sturdy mobile stand, being used in a cozy, minimalist kitchen while a person is cooking. The TV screen shows a vibrant Full HD recipe video. Emphasize functional elegance and crystal-clear display. Lifestyle photography, warm ambient lighting, --ar 1:1 --v 5.2 --style raw`
