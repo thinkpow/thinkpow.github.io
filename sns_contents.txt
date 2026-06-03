@@ -1,69 +1,82 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## ✨ 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**콘텐츠 제목:** 스탠바이미 비싸서 포기? ❌ 20만원대 삼탠바이미로 즐겨! 💰
+**제목:** 스탠바이미, 아직도 비싸게 사? 20만원대 가성비 끝판왕 삼탠바이미 등장!
 
----
-
-**[영상 시작]**
-
-**[0-3초] 훅: 시선 강탈! 문제 제기 & 해결책 제시**
-*   **화면:** (초고속 전환) 고가의 LG 스탠바이미 광고 영상 (럭셔리한 느낌) -> 가격표에 X 표시 -> 좌절하는 표정의 인물 (혹은 돈이 펑펑 나가는 효과) -> 갑자기 "20만원대" 숫자 크게 등장 + 놀란 눈 이모티콘 😮
-*   **나레이션:** "스탠바이미 갖고 싶었는데... 가격 보고 포기했어? **잠깐!**" (목소리 실망스럽게)
-*   **나레이션:** "이제 **20만원대로 '삼탠바이미'** 가능! 👀" (목소리 밝고 신나게)
-
-**[3-12초] 메인 제품 소개: 핵심 기능/디자인 + 가격 강조**
-*   **화면:** (빠르게 전환) 위드라이프 구글 삼탠바이미 32인치 제품 이미지 -> 넷플릭스, 유튜브, 게임, 웹서핑 등 다양한 앱 화면이 번갈아 재생되는 모습 -> 침실, 주방, 거실 등 다양한 공간에서 이동하며 사용하는 모습.
-*   **나레이션:** "압도적 구글 스마트TV! 넷플, 유튜브 다 되고! 어디든 끌고 다니는 **위드라이프 32인치, 25만원대!**"
-
-*   **화면:** 스카이뷰 화이트에디션 삼탠바이미 32인치 제품 이미지 -> 미니멀하고 감각적인 화이트 톤 인테리어에 자연스럽게 녹아든 모습 -> 누구나 쉽게 조립하는 모습 (간단한 애니메이션 효과)
-*   **나레이션:** "인테리어 감성파라면? 화이트 에디션 **스카이뷰 32인치! 25만원**에 쉽고 빠르게 설치 끝!"
-
-**[12-15초] 마무리 & 강력한 CTA**
-*   **화면:** 위드라이프와 스카이뷰 두 제품이 나란히 배치되어 비교되는 모습 -> "스탠바이미 가성비 끝판왕" 문구가 크게 강조되며 시선 집중!
-*   **나레이션:** "**스탠바이미 가성비 끝판왕?** 고민 말고 지금 바로 프로필 링크 확인하세요! 💨"
+**(영상 시작: 빠르고 경쾌한 비트의 BGM)**
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & 이미지 프롬프트)
+**[0-3초] 훅 (Hook): 시선 강탈!**
+*   **화면:** (놀란 표정으로 등장) 스탠바이미 비싸서 망설였다고? 놉!
+    *   `(자막)`: ❌ 스탠바이미 비싸?
+*   **화면:** (화면 전환, 저렴한 삼탠바이미 이미지 빠르게 스쳐 지나감) 20만원대로 감성, 스마트함 다 잡는 삼탠바이미가 나타났다!
+    *   `(자막)`: ✨ 20만원대 삼탠바이미!
 
-### 📍 **첫 번째 컷: 훅 & 문제 제기/해결책 제시**
+**[3-7초] 제품 1 소개 (스카이뷰 화이트에디션)**
+*   **화면:** (스카이뷰 화이트 삼탠바이미가 깔끔한 화이트 인테리어에 놓인 모습) 이거 보세요! 25만원대 '스카이뷰 화이트 삼탠바이미'!
+*   **대사:** 32인치 스마트 TV에 세련된 화이트 디자인까지! 가성비 끝판왕 인정?!
+    *   `(자막)`: 🤍 디자인+가격 다 잡았다!
+
+**[7-12초] 제품 2 소개 (위드라이프 구글 안드로이드)**
+*   **화면:** (위드라이프 구글 안드로이드 삼탠바이미로 넷플릭스나 유튜브 시청하는 모습) 여기는 구글 스마트TV 탑재! 넷플릭스, 유튜브 바로 실행!
+*   **대사:** 심지어 1등급 에너지 효율로 전기세 걱정도 끝! 완전 스마트한데?!
+    *   `(자막)`: 📺 구글 스마트TV + 1등급 효율!
+
+**[12-15초] 클로징 & CTA**
+*   **화면:** (두 제품이 나란히 놓이거나, 여러 삼탠바이미가 있는 편집 이미지) 스탠바이미 가성비! 이젠 20만원대로 똑똑하게 즐겨봐!
+*   **대사:** 더 자세한 정보는 프로필 링크에서 확인하세요! 지금 바로 겟!
+    *   `(자막)`: ✨ 지금 바로 겟! (링크 유도)
+
+---
+
+## 📸 인스타그램 카드뉴스 (4컷)
+
+---
+
+### **💡 카드뉴스 1/4: 도입 (문제 제기 & 솔루션)**
 
 *   **카드 텍스트:**
-    *   **메인:** 😱 스탠바이미 비싸서 포기했나요?
-    *   **서브:** NO! 이제 **20만원대 '삼탠바이미'**로 감성 UP!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A minimalist, modern living room with a slightly blurred, high-end LG StandbyME in the background (implying desire). In the foreground, a graphic overlay with a bold red 'X' over a high price tag and a green 'O' over a '20만원대' price. The overall mood is aspirational but turns hopeful. --ar 1:1 --v 5.2 --style raw
+    스탠바이미 갖고 싶지만… 가격이 부담되셨나요? 😥
+    ✨ 20만원대 '삼탠바이미'로 감성 & 스마트함 동시에 잡기!
+
+*   **Midjourney 프롬프트:**
+    `A stylish, modern living room. In the foreground, a slightly blurry, expensive-looking StandbyMe TV. In the midground, a thought bubble above a person's head with dollar signs flying away, expressing worry about price. In the background, a sleek, affordable, mobile smart TV (SamtanbyMe) is revealed, glowing softly, symbolizing an accessible solution. The overall mood shifts from concern to excitement and accessibility. Minimalist, clean aesthetic, soft natural light, photorealistic, 4k, cinematic --ar 1:1`
 
 ---
 
-### 📍 **두 번째 컷: 위드라이프 구글 삼탠바이미 32인치**
+### **💡 카드뉴스 2/4: 메인 상품 1 (스카이뷰 화이트에디션)**
 
 *   **카드 텍스트:**
-    *   **메인:** 👑 구글 스마트TV 끝판왕, 위드라이프 삼탠바이미
-    *   **서브:** 넷플릭스, 유튜브, 앱 설치까지 자유롭게! 32인치 대화면 이동식 TV가 **25만원대!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    A sleek, modern 32-inch portable smart TV (resembling the 위드라이프 product) displaying dynamic Google Smart TV interface with Netflix, YouTube, and Google Play Store icons. The TV is on an elegant moving stand in a cozy, bright bedroom or living room. A hand is gently pushing the TV. High-angle shot, soft natural lighting, minimalist aesthetic. --ar 1:1 --v 5.2 --style raw
+    1. 스카이뷰 화이트 에디션 🤍
+    ✅ 32인치 HD 스마트 TV + 화이트 스탠드 완벽 세트!
+    ✅ 25만원대 가격으로 '가성비 끝판왕' 등극!
+    ✅ 깔끔한 디자인으로 어떤 인테리어에도 찰떡!
+
+*   **Midjourney 프롬프트:**
+    `A stunning "Skyview White Edition SamtanbyMe" mobile smart TV, 32-inch, elegantly positioned in a sunlit, modern, minimalist white interior. The TV screen displays a vibrant, high-definition image of a serene landscape. The white mobile stand is sleek and almost blends into the decor. Emphasize clean lines, soft natural lighting, and a feeling of calm sophistication. Photorealistic, ultra detailed, 4k, cinematic --ar 1:1`
 
 ---
 
-### 📍 **세 번째 컷: 스카이뷰 화이트에디션 삼탠바이미 32인치**
+### **💡 카드뉴스 3/4: 메인 상품 2 (위드라이프 구글 안드로이드)**
 
 *   **카드 텍스트:**
-    *   **메인:** 💖 인테리어 감성 UP! 스카이뷰 화이트 에디션
-    *   **서브:** 25만원대로 즐기는 LG 스탠바이미 감성! 깔끔한 화이트 디자인이 공간을 더 빛나게!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A beautiful, modern 32-inch white portable smart TV (resembling the 스카이뷰 product) with a minimalist aesthetic, placed in a chic, all-white Scandinavian-style living room or studio apartment. Natural light streams in through a large window. The TV screen shows a calming aesthetic video. Clean lines, sophisticated, peaceful atmosphere. --ar 1:1 --v 5.2 --style raw
+    2. 위드라이프 구글 안드로이드 📺
+    ✅ 구글 스마트TV로 넷플릭스, 유튜브 무한 시청!
+    ✅ 에너지효율 1등급으로 전기요금까지 절약!
+    ✅ 안정적인 스마트 기능에 이동식 스탠드 세트!
+
+*   **Midjourney 프롬프트:**
+    `A cozy, warm-toned bedroom at dusk. The "Withlife Google Android SamtanbyMe" mobile smart TV, 32-inch, is displaying a vibrant Netflix movie scene. A hand holds a sleek remote control in the foreground. Emphasize comfort, smart entertainment, and a subtle icon indicating "Energy Efficiency 1st Grade" seamlessly integrated into the design. Soft ambient lighting, inviting atmosphere, photorealistic, 4k, cinematic --ar 1:1`
 
 ---
 
-### 📍 **네 번째 컷: 마무리 & 강력한 CTA**
+### **💡 카드뉴스 4/4: 클로징 (요약 & CTA)**
 
 *   **카드 텍스트:**
-    *   **메인:** 💸 스탠바이미 가성비 끝판왕, 지금 바로 만나보세요!
-    *   **서브:** 👉 프로필 링크 클릭하고 꿀템 정보 얻어가세요!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A vibrant, impactful split image. On one side, a blurred high-end StandbyME. On the other side, two distinct, elegant portable smart TVs (like the 위드라이프 and 스카이뷰) side-by-side, radiating exceptional value. A subtle graphic overlay of shining golden coins or a "best deal" badge. Bold, eye-catching text overlay in a modern font. Bright and inviting. --ar 1:1 --v 5.2 --style raw
+    스탠바이미, 이제 20만원대로 똑똑하게 즐겨봐! 💖
+    ✨ 더 많은 정보는 프로필 링크에서 확인하세요!
 
----
+*   **Midjourney 프롬프트:**
+    `A dynamic collage showcasing various stylish home scenes (a cozy living room, a modern bedroom, a minimalist kitchen corner) each featuring a different, affordable "SamtanbyMe" mobile smart TV. People in each scene are happily interacting with their TV (watching movies, listening to music, doing yoga with screen instructions). Overlay text "Smart TV, now for 200,000 KRW!" and "Check profile link for more info!". Bright, inviting, and energetic mood. Photorealistic, high-contrast, vibrant colors, 4k, cinematic --ar 1:1`
