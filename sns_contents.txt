@@ -1,41 +1,64 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 💸 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-(배경음악: 통통 튀고 신나는 비트)
-
-**[0-3초] 훅: (화면 전환 효과, 빠르게 텍스트 등장)**
-*   **자막:** 스탠바이미? NO! ❌
-*   **대사:** 스탠바이미 갖고 싶어서 돈 모으는 중? 잠.깐.만!
-
-**[3-7초] 문제 제기 & 솔루션 도입:**
-*   **자막:** 1/3 가격에 스탠바이미 뺨치는 기능?
-*   **대사:** 100만원 넘는 스탠바이미, 이제 1/3 가격으로 즐겨봐! 일명 '삼탠바이미'가 나타났다!
-
-**[7-12초] 핵심 기능 어필 & 상품 소개:**
-*   **자막:** 구글 스마트TV OS, 32인치 대화면, 이동성까지!
-*   **대사:** 넷플릭스, 유튜브 다~ 되는 구글 스마트TV OS에 32인치 대화면, 자유로운 이동성까지 완벽 재현! 특히 '위드라이프'랑 '메가TV'는 20만원대로 가성비 끝판왕이야!
-
-**[12-15초] 추가 팁 & CTA:**
-*   **자막:** 진짜 가성비 끝판왕! (+ 냥이템은 덤!)
-*   **대사:** 심지어 우리 냥이도 좋아하는 가성비템은 덤! 자세한 정보는 댓글 링크 확인해봐!
+**콘텐츠 제목:** 스탠바이미, 비싸다고 포기?! 댓츠 노노! 갓성비 삼탠바이미 BEST템 대공개! ✨
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[영상 구성]**
 
-### 1컷
-*   **텍스트:** 스탠바이미, 갖고 싶지만... 너무 비싸죠? ㅠㅠ
-*   **Midjourney 프롬프트:** `A young person looking at a luxurious, high-tech portable smart TV with a wistful expression, holding a nearly empty wallet. The background is a modern, cozy living room. Soft, diffused lighting, realistic photography style, high detail, --ar 1:1`
+*   **등장인물:** 텐션 높은 숏폼 크리에이터 (1인)
+*   **배경:** 깔끔한 방 or 심플한 스튜디오
+*   **영상 스타일:** 빠르고 경쾌한 편집, 텍스트 자막 적극 활용 (핵심 키워드 강조)
 
-### 2컷
-*   **텍스트:** 스탠바이미 1/3 가격! '삼탠바이미'가 답이다! 💯
-*   **Midjourney 프롬프트:** `A person happily watching a modern, sleek portable smart TV (similar to StandbyME but not branded) on a movable stand. The TV screen shows a streaming service logo (e.g., a generic play button). The person is smiling in a bright, minimalist apartment, showcasing freedom and flexibility. Vibrant, clean aesthetic, photography, high resolution, --ar 1:1`
+---
 
-### 3컷
-*   **텍스트:** 구글 스마트TV OS & 32인치 대화면 & 이동성까지! (핵심 2종)
-*   **Midjourney 프롬프트:** `A dynamic split image or collage: On one side, a close-up of a 32-inch smart TV screen clearly displaying the Google TV OS interface with various app icons (Netflix, YouTube, Disney+). On the other side, a hand effortlessly pushing a portable smart TV on a stand across a polished floor. Modern, technological, clean lines, detailed UI, studio photography, --ar 1:1`
+**[스크립트]**
 
-### 4컷
-*   **텍스트:** ✨20만원대부터! ✨ 우리 냥이도 좋아할 가성비 템은 덤! 😻
-*   **Midjourney 프롬프트:** `A sleek product display featuring two different affordable portable smart TVs (similar to StandbyME) side-by-side, with clear text indicating "Starting from 200,000 KRW". In a playful corner or foreground, a cute catnip toy shaped like an animal paw or leg. Bright, clean studio photography with soft shadows and vibrant highlights, high resolution, --ar 1:1`
+**(0-3초: ⚡️ 시선 강탈 훅!)**
+*   **크리에이터:** (얼굴 클로즈업, 비장한 표정으로 폰 화면 내밀며) "스탠바이미, 갖고 싶냐고? 근데 이 가격 실화?!" (화면에 'LG 스탠바이미' 가격 크게 띄우기)
+*   **(자막: 💸헉! 이게 얼마야?!)**
+*   **크리에이터:** (눈 커지며) "내 지갑은 이미 사망... 으아아악!" (뒤로 넘어가는 모션)
+
+**(3-8초: 💡 문제 해결 제시 - 초가성비템!)**
+*   **크리에이터:** (벌떡 일어나며 비장하게) "댓츠 노노! 걱정 마! 10년차 MD가 찾아낸 '삼탠바이미 갓성비템' 공개!" (엄지 척!)
+*   **크리에이터:** (폰 화면 보여주며) "이건 무려 **10만원대!** '프리토스 삼탠바이미'!" (상품 이미지와 가격 자막)
+*   **(자막: 💥10만원대 삼탠바이미?!)**
+*   **크리에이터:** "기본에 충실! 미러링 동글이면 스마트 기능도 문제없어!" (고개 끄덕)
+
+**(8-13초: 🚀 업그레이드 가성비템!)**
+*   **크리에이터:** (다른 폰 화면 보여주며) "스마트 기능이 필수라면? **20만원대!** '위드라이프 구글 32인치'!" (상품 이미지와 가격 자막)
+*   **(자막: ✨스마트TV가 20만원대!)**
+*   **크리에이터:** "넷플릭스, 유튜브 바로 직행! 이거면 방구석 시네마 끝!" (팝콘 먹는 시늉)
+
+**(13-15초: 🤣 반전 + 강력한 CTA!)**
+*   **크리에이터:** (갑자기 고양이 인형 들고 와서) "아, 그리고... 고양이 집사님들 위한 4천원대 가성비 캣닢 인형도 있어요? ㅋㅋㅋㅋㅋ" (고양이 인형 흔들며 웃음)
+*   **(자막: 😼엥? 이건 또 뭐야?!)**
+*   **크리에이터:** (화면에 손가락으로 '프로필 링크' 가리키며) "내 지갑 사수! 더 많은 삼탠바이미 정보는 프로필 링크에서 확인하라고!" (윙크)
+*   **(자막: ➡️ 프로필 링크 클릭! 지금 바로 확인! #삼탠바이미 #가성비TV)**
+
+---
+
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 + Midjourney 프롬프트)
+
+---
+
+### **[카드뉴스 1컷]**
+*   **카드 텍스트:** "스탠바이미 갖고 싶지? 근데... 가격 무엇? 💸"
+*   **Midjourney 프롬프트:** `A young person looking longingly at a sleek, modern, expensive mobile smart TV in a beautifully minimalist room, but then looking sadly at an empty wallet. The atmosphere is a mix of desire and financial stress. Cinematic, soft natural light, high detail. --ar 1:1 --v 5.2`
+
+### **[카드뉴스 2컷]**
+*   **카드 텍스트:** "MD 추천! 10만원대 초가성비 삼탠바이미 등장! 💥"
+    *   **서브 텍스트:** "프리토스 삼탠바이미 - 기본에 충실, 미러링으로 스마트 기능 OK!"
+*   **Midjourney 프롬프트:** `A stylish, modern living space with a comfortable couch. A person is happily watching a TV on a simple, elegant mobile stand. A small, vibrant "100K KRW" price tag is subtly visible near the TV. Focus on affordability and functionality. Bright, clean aesthetic, high detail, vibrant. --ar 1:1 --v 5.2`
+
+### **[카드뉴스 3컷]**
+*   **카드 텍스트:** "스마트 기능 필수? 20만원대 위드라이프 구글 32인치!"
+    *   **서브 텍스트:** "넷플릭스, 유튜브 바로! 침대 옆 내 방 시네마 완성!"
+*   **Midjourney 프롬프트:** `A cozy bedroom scene. A person is relaxed in bed, watching Netflix on a 32-inch Google Smart TV mounted on a sleek, white mobile stand. The screen shows a streaming service interface. Soft, warm lighting, comfortable atmosphere, modern design. --ar 1:1 --v 5.2`
+
+### **[카드뉴스 4컷]**
+*   **카드 텍스트:** "내 지갑 사수! 더 많은 '삼탠바이미'는 블로그에서 확인! ➡️"
+    *   **서브 텍스트:** "(Feat. 고양이 집사님들을 위한 4천원대 가성비템도?) 😼"
+*   **Midjourney 프롬프트:** `A collage or dynamic shot of several different mobile TVs (SamTanbyMe style) in various modern home settings (living room, kitchen, bedroom). In the foreground, a person points enthusiastically towards a smartphone showing a blog post. Subtly, a cute, playful cat toy peeks out from the corner. Energetic, vibrant, high detail, shopping guide vibe. --ar 1:1 --v 5.2`
