@@ -1,61 +1,78 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발 15초 숏폼 스크립트
+## 🚀 도파민 폭발! 15초 숏폼 스크립트
 
-### 💥 **유튜브 쇼츠/틱톡 스크립트 (15초)**
+**제목:** 스탠바이미 비싸서 포기? 💔 반값에 로망 실현!
 
-**영상 컨셉:** 스탠바이미의 높은 가격에 좌절하는 모습 → 저렴하고 스마트한 '삼탠바이미' 등장으로 삶의 질 UP!
-
-**[시선 강탈 훅: 0-3초]**
-*   **화면:** 고급스러운 스탠바이미 이미지에 비싼 가격표(예: 100만원 이상)가 크게 오버랩되고 '❌' 표시가 쾅 찍힌다. 동시에 침대/소파에 누워 휴대폰으로 작은 화면을 보는 사람의 답답한 표정.
-*   **내레이션 (빠르고 경쾌하게):** "스탠바이미 갖고 싶었는데… 가격 보고 기절할 뻔?!" (효과음: '띠용!', '헉!')
-
-**[본문: 3-12초]**
-*   **화면:** 답답해하던 사람이 갑자기 눈을 번쩍 뜨고, 화면이 전환되며 세련된 '프리토스 구글 스마트 삼탠바이미'가 등장. 화면에 '23만원대부터!' 자막이 크게 뜬다. 이후 '스카이뷰 화이트 삼탠바이미'가 깔끔한 인테리어에 자연스럽게 녹아든 모습이 교차 편집된다.
-*   **내레이션:** "이젠 눈물 닦아! 10년 차 MD가 찾아낸 가성비 끝판왕 '삼.탠.바.이.미'!"
-*   **화면:** 삼탠바이미 화면에 넷플릭스, 유튜브 아이콘이 선명하게 보이고, 리모컨으로 스무스하게 조작하는 손. 거실, 침실, 주방으로 삼탠바이미가 부드럽게 이동하는 모습.
-*   **내레이션:** "구글 스마트TV OS 기본 탑재! 넷플릭스, 유튜브? 셋톱박스 없이 바로 즐겨요! 침대 옆, 주방 어디든 OK!"
-
-**[클로징 & CTA: 12-15초]**
-*   **화면:** 두 제품(블랙/화이트)이 나란히 놓여 세련된 인테리어 완성하는 모습. '20만원대부터!' 최종 가격 강조. 화면 하단에 "프로필 링크 CLICK!" 자막과 함께 구매 유도 화살표.
-*   **내레이션:** "디자인까지 완벽한 스마트 이동식 TV가 20만원대부터?! 이건 그냥 사야 해! 지금 바로 프로필 링크 확인하세요! 겟겟!" (배경음악: 도파민 폭발하는 신나는 음악)
+**(시간: 15초)**
 
 ---
 
-## 인스타그램 카드뉴스 (4컷)
+**[0-3초] 훅 (Hook):**
+*   **화면:** 슬픈 표정으로 스탠바이미(혹은 비싼 TV) 사진을 응시하다가, 갑자기 눈이 번쩍 뜨이며 놀라는 표정 (강렬한 사운드 이펙트: '띵!' 또는 '띠용!')
+*   **대사:** "스탠바이미.. 비싸서 포기했어? 헉! 😱 이제 그만! '이것'만 알면 돼!"
 
-### 📸 **인스타그램 카드뉴스 4컷**
+**[3-7초] 문제 제기 & 솔루션 소개:**
+*   **화면:** 거실-방-주방으로 이동하며 유연하게 움직이는 삼탠바이미의 연출 (빠른 컷 전환, 만족스러운 표정)
+*   **대사:** "거실, 방, 주방 어디든 옮겨 다니는 나만의 스마트TV 로망! 💸 비싼 스탠바이미 대신 '삼탠바이미'로 반값에 즐겨봐!"
 
-**[1/4컷]**
+**[7-12초] 메인 상품 압축 소개:**
+*   **화면:**
+    *   '스카이뷰 32인치'의 깔끔한 화이트 디자인과 화면 (텍스트 오버레이: 압도적 가성비 1위! 25만원대!)
+    *   '메가TV 32인치'의 구글TV OS 화면과 다양한 앱 구동 모습 (텍스트 오버레이: 구글TV OS 탑재! 27만원대!)
+*   **대사:** "✨압도적 가성비 '스카이뷰 32인치' 20만원대! 깔끔한 화이트 인테리어 끝판왕! 📺 아니면 구글OS 탑재, '메가TV 32인치'로 똑똑하게!"
+
+**[12-15초] 클로징 & CTA:**
+*   **화면:** 두 제품이 나란히 놓여있거나, 사용자가 행복하게 삼탠바이미를 사용하는 모습.
+*   **대사:** "내 라이프스타일에 딱 맞는 삼탠바이미, 지금 프로필 링크에서 만나봐! 😉"
+
+---
+
+## 📸 인스타그램 카드뉴스 (4컷)
+
+---
+
+### **[카드뉴스 1컷]**
 *   **카드 텍스트:**
-    ## 🚨 스탠바이미 비싸서 망설였다면? 🚨
-    **헉! 소리 나는 가격에 포기 NO!**
-    (아직도 비싼 돈 주고 살까 고민 중이니?)
-*   **배경 이미지 Midjourney 프롬프트:**
-    "A frustrated person looking at a ridiculously high price tag for a stylish portable smart TV, with a thought bubble above their head showing a sad face and a shrinking wallet. Modern minimalist living room, dramatic lighting, vibrant colors, 8k, cinematic, high detail, photorealistic, --ar 1:1 --style raw"
+    스탠바이미 로망? 💔
+    비싼 가격에 포기NO!
+    ✨ '이것' 알면 반값에 스마트TV GET!
+*   **Midjourney 프롬프트:**
+    A vibrant and modern living space. In the background, a luxurious, slightly out-of-focus LG StandbyMe TV stands, symbolizing an expensive dream. In the foreground, a sleek, affordable "SamtenbyMe" (a 32-inch smart TV on a stylish mobile stand) is prominently displayed, glowing brightly. The scene is well-lit with soft, inviting lighting. Minimalist design, high detail, photorealistic. --ar 1:1 --v 5.2
 
-**[2/4컷]**
-*   **카드 텍스트:**
-    ## 🌟 가성비 '삼탠바이미'로 로망 실현! 🌟
-    **이동식 스마트TV, 이제 20만원대부터!**
-    (구글 OS, 넷플릭스, 유튜브 다 됨!)
-*   **배경 이미지 Midjourney 프롬프트:**
-    "A sleek, minimalist portable smart TV (resembling a stylish moving smart TV) showing the Netflix logo on its screen. A happy, smiling person is easily pushing it from a cozy bedroom to a bright, modern kitchen. Seamless transition, joyful atmosphere, vibrant colors, soft natural light, 8k, cinematic, high detail, photorealistic, --ar 1:1 --style raw"
+---
 
-**[3/4컷]**
+### **[카드뉴스 2컷]**
 *   **카드 텍스트:**
-    ## 🖤 압도적 가성비! 프리토스 삼탠바이미 🖤
-    **✔️ 구글 스마트TV OS 탑재**
-    **✔️ 23만 5천원! 최저가 스마트TV!**
-    (블랙 & 화이트 옵션으로 인테리어 완성)
-*   **배경 이미지 Midjourney 프롬프트:**
-    "A close-up product shot of a sleek black portable smart TV (Freethos style) on a minimalist stand. The screen displays the Google TV interface with Netflix and YouTube icons. The TV is positioned in a modern, stylish living room with clean lines. Product photography, elegant lighting, shallow depth of field, 8k, high detail, photorealistic, --ar 1:1 --style raw"
+    압도적 가성비 1위! 💰
+    **스카이뷰 화이트 32인치**
+    (25만원대)
+    ✔ 깔끔한 화이트 디자인
+    ✔ 스마트 기능 기본 탑재
+*   **Midjourney 프롬프트:**
+    A bright, clean, minimalist bedroom bathed in natural light. A pristine white 32-inch smart TV on a matching, elegant mobile stand is positioned next to a cozy bed with crisp white linens. The TV screen displays a vibrant streaming service interface. Focus on the sleek design and integrated smart features. Scandinavian interior style, high detail, photorealistic. --ar 1:1 --v 5.2
 
-**[4/4컷]**
+---
+
+### **[카드뉴스 3컷]**
 *   **카드 텍스트:**
-    ## 🤍 화사한 인테리어! 스카이뷰 화이트 에디션 🤍
-    **✔️ HD 스마트 이동식 TV**
-    **✔️ 25만원! 고급스러운 화이트 디자인!**
-    (어디든 찰떡! 감성 인테리어 완성)
-*   **배경 이미지 Midjourney 프롬프트:**
-    "A stylish white portable smart TV (Skyview style) on an elegant stand, placed in a bright, Scandinavian-inspired bedroom. The screen shows a vibrant movie scene. Soft, warm natural light fills the room from a large window. Clean, minimalist aesthetic, product photography, 8k, high detail, photorealistic, --ar 1:1 --style raw"
+    구글TV OS 탑재! 🧠
+    **메가TV 32인치**
+    (27만원대)
+    ✔ 넷플릭스, 유튜브 바로!
+    ✔ 편리한 구글 어시스턴트
+*   **Midjourney 프롬프트:**
+    A modern, comfortable living room with a plush sofa. A 32-inch smart TV on a sturdy mobile stand prominently displays the Google TV operating system interface, showing various app icons like Netflix and YouTube. A hand is holding a remote control, subtly indicating smart functionality. Warm, inviting colors and soft lighting. Cinematic, high detail, photorealistic. --ar 1:1 --v 5.2
+
+---
+
+### **[카드뉴스 4컷]**
+*   **카드 텍스트:**
+    방, 거실, 주방 어디든! 🏃‍♀️
+    내 라이프스타일에 딱!
+    지금 바로 스마트 라이프 업그레이드!
+    🔗 **프로필 링크 확인!**
+*   **Midjourney 프롬프트:**
+    A dynamic collage or sequence of three scenes: a person happily watching content on a portable smart TV in a cozy bedroom, then easily moving it to a bright kitchen counter, and finally enjoying it on a stylish balcony. The TV remains the focal point, emphasizing its mobility and versatility across different modern living spaces. The person is smiling and engaged. Bright, energetic, lifestyle-focused. High detail, photorealistic. --ar 1:1 --v 5.2
+
+---
