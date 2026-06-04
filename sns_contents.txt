@@ -1,78 +1,76 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**제목:** 스탠바이미 비싸서 포기? 💔 반값에 로망 실현!
+**[영상 컨셉]**
+스탠바이미를 갖고 싶지만 가격 때문에 고민하는 모습 ➡️ 가성비 '삼탠바이미'를 발견하고 환호하는 모습 ➡️ 제품의 핵심 기능을 짧고 빠르게 보여주며 다이내믹하게 전환
 
-**(시간: 15초)**
+**[등장인물]**
+*   **나레이터/크리에이터:** 20대 후반~30대 초반의 트렌디하고 활기찬 인물 (1인 진행)
 
 ---
 
-**[0-3초] 훅 (Hook):**
-*   **화면:** 슬픈 표정으로 스탠바이미(혹은 비싼 TV) 사진을 응시하다가, 갑자기 눈이 번쩍 뜨이며 놀라는 표정 (강렬한 사운드 이펙트: '띵!' 또는 '띠용!')
-*   **대사:** "스탠바이미.. 비싸서 포기했어? 헉! 😱 이제 그만! '이것'만 알면 돼!"
+**[스크립트]**
 
-**[3-7초] 문제 제기 & 솔루션 소개:**
-*   **화면:** 거실-방-주방으로 이동하며 유연하게 움직이는 삼탠바이미의 연출 (빠른 컷 전환, 만족스러운 표정)
-*   **대사:** "거실, 방, 주방 어디든 옮겨 다니는 나만의 스마트TV 로망! 💸 비싼 스탠바이미 대신 '삼탠바이미'로 반값에 즐겨봐!"
+**(0-3초) 훅: 문제점 제기 & 해결책 제시 (빠른 전환)**
+*   **크리에이터 (고민하는 표정으로):** "스탠바이미 사고 싶어서 통장 텅장 됐다고? 😱"
+*   **(화면 전환: 갑자기 밝고 신나는 표정으로 제품을 가리키며)** "이제 20만원대로 스마트하게 즐겨! 바로 '삼탠바이미'!"
 
-**[7-12초] 메인 상품 압축 소개:**
-*   **화면:**
-    *   '스카이뷰 32인치'의 깔끔한 화이트 디자인과 화면 (텍스트 오버레이: 압도적 가성비 1위! 25만원대!)
-    *   '메가TV 32인치'의 구글TV OS 화면과 다양한 앱 구동 모습 (텍스트 오버레이: 구글TV OS 탑재! 27만원대!)
-*   **대사:** "✨압도적 가성비 '스카이뷰 32인치' 20만원대! 깔끔한 화이트 인테리어 끝판왕! 📺 아니면 구글OS 탑재, '메가TV 32인치'로 똑똑하게!"
+**(3-12초) 핵심 장점 소개 (템포 빠르게, 강조하는 목소리)**
+*   **크리에이터:** "봐봐! 위드라이프 32인치! 넷플릭스, 유튜브? 기본 탑재! 구글 스마트TV라 앱도 무한 확장! 게다가 에너지 1등급이야! 대박이지?"
+*   **(화면 전환: 다른 제품을 가리키며)** "메가TV 32인치도 대박! 튼튼한 이동식 스탠드가 기본! 침실? 주방? 서재? 어디든 나만의 극장 탄생!"
 
-**[12-15초] 클로징 & CTA:**
-*   **화면:** 두 제품이 나란히 놓여있거나, 사용자가 행복하게 삼탠바이미를 사용하는 모습.
-*   **대사:** "내 라이프스타일에 딱 맞는 삼탠바이미, 지금 프로필 링크에서 만나봐! 😉"
+**(12-15초) 강력한 클로징 & CTA (활기차고 설득력 있게)**
+*   **크리에이터:** "고민은 배송만 늦출 뿐! 더 이상 비싼 스탠바이미 때문에 울지 마! 댓글 링크에서 가성비 끝판왕 삼탠바이미 만나봐! ✨"
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
----
-
-### **[카드뉴스 1컷]**
-*   **카드 텍스트:**
-    스탠바이미 로망? 💔
-    비싼 가격에 포기NO!
-    ✨ '이것' 알면 반값에 스마트TV GET!
-*   **Midjourney 프롬프트:**
-    A vibrant and modern living space. In the background, a luxurious, slightly out-of-focus LG StandbyMe TV stands, symbolizing an expensive dream. In the foreground, a sleek, affordable "SamtenbyMe" (a 32-inch smart TV on a stylish mobile stand) is prominently displayed, glowing brightly. The scene is well-lit with soft, inviting lighting. Minimalist design, high detail, photorealistic. --ar 1:1 --v 5.2
+**[공통 컨셉]**
+모던하고 깔끔한 디자인, 핵심 메시지 명확화, 시각적으로 매력적인 제품 활용 컷
 
 ---
 
-### **[카드뉴스 2컷]**
-*   **카드 텍스트:**
-    압도적 가성비 1위! 💰
-    **스카이뷰 화이트 32인치**
-    (25만원대)
-    ✔ 깔끔한 화이트 디자인
-    ✔ 스마트 기능 기본 탑재
-*   **Midjourney 프롬프트:**
-    A bright, clean, minimalist bedroom bathed in natural light. A pristine white 32-inch smart TV on a matching, elegant mobile stand is positioned next to a cozy bed with crisp white linens. The TV screen displays a vibrant streaming service interface. Focus on the sleek design and integrated smart features. Scandinavian interior style, high detail, photorealistic. --ar 1:1 --v 5.2
+### **✔️ 1컷: 도입 (문제 제기 & 솔루션)**
+
+*   **텍스트:**
+    스탠바이미 사고 싶어서 망설였다면? 😔
+    '삼탠바이미'로 가성비+스마트함 다 잡아!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A dynamic, bright image showing a person looking wistfully at a high-end, sleek portable smart TV (like StandbyMe) on one side, and on the other, a person smiling confidently next to a more affordable, yet stylish mobile smart TV (Samtenbymi style). The background is a modern, minimalist living space, hinting at both luxury and accessibility. Emphasize "cost-effective" and "smart alternative" with a subtle glow around the affordable option. --ar 1:1 --v 5.2 --style raw
 
 ---
 
-### **[카드뉴스 3컷]**
-*   **카드 텍스트:**
-    구글TV OS 탑재! 🧠
-    **메가TV 32인치**
-    (27만원대)
-    ✔ 넷플릭스, 유튜브 바로!
-    ✔ 편리한 구글 어시스턴트
-*   **Midjourney 프롬프트:**
-    A modern, comfortable living room with a plush sofa. A 32-inch smart TV on a sturdy mobile stand prominently displays the Google TV operating system interface, showing various app icons like Netflix and YouTube. A hand is holding a remote control, subtly indicating smart functionality. Warm, inviting colors and soft lighting. Cinematic, high detail, photorealistic. --ar 1:1 --v 5.2
+### **✔️ 2컷: 메인 상품 1 (위드라이프)**
+
+*   **텍스트:**
+    📺 위드라이프 32인치 삼탠바이미
+    ✔️ 20만원대에 이 모든 걸?!
+    ✔️ 구글 스마트TV 탑재 (넷플릭스, 유튜브)
+    ✔️ 1등급 에너지 효율까지!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A close-up, vibrant shot of the 'Withlife' 32-inch Google Smart Samtenbymi in a cozy, modern bedroom. The screen displays a popular streaming service (Netflix or YouTube logo visible). Focus on the sleek design of the TV and its display quality, with a warm, inviting ambiance. Emphasize smart features and affordability. --ar 1:1 --v 5.2 --style raw
 
 ---
 
-### **[카드뉴스 4컷]**
-*   **카드 텍스트:**
-    방, 거실, 주방 어디든! 🏃‍♀️
-    내 라이프스타일에 딱!
-    지금 바로 스마트 라이프 업그레이드!
-    🔗 **프로필 링크 확인!**
-*   **Midjourney 프롬프트:**
-    A dynamic collage or sequence of three scenes: a person happily watching content on a portable smart TV in a cozy bedroom, then easily moving it to a bright kitchen counter, and finally enjoying it on a stylish balcony. The TV remains the focal point, emphasizing its mobility and versatility across different modern living spaces. The person is smiling and engaged. Bright, energetic, lifestyle-focused. High detail, photorealistic. --ar 1:1 --v 5.2
+### **✔️ 3컷: 메인 상품 2 (메가TV)**
+
+*   **텍스트:**
+    🚀 메가TV 32인치 삼탠바이미
+    ✔️ 튼튼한 이동식 스탠드 기본!
+    ✔️ 침실, 주방, 어디든 나만의 무비룸 완성!
+    ✔️ '중소바이미세트'로 완벽한 구성!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A stylish shot of the 'MegaTV' 32-inch Google Smart Samtenbymi on a mobile stand, being smoothly moved from a bright, modern kitchen where it shows a recipe, to a chic living room where it displays a movie. Show a sense of seamless motion and versatility in different home environments. Focus on its robust mobility. --ar 1:1 --v 5.2 --style raw
 
 ---
+
+### **✔️ 4컷: 클로징 (최종 설득 & CTA)**
+
+*   **텍스트:**
+    ✨ 비싼 스탠바이미 이제 그만!
+    20만원대 삼탠바이미로 현명한 OTT 라이프 시작하세요!
+    (링크는 프로필에 있어요! 👆)
+*   **Midjourney 스타일 영문 프롬프트:**
+    A bright, aspirational image of a happy, relaxed person enjoying their mobile smart TV in a comfortable, modern setting, perhaps on a balcony with a city view or a cozy reading nook. The person is smiling, emphasizing freedom, affordability, and smart entertainment. A subtle 'deal' or 'best value' icon could be visually integrated. Soft, warm lighting. --ar 1:1 --v 5.2 --style raw
