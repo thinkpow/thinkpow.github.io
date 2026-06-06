@@ -1,65 +1,85 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 쇼츠/틱톡 스크립트 (가성비 삼탠바이미)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**(음악: 밝고 경쾌하며 속도감 있는 배경음악, 훅에서 '도파민 폭발' 사운드 효과 살짝 강조)**
-
-*   **[0-3초] 훅! (시선 강탈!)**
-    *   **화면:** LG 스탠바이미 가격표 줌인 (300만원대 가격 크게! 🤯) → "비싸서 포기했어?" 텍스트 크게 오버랩. → 곧바로 화면 전환, 위드라이프/프리토스 삼탠바이미가 멋진 공간에 있는 모습 (해방감 가득!)
-    *   **내레이션 (흥분된 목소리):** "LG 스탠바이미! 비싸서 포기? 🙅‍♀️ 이제 그만! **도파민 폭발!** 이거 하나면 끝!"
-*   **[3-7초] 위드라이프 기능 소개**
-    *   **화면:** 위드라이프 삼탠바이미 (블랙)가 침실에서 넷플릭스 재생 → 거실로 스르륵 이동하며 운동 영상 재생. (Seamless transition)
-    *   **내레이션:** "구글 스마트TV 기본 탑재! 넷플릭스, 유튜브 다 내꺼! 침실, 거실, 주방 어디든? 싹~ 다 가능!"
-*   **[7-11초] 프리토스 기능 & 가성비 비교**
-    *   **화면:** 프리토스 삼탠바이미 (화이트)가 깔끔한 인테리어에 놓인 모습 (화이트 디자인 강조) → 두 제품 나란히 놓고 가격 비교 텍스트 (위드라이프 25만원대 / 프리토스 23만원대) 크게 노출.
-    *   **내레이션:** "위드라이프는 25만원대! 프리토스 화이트는 단돈 23만원대! 디자인, 기능 다 잡은 미친 가성비!"
-*   **[11-15초] 클로징 & CTA**
-    *   **화면:** 두 제품 함께 클로즈업 & 사용자가 만족스럽게 사용하는 모습 → "최저가 링크는 댓글/프로필 확인!" 텍스트 오버레이 & QR 코드 또는 링크 아이콘.
-    *   **내레이션:** "이 가격에 스마트 이동식TV? 당장 보러 가야지! 🏃‍♀️💨"
-    *   **(음악 페이드아웃 & 마지막 효과음)**
+**영상 제목:** 스탠바이미 비싸서 못 샀지? ⚡️ 20만원대로 스마트 이동식 TV 겟!
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (Midjourney 프롬프트 포함)
+**(0-3초) 훅: ⚡️ 시선 강탈! 멈칫하게 만드는 순간**
+*   **화면:** 비싼 LG 스탠바이미 가격표가 화면 가득! ➡️ (효과음: 💸 돈 나가는 소리, 😬 한숨) ➡️ 좌절하는 사람 얼굴 확대 ➡️ "스탠바이미? 너무 비싸서 못 샀다고?" 텍스트 오버레이
+*   **나레이션 (빠르고 강렬하게):** "비싼 스탠바이미 때문에 포기했어? 놉! 이제 '이걸로' 인생템 겟!"
+*   **(효과음: 뿅! 하는 전환음 + 밝은 배경음악 시작)**
 
-### 1. 첫 번째 카드: 훅 & 문제 제기
+**(3-8초) 가성비 甲 스마트TV 등장!**
+*   **화면:** 침실에서 위드라이프 32인치 삼탠바이미로 넷플릭스 보는 장면 전환 (화면에 제품 가격 253,000원 크게 오버레이)
+*   **나레이션:** "32인치 대화면+구글 스마트TV가 20만원대? 🤯 위드라이프 삼탠바이미 하나면 침실이 바로 영화관!"
+*   **(화면: 넷플릭스, 유튜브 로고 빠르게 지나감)**
 
-*   **카드 텍스트:**
-    *   **헤드라인:** "LG 스탠바이미, 꿈만 꾸세요? 💸"
-    *   **본문:** "이젠 현실이 된다! **가성비 삼탠바이미**로 스마트 라이프 시작!"
-*   **Midjourney 프롬프트:**
-    `A split image. Left side: A person looking disappointed at a blurry, expensive price tag of a high-end portable TV. The background is a luxurious but distant living room. Right side: A person smiling brightly, comfortably using a sleek, modern, affordable portable smart TV (SamtanbyMe style) in a cozy, minimalist home. Vibrant, realistic photo, cinematic lighting, high contrast. --ar 1:1 --v 5.2`
+**(8-13초) 초특급 가성비 이동식 TV!**
+*   **화면:** 주방에서 프리토스 TV로 유튜브 레시피 보거나, 가볍게 옮기는 모습 (화면에 제품 가격 161,000원 크게 오버레이)
+*   **나레이션:** "난 딱 이동식만 원한다면? 10만원대 프리토스! 동글만 끼우면 스마트TV 완벽 변신! 초경량이라 혼자서도 쌉가능!"
+*   **(화면: 스마트 동글 이미지 작게 오버레이)**
 
-### 2. 두 번째 카드: 위드라이프 삼탠바이미 소개
+**(13-15초) 마무리 & 강력한 CTA**
+*   **화면:** 두 제품 (위드라이프, 프리토스)이 나란히 비교되는 모습 또는 다양한 사람들이 편리하게 사용하는 모습
+*   **나레이션:** "이제 고민 끝! 당신의 라이프를 업그레이드할 인생템! 지금 바로 프로필 링크에서 만나봐!"
+*   **(텍스트 오버레이: "💥 프로필 링크 클릭! 💥")**
+*   **(효과음: 휘리릭! 찡!)**
 
-*   **카드 텍스트:**
-    *   **헤드라인:** "✨ 압도적 스마트함! 위드라이프 32인치 구글 스마트 삼탠바이미"
-    *   **본문:**
-        *   "✅ 구글 스마트TV 기본 탑재 (넷플릭스, 유튜브 바로! 📺)"
-        *   "✅ 침실, 거실, 주방 어디든! 자유로운 이동성 🏠"
-        *   "✅ 1등급 안드로이드TV 인증, 25만원대 가성비 끝판왕!"
-*   **Midjourney 프롬프트:**
-    `A cozy and modern bedroom. A person is comfortably lying on the bed, happily watching Netflix on a sleek 32-inch black portable smart TV (SamtanbyMe style) on a minimalist moving stand. The room has soft, warm lighting and a clean aesthetic. High-quality, realistic photo, natural light. --ar 1:1 --v 5.2`
+---
 
-### 3. 세 번째 카드: 프리토스 삼탠바이미 소개
+## 2. 인스타그램 카드뉴스 4컷
 
-*   **카드 텍스트:**
-    *   **헤드라인:** "🤍 화이트 감성 저격! 프리토스 32인치 구글 스마트 삼탠바이미"
-    *   **본문:**
-        *   "✅ 위드라이프 기능 그대로, 더 저렴한 23만원대! 💰"
-        *   "✅ 깔끔한 화이트 디자인으로 인테리어 완성 ✨"
-        *   "✅ 이동식 스탠드로 나만의 영화관, 작업 공간! 🎬"
-*   **Midjourney 프롬프트:**
-    `A bright and aesthetically pleasing living room with abundant natural light. A person is doing yoga or cooking while looking at a sleek 32-inch white portable smart TV (SamtanbyMe style) on a minimalist white moving stand. The interior design is clean and modern. High-quality, realistic photo, focus on the TV and its environment. --ar 1:1 --v 5.2`
+**콘텐츠 주제:** 스탠바이미 가성비 끝판왕! 후회 없는 이동식 스마트TV 꿀템 비교!
 
-### 4. 네 번째 카드: 총정리 & CTA
+---
+
+**[1/4컷] - 훅 & 문제 제기**
 
 *   **카드 텍스트:**
-    *   **헤드라인:** "고민은 배송만 늦출 뿐! 🚀"
-    *   **본문:**
-        *   "**나에게 맞는 삼탠바이미는?**"
-        *   "👉 **위드라이프:** 완벽 스마트 경험 + 안정적 성능"
-        *   "👉 **프리토스:** 가성비 갑 + 세련된 화이트 디자인"
-        *   "지금 바로 프로필 링크에서 만나보세요! 👇"
-*   **Midjourney 프롬프트:**
-    `Two sleek, modern portable smart TVs (SamtanbyMe style), one black and one white, standing side-by-side in a bright, inviting minimalist showroom or contemporary home setting. A blurred background suggests a busy, exciting atmosphere. Focus on the two TVs in the foreground. High-quality, vibrant, realistic photo, wide shot. --ar 1:1 --v 5.2`
+    ## 💥 스탠바이미 비싸서 못 샀어?
+    ### 이동식 TV의 자유,
+    ### 이제 '이걸로' 누려! 💸
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A modern, minimalist living room with a person looking disappointed at a high-priced LG StandbyMe. In contrast, a futuristic, sleek, affordable portable smart TV on a stand glows invitingly in the foreground. Cinematic, warm lighting, high detail, symbolizing smart financial choices. --ar 1:1 --v 5.2`
+
+---
+
+**[2/4컷] - 메인 상품 1: 위드라이프 32인치 스마트 삼탠바이미**
+
+*   **카드 텍스트:**
+    ## ⚡️ 32인치 대화면 + 구글 스마트TV!
+    ### 20만원대로 OTT 프리덤 끝!
+    ### **위드라이프 삼탠바이미**
+    *   32인치 압도적 몰입감
+    *   넷플릭스, 유튜브 기본 탑재
+    *   침실, 주방 어디든 OK!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cozy bedroom at night. A person is comfortably watching a vibrant movie on a 32-inch portable smart TV (Wiselyfe brand, sleek modern design) positioned beside the bed. The screen emits a soft glow, illuminating the relaxed atmosphere. High-definition, cinematic, dreamlike quality. --ar 1:1 --v 5.2`
+
+---
+
+**[3/4컷] - 메인 상품 2: 프리토스 초가성비 이동식 TV 세트**
+
+*   **카드 텍스트:**
+    ## 💰 넘사벽 10만원대 가성비!
+    ### 동글만 끼우면 스마트TV,
+    ### 초경량 **프리토스 이동식 TV**
+    *   10만원대 초반, 역대급 가격
+    *   초경량 & 컴팩트 디자인
+    *   동글 활용 시 스마트TV 변신!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A bright, minimalist kitchen or a small studio apartment. A lightweight, compact portable TV (Freetos brand, simple clean design) on a movable stand is being easily repositioned by a person. The TV screen shows a simple user interface. Emphasize ease of movement and practicality, bright natural light. --ar 1:1 --v 5.2`
+
+---
+
+**[4/4컷] - CTA & 결론**
+
+*   **카드 텍스트:**
+    ## ✨ 당신의 완벽한 삼탠바이미는?
+    ### 현명한 당신의 선택으로
+    ### 일상을 특별하게!
+    ### (지금 바로 프로필 링크 클릭!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A split screen or dynamic collage showcasing both a high-end smart portable TV and an ultra-affordable portable TV in different inviting home settings (e.g., a person enjoying a movie in the bedroom, someone following a recipe in the kitchen). The overall mood is inspiring and empowering, representing smart choices and enhanced lifestyle. Modern, clean aesthetics, vibrant and appealing. --ar 1:1 --v 5.2`
