@@ -1,85 +1,73 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**영상 제목:** 스탠바이미 비싸서 못 샀지? ⚡️ 20만원대로 스마트 이동식 TV 겟!
-
----
-
-**(0-3초) 훅: ⚡️ 시선 강탈! 멈칫하게 만드는 순간**
-*   **화면:** 비싼 LG 스탠바이미 가격표가 화면 가득! ➡️ (효과음: 💸 돈 나가는 소리, 😬 한숨) ➡️ 좌절하는 사람 얼굴 확대 ➡️ "스탠바이미? 너무 비싸서 못 샀다고?" 텍스트 오버레이
-*   **나레이션 (빠르고 강렬하게):** "비싼 스탠바이미 때문에 포기했어? 놉! 이제 '이걸로' 인생템 겟!"
-*   **(효과음: 뿅! 하는 전환음 + 밝은 배경음악 시작)**
-
-**(3-8초) 가성비 甲 스마트TV 등장!**
-*   **화면:** 침실에서 위드라이프 32인치 삼탠바이미로 넷플릭스 보는 장면 전환 (화면에 제품 가격 253,000원 크게 오버레이)
-*   **나레이션:** "32인치 대화면+구글 스마트TV가 20만원대? 🤯 위드라이프 삼탠바이미 하나면 침실이 바로 영화관!"
-*   **(화면: 넷플릭스, 유튜브 로고 빠르게 지나감)**
-
-**(8-13초) 초특급 가성비 이동식 TV!**
-*   **화면:** 주방에서 프리토스 TV로 유튜브 레시피 보거나, 가볍게 옮기는 모습 (화면에 제품 가격 161,000원 크게 오버레이)
-*   **나레이션:** "난 딱 이동식만 원한다면? 10만원대 프리토스! 동글만 끼우면 스마트TV 완벽 변신! 초경량이라 혼자서도 쌉가능!"
-*   **(화면: 스마트 동글 이미지 작게 오버레이)**
-
-**(13-15초) 마무리 & 강력한 CTA**
-*   **화면:** 두 제품 (위드라이프, 프리토스)이 나란히 비교되는 모습 또는 다양한 사람들이 편리하게 사용하는 모습
-*   **나레이션:** "이제 고민 끝! 당신의 라이프를 업그레이드할 인생템! 지금 바로 프로필 링크에서 만나봐!"
-*   **(텍스트 오버레이: "💥 프로필 링크 클릭! 💥")**
-*   **(효과음: 휘리릭! 찡!)**
+**콘텐츠 제목:** LG 스탠바이미? 이제 20만원대로 즐겨! 가성비 삼탠바이미 끝판왕 등장!
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[영상 구성 및 대사]**
 
-**콘텐츠 주제:** 스탠바이미 가성비 끝판왕! 후회 없는 이동식 스마트TV 꿀템 비교!
+**[0-3초] 훅 & 문제 제기 (빠른 전환, 높은 에너지)**
+*   **화면:** LG 스탠바이미 비스무리한 고급 이동식 TV가 멋지게 등장, 그 옆에 '₩2,000,000 이상?' 같은 가격표가 떴다가 붉은색 X 표시로 바뀌며 사라짐. 동시에 '고민 끝!' 문구가 빠르게 오버레이.
+*   **대사:** "LG 스탠바이미... 와, 진짜 예쁜데... 가격이... 후덜덜?! 😱" (놀란 표정, 손으로 입 가리기)
+*   **대사:** "여기 주목! 가성비 끝판왕 '삼탠바이미' 딱 2개만 보여줄게요!🔥" (손가락으로 2개 강조, 자신감 넘치는 표정)
 
----
+**[3-8초] 상품 1 소개 (역동적인 전환)**
+*   **화면:** 위드라이프 32인치 구글 스마트 삼탠바이미 제품 이미지/짧은 영상으로 전환. 넷플릭스 재생 화면 강조. 화면에 '32인치', '스마트TV', '20만원대' 텍스트 크게 오버레이.
+*   **대사:** "첫 번째! ✨ 위드라이프 32인치 구글 스마트 삼탠바이미!"
+*   **대사:** "32인치 대화면에 넷플릭스, 유튜브 다~ 되는 스마트 기능까지! 이 모든 게 무려 20만원대라니! 대박! 🤩"
 
-**[1/4컷] - 훅 & 문제 제기**
+**[8-13초] 상품 2 소개 (빠른 비교 강조)**
+*   **화면:** 프리토스 초가성비 이동식 TV 제품 이미지/짧은 영상으로 전환. TV가 침대 옆, 주방 등 다양한 공간에 있는 모습 강조. 화면에 '10만원대', '초가성비', '가벼운 선택' 텍스트 오버레이.
+*   **대사:** "두 번째! 💸 진짜 '가성비' 찾는다면 이거! 10만원대 프리토스 이동식 TV!"
+*   **대사:** "스마트 기능 필수 아니면 이게 정답! 부담 없는 가격으로 이동식 TV의 편리함을 누리세요!"
 
-*   **카드 텍스트:**
-    ## 💥 스탠바이미 비싸서 못 샀어?
-    ### 이동식 TV의 자유,
-    ### 이제 '이걸로' 누려! 💸
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A modern, minimalist living room with a person looking disappointed at a high-priced LG StandbyMe. In contrast, a futuristic, sleek, affordable portable smart TV on a stand glows invitingly in the foreground. Cinematic, warm lighting, high detail, symbolizing smart financial choices. --ar 1:1 --v 5.2`
-
----
-
-**[2/4컷] - 메인 상품 1: 위드라이프 32인치 스마트 삼탠바이미**
-
-*   **카드 텍스트:**
-    ## ⚡️ 32인치 대화면 + 구글 스마트TV!
-    ### 20만원대로 OTT 프리덤 끝!
-    ### **위드라이프 삼탠바이미**
-    *   32인치 압도적 몰입감
-    *   넷플릭스, 유튜브 기본 탑재
-    *   침실, 주방 어디든 OK!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy bedroom at night. A person is comfortably watching a vibrant movie on a 32-inch portable smart TV (Wiselyfe brand, sleek modern design) positioned beside the bed. The screen emits a soft glow, illuminating the relaxed atmosphere. High-definition, cinematic, dreamlike quality. --ar 1:1 --v 5.2`
+**[13-15초] 마무리 & CTA (강력한 어필)**
+*   **화면:** 두 제품이 나란히 비교되는 깔끔한 그래픽. '현명한 소비! 스탠바이미 가성비!' 문구. 마지막에 '지금 바로 구매 링크 확인!' / '프로필 링크 클릭!' 등 CTA 텍스트 크게.
+*   **대사:** "LG 스탠바이미 대신 현명한 당신을 위한 최고의 선택!"
+*   **대사:** "자세한 정보는 댓글과 프로필 링크에서 확인하세요! 놓치면 후회할 걸~? 😉" (윙크 또는 엄지척)
 
 ---
 
-**[3/4컷] - 메인 상품 2: 프리토스 초가성비 이동식 TV 세트**
-
-*   **카드 텍스트:**
-    ## 💰 넘사벽 10만원대 가성비!
-    ### 동글만 끼우면 스마트TV,
-    ### 초경량 **프리토스 이동식 TV**
-    *   10만원대 초반, 역대급 가격
-    *   초경량 & 컴팩트 디자인
-    *   동글 활용 시 스마트TV 변신!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A bright, minimalist kitchen or a small studio apartment. A lightweight, compact portable TV (Freetos brand, simple clean design) on a movable stand is being easily repositioned by a person. The TV screen shows a simple user interface. Emphasize ease of movement and practicality, bright natural light. --ar 1:1 --v 5.2`
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
 ---
 
-**[4/4컷] - CTA & 결론**
+### **✨ 1컷: 훅 & 문제 제기**
 
-*   **카드 텍스트:**
-    ## ✨ 당신의 완벽한 삼탠바이미는?
-    ### 현명한 당신의 선택으로
-    ### 일상을 특별하게!
-    ### (지금 바로 프로필 링크 클릭!)
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A split screen or dynamic collage showcasing both a high-end smart portable TV and an ultra-affordable portable TV in different inviting home settings (e.g., a person enjoying a movie in the bedroom, someone following a recipe in the kitchen). The overall mood is inspiring and empowering, representing smart choices and enhanced lifestyle. Modern, clean aesthetics, vibrant and appealing. --ar 1:1 --v 5.2`
+*   **들어갈 텍스트:**
+    *   **메인:** "LG 스탠바이미, 너무 비싸서 망설였다면?"
+    *   **서브:** "현명한 당신을 위한 '가성비 삼탠바이미' 꿀팁 대방출!"
+*   **이미지 생성 프롬프트 (Midjourney Style):**
+    `A sleek, modern living room with soft natural light. In the center, a luxurious portable TV stand is empty, subtly implying a missing high-end portable TV. In the foreground, a stylish hand points confidently towards the empty space, hinting at a solution. Overhead, a thought bubble contains question marks and a dollar sign. minimalist, clean lines, bright, modern apartment aesthetic, soft natural lighting, high resolution, --ar 1:1`
+
+---
+
+### **✨ 2컷: 위드라이프 32인치 스마트 삼탠바이미 소개**
+
+*   **들어갈 텍스트:**
+    *   **메인:** "압도적 대화면! 32인치 구글 스마트 삼탠바이미!"
+    *   **서브:** "넷플릭스, 유튜브 다 되는 스마트TV가 20만원대? 🤯"
+*   **이미지 생성 프롬프트 (Midjourney Style):**
+    `A cozy, modern bedroom with soft ambient lighting. A large (implied 32-inch) portable smart TV on a stylish, minimalist stand is playing a vibrant streaming service (like Netflix or YouTube). A person is comfortably lounging on the bed, enjoying the content. The scene conveys relaxation and smart entertainment. minimalist, clean lines, bright, modern apartment aesthetic, soft natural lighting, high resolution, --ar 1:1`
+
+---
+
+### **✨ 3컷: 프리토스 초가성비 이동식 TV 소개**
+
+*   **들어갈 텍스트:**
+    *   **메인:** "10만원대 실화? 진짜 '가성비' 끝판왕 이동식 TV!"
+    *   **서브:** "스마트 기능 싹 빼고 가격만 확! 부담 없는 현명한 선택!"
+*   **이미지 생성 프롬프트 (Midjourney Style):**
+    `A bright, minimalist kitchen or a small, compact living area. A sleek, slightly smaller portable TV is positioned on a simple, elegant stand. A person is casually cooking or working at a nearby counter, glancing at the TV. The atmosphere is practical, efficient, and cozy, emphasizing affordability and essential viewing. minimalist, clean lines, bright, modern apartment aesthetic, soft natural lighting, high resolution, --ar 1:1`
+
+---
+
+### **✨ 4컷: 요약 & CTA**
+
+*   **들어갈 텍스트:**
+    *   **메인:** "스탠바이미 대신, 당신의 지갑을 지킬 현명한 선택은?"
+    *   **서브:** "두 제품의 자세한 스펙 확인하고, 지금 바로 최저가 겟! (🔗프로필 링크 클릭!)"
+*   **이미지 생성 프롬프트 (Midjourney Style):**
+    `A modern, minimalist infographic-style image. On the left, a blurred, expensive-looking portable TV with a large red 'X' or '$$$' sign. On the right, two stylized, vibrant icons representing 'Value' and 'Smart Features' with green checkmarks, signifying the recommended products. A stylized hand points towards a prominent 'Link in Bio' or 'Shop Now' button at the bottom. The background is clean and bright. minimalist, clean lines, bright, modern apartment aesthetic, soft natural lighting, high resolution, --ar 1:1`
