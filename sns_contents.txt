@@ -1,76 +1,87 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🌟 도파민 폭발! 15초 스탠바이미 가성비 쇼츠/틱톡 스크립트 🌟
+## 🔥 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
 **[영상 컨셉]**
-*   **시각:** 템포 빠르게 전환되는 화면, 실제 사용 모습 (침대 옆, 주방, 거실 등), 가격 정보 강조.
-*   **음악:** 경쾌하고 신나는 배경 음악.
-*   **자막:** 핵심 메시지(가격, 장점) 크게 강조.
+빠른 전환, 강조되는 텍스트, 경쾌한 BGM. LG 스탠바이미의 높은 가격표와 저렴한 대안들의 '가성비'를 대비시켜 시각적, 청각적 자극을 극대화한다.
 
 ---
 
-**[숏폼 대본]**
+**[0-3초] ⚡️ 훅(Hook)! 시선 강탈 구간**
+*   **화면:** 고급스러운 LG 스탠바이미가 멋지게 서 있다. 하지만 그 위에 갑자기 빨간색 X 표시가 크게 나타나며 가격표(200만원대)가 팝업. 옆에는 눈이 휘둥그레지는 인물 이모티콘.
+*   **음성 (빠르게, 흥분된 톤):** "스탠바이미? 이제 그만! 비싸서 망설였다면? 🙅‍♀️ 주목!"
+*   **텍스트 오버레이:** 💰 `200만원대? NO!` ➡️ `가성비 혁명!`
 
-**(0-3초: 훅! 시선 강탈!)**
-*   **화면:** 스탠바이미 공식 이미지(고가) → 좌절하는 표정의 사람 → (번쩍! 💡) 긍정적인 표정으로 바뀜.
-*   **내레이션 (빠르고 흥분된 톤):** "스탠바이미 갖고 싶어? 근데 가격보고 깜짝 놀랐지?! 😲 걱정 마! 내가 찾아냈어!"
+**[3-7초] 문제 제기 & 솔루션 제시**
+*   **화면:** 다양한 사람들이 집안 곳곳에서 편하게 이동식 TV를 사용하는 모습 (합성 이미지 또는 빠른 컷). `고민 끝!` 문구가 빠르게 지나간다.
+*   **음성:** "똑똑한 당신을 위한 '삼탠바이미'가 왔습니다! (밝은 효과음) 내 라이프를 업그레이드할 단 두 가지!"
+*   **텍스트 오버레이:** `삼탠바이미!` `핵심만 딱!`
 
-**(3-7초: 문제 제기 및 솔루션 제시)**
-*   **화면:** MD가 손가락으로 두 제품을 가리키는 인포그래픽. "MD's Pick! 찐 가성비 삼탠바이미 BEST 2" 자막 강조.
-*   **내레이션:** "10년차 MD가 직접 엄선한 '가성비 삼탠바이미' 끝판왕 딱 두 개만 보여줄게!"
+**[7-12초] 메인 상품 소개 (각 2.5초)**
+*   **화면 1 (7-9.5초):** 기존 모니터/TV를 거치대에 장착하는 모습 (빠르게 연출). 깔끔한 디자인 강조.
+*   **음성:** "첫째, 쓰던 TV/모니터를 찐 스탠바이미로! `아프로마운트 스탠드`! 8만원대에 공간 혁신 끝!"
+*   **텍스트 오버레이:** `✨내꺼 재활용! 아프로마운트 스탠드` `8만원대 실화?`
 
-**(7-11초: 첫 번째 상품 소개)**
-*   **화면:** 프리토스 삼탠바이미 세트 사용 모습 (침대 옆에서 편안하게 시청, 주방에서 레시피 확인). "10만원대! 올인원!" 자막 강조.
-*   **내레이션:** "첫 번째! 💥 10만원대 초가성비! 무빙스탠드+TV까지 올인원! 방방마다 쓱~ 이동식TV 필요하면 무조건 이거야!"
+*   **화면 2 (9.5-12초):** TV가 달린 이동식 스탠드가 부드럽게 움직이는 모습. 침실, 주방 등 다양한 공간에서 활용하는 모습.
+*   **음성:** "둘째, TV까지 한 방에! `프리토스 무빙스탠드 세트`! 10만원대 가성비 끝판왕!"
+*   **텍스트 오버레이:** `📺+🚶‍♂️=💯 프리토스 세트` `10만원대 이동식 TV!`
 
-**(11-14초: 두 번째 상품 소개)**
-*   **화면:** 삼성 65인치 QLED TV 사용 모습 (거실에서 영화 시청, 회의실에서 프리젠테이션). "65인치 QLED! 100만원 미만!" 자막 강조.
-*   **내레이션:** "두 번째! ✨ 65인치 삼성 QLED! 대화면+스마트TV, 100만원도 안 된다고?! 프리미엄도 가성비 있게!"
-
-**(14-15초: 클로징 & CTA)**
-*   **화면:** 두 제품이 나란히 있는 모습 + "링크 확인!" 자막.
-*   **내레이션:** "자세한 건 댓글 링크 확인! 지금 바로 겟해봐! 🛒"
-
----
-
-## 📸 인스타그램 카드뉴스 4컷 기획
-
-**[전체 컨셉]**
-*   **톤앤매너:** 밝고 트렌디하며 정보성 높은 콘텐츠. 가성비를 중시하는 2030세대 타겟.
-*   **디자인:** 깔끔한 레이아웃에 핵심 문구 강조, 이미지와 텍스트의 조화.
+**[12-15초] 마무리 & CTA**
+*   **화면:** 두 제품의 비교 썸네일 (혹은 깔끔한 로고와 함께)과 함께 `지금 바로 겟하세요!` 문구.
+*   **음성:** "고민은 배송만 늦출 뿐! (빠르게) 가성비 삼탠바이미! 지금 바로 프로필 링크 확인하세요!"
+*   **텍스트 오버레이:** `💸 현명한 선택! 💸` `🔗 프로필 링크 클릭!`
 
 ---
 
-### **[카드뉴스 1컷]**
+## 📸 인스타그램 카드뉴스 (4컷)
+
+**[공통 디자인 컨셉]**
+*   각 컷은 깔끔한 미니멀리스트 디자인으로, 제품의 기능성을 강조하는 이미지와 간결하고 임팩트 있는 텍스트를 사용합니다.
+*   메인 컬러는 모던한 그레이, 화이트 톤에 포인트 컬러로 활기찬 민트나 오렌지를 활용.
+
+---
+
+### **1컷: 훅 (Hook) & 문제 제기**
 
 *   **텍스트:**
-    스탠바이미 갖고싶은데…
-    가격이 후덜덜? 😭
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A young person with a slightly frustrated and longing expression, looking at a stylized, modern movable TV screen that is blurred in the background, implying a high price. The scene is a minimalist, warm-toned living room, with a subtle glow around the TV. Cinematic lighting, high detail, Instagram post style. --ar 1:1`
+    ## LG 스탠바이미? 비싸서 포기했니? 🙅‍♀️
+    **이제 '삼탠바이미'로 가성비 끝판왕 찍으세요!**
+    (핵심만 콕콕! 당신의 라이프스타일을 바꿀 똑똑한 대안)
 
-### **[카드뉴스 2컷]**
+*   **Midjourney 프롬프트:**
+    `A modern, minimalist living room with soft, warm natural light. On the left, a luxury, sleek LG StandbyME-like monitor. On the right, a thought bubble above a slightly frustrated but curious person, showing a large red 'X' over a high price tag. The overall aesthetic is clean, aspirational, and a bit playful. --ar 1:1 --v 5.2`
 
-*   **텍스트:**
-    MD's Pick! 💰
-    '스탠바이미 가성비' 끝판왕 이동식 TV BEST 2!
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A vibrant and energetic split screen or collage showing two distinct types of modern portable smart TVs. On the left, a sleek, compact, budget-friendly model. On the right, a large, premium, high-definition QLED TV. A hand points directly to the screens, highlighting them. Bright, inviting studio lighting, clean background, product photography style with a dynamic composition. --ar 1:1`
-
-### **[카드뉴스 3컷]**
+### **2컷: 메인 상품 1 소개 (아프로마운트)**
 
 *   **텍스트:**
-    ✨ 10만원대 초가성비 올인원!
-    **프리토스 삼탠바이미 세트**
-    무빙스탠드+TV 한번에! 방방마다 옮겨가며 쓰는 자유!
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A bright and cozy interior scene, showcasing a person happily using a minimalist, compact portable TV (like Freetos SamtenbyMe). The person is effortlessly moving the TV from a modern kitchen counter to a comfortable bed, smiling while watching content. Emphasize portability and ease of use. Soft, warm natural light, everyday life photography style. --ar 1:1`
+    ## 💡내 TV/모니터를 스탠바이미로!
+    **[아프로마운트 이동식 모니터 스탠드]**
+    *   **8만원대!** 이미 있는 디스플레이 활용 끝판왕!
+    *   공간 제약 없이 어디든 나만의 영화관/작업실!
 
-### **[카드뉴스 4컷]**
+*   **Midjourney 프롬프트:**
+    `A clean, bright home office or bedroom with modern furniture. A large, sleek monitor (without a brand logo) is mounted on a stylish, minimalist mobile stand with small wheels. A person is smiling, effortlessly pushing the stand with one hand. Focus on portability and ease of use. Soft pastel colors, natural light. --ar 1:1 --v 5.2`
+
+### **3컷: 메인 상품 2 소개 (프리토스)**
 
 *   **텍스트:**
-    🔥 65인치 삼성 QLED!
-    **대화면 프리미엄 삼탠바이미!**
-    100만원도 안 되는 가격에 압도적 몰입감! 회의실/거실 어디든!
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A sophisticated and spacious living room or a sleek modern office environment. In the center, a large 65-inch Samsung QLED 4K Smart TV on an elegant, minimalist movable stand. People are engaged, watching high-definition content on the screen, emphasizing a luxurious and immersive viewing experience. High-end interior design, soft ambient lighting, high-resolution lifestyle photography. --ar 1:1`
+    ## 🤯 TV+스탠드가 10만원대?
+    **[프리토스 삼탠바이미 무빙스탠드 세트]**
+    *   **초저가!** TV까지 한 번에 해결하는 놀라운 가성비!
+    *   침실, 주방, 작업실! 어디든 OK! 나만의 무빙 TV!
+
+*   **Midjourney 프롬프트:**
+    `A cozy, inviting bedroom with a soft blanket and warm lighting. A compact, modern white mobile TV (looks like a screen on a stand, no visible brand) is positioned perfectly beside the bed. A person is comfortably lying in bed, happily watching content on the mobile TV. A cup of tea is on a small bedside table. Focus on comfort and accessibility. --ar 1:1 --v 5.2`
+
+### **4컷: 요약 및 CTA (Call To Action)**
+
+*   **텍스트:**
+    ## 💸 똑똑한 소비, 지금 바로 시작하세요!
+    **더 이상 비싼 스탠바이미에 돈 쓰지 마세요!**
+    *   **아프로마운트:** 쓰던 모니터/TV를 활용! (8만원대)
+    *   **프리토스:** TV + 스탠드 한 번에! (10만원대)
+
+    **✨ 자세한 정보와 구매 링크는 프로필 확인! ✨**
+
+*   **Midjourney 프롬프트:**
+    `A visually engaging infographic-style image. On the left, a stylized icon of a monitor on a stand with a dollar sign and a checkmark. On the right, a stylized icon of a TV on a stand with a dollar sign and a checkmark. In the center, a large, glowing "SAVE MONEY" text. The background is a gradient of soft blues and greens, indicating smart choices and growth. Modern, clean, and inspiring. --ar 1:1 --v 5.2`
