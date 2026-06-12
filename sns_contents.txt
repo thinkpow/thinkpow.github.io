@@ -1,61 +1,69 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
+## 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**[시선 강탈 훅: 0-3초]**
-*   **화면:** (드라마 속 침대 옆 스탠바이미 로망 화면 빠르게 스쳐 지나감, 감탄사 이모티콘 팡팡)
-*   **나레이션 (빠르게, 흥분된 목소리):** "스탠바이미? 우와! 갖고 싶다... 가격... 어?! 실화냐?!"
-*   **화면:** (가격표 보고 충격받은 사람의 클로즈업 표정, '₩3,000,000' 같은 큰 글씨에 엑스표시 등장!)
-*   **나레이션 (반전 톤, 속삭이듯):** "잠깐! 똑똑한 당신은 '이것'으로 반값에!"
+**제목**: 💸스탠바이미 비싸서 못 샀지? 똑똑하게 '삼탠바이미' 득템하는 법! (feat. 역대급 가성비)
 
-**[본문: 3-12초]**
-*   **화면:** ('삼탠바이미' 텍스트 크게 등장, 이동식 스탠드에 TV가 결합된 세련된 모습)
-*   **나레이션:** "정답은 바로 **삼.탠.바.이.미!** 비싼 스탠바이미 대신 합리적인 가격으로 즐기는 신개념 이동식 TV!"
-*   **화면:** (1번 상품 '프리토스 초가성비 올인원 삼탠바이미' 등장, 가격 '161,000원' 강조, 심플한 침실에서 사용 중인 모습)
-*   **나레이션:** "첫째, 10만원대 초가성비! 단순 디스플레이용으로 최고!"
-*   **화면:** (2번 상품 '스카이뷰 가심비 32인치 스마트 삼탠바이미' 등장, 넷플릭스 로고, 가격 '250,000원' 강조, 모던한 주방에서 요리하며 보는 모습)
-*   **나레이션:** "둘째, 32인치 스마트TV! 넷플릭스, 유튜브까지 다 되는 가심비 끝판왕!"
-*   **화면:** (두 제품이 나란히 비교되는 모습, 각각의 장점 아이콘 빠르게 등장)
+**구성**:
 
-**[클로징: 12-15초]**
-*   **화면:** ('나에게 딱 맞는 삼탠바이미는?' 텍스트와 함께 링크 유도 그래픽)
-*   **나레이션 (밝고 힘찬 목소리):** "내 라이프 스타일에 딱 맞는 삼탠바이미! 지금 바로 만나보고 싶다면, 댓글 링크를 확인하세요!"
+*   **0-3초 (훅):**
+    *   **영상**: 정품 스탠바이미 로고/이미지 등장 (0.5초) -> 가격표 크게 뜨며 'XX원' -> X자 강하게 그어지며 '현실은 ㅠㅠ' 자막과 함께 좌절하는 사람 표정 (AI 이미지 가능)
+    *   **사운드**: "띠링!" (스탠바이미 등장) -> "띠용?" (가격 확인) -> "아악!" (절망감)
+    *   **내레이션 (빠르게, 드라마틱하게):** "스탠바이미 갖고 싶어서 현기증 나? 💸 하지만 가격 보고 심장이 멈췄다고?"
+*   **3-8초 (문제 제기 및 해결책):**
+    *   **영상**: 좌절 표정에서 갑자기 번뜩이는 아이디어 효과 -> 다양한 '삼탠바이미' 제품들이 빠르게 줌인/아웃되며 활짝 웃는 사람의 모습 (역동적인 전환)
+    *   **사운드**: 밝고 경쾌한 BGM 시작, "짜잔!" 효과음
+    *   **내레이션**: "잠깐! 똑똑한 당신을 위한 '가성비 삼탠바이미'가 있잖아! 디자인, 이동성, 스마트 기능, 가격까지 딱 내 맘에 드는 걸로!"
+*   **8-12초 (핵심 상품 2가지 소개):**
+    *   **영상 1 (2초):** 프리토스 제품 (가장 저렴한 세트) 강조, 가격 '16만원대' 크게 오버레이, 침실에서 TV 들고 거실로 이동하는 모습 짧게 연출
+    *   **사운드**: "착한 가격!" 효과음
+    *   **내레이션**: "✨ 이동성 끝판왕! 16만원대로 이동식 TV 세트 겟!"
+    *   **영상 2 (2초):** 스카이뷰 화이트 에디션 (디자인/스마트) 강조, 가격 '25만원대' 크게 오버레이, 주방/침실 등 깔끔한 인테리어 속에서 활용하는 모습
+    *   **사운드**: "세련된 디자인!" 효과음
+    *   **내레이션**: "✨ 디자인+스마트 기능? 20만원대로 깔끔하게!"
+*   **12-15초 (마무리 및 CTA):**
+    *   **영상**: 소개된 삼탠바이미 제품들이 한 화면에 모여 '최저가' '득템' 키워드와 함께 프로필 링크 유도하는 화살표/아이콘
+    *   **사운드**: BGM 고조, "지금 바로 클릭!" 효과음
+    *   **내레이션**: "내 취향에 딱! 가성비 삼탠바이미, 지금 바로 프로필 링크에서 최저가 정보 확인해!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+## 인스타그램 카드뉴스 (4컷)
 
-### 💡 카드 1/4
+### 컷 1: 훅 / 문제 제기
 
-*   **들어갈 텍스트:**
-    스탠바이미? 우와! 탐나는데... 가격 실화? 😲
-    ❌ 비싼 가격에 좌절했다면, 이제 **'이것'**에 주목!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A luxurious, minimalist living room with soft natural light, featuring a sleek, expensive smart movable TV (like StandbyMe) in the corner. A person's hand reaches out towards it with longing, then dramatically pulls back in shock, revealing a huge, exaggerated price tag (e.g., "$3,000") with a big red X over it. A glowing lightbulb or question mark hovers for a solution. Modern, cinematic, high detail. --ar 1:1`
+*   **텍스트**:
+    *   **헤드라인**: LG 스탠바이미, 비싸서 포기했니? 💸
+    *   **본문**: 예쁜데 가격이 망설여진다면, 이젠 '가성비 삼탠바이미'로 똑똑하게 즐겨봐!
+    *   **해시태그**: #스탠바이미 #가성비TV #이동식TV #삼탠바이미 #무빙TV
+*   **Midjourney 프롬프트**:
+    A minimalist living room with soft, natural lighting. In the background, a slightly blurred LG StandbyME is visible. In the foreground, a young person (20s-30s) looks at their smartphone with a thoughtful, slightly disappointed expression, a glowing question mark and dollar signs floating above their head. The overall mood is modern, clean, and a bit luxurious, suggesting aspiration versus affordability. --ar 1:1 --v 5.2
 
-### 💡 카드 2/4
+### 컷 2: 압도적 가성비 끝판왕 (프리토스)
 
-*   **들어갈 텍스트:**
-    놉! 똑똑한 우리는 이걸로 반값에! 💰
-    **[프리토스] 초가성비 삼탠바이미 (16만원대)**
-    ✅ 10만원대 풀세트! ✅ 단순 디스플레이 최고!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy, minimalist bedroom interior with warm, soft natural lighting. A person is comfortably lounging on the bed, watching a show on a compact, white 24-inch TV attached to a simple, functional mobile stand (SamtanbyMe). The TV screen displays generic, colorful video content. A subtle, stylish price tag showing "₩161,000" is visually integrated near the TV. Emphasize affordability and simple elegance. --ar 1:1`
+*   **텍스트**:
+    *   **헤드라인**: ✨ 압도적 가성비! 16만원대 이동식 TV 세트
+    *   **본문**: 스마트 기능보단 '이동성'이 핵심이라면? TV+스탠드를 한번에 겟! 방에서 거실로, 주방으로! 어디든 자유롭게 이동하며 즐기세요!
+    *   **상품명**: 프리토스 삼탠바이미 무빙스탠드 세트
+*   **Midjourney 프롬프트**:
+    A bright, cozy bedroom interior. In the center, a simple, black-framed TV on a minimalist white mobile stand is positioned next to a bed. The TV screen displays a relaxing movie or YouTube video. Soft, warm sunlight streams through a window. Emphasize the ease of movement and affordability. Modern, clean aesthetic, focus on the product in use. --ar 1:1 --v 5.2
 
-### 💡 카드 3/4
+### 컷 3: 디자인 & 스마트 기능 (스카이뷰)
 
-*   **들어갈 텍스트:**
-    32인치 대화면에 스마트TV까지! ✨
-    **[스카이뷰] 가심비 끝판왕 삼탠바이미 (25만원대)**
-    ✅ 32인치 대화면! ✅ 넷플릭스/유튜브 OK! ✅ 화이트 디자인!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A chic, modern kitchen with clean white cabinetry, wooden accents, and abundant natural light. A 32-inch white smart movable TV (SamtanbyMe) is stylishly positioned on its stand. The TV screen clearly shows the Netflix or YouTube interface. A person is happily cooking or enjoying a coffee nearby, occasionally glancing at the TV, highlighting its smart features and seamless integration into a stylish home. --ar 1:1`
+*   **텍스트**:
+    *   **헤드라인**: 🤍 디자인과 스마트 기능을 한번에! 25만원대 화이트 에디션
+    *   **본문**: LG 스탠바이미의 시그니처, '화이트' 디자인은 살리고! HD 스마트 기능까지 더한 팔방미인 가성비! 침실/주방 인테리어도 해치지 않아요.
+    *   **상품명**: 스카이뷰 화이트에디션 32인치 스마트 이동식 TV
+*   **Midjourney 프롬프트**:
+    A stylish, minimalist white kitchen or living room with abundant natural light. A sleek, white-framed 32-inch smart TV on a matching white mobile stand is subtly placed, blending seamlessly with the decor. The screen displays a recipe or a lifestyle show. The scene is bright and airy, with clean lines and a modern, aesthetically pleasing feel, emphasizing design integration. --ar 1:1 --v 5.2
 
-### 💡 카드 4/4
+### 컷 4: 추가 추천 상품 & CTA
 
-*   **들어갈 텍스트:**
-    당신의 로망 실현! 💖
-    나에게 딱 맞는 삼탠바이미 보러가기!
-    👇 지금 바로 프로필 링크 Click!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic split-screen or side-by-side comparison image of two different SamtanbyMe setups in a bright, modern apartment setting. On one side, the ultra-budget option (simpler, smaller TV) is shown. On the other side, the smart 32-inch option (sleeker, larger TV with streaming app icons) is displayed. Subtle icons representing "price" and "features" are next to each. A clear, inviting call-to-action button or a glowing arrow points towards the bottom center, indicating "Shop Now" or "Link in Bio". --ar 1:1`
+*   **텍스트**:
+    *   **헤드라인**: 내 스타일에 딱! 가성비 삼탠바이미 더 찾아보기
+    *   **본문**:
+        *   **💡 40인치 대화면 + 안드로이드 OS**: 위드라이프 40인치 삼탠바이미 (35만원대)
+        *   **💡 스탠드만 구매**: 아프로마운트 이동식 스탠드 (8만원대)
+    *   **CTA**: (프로필 링크 클릭!) 나에게 맞는 삼탠바이미 최저가 보러 가기!
+*   **Midjourney 프롬프트**:
+    A dynamic, visually appealing collage of multiple mobile TV setups in diverse modern home environments. Show a large 40-inch TV on a stand in a spacious living room, and a separate image of just a mobile stand holding a monitor in a home office. The images are bright, high-quality, and showcase versatility. Overlay some subtle infographic elements like small price tags or feature icons for clarity. Energetic, appealing, and informative design. --ar 1:1 --v 5.2
