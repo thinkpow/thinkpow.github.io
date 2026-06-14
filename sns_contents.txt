@@ -1,75 +1,52 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
+## 🚀 도파민 폭발! 15초 숏폼 스크립트
 
-**콘셉트:** 비싼 LG 스탠바이미에 대한 대안을 찾는 시청자에게, '20만원대 삼탠바이미'라는 파격적인 가성비를 훅으로 던지고, 주요 장점과 다양한 선택지를 빠르게 제시하여 구매 욕구를 자극합니다.
-
----
-
-**[영상 스크립트]**
-
-*   **영상 길이:** 15초
-*   **배경 음악:** 밝고 신나는 템포의 브이로그 BGM (톡톡 튀는 효과음 중간중간 삽입)
-*   **자막:** 핵심 대사 강조, 가격 정보, 제품명
-
-**(0-3초) ⚡️ 훅: 비싼 스탠바이미? 이제 그만!**
-*   **화면:** (초고속 화면 전환)
-    1.  럭셔리하지만 가격표에 '💰너무 비쌈!' 자막이 붙은 LG 스탠바이미 이미지.
-    2.  이어서, 동공 지진이 온 듯 놀란 표정의 출연자 클로즈업.
-    3.  '🤯 20만원대로 이동식 스마트TV가 내 침대 옆으로?!' 자막이 번쩍하며 등장.
-*   **대사:** "🤯 비싼 LG 스탠바이미? 돈 아깝단 생각 드셨죠?! (놀란 표정) 걱정 마세요! 20만원대로 이동식 스마트TV가 내 침대 옆으로! (환하게 웃으며) 네, 실화입니다!"
-
-**(3-7초) ✨ 메인 상품 어필 1: 가성비 끝판왕 프리토스**
-*   **화면:**
-    1.  프리토스 구글 스마트 삼탠바이미가 침실, 거실, 주방 등 다양한 공간으로 스르륵 이동하며 사용되는 모습.
-    2.  넷플릭스, 유튜브 로고가 화면에 크게 뜨는 장면.
-    3.  '235,000원!' 가격 자막과 '1등급 에너지 효율' 마크 강조.
-*   **대사:** "프리토스 삼탠바이미! 32인치 구글TV에 넷플릭스, 유튜브 다~ 돼! 1등급 에너지 효율은 덤!"
-
-**(7-11초) 🛠️ 메인 상품 어필 2: 편리한 무빙큐빅스**
-*   **화면:**
-    1.  DIY 조립에 당황하는 사람의 짧은 코믹 영상.
-    2.  이어 깔끔하게 설치를 완료하는 전문가의 모습(또는 무빙큐빅스 제품 설치 완료 이미지).
-    3.  제품의 세련된 디자인을 보여주는 슬로우 모션.
-*   **대사:** "혹시 조립이 어렵다면? 방문설치까지 해주는 무빙큐빅스도 있어요! 전문가가 딱! 설치만 해주고 가는 효자템!"
-
-**(11-15초) 🔥 강력한 CTA (다양한 선택지 & 구매 유도)**
-*   **화면:**
-    1.  프리토스 일반TV 삼탠바이미 (초가성비), 아프로마운트 이동식 TV 스탠드 (거치대 단품) 등 다양한 가성비 제품 이미지가 빠르게 전환.
-    2.  화면 중앙에 '🌟 당신의 삶의 질 수직 상승템!' 자막.
-    3.  마지막으로 '🔥 프로필 링크에서 지금 바로 확인하세요!' 자막이 크게 뜨고, 손가락이 위를 가리키는 화살표 애니메이션.
-*   **대사:** "10만원대 초저가부터 거치대 단품까지! 당신의 라이프스타일에 딱 맞는 삼탠바이미! 지금 바로 프로필 링크 클릭! 늦기 전에 겟하세요!"
+**제목:** 스탠바이미 고민? 20만원대로 끝내버려! #스탠바이미가성비 #이동식TV
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**(영상 시작: 0-3초 - 훅! 시선 강탈!)**
+
+*   **비주얼:** 화면에 띄워진 '스탠바이미' 제품과 함께 엄청나게 비싼 가격표(예: 100만원대)를 보고 두 손으로 얼굴을 감싸거나 턱이 빠진 듯 경악하는 사람의 모습 (클로즈업). 텍스트 오버레이로 '💸 스탠바이미 가격, 제정신이야?!' 크게 띄우기.
+*   **대사 (빠르고 놀란 톤):** "스탠바이미... 100만원 넘는다고?! 진짜 이 가격 주고 사야 해? 🤯"
+
+**(영상 3-12초 - 문제 해결 & 제품 어필)**
+
+*   **비주얼:** (3-6초) 암전 후, 고급스러운 침실 옆에 놓인 '프리토스 구글 스마트TV 세트' (블랙 또는 화이트)가 번쩍 켜지며 넷플릭스 화면이 뜨는 모습. 옆에 있던 비싼 가격표가 종이처럼 구겨지는 CG 효과. 텍스트 오버레이 '✨ 20만원대?! 이동식 스마트TV 끝판왕!'
+*   **대사 (흥분되고 시원한 톤):** "NO! 이젠 20만원대로 스마트 이동식 TV 로망 완전 실현! ✨"
+*   **비주얼:** (6-9초) 주방에서 요리하며 레시피 영상 보는 모습, 거실에서 게임하는 모습, 침대에서 편안하게 눕방하는 모습 빠르게 교차 (빠른 컷 전환, 효과음 추가).
+*   **대사:** "넷플릭스, 유튜브 다~ 된다! 셋톱박스 없이 바로! 방마다 나만의 OTT 천국! 🎬"
+*   **비주얼:** (9-12초) 깔끔한 화이트 인테리어에 화이트 스탠드TV, 모던한 블랙 인테리어에 블랙 스탠드TV가 각각 세련되게 어우러진 모습 (슬로우 모션으로 쓱- 지나가듯). 스탠드 바퀴가 부드럽게 움직이며 이동하는 모습 강조.
+*   **대사:** "감성 인테리어 치트키! 블랙? 화이트? 취향 따라 골라! 어디든 쓱~ 밀고 가면 끝! 💨"
+
+**(영상 12-15초 - 강력한 CTA)**
+
+*   **비주얼:** 프리토스 구글 스마트TV 세트 (블랙&화이트) 두 가지 컬러 제품이 나란히 강조되며, '235,000원' 가격이 명확하게 표시. 마지막에 '➡️ 프로필 링크 클릭! 지금 바로 GET!' 텍스트 오버레이 크게 띄우기.
+*   **대사 (마무리 강조, 확신에 찬 톤):** "지갑은 살리고! 삶의 질은 올리고! 진짜 스탠바이미 가성비 끝판왕! 지금 바로 프로필 링크 확인하세요! 👆"
 
 ---
 
-### **카드뉴스 1컷**
-
-*   **슬라이드 텍스트:** 🤯 비싼 LG 스탠바이미? 이제 그만! | 💰 20만원대로 삶의 질 '수직 상승'템 발견!
-*   **Midjourney 프롬프트:** `A dramatic split image. On the left, a luxurious but clearly expensive LG StandbyMe in a pristine, minimalist living room, with a subtle "TOO EXPENSIVE" watermark. On the right, a vibrant, modern bedroom with a person happily watching a portable smart TV on a sleek stand, a glowing "AFFORDABLE LUXURY" subtitle. Dynamic lighting, high contrast, aspirational, --ar 1:1 --v 5.2`
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & 이미지 프롬프트)
 
 ---
 
-### **카드뉴스 2컷**
+### **🖼️ 1컷**
 
-*   **슬라이드 텍스트:** 🏆 가성비 끝판왕! 프리토스 삼탠바이미 (32인치) | 🌟 구글 스마트TV + 이동식 스탠드 | 넷플릭스, 유튜브 바로! 1등급 에너지 효율까지!
-*   **Midjourney 프롬프트:** `A cozy, modern bedroom with soft morning light. A 32-inch portable smart TV (resembling "FREETOS Google Smart 3-in-1") on a minimalist stand is displaying a Netflix movie. Next to it, a subtle overlay graphic showing a "Netflix" logo, "YouTube" logo, and a "Grade 1 Energy Efficiency" badge. A person is comfortably lounging on the bed, smiling. Product photography style, clean aesthetic, --ar 1:1 --v 5.2`
+*   **텍스트:** 스탠바이미 갖고 싶다고? 💸 가격 보고 충격받았지?
+*   **Midjourney 프롬프트:** A close-up shot of a young adult's shocked or frustrated face, holding a smartphone displaying an exorbitant price tag for a high-end portable smart TV. The background is slightly blurred, hinting at a modern, minimalist home interior. Cinematic lighting, dramatic, high contrast. --ar 1:1 --v 5.2 --style raw
 
----
+### **🖼️ 2컷**
 
-### **카드뉴스 3컷**
+*   **텍스트:** 20만원대로 스마트 이동식 TV 로망 실현! ✨ 프리토스 구글 스마트TV 세트
+*   **Midjourney 프롬프트:** A sleek, modern 32-inch Google Smart TV (similar to the Preetos product image) on a minimalist white mobile stand, positioned in a cozy bedroom next to a bed. The TV screen displays a vibrant Netflix logo. The room is brightly lit with warm natural light, emphasizing comfort and accessibility. Clean, Scandinavian interior design, soft focus background. --ar 1:1 --v 5.2 --style raw
 
-*   **슬라이드 텍스트:** 🛠️ 조립 걱정은 No! 무빙큐빅스 삼탠바이미 (방문설치) | 💖 32인치 스마트TV + 거치대 세트 | 전문가가 직접 설치까지! 깔끔한 디자인은 덤!
-*   **Midjourney 프롬프트:** `A bright, clean, modern living room. A friendly, professional-looking technician (wearing a neat uniform) is gently installing a sleek "Moving Cubics Smart 3-in-1" portable TV onto its stand. The room feels inviting and stylish. Focus on the ease of professional installation and the elegant design of the TV. Natural, soft lighting, candid moment, --ar 1:1 --v 5.2`
+### **🖼️ 3컷**
 
----
+*   **텍스트:** 침실, 주방, 작업실 어디든! 넷플릭스, 유튜브 모두 OK! 🎬
+*   **Midjourney 프롬프트:** A dynamic split image or a montage of three scenes: 1) The mobile smart TV on its stand in a modern kitchen, displaying a cooking show. 2) The same TV in a chic home office, showing a YouTube tutorial. 3) The TV next to a comfortable sofa in a living room, playing a movie. Each scene should feel effortless and integrated, showing the product's versatility. Bright, clean, lifestyle photography, natural light. --ar 1:1 --v 5.2 --style raw
 
-### **카드뉴스 4컷**
+### **🖼️ 4컷**
 
-*   **슬라이드 텍스트:** 💡 나에게 딱 맞는 '삼탠바이미'는? | 10만원대 초저가부터 거치대 단품까지! | 🚀 현명한 당신의 선택은?! 지금 바로 프로필 링크 클릭!
-*   **Midjourney 프롬프트:** `A dynamic, vibrant infographic style image. Collage of different portable TV solutions: a super affordable basic mobile TV, a standalone TV mount, and a premium smart portable TV. Each item has a small price tag illustration. In the center, a glowing, inviting "Link in Bio" button with an arrow pointing upwards. Bright colors, playful elements, engaging composition, --ar 1:1 --v 5.2`
-
----
+*   **텍스트:** 진짜 '스탠바이미 가성비' 끝판왕! 지금 바로 만나봐! 👆
+*   **Midjourney 프롬프트:** A pristine studio shot featuring both the black and white versions of the Preetos Google Smart TV + mobile stand, displayed side-by-side. The products are illuminated by a soft, glowing spotlight, emphasizing their elegant design and compact form factor against a clean, light grey or white minimalist background. Product photography, high resolution, minimalist, professional. --ar 1:1 --v 5.2 --style raw
