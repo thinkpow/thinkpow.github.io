@@ -1,89 +1,76 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🔥 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠 / 틱톡)
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**콘셉트:** 비싼 LG 스탠바이미 대신, 가성비 끝판왕 '삼탠바이미'로 스마트 라이프를 즐기는 모습과 가격을 직관적으로 보여주며 구매욕을 자극.
-**음악:** 빠르고 경쾌한 배경 음악 (ex. 트렌디한 팝, 신나는 브이로그 배경음악)
-**화면 전환:** 빠르고 역동적인 컷 전환
+**콘셉트:** 스탠바이미의 비싼 가격에 좌절한 사람들에게 가성비 넘치는 대안을 제시하며 솔루션을 제공하는 통쾌한 톤앤매너
 
 ---
 
-**[영상 시작]**
+**[영상 길이: 15초]**
 
-**0-3초: 훅 (Hook)**
-*   **자막:** 😡 "LG 스탠바이미 100만원 넘어서 못 샀다고?!"
-*   **음성:** "헉! LG 스탠바이미, 비싸서 아직도 고민 중이라고? 그럼 이거 봐!" (놀란 표정으로 화면을 응시하며 손가락으로 가리킴)
-*   **영상:** 한숨 쉬는 사람 → 갑자기 눈이 휘둥그레지며 놀라는 표정으로 전환
+**[0-3초] 훅 (Hook)**
+*   **화면:** (빠른 템포의 경쾌한 배경음악 시작) 스탠바이미 광고처럼 멋진 사람이 침대에 누워 스탠바이미를 보는 장면 -> 갑자기 가격표(120만원!) 팝업 -> 인물 표정 굳어지며 좌절 -> "헉!" 효과음
+*   **대사:** "스탠바이미 갖고 싶어서 현기증 나는데... 가격보고 더 현기증 난다고요? 🤯 걱정 마세요!"
 
-**3-8초: 첫 번째 상품 소개**
-*   **자막:** ✨ "10만원대? 이동식 TV 풀세트 실화?!"
-*   **음성:** "딱 16만원대! 이동식 TV 풀세트가 내 품에? 침대 옆에서 넷플릭스 쌉가능!" (환하게 웃으며 침대 옆에서 삼탠바이미로 넷플릭스를 보는 모습)
-*   **영상:** 깔끔한 디자인의 '최저가 삼탠바이미 풀세트'가 침대 옆, 주방 등 다양한 공간에서 활용되는 모습. (가격 자막 강조: 161,000원)
+**[3-12초] 본론**
+*   **화면:** 텐션 업! "MD가 찾았다!" 자막과 함께 화려한 전환 효과 -> 상품 1 등장 (무빙큐빅스) -> 다양한 각도에서 제품이 활용되는 모습(거실, 침실, 주방 이동) -> QLED 화질 강조 자막 -> 배터리 아이콘
+*   **대사:** "MD가 직접 찾은! 스탠바이미 핵심 기능 싹 다 가져온 '가성비 삼탠바이미' Top 2! 첫째, '무빙큐빅스'는 QLED 선명한 화질에 배터리 내장으로 진짜 무선 이동성! 넷플릭스도 폰 연결 없이 맘껏! 이게 40만원대!"
+*   **화면:** 상품 2 등장 (아프로마운트 스탠드) -> 기존 모니터가 스탠드에 장착되어 쉽게 이동하는 모습 -> 8만원대 가격 강조 자막
+*   **대사:** "둘째, 집에 모니터 있다면 '아프로마운트 스탠드'로 8만원대에 스탠바이미 완성! 기존 모니터 그대로 끌고 다니세요!"
 
-**8-13초: 두 번째 상품 소개**
-*   **자막:** 💡 "27인치 스마트! 오리지널이랑 똑같은데 20만원대?!"
-*   **음성:** "여기서 끝이 아니야! 27인치 스마트 삼탠바이미? 오리지널이랑 똑같은데 20만원대!" (놀라움을 금치 못하며 다음 제품을 소개)
-*   **영상:** 27인치 스마트 삼탠바이미가 거실, 서재 등에서 스마트 기능을 활용(유튜브, OTT)하는 모습. (가격 자막 강조: 269,000원)
-
-**13-15초: 클로징 및 CTA**
-*   **자막:** ✅ "MD가 엄선한 찐템! 프로필 링크 확인!"
-*   **음성:** "10년 차 MD가 직접 고른 가성비 스탠바이미! 지금 바로 프로필 링크에서 만나봐!" (자신감 있는 표정으로 손가락으로 프로필 링크를 가리킴)
-*   **영상:** 두 제품이 나란히 있는 모습, 또는 블로그 포스팅 썸네일/페이지 강조
-
-**[영상 끝]**
+**[12-15초] 클로징 & CTA**
+*   **화면:** 두 제품의 장점을 합쳐 보여주는 인포그래픽 또는 제품 썸네일 나열 -> "더 많은 정보는 댓글/프로필 링크 확인!" 자막 크게 띄우기
+*   **대사:** "자세한 스펙과 다른 가성비 제품들은 고정 댓글 또는 프로필 링크에서 확인하세요! 지금 바로 만나봐!"
+*   **음악:** 피날레 효과음, 강렬하게 마무리
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
 ---
 
-### **카드뉴스 1/4**
+### **카드 1/4**
 
-**[텍스트]**
-**비싼 LG 스탠바이미, 이제 그만!**
-✨ 10년 차 MD가 엄선한 '가성비 삼탠바이미'
-10만원대부터 스마트하게 즐겨보세요!
-
-**[Midjourney 프롬프트]**
-`A stylish, sleek mobile TV screen with a luxurious yet unattainable price tag (e.g., '₩1,000,000+'). A hand dramatically pulls down a corner of the price tag, revealing a much lower, more accessible price like '₩161,000' beneath it. The background is a modern, minimalist living room with soft, warm lighting. High contrast, aspirational, cinematic. --ar 1:1 --v 5.2`
-
----
-
-### **카드뉴스 2/4**
-
-**[텍스트]**
-**✨ 가성비 끝판왕! 10만원대 풀세트**
-이동식 TV + 스탠드 올인원! 📺
-배송받는 즉시 나만의 스탠바이미 감성을!
-_(*최저가 삼탠바이미 풀세트, 161,000원)_
-
-**[Midjourney 프롬프트]**
-`A cozy bedroom scene with a minimalist aesthetic. A happy young person is comfortably watching a mobile TV (resembling a stand-on-screen design) right next to their bed, draped in a soft blanket. The TV displays a streaming service. Sunlight streams through a window. Affordable, practical luxury, soft focus. --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    스탠바이미, 너무 비싸서 포기했다고? 💸 노놉!
+    가성비 끝판왕 '삼탠바이미' 대안 BEST 5!
+*   **Midjourney 프롬프트:**
+    ```
+    A dynamic and illustrative image contrasting luxury with affordability. On the left, a sleek, modern LG StandbyMe-like portable TV with a glowing, high price tag (e.g., "₩1,200,000"). The mood is aspirational but slightly out of reach. On the right, a triumphant, smiling piggy bank or a overflowing wallet, surrounded by various smaller, stylish portable monitors and stands. A large, bold "SAVE!" or "GET SMART!" text overlay. The overall aesthetic is vibrant, energetic, with a clean graphic design feel. Cinematic lighting, high contrast, 4:5 aspect ratio. --ar 4:5 --v 5.2
+    ```
 
 ---
 
-### **카드뉴스 3/4**
+### **카드 2/4**
 
-**[텍스트]**
-**💡 표준 가성비! 27인치 스마트 삼탠바이미**
-오리지널 사이즈+스마트 기능까지 완벽!
-넷플릭스, 유튜브는 기본! OTT 무한 즐기기! 🍿
-_(*27인치 스마트 삼탠바이미 세트, 269,000원)_
+*   **카드 텍스트:**
+    1. 이동성+화질 다 잡은 '무빙큐빅스 삼탠바이미' (40만원대!)
+    ✨ QLED, 무선 배터리, 스마트TV 완벽!
+*   **Midjourney 프롬프트:**
+    ```
+    A serene and inviting home interior scene showcasing a modern, portable QLED smart TV (similar to a generic StandbyMe) in use. The TV is on a sleek, minimalist stand with wheels. In the background, hints of three different cozy domestic settings seamlessly blend: a bright living room, a comfortable bedroom, and a clean kitchen. The TV screen displays vibrant, high-definition streaming content (e.g., a movie or show). Emphasize wireless freedom and high-quality viewing experience. Soft, natural lighting, a sense of peace and relaxation. 4:5 aspect ratio. --ar 4:5 --v 5.2
+    ```
 
-**[Midjourney 프롬프트]**
-`A modern, bright living space with a sleek 27-inch mobile smart TV (resembling LG StandbyMe) at the center. The screen shows a vibrant, high-definition streaming interface (e.g., Netflix or YouTube). A person is casually lounging on a comfortable sofa in the background, subtly interacting with a remote. Sophisticated, intelligent, functional. --ar 1:1 --v 5.2`
+---
+
+### **카드 3/4**
+
+*   **카드 텍스트:**
+    2. 8만원대로 '내 모니터' 스탠바이미로 변신!
+    💡 '아프로마운트 이동식 스탠드' - 극강 가성비 이동성!
+*   **Midjourney 프rompt:**
+    ```
+    A creative and practical scene illustrating the transformation of a standard computer monitor into a mobile entertainment hub. A person's hands are gently pushing a sleek, minimalist mobile monitor stand (like AfroMount) with a generic monitor attached. The background transitions from a home office desk to a comfortable living room sofa, symbolizing easy movement and versatile use. The overall impression is smart, affordable, and highly functional. Bright, clean, modern aesthetic with good depth of field. 4:5 aspect ratio. --ar 4:5 --v 5.2
+    ```
 
 ---
 
-### **카드뉴스 4/4**
+### **카드 4/4**
 
-**[텍스트]**
-**10년 차 MD가 엄선한 찐템! 후회 없는 선택!**
-나만의 스마트 라이프, 더 이상 비쌀 필요 없어요!
-**지금 바로 프로필 링크에서 가성비 스탠바이미를 만나보세요!** 💖
-
-**[Midjourney 프롬프트]**
-`A vibrant, dynamic collage of four quadrants. Each quadrant shows a different scene: a person enjoying a mobile TV in bed, in a kitchen, in a small home gym, and on a balcony. Interspersed throughout are subtle visual elements of saving money, like sparkling coins or a small piggy bank icon. The overall mood is joyful, empowering, and smart lifestyle. --ar 1:1 --v 5.2`
-
----
+*   **카드 텍스트:**
+    LG 정품 선호하면 '엘텐바이미', 초초저가엔 '프리토스 세트'까지!
+    🔗 프로필 링크에서 자세히 확인!
+*   **Midjourney 프롬프트:**
+    ```
+    An energetic and inviting collage-style image representing diverse "StandbyMe alternative" options. Visually incorporate elements like a subtle LG brand-like logo for reliability, a simple mobile TV set, a monitor on a stand, and other smart home tech icons. Arrows or connecting lines subtly guide the eye towards a central "LINK IN BIO" or "MORE INFO" button/symbol. The color palette is bright and appealing, suggesting variety and easy access to solutions. Modern, clean, slightly abstract. 4:5 aspect ratio. --ar 4:5 --v 5.2
+    ```
