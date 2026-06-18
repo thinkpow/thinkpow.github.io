@@ -1,95 +1,68 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
 
-**(음악: 경쾌하고 트렌디한 BGM, '도파민 터지는' 효과음 적절히 사용)**
-
----
+**[영상 시작]**
 
 **[0-3초] 훅 (Hook)**
-*   **영상:** 한숨 쉬며 휴대폰으로 LG 스탠바이미 가격을 검색하는 모습 → "헉! 가격 실화?!" 텍스트 오버레이 → 바로 표정이 밝아지며 화면 전환
-*   **대사:** "스탠바이미, 갖고 싶어서 검색했는데... 가격 실화냐구요? 🤯 **하지만 걱정 마세요!**"
+*   **화면:** (고민하는 표정의 사람, LG 스탠바이미 비싼 가격표 '100만원 이상' 큼지막하게 오버레이)
+*   **대사:** "LG 스탠바이미 갖고 싶은데... 100만원 넘는 가격에 망설여진다고? 😨 딱! 3초만 집중!"
 
-**[3-7초] 문제 해결 제시 & 핵심 비교**
-*   **영상:** MD 복장을 한 사람이 자신감 있게 등장하며 손가락으로 가리킴 → 화면에 '스탠바이미 가성비 끝판왕 BEST 3' 타이틀과 함께 비교 제품 썸네일 2-3개 빠르게 지나감.
-*   **대사:** "10년차 MD가 찾은 **가성비 삼탠바이미 끝판왕 3종!** 특히 **배터리 유무**로 나눠서 딱 보여줄게요!"
+**[3-12초] 전개**
+*   **화면:** (놀란 표정에서 확신에 찬 표정으로 변화, '20만원대!' 가격표로 전환, 스탠바이미처럼 TV를 자유롭게 이동시키는 장면)
+*   **대사:** "이젠 20만원대로 스탠바이미 핵심 기능 다~ 누릴 수 있어!"
+*   **화면:** (이노스 32인치 삼탠바이미가 침실, 주방 등으로 이동하며 넷플릭스/유튜브 재생되는 모습)
+*   **대사:** "첫 번째, 이노스 32인치! 20만원대인데 넷플릭스, 유튜브 바로 돼! 침대 옆, 주방 어디든 OK!"
+*   **화면:** (티비아울렛 구글 TV 삼탠바이미가 다양한 안드로이드 앱을 실행하는 모습)
+*   **대사:** "두 번째, 티비아울렛 구글 TV! 20만원대에 구글 앱까지 무제한! 스마트폰처럼 확장성 대박!"
+*   **화면:** (두 제품의 장점을 합쳐 '이동성, 스마트 기능 다 잡은 갓성비 삼탠바이미!' 텍스트 오버레이)
+*   **대사:** "이동성, 스마트 기능 다 잡은 갓성비 삼탠바이미!"
 
-**[7-11초] 메인 상품 소개 (배터리 유무)**
-*   **영상:**
-    *   (7-9초) #1 무빙큐빅스 배터리 삼탠바이미: 침대 옆, 거실 등 자유롭게 이동하는 모습 + QLED/FHD 강조 효과
-    *   (9-11초) #2 티비아울렛 구글TV 삼탠바이미: 가격 20만원대 강조 숫자 이펙트 + 구글TV 인터페이스 화면 빠르게 지나감
-*   **대사:**
-    *   "**선 없는 자유!** 배터리 내장 '무빙큐빅스'는 어디든 OK! QLED 화질은 덤!"
-    *   "**20만원대 미친 가성비!** '티비아울렛'은 구글TV로 더 편리해요!"
+**[12-15초] 클로징/CTA**
+*   **화면:** (화면 하단에 '프로필 링크 확인!' 텍스트 강조, 손가락으로 가리키는 제스처)
+*   **대사:** "비싼 돈 주고 살 필요 없어! 지금 바로 프로필 링크에서 확인해봐! ✨"
 
-**[11-14초] 추가 추천 & 장점 강조**
-*   **영상:** #3 LG 스마트모니터 엘텐바이미: 32인치 대화면에서 넷플릭스 보는 모습 → LG 로고 강조
-*   **대사:** "LG 브랜드 신뢰도에 32인치 대화면 찾는다면 '엘텐바이미'도 놓치지 마세요!"
-
-**[14-15초] 클로징 & CTA**
-*   **영상:** 3가지 제품 썸네일 다시 빠르게 모아서 보여주며 '지금 바로 확인!' 텍스트 오버레이.
-*   **대사:** "여러분에게 딱 맞는 스탠바이미는? **자세한 정보는 프로필 링크에서!**"
+**[영상 끝]**
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
----
-
-### **[1/4컷] - 인트로/훅**
+### **카드 1: 훅 - 문제 제기 & 솔루션 티징**
 
 *   **텍스트:**
-    **스탠바이미, 이젠 가성비로 즐겨! 💰**
-    MD가 엄선한 #이동형스마트스크린
-    ✨ **배터리 유무 핵심 비교!** ✨
-    당신에게 딱 맞는 '삼탠바이미'는?
+    "LG 스탠바이미, 100만원 넘는 가격 실화..? 😥
+    이제 20만원대로 끝장 가성비 삼탠바이미 누리세요!"
+*   **Midjourney Prompt:**
+    "A frustrated person with a sad expression looking at a glowing, expensive LG StandbyMe TV price tag over 1,000,000 KRW, in a stylish but somewhat inaccessible living room. Suddenly, a bright, modern, minimalist mobile TV on a stand appears with a '20만원대!' price tag. Dynamic lighting, high contrast, cinematic, dramatic, --ar 1:1"
 
-*   **Midjourney 프롬프트:**
-    `A visually stunning, modern living room interior. In the background, a sleek, minimalist portable smart screen is visible, subtly suggesting a "Standby Me" alternative. A person, looking intrigued and satisfied, is interacting with it. The atmosphere is cozy and inviting, with warm, soft lighting. Focus on clean lines, light colors, and a sense of calm. Cinematic, high detail, 4k, --ar 4:5 --style raw`
-
----
-
-### **[2/4컷] - 상품 1: 무빙큐빅스 배터리 삼탠바이미**
+### **카드 2: 메인 리뷰 상품 1 - 이노스 32인치 스마트 삼탠바이미 TV**
 
 *   **텍스트:**
-    **1. 완벽한 무선 자유! 🚀**
-    **무빙큐빅스 배터리 삼탠바이미**
-    ✅ **Air 배터리 내장:** 전원선 없이 어디든 이동!
-    ✅ **QLED 화질:** 생생한 영화관 경험
-    ✅ **화이트 에디션:** 인테리어 품격 UP!
+    "✅ **이노스 32인치 스마트 삼탠바이미 TV (27.8만원)**
+    **20만원대 완벽 올인원!** 넷플릭스, 유튜브 내장으로 어디서든 나만의 영화관!"
+    *   압도적 가성비 + 이동식 거치대
+    *   내장 스마트 TV (넷플릭스, 유튜브 등)
+    *   32인치 FHD 디스플레이
+*   **Midjourney Prompt:**
+    "A sleek, minimalist 32-inch smart TV on a modern white mobile stand, displaying Netflix interface on screen. It is positioned seamlessly in a cozy, sunlit bedroom next to a bed, with soft pillows and a warm blanket. Product photography, clean lines, natural light, inviting and comfortable atmosphere, --ar 1:1"
 
-*   **Midjourney 프롬프트:**
-    `A futuristic and stylish white portable smart screen (resembling a Standby Me alternative) with a glowing QLED screen, positioned effortlessly in a bright, minimalist bedroom. A person is comfortably watching content on it while lounging in bed, with no visible wires. The room is bathed in soft, natural light, emphasizing freedom and convenience. Focus on clean, modern aesthetics. High quality, cinematic, 4k, --ar 4:5 --style raw`
-
----
-
-### **[3/4컷] - 상품 2: 티비아울렛 구글TV 삼탠바이미**
+### **카드 3: 메인 리뷰 상품 2 - 티비아울렛 스마트 구글 TV 삼탠바이미**
 
 *   **텍스트:**
-    **2. 20만원대 미친 가성비! 💸**
-    **티비아울렛 구글TV 삼탠바이미**
-    ✅ **압도적인 가격:** 20만원대 실화?
-    ✅ **구글TV 탑재:** 넷플릭스/유튜브 바로!
-    ✅ **올인원 일체형:** 스탠드 조립 NO!
+    "✅ **티비아울렛 스마트 구글 TV 삼탠바이미 (28.5만원)**
+    **구글 TV OS로 앱 무한 확장!** 스마트폰처럼 원하는 콘텐츠 마음껏 즐겨!"
+    *   강력한 구글 TV OS (다양한 앱 설치)
+    *   이동성 + 편리성
+    *   합리적인 가격
+*   **Midjourney Prompt:**
+    "A modern mobile smart TV with a vibrant Google TV OS interface clearly visible on screen, showcasing various app icons (YouTube, Netflix, Disney+, Google Play Store, etc.). The TV is in a bright, contemporary open-concept kitchen or living room, emphasizing its portability and smart functionality. Tech product photography, clean background, warm ambient lighting, --ar 1:1"
 
-*   **Midjourney 프롬프트:**
-    `A practical and affordable-looking portable smart screen (resembling a Standby Me alternative) with the Google TV interface clearly visible on its screen, placed in a cozy, functional kitchen or studio apartment. A person is cooking or casually relaxing, enjoying content. The scene highlights value for money and ease of use. Warm, inviting lighting, everyday life, realistic, high quality, 4k, --ar 4:5 --style raw`
-
----
-
-### **[4/4컷] - 상품 3: LG 스마트모니터 & CTA**
+### **카드 4: 클로징 - 요약 & CTA**
 
 *   **텍스트:**
-    **3. 믿고 쓰는 LG, 32인치 대화면! 📺**
-    **LG 스마트모니터 엘텐바이미 패키지**
-    ✅ **LG 브랜드:** 믿을 수 있는 품질
-    ✅ **32인치 대화면:** 몰입감 최고!
-    ✅ **다용도 활용:** 모니터 & 스마트TV
-
-    **✨ 나에게 딱 맞는 스탠바이미는? ✨**
-    **👇 프로필 링크에서 자세히 확인! 👇**
-
-*   **Midjourney 프롬프트:**
-    `A large 32-inch LG smart monitor on a portable stand, displaying a vibrant movie scene or an online class, positioned in a modern, well-lit home office or living space. A person is seen nearby, engaged with the screen. The image should convey professionalism, large screen immersion, and brand reliability. Clean design, natural light, with a subtle call to action overlay 'Check Link in Bio'. High quality, cinematic, 4k, --ar 4:5 --style raw`
-
----
+    "스탠바이미 고민은 이제 그만!
+    압도적인 가성비로 스마트 라이프 시작! ✨
+    ➡️ 지금 바로 프로필 링크에서 최저가 확인!"
+*   **Midjourney Prompt:**
+    "A person happily and effortlessly moving a stylish mobile smart TV stand from a modern living room to a cozy balcony, smiling brightly. The TV screen displays a joyful, dynamic scene. Emphasize convenience, freedom, smart living, and ease of use. Bright, airy, modern interior, lifestyle photography, dynamic composition, --ar 1:1"
