@@ -1,83 +1,74 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+## 🎥 유튜브 쇼츠/틱톡 스크립트 (15초)
 
-**[영상 컨셉]**
-빠른 화면 전환과 다이내믹한 텍스트 효과, 각 제품의 핵심 장점을 직관적으로 보여주는 짧은 클립들을 활용합니다. 배경 음악은 트렌디하고 경쾌한 비트를 사용합니다.
+**[훅]**
+*   **0-3초 (강렬한 시작)**
+    *   **화면:** 고급스러운 LG 스탠바이미가 등장하며 화면 중앙에 '120만원?!'이라는 큰 글씨가 번개처럼 나타납니다. 순간 화면이 깨지는 듯한 효과와 함께 'NO!'라는 텍스트가 강렬하게 지나갑니다.
+    *   **대사:** "스탠바이미 갖고 싶죠? 근데 120만원?! (고개 절레절레) 아아아~ 잠깐만요!"
 
----
+*   **3-12초 (해결책 제시 & 제품 소개)**
+    *   **화면:** 경쾌한 음악과 함께 '20만원대 삼탠바이미?'라는 텍스트가 나타나고, 이노스 제품(침실, 주방 등 다양한 공간에서 이동하는 모습)이 빠르게 교차됩니다.
+    *   **대사:** "제가 20만원대로 스탠바이미 똑같이 즐기는 법 알려드릴게요! 첫 번째! **이노스 32인치 삼탠바이미!** 이동식 스크린에 스마트TV까지, 20만원대 초반 미쳤죠?!"
+    *   **화면:** 곧이어 티비아울렛 제품(구글 TV 인터페이스, 음성 인식 사용하는 모습)이 등장하며 '구글 TV 탑재!' 텍스트가 뜹니다.
+    *   **대사:** "두 번째! **티비아울렛 구글 TV 삼탠바이미!** 구글 TV로 넷플릭스, 유튜브는 기본! 음성인식까지? 이 가격에 구글 TV는 반칙이죠!"
 
-**[숏폼 대본]**
-
-*   **[0-3초] 훅 (🚨강렬한 비트 시작, 화면에 "스탠바이미 비싸서 못 샀지? 😩" 크게 떴다가 사라짐)**
-    **내레이션:** "스탠바이미 비싸서 망설였죠? 😩"
-    **(화면 전환: "10년차 MD가 찾은 가성비 삼탠바이미 TOP3! 🔥" 텍스트와 함께 제품들이 번쩍 등장)**
-    **내레이션:** "10년차 MD가 찾은 가성비 삼탠바이미 TOP3! 🔥"
-
-*   **[3-7초] 엘텐바이미 (화면: LG 로고 강조, 스마트 모니터가 다양한 상황에서 활용되는 모습)**
-    **내레이션:** "첫째, LG전자 엘텐바이미! 믿고 쓰는 LG 브랜드, 스마트 기능에 이동성까지? 굿!"
-    **(화면에 "LG 브랜드", "스마트 모니터" 핵심 키워드 빠르게 노출)**
-
-*   **[7-11초] 무빙큐빅스 (화면: 무선으로 침대 옆, 베란다 등 자유롭게 이동하는 모습, QLED 화질 강조)**
-    **내레이션:** "둘째, 무빙큐빅스! 원조 감성 그대로~ 무선 배터리에 QLED 화질은 덤!"
-    **(화면에 "무선", "QLED 화질" 핵심 키워드 빠르게 노출)**
-
-*   **[11-14초] 티비아울렛 (화면: 가격 "20만원대" 강조, 구글 TV 인터페이스를 보여줌)**
-    **내레이션:** "셋째, 티비아울렛 구글TV! 20만원대로 스마트 구글TV를! 가성비 끝판왕 인정?"
-    **(화면에 "20만원대", "구글 TV" 핵심 키워드 빠르게 노출)**
-
-*   **[14-15초] CTA (화면: 3가지 제품이 한 화면에 모여 강조되며, "지금 바로 확인!" 텍스트와 프로필 링크 강조)**
-    **내레이션:** "지금 바로 프로필 링크 클릭! 후회 안 할 걸?"
-    **(비트 절정 후 마무리)**
+*   **12-15초 (클로징 & CTA)**
+    *   **화면:** 두 제품이 나란히 비교되는 화면, 하단에 '20만원대 가성비 끝판왕!' 문구가 크게 강조됩니다.
+    *   **대사:** "비교 불가! 현명한 당신, 이제 갓성비 삼탠바이미로 스마트 라이프 시작하세요! 지금 바로 링크 확인!"
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
----
-
-### **1. 첫 번째 컷 (훅 & 문제 제기)**
-
-*   **카드뉴스 텍스트:**
-    스탠바이미 사고 싶은데… 😥 비싸서 망설였다면?
-    ✨10년차 MD가 찾은 #스탠바이미가성비 끝판왕 대체템 TOP3!✨
+### 1컷
+*   **들어갈 텍스트:**
+    ```
+    🤯 비싼 스탠바이미는 옛말!
+    ✨ 20만원대 '삼탠바이미' 등장!
+    ```
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A stylish, minimalist living room with a soft, warm glow. A silhouette of a person looking thoughtfully at an expensive-looking, sleek smart screen on a stand, hinting at hesitation and desire. The background is slightly blurred to emphasize the person's contemplation. The overall mood is aspirational but with a touch of modern dilemma. --ar 1:1 --v 5.2`
+    ```
+    A luxurious, minimalist smart screen (like LG StandbyMe) with a high price tag crossed out, next to a sleek, modern mobile smart TV (SamtanbyMe concept) with a much lower, eye-catching price tag (e.g., "$200 range"). The background is a clean, bright, modern living room. Soft, inviting lighting, photorealistic, cinematic shot, hyperrealistic details. --ar 1:1 --v 5.2
+    ```
 
----
-
-### **2. 두 번째 컷 (추천 상품 1: LG전자 엘텐바이미)**
-
-*   **카드뉴스 텍스트:**
-    1. ✨믿쓰 LG '엘텐바이미'✨
-    ✔️LG 브랜드 파워로 압도적 신뢰!
-    ✔️모니터+TV 겸비, 스마트 기능 확장성!
-    ✔️합리적인 가격으로 LG 경험!
+### 2컷
+*   **들어갈 텍스트:**
+    ```
+    🌟 최강 가성비의 정석!
+    이노스 32인치 삼탠바이미
+    ✅ 20만원대 초반!
+    ✅ FHD 해상도
+    ✅ 이동식 스마트 TV
+    ```
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, 32-inch smart monitor with an LG-like minimalist design, on a white mobile stand. It's elegantly placed in a bright, modern multi-purpose room (part home office, part cozy living space). The screen displays a split interface, showing both a professional video conference and a vibrant streaming service. Emphasize brand trust, versatility, and sophisticated technology. High-definition, clean lines, soft natural lighting. --ar 1:1 --v 5.2`
+    ```
+    A cozy bedroom scene with an Innos 32-inch SamtanbyMe smart TV on a mobile stand next to a bed. The screen displays a clear FHD Netflix scene. Soft morning light streams through a window. The room has a minimalist, warm aesthetic. Photorealistic, comfortable, inviting, detailed. --ar 1:1 --v 5.2
+    ```
 
----
-
-### **3. 세 번째 컷 (추천 상품 2: 무빙큐빅스 삼탠바이미)**
-
-*   **카드뉴스 텍스트:**
-    2. 🔋무선 이동성 + QLED 화질!
-    '무빙큐빅스 삼탠바이미' ✨화이트 에디션✨
-    ✔️내장 배터리로 자유로운 무선 이동!
-    ✔️가성비 최고! QLED 선명한 화질!
-    ✔️어디든 어울리는 화이트 에디션 디자인!
+### 3컷
+*   **들어갈 텍스트:**
+    ```
+    🚀 구글 TV로 더 스마트하게!
+    티비아울렛 스마트 구글 TV 삼탠바이미
+    ✅ 구글 TV OS 탑재
+    ✅ 음성인식, 크롬캐스트 내장
+    ✅ 다양한 앱 확장성
+    ```
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A minimalist, elegant white mobile smart TV (similar to a Standbyme but with a unique, sleek design) with visible elements hinting at a built-in battery. It is positioned on a chic balcony or a cozy, sunlit bedroom, showcasing a vibrant QLED display playing a high-quality nature documentary. The scene emphasizes wireless freedom, premium visual experience, and harmonious integration into a stylish interior. Clean lines, modern aesthetic, soft, inviting lighting. --ar 1:1 --v 5.2`
+    ```
+    A modern kitchen island with a TV Outlet Smart Google TV SamtanbyMe on a mobile stand. The screen shows the vibrant Google TV interface with YouTube playing, and a person is subtly using voice commands. The kitchen is bright, contemporary, and functional. Focus on smart tech integration and convenience. Photorealistic, clean lines, dynamic. --ar 1:1 --v 5.2
+    ```
 
----
-
-### **4. 네 번째 컷 (추천 상품 3: 티비아울렛 구글 TV & 마무리)**
-
-*   **카드뉴스 텍스트:**
-    3. 💸 20만원대? '티비아울렛 구글TV'
-    ✔️극강의 가성비! 20만원대 스마트 TV!
-    ✔️구글 TV 탑재로 무한 확장성!
-    ✔️이동형 스탠드 기본 포함!
-    **👆 지금 바로 프로필 링크에서 만나보세요!**
+### 4컷
+*   **들어갈 텍스트:**
+    ```
+    🤔 당신의 선택은?
+    이노스 vs. 티비아울렛
+    ✨ 20만원대 끝판왕!
+    👉 더 자세한 정보는 프로필 링크 클릭!
+    ```
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A vibrant, accessible smart TV display showing the Google TV interface with various streaming app icons clearly visible. The TV is on a simple, functional mobile stand, placed in a bright, yet cozy and budget-friendly modern apartment setting. Focus on the concept of high functionality at an affordable price point. Energetic and user-friendly design. Text overlay 'Google TV' on screen for clarity. --ar 1:1 --v 5.2`
+    ```
+    A split-screen or dual image showing the Innos 32-inch SamtanbyMe on the left and the TV Outlet Smart Google TV SamtanbyMe on the right, both in elegant, modern home settings. Text overlays or subtle graphics indicating "Simplicity" for Innos and "Smartness" for TV Outlet. A happy person is casually interacting with both screens in a dynamic, side-by-side comparison. Soft, diffused lighting, high-resolution, aspirational. --ar 1:1 --v 5.2
+    ```
