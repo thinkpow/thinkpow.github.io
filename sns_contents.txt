@@ -1,35 +1,34 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
 
-**제목:** 💰스탠바이미 비싸서 포기? NO! 가성비 끝판왕 삼탠바이미 TOP 2!
-
-**[영상 구성]**
-
-*   **배경:** 트렌디한 자막과 함께 제품을 강조하는 영상
-*   **음악:** 빠르고 경쾌한 배경 음악
+**[영상 컨셉]**
+빠른 화면 전환과 다이내믹한 텍스트 효과, 각 제품의 핵심 장점을 직관적으로 보여주는 짧은 클립들을 활용합니다. 배경 음악은 트렌디하고 경쾌한 비트를 사용합니다.
 
 ---
 
-**[스크립트]**
+**[숏폼 대본]**
 
-**(0-3초) ⚡️훅! 시선 강탈!⚡️**
-**화면:** 고민하는 표정의 사람 옆에 '스탠바이미' 글자와 비싼 가격표가 번쩍! → 'NO!' 크게 등장하며 X표시
-**내레이션 (빠르고 단호하게):** "스탠바이미 비싸서 포기?! 잠시만요! 딱 15초만 집중!"
+*   **[0-3초] 훅 (🚨강렬한 비트 시작, 화면에 "스탠바이미 비싸서 못 샀지? 😩" 크게 떴다가 사라짐)**
+    **내레이션:** "스탠바이미 비싸서 망설였죠? 😩"
+    **(화면 전환: "10년차 MD가 찾은 가성비 삼탠바이미 TOP3! 🔥" 텍스트와 함께 제품들이 번쩍 등장)**
+    **내레이션:** "10년차 MD가 찾은 가성비 삼탠바이미 TOP3! 🔥"
 
-**(3-8초) 💖가성비 끝판왕 등장!💖**
-**화면:** 깔끔한 '무빙큐빅스 삼탠바이미' 제품 영상. QLED 화질, 무선 이동 강조.
-**내레이션:** "QLED 선명한 화질에 선 없이 어디든 쓱~ 40만 원대 무빙큐빅스 삼탠바이미!"
-**(자막:** 무빙큐빅스 삼탠바이미 / QLED / 무선 이동 / 40만원대)
+*   **[3-7초] 엘텐바이미 (화면: LG 로고 강조, 스마트 모니터가 다양한 상황에서 활용되는 모습)**
+    **내레이션:** "첫째, LG전자 엘텐바이미! 믿고 쓰는 LG 브랜드, 스마트 기능에 이동성까지? 굿!"
+    **(화면에 "LG 브랜드", "스마트 모니터" 핵심 키워드 빠르게 노출)**
 
-**(8-13초) ✨역시 LG! 신뢰는 기본✨**
-**화면:** 'LG 엘텐바이미' 제품 영상. LG 로고 강조, 스마트 모니터 활용 장면 전환.
-**내레이션:** "브랜드? 포기 못 하죠! LG 정품 스마트 모니터에 스탠드까지! 40만 원대 LG 엘텐바이미!"
-**(자막:** LG 엘텐바이미 / LG 정품 스마트 모니터 / 40만원대)
+*   **[7-11초] 무빙큐빅스 (화면: 무선으로 침대 옆, 베란다 등 자유롭게 이동하는 모습, QLED 화질 강조)**
+    **내레이션:** "둘째, 무빙큐빅스! 원조 감성 그대로~ 무선 배터리에 QLED 화질은 덤!"
+    **(화면에 "무선", "QLED 화질" 핵심 키워드 빠르게 노출)**
 
-**(13-15초) 📢마무리 & CTA📢**
-**화면:** 두 제품이 나란히 비교되는 화면, 가격과 핵심 장점 요약. '자세한 정보는 프로필 링크 클릭!' 자막.
-**내레이션:** "스탠바이미 감성 그대로, 지갑은 가볍게! 자세한 내용은 프로필 링크에서 확인하세요!"
+*   **[11-14초] 티비아울렛 (화면: 가격 "20만원대" 강조, 구글 TV 인터페이스를 보여줌)**
+    **내레이션:** "셋째, 티비아울렛 구글TV! 20만원대로 스마트 구글TV를! 가성비 끝판왕 인정?"
+    **(화면에 "20만원대", "구글 TV" 핵심 키워드 빠르게 노출)**
+
+*   **[14-15초] CTA (화면: 3가지 제품이 한 화면에 모여 강조되며, "지금 바로 확인!" 텍스트와 프로필 링크 강조)**
+    **내레이션:** "지금 바로 프로필 링크 클릭! 후회 안 할 걸?"
+    **(비트 절정 후 마무리)**
 
 ---
 
@@ -37,52 +36,48 @@
 
 ---
 
-**1. 첫 번째 컷: 문제 제기 & 훅**
+### **1. 첫 번째 컷 (훅 & 문제 제기)**
 
-*   **텍스트:**
-    **🔥스탠바이미, 갖고 싶은데 가격 부담?🔥**
-    **이젠 '삼탠바이미'로 현명하게 즐겨요!**
-    (LG 스탠바이미 감성은 그대로, 가격은 반값에!)
-
-*   **Midjourney 프롬프트 (영문):**
-    "A stylish, modern living room with a person looking thoughtfully at a blurred, expensive-looking portable TV. Overlay text "StandbyMe, want it but worried about the price?". The overall mood is slightly frustrated but hopeful. Soft, natural lighting. Modern minimalist aesthetic, cinematic, high resolution."
+*   **카드뉴스 텍스트:**
+    스탠바이미 사고 싶은데… 😥 비싸서 망설였다면?
+    ✨10년차 MD가 찾은 #스탠바이미가성비 끝판왕 대체템 TOP3!✨
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish, minimalist living room with a soft, warm glow. A silhouette of a person looking thoughtfully at an expensive-looking, sleek smart screen on a stand, hinting at hesitation and desire. The background is slightly blurred to emphasize the person's contemplation. The overall mood is aspirational but with a touch of modern dilemma. --ar 1:1 --v 5.2`
 
 ---
 
-**2. 두 번째 컷: 솔루션 소개**
+### **2. 두 번째 컷 (추천 상품 1: LG전자 엘텐바이미)**
 
-*   **텍스트:**
-    **💡가성비 + 감성 = 삼탠바이미!💡**
-    **이동성, 스마트 기능, 디자인까지 완벽!**
-    (MD가 직접 엄선한 최고의 삼탠바이미 BEST 2!)
-
-*   **Midjourney 프롬프트 (영문):**
-    "A bright, airy home interior, possibly a bedroom or a kitchen, with a sleek, minimalist portable smart TV on a stand (resembling a 'samtaenbyumi'). The TV screen shows a streaming service logo. The atmosphere is cozy and convenient. Emphasize mobility and smart features. Modern, clean aesthetic, bright, high resolution."
-
----
-
-**3. 세 번째 컷: 상품 1 상세 소개**
-
-*   **텍스트:**
-    **✨무빙큐빅스 삼탠바이미✨**
-    **QLED 화질 + 완벽 무선 이동 = 40만원대!**
-    ✔️선명한 QLED 디스플레이
-    ✔️내장 배터리로 유/무선 자유롭게!
-    ✔️넷플릭스, 유튜브 바로 OK 스마트TV
-
-*   **Midjourney 프롬프트 (영문):**
-    "A close-up of a 'Moving Cubix Samtaenbyumi' portable TV, showcasing its vibrant QLED screen displaying a dynamic movie scene. The TV is wirelessly placed next to a window in a modern, sunlit room. Emphasize high-quality display and wire-free portability. High fidelity, detailed, sleek design, cinematic lighting."
+*   **카드뉴스 텍스트:**
+    1. ✨믿쓰 LG '엘텐바이미'✨
+    ✔️LG 브랜드 파워로 압도적 신뢰!
+    ✔️모니터+TV 겸비, 스마트 기능 확장성!
+    ✔️합리적인 가격으로 LG 경험!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A sleek, 32-inch smart monitor with an LG-like minimalist design, on a white mobile stand. It's elegantly placed in a bright, modern multi-purpose room (part home office, part cozy living space). The screen displays a split interface, showing both a professional video conference and a vibrant streaming service. Emphasize brand trust, versatility, and sophisticated technology. High-definition, clean lines, soft natural lighting. --ar 1:1 --v 5.2`
 
 ---
 
-**4. 네 번째 컷: 상품 2 상세 소개**
+### **3. 세 번째 컷 (추천 상품 2: 무빙큐빅스 삼탠바이미)**
 
-*   **텍스트:**
-    **💙LG 엘텐바이미💙**
-    **'역시 LG!' 브랜드 신뢰 + 스마트 모니터 = 40만원대!**
-    ✔️믿고 쓰는 LG전자 브랜드
-    ✔️다양한 활용! 스마트 모니터 겸용
-    ✔️품질과 활용성 모두 잡은 현명한 선택
+*   **카드뉴스 텍스트:**
+    2. 🔋무선 이동성 + QLED 화질!
+    '무빙큐빅스 삼탠바이미' ✨화이트 에디션✨
+    ✔️내장 배터리로 자유로운 무선 이동!
+    ✔️가성비 최고! QLED 선명한 화질!
+    ✔️어디든 어울리는 화이트 에디션 디자인!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A minimalist, elegant white mobile smart TV (similar to a Standbyme but with a unique, sleek design) with visible elements hinting at a built-in battery. It is positioned on a chic balcony or a cozy, sunlit bedroom, showcasing a vibrant QLED display playing a high-quality nature documentary. The scene emphasizes wireless freedom, premium visual experience, and harmonious integration into a stylish interior. Clean lines, modern aesthetic, soft, inviting lighting. --ar 1:1 --v 5.2`
 
-*   **Midjourney 프롬프트 (영문):**
-    "An LG 'Eltenbyumi' portable smart monitor on its stand, shown in a versatile setting. One half of the screen shows a work application (e.g., spreadsheet), the other half shows a small window of a streaming service, indicating multi-functionality. The background is a clean, modern home office or living space. Emphasize the LG brand logo and smart monitor features. Professional, high-tech, clean lines, bright, high resolution."
+---
+
+### **4. 네 번째 컷 (추천 상품 3: 티비아울렛 구글 TV & 마무리)**
+
+*   **카드뉴스 텍스트:**
+    3. 💸 20만원대? '티비아울렛 구글TV'
+    ✔️극강의 가성비! 20만원대 스마트 TV!
+    ✔️구글 TV 탑재로 무한 확장성!
+    ✔️이동형 스탠드 기본 포함!
+    **👆 지금 바로 프로필 링크에서 만나보세요!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A vibrant, accessible smart TV display showing the Google TV interface with various streaming app icons clearly visible. The TV is on a simple, functional mobile stand, placed in a bright, yet cozy and budget-friendly modern apartment setting. Focus on the concept of high functionality at an affordable price point. Energetic and user-friendly design. Text overlay 'Google TV' on screen for clarity. --ar 1:1 --v 5.2`
