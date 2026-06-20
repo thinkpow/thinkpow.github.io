@@ -1,64 +1,58 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
 
-**(음악: 밝고 경쾌하며 트렌디한 BGM)**
+**제목:** LG 스탠바이미 비켜! 😲 20만원대 '삼탠바이미' 가성비 끝판왕 등장!
 
-**[0-3초] 훅 & 문제 제기**
-*   **화면:** (빠른 컷 전환) 예쁜 스탠바이미 이미지 → 가격표 보고 충격받는 표정 → 이내 실망하는 표정.
-*   **내레이션:** "스탠바이미 너무 갖고 싶었는데... 비싼 가격에 망설였어요? 😩"
+**[15초 스크립트]**
 
-**[3-7초] 솔루션 제시 & 컨셉 소개**
-*   **화면:** (빠르게 전환) 깔끔한 '삼탠바이미'가 침실, 주방, 거실로 스르륵 이동하는 모습 → 행복하게 사용하며 미소 짓는 사람.
-*   **내레이션:** "댓츠 노노! 이제 20만원대로 이동식 스마트 TV 즐기세요! ✨ 바로 #삼탠바이미!"
+**(영상 시작: 빠르고 경쾌한 배경음악, 0-3초 훅 강탈!)**
 
-**[7-12초] 메인 상품 2가지 소개**
-*   **화면:**
-    *   (7-9초) 이노스 32인치 삼탠바이미 제품 이미지 + 가격 (27.9만원) 및 '초가성비 끝판왕!' 텍스트 오버레이.
-    *   (9-12초) 티비아울렛 구글TV 삼탠바이미 제품 이미지 + 가격 (28.5만원) 및 '구글TV 탑재! 넷플/유튜브 바로!' 텍스트 오버레이.
-*   **내레이션:** "첫째! 27만 9천원, 이노스 삼탠바이미! FHD 스마트 TV에 무빙 거치대까지! 초가성비 끝판왕! 💖"
-*   **내레이션:** "둘째! 28만 5천원, 티비아울렛 구글TV 삼탠바이미! 넷플, 유튜브 바로 실행! 스마트 기능 강화!"
-
-**[12-15초] 클로징 & Call to Action**
-*   **화면:** 침실, 주방, 거실에서 삼탠바이미를 즐기는 모습들을 빠르게 교차 편집 → "프로필 링크 클릭!" 텍스트 강조.
-*   **내레이션:** "침실, 주방, 거실 어디든 나만의 OTT 극장 완성! 🏠 지금 바로 프로필 링크에서 만나보세요!"
+*   **자막/내레이션 (0-3초):** "스탠바이미 갖고 싶다... 근데 비싸서 망설였다고? 😫"
+    *   *(화면: 누군가 비싼 LG 스탠바이미 가격표를 보고 절망하는 표정, 또는 고민하는 모습 -> 순간 화면 정지 및 빨간 'STOP' 사인 효과)*
+*   **자막/내레이션 (3-8초):** "멈춰! ✋ 여기 20만원대 '삼탠바이미' 등장! 😲"
+    *   *(화면: 밝고 활기찬 분위기로 전환! '이노스 삼탠바이미'와 '티비아울렛 삼탠바이미' 제품이 스포트라이트를 받으며 등장! '20만원대!' 자막 크게 오버레이)*
+*   **자막/내레이션 (8-12초):** "넷플릭스, 유튜브 다 되는 스마트 TV에 이동식 거치대까지 한방에! 이노스는 압도적 가성비! 티비아울렛은 구글TV OS로 더 스마트해! ✨"
+    *   *(화면: 이노스 제품이 침실, 주방 등 다양한 공간에서 활용되는 모습 빠르게 전환, 넷플릭스 로고, 유튜브 로고 플래시! -> 티비아울렛 제품이 구글 TV OS 화면을 보여주며 다양한 앱 아이콘이 강조되는 모습)*
+*   **자막/내레이션 (12-15초):** "당신의 룸메이트는?! 지금 바로 프로필 링크 확인하고 겟! ✨"
+    *   *(화면: 두 제품이 나란히 비교되는 모습, 최종 선택을 유도하는 질문 자막과 함께 프로필 링크 확인 유도 제스처)*
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### 컷 1: 훅 & 문제/솔루션 제시
+---
 
-*   **텍스트:**
-    스탠바이미 비싸서 망설였지? 💸
-    20만원대 '이동식 스마트TV'로 감성 뚝! 가격 뚝! #삼탠바이미
+### **📌 카드 1/4**
+
+*   **텍스트:** "스탠바이미? 댓츠 노노! ❌ 20만원대 '삼탠바이미'의 시대가 왔다! 😲"
 *   **Midjourney 프롬프트:**
-    `A visually striking image depicting the transition from despair to delight. On one side, a person looking frustrated at a high price tag on a modern smart display. On the other side, the same person smiling joyfully at a sleek, mobile smart TV on wheels, with a clear, affordable price tag visible. The overall aesthetic is clean, modern, with vibrant colors and soft, inviting lighting. --ar 1:1 --v 5.2`
+    ```
+    A sleek, modern smart TV on a mobile stand, strikingly similar to LG StandbyME but with a more accessible, budget-friendly vibe. The background is a luxurious but minimalist living room, golden hour lighting, cinematic, high detail, soft bokeh. Above the TV, a red "STOP" sign emoji and a crossed-out LG StandbyME logo, emphasizing "NOT StandbyME". Below, "200,000 KRW range SamtanbyME" in bold Korean text. --ar 1:1 --v 5.2
+    ```
 
-### 컷 2: 상품 1 소개 (이노스 32인치 삼탠바이미)
+### **📌 카드 2/4**
 
-*   **텍스트:**
-    [가성비 끝판왕] 이노스 32인치 삼탠바이미 📺 ✨
-    ✅ 27만 9천원 초가성비!
-    ✅ FHD 스마트TV + 무빙 거치대!
-    ✅ 내방 침대 옆, 주방 어디든!
+*   **텍스트:** "1. 이노스 삼탠바이미: 20만원대! 가성비 끝판왕 스마트 TV! 📺"
+    *   **핵심:** 32인치, 스마트 TV 기능(OTT), 이동형 거치대, 279,000원
 *   **Midjourney 프롬프트:**
-    `A cozy and modern bedroom interior. A person is comfortably lounging on a bed, smiling, and happily watching Netflix on a 32-inch mobile smart TV (SamtanbyME) placed on a stylish, sturdy stand with wheels right beside the bed. The TV screen displays a vibrant, high-definition movie scene. Emphasize a sense of comfort, ease, and personal entertainment. Soft, warm lighting. --ar 1:1 --v 5.2`
+    ```
+    A 32-inch Innos FHD smart TV on a modern, white mobile stand, placed in a cozy, sunlit bedroom. The TV screen displays Netflix playing a popular show. The scene highlights comfort and convenience. Soft, warm ambient lighting. Ultra-realistic, high detail. "279,000 KRW" price overlay and "Ultimate Gaseongbi Smart TV" in bold Korean text. --ar 1:1 --v 5.2
+    ```
 
-### 컷 3: 상품 2 소개 (티비아울렛 구글TV 삼탠바이미)
+### **📌 카드 3/4**
 
-*   **텍스트:**
-    [스마트 기능 강화] 티비아울렛 구글TV 삼탠바이미 💡
-    ✅ 28만 5천원! 구글TV OS 탑재!
-    ✅ 넷플릭스, 유튜브 바로 실행!
-    ✅ 스마트폰처럼 편리한 사용성!
+*   **텍스트:** "2. 티비아울렛 삼탠바이미: 구글TV OS 탑재! 스마트함이 한 수 위! 🚀"
+    *   **핵심:** 구글 TV OS, 넷플릭스/유튜브, 확장성, 285,000원
 *   **Midjourney 프롬프트:**
-    `A bright and clean modern kitchen interior. A person is casually cooking or enjoying a snack, while a sleek 32-inch mobile smart TV (SamtanbyME) on a moving stand displays the intuitive Google TV operating system interface, prominently showing icons for Netflix, YouTube, and other streaming apps. The scene highlights convenience and seamless integration of smart entertainment into daily life. Abundant natural light. --ar 1:1 --v 5.2`
+    ```
+    A 32-inch TV Outlet smart TV with Google TV OS, on a sleek black mobile stand. The screen shows the vibrant Google TV interface with various app icons (Netflix, YouTube, Google Assistant). The TV is positioned in a stylish, modern kitchen or home office. Bright, clear, high-tech aesthetic. "Google TV OS" and "Superior Smart Features" in bold Korean text overlay. --ar 1:1 --v 5.2
+    ```
 
-### 컷 4: 클로징 & Call to Action
+### **📌 카드 4/4**
 
-*   **텍스트:**
-    침실, 주방, 거실 어디든 나만의 'OTT 극장' 완성! 💖
-    지금 바로 프로필 링크에서 가성비 삼탠바이미 만나봐!
+*   **텍스트:** "고민은 배송만 늦출 뿐! 당신의 최애 '삼탠바이미'는? ➡️ 프로필 링크에서 자세히 보기! ✨"
 *   **Midjourney 프롬프트:**
-    `A dynamic, eye-catching triptych or multi-panel image. Each panel showcases the same mobile smart TV (SamtanbyME) being used in a different home setting: a cozy bedroom, a vibrant kitchen, and a stylish living room. In each scene, a different person or activity demonstrates the versatility and enjoyment. Focus on happiness, freedom, and seamless entertainment. Bright, inviting colors. --ar 1:1 --v 5.2`
+    ```
+    Two different smart mobile TVs (Innos and TV Outlet style) standing side-by-side in a chic, contemporary living space. They are slightly angled towards the viewer, inviting comparison. Text overlays: "Which is your favorite SamtanbyME?" in Korean, and a clear arrow pointing to a call-to-action button or text area (e.g., "See details in link"). Bright, inviting atmosphere, clean lines, --ar 1:1 --v 5.2
+    ```
