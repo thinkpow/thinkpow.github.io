@@ -1,75 +1,71 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
+## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 스탠바이미? 이제 반값에 '이거' 사라! 🤫 MD가 찾은 갓성비 삼탠바이미 BEST 2!
+**제목:** 스탠바이미 비싸고 작아서 망설였다면? 딱 15초만 봐! 🔥
 
----
+**[영상 구성]**
 
-**(영상 시작: 0-3초 - 시선을 강탈하는 훅)**
-
-*   **BGM:** 경쾌하고 빠른 템포의 트렌디한 팝 음악
-*   **자막:** 😱 스탠바이미 살 돈이 없다고?
-*   **화면:** 정품 스탠바이미의 멋진 이미지 -> 갑자기 가격표(100만원 이상) 팝업 -> "NO!" 빨간 X 표시와 함께 사라짐 -> "✨ 지갑 지키는 삼탠바이미!" 문구 등장
-
-**🗣️ 대사:** "스탠바이미 갖고 싶어? 근데 100만원 넘는 가격… 너무 비싸서 고민했죠? 😱 잠깐! MD가 찾은 대박 '삼탠바이미' 보면 지갑이 춤출걸요!"
-
----
-
-**(4-12초 - 핵심 정보 전달)**
-
-*   **자막:** 🏆 LG 엘텐바이미: 32인치 대화면! 반값!
-*   **화면:** (LG 32인치 엘텐바이미 제품 이미지 등장, 고급스러움 강조)
-    *   (제품 장점 텍스트 오버레이: '오리지널 LG', '32인치 대화면', '가격 반값 실화?')
-*   **🗣️ 대사:** "첫 번째! 오리지널 LG의 신뢰성! 32인치 대화면에 가격은 반값인 'LG 엘텐바이미'! 침대 옆, 주방 어디든 나만의 스마트 공간을 만들어요!"
-
-*   **자막:** 💸 20만원대 갓성비! 티비아울렛 구글TV!
-*   **화면:** (티비아울렛 구글TV 제품 이미지 등장, 직관적인 사용성 강조)
-    *   (제품 장점 텍스트 오버레이: '20만원대!', '넷플릭스 유튭 기본 탑재', '전원만 꽂으면 끝!')
-*   **🗣️ 대사:** "두 번째! 20만원대 실화? '티비아울렛 구글TV'! 넷플릭스, 유튭 기본 탑재! 전원만 꽂으면 스마트TV 끝판왕! 가성비로는 얘 따라올 자가 없어요!"
+*   **훅 (Hook) - 0~3초: 시선 강탈!**
+    *   **화면:** (빠른 전환) 한숨 쉬는 사람이 27인치 스탠바이미를 아쉬운 듯 바라본다 → 화면 가득 "NO!" 크게 뜨면서 전환 → 거대한 70인치 TV 화면이 고급스러운 집안을 이동하는 모습 (놀란 표정 클로즈업)
+    *   **내레이션/텍스트:** "스탠바이미, 비싸고 작아서 망설였니? 딱 15초면 고민 끝! 🔥"
+*   **본문 - 3~14초: 핵심 정보 속사포!**
+    *   **화면:** (3~7초) 삼성 70인치 TV가 거실, 침실 등 다양한 공간에서 압도적인 영화/게임 장면을 보여주는 모습. (고급스럽고 웅장한 분위기)
+    *   **내레이션/텍스트:** "70인치 초대형 화면이 이동까지?! 80만원대 '삼텐바이미'! 영화관이 우리집으로! 🎬"
+    *   **화면:** (7~11초) LG 32인치 스마트모니터가 주방, 침대 옆 등 아기자기하고 실용적인 공간에서 넷플릭스/유튜브를 보여주는 장면.
+    *   **내레이션/텍스트:** "LG 감성 그대로! 32인치 '엘텐바이미'는 40만원대! 원조 느낌 물씬~ ✨"
+    *   **화면:** (11~14초) 20만원대 스마트 구글 TV가 OTT 앱 로고들(넷플릭스, 유튜브, 디즈니플러스 등)로 가득 찬 화면을 보여주며 다양한 콘텐츠를 즐기는 모습.
+    *   **내레이션/텍스트:** "심지어 20만원대 '구글 TV'까지?! 초가성비 폭발! 🤯"
+*   **마무리 (Call-to-Action) - 14~15초:**
+    *   **화면:** 세 제품이 한 화면에 스타일리시하게 비교 전시된 후, "자세한 정보는 프로필/댓글 링크 클릭!" 텍스트 오버레이.
+    *   **내레이션/텍스트:** "진짜 스탠바이미 가성비는 이거지! 지금 바로 확인해봐! ➡️"
 
 ---
 
-**(13-15초 - 강력한 CTA)**
+## 📸 인스타그램 카드뉴스 4컷
 
-*   **자막:** 🔥 이제 비싸게 사지 마! 프로필 링크 클릭!
-*   **화면:** 두 제품이 함께 등장하며 빛나는 효과, 하단에 "프로필 링크 클릭!" 명확하게 노출
-*   **BGM:** 더욱 고조되며 마무리
-*   **🗣️ 대사:** "이제 비싸게 사지 마세요! 😉 당신의 스마트 라이프, 프로필 링크에서 바로 확인하세요!"
+### 1️⃣ 첫 번째 컷: 훅 & 문제 제기
+
+*   **카드 텍스트:**
+    "스탠바이미, 비싸서 망설였다면? 🚫"
+    "💰 가성비 끝판왕 대안 3가지!"
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A person standing in front of a small, minimalist smart TV on a stand, looking thoughtful and slightly frustrated. An overlay graphic with a bold red 'X' and text 'Too expensive? Too small?'. Behind them, a blurred but inviting background of three different screen sizes on mobile stands, suggesting better solutions. Bright, modern indoor setting, soft cinematic lighting, high contrast. --ar 1:1 --v 5.2
+    ```
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+### 2️⃣ 두 번째 컷: 70인치 삼텐바이미
 
-### 1컷
-*   **들어갈 텍스트:**
-    스탠바이미 비싸서 망설였다면? 😥
-    지갑 지켜줄 '삼탠바이미' BEST 추천!
-
+*   **카드 텍스트:**
+    "✨ 70인치 삼텐바이미: 우리 집이 영화관! 84만원대부터!"
+    "압도적인 몰입감, 이동의 자유까지!"
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A young woman in a cozy, modern living room, looking at an empty space with a slightly thoughtful/frustrated expression. Above her head, a blurred thought bubble with a crossed-out expensive price tag of a smart TV. The room is minimalist with warm indirect lighting. High resolution, photorealistic, cinematic, trending on ArtStation.`
+    ```
+    A futuristic, minimalist living space seamlessly transforms into a private cinema with a massive 70-inch smart display on a sleek, modern mobile stand. The screen vividly displays an epic wide-shot movie scene with breathtaking colors and resolution. Soft ambient light fills the modern architectural space, creating a feeling of ultimate immersion. High-definition, cinematic quality. --ar 1:1 --v 5.2
+    ```
 
-### 2컷
-*   **들어갈 텍스트:**
-    🏆 LG 32인치 엘텐바이미
-    : 브랜드 믿고 32인치 대화면! 가격은 반값!
+---
 
+### 3️⃣ 세 번째 컷: 32인치 엘텐바이미
+
+*   **카드 텍스트:**
+    "💡 32인치 엘텐바이미: LG 감성 그대로, 46만원대! 이동성 갑!"
+    "주방, 침실 어디든 나만의 스마트TV!"
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek LG 32-inch smart monitor on a stylish portable stand (like StandbyMe), positioned in a luxurious, modern bedroom next to a bed. A person is comfortably watching a movie on the screen, surrounded by soft, ambient lighting. Emphasize the clear, vibrant display and elegant design. High resolution, photorealistic, cinematic, trending on ArtStation.`
+    ```
+    A cozy, bright kitchen corner or a small, stylish home office, featuring a 32-inch smart monitor on a modern, slender mobile stand. The screen displays a popular streaming service, showing a vibrant cooking show or a relaxed documentary. The scene is bathed in warm, inviting natural light, with a clean and minimalist aesthetic, hinting at a trusted brand's quality. --ar 1:1 --v 5.2
+    ```
 
-### 3컷
-*   **들어갈 텍스트:**
-    💸 20만원대 갓성비! 티비아울렛 구글TV
-    : 넷플릭스 유튭 기본 탑재, 전원만 꽂으면 끝!
+---
 
+### 4️⃣ 네 번째 컷: 초가성비 & 선택
+
+*   **카드 텍스트:**
+    "🔥 20만원대 구글 TV까지?! 비교하고 현명하게 고르세요!"
+    "더 많은 정보는 프로필 링크 클릭! ➡️"
 *   **Midjourney 스타일 영문 프롬프트:**
-    `An affordable yet stylish smart Google TV (similar to TV Outlet design) on a portable stand, placed in a bright, minimalist kitchen. A person is happily cooking while glancing at the screen, which shows the Netflix/YouTube interface. The atmosphere is cheerful and practical, with abundant natural daylight. High resolution, photorealistic, cinematic, trending on ArtStation.`
-
-### 4컷
-*   **들어갈 텍스트:**
-    이제 비싸게 사지 마세요! 🤫
-    당신의 스마트 라이프, 더 저렴하게 즐겨보세요!
-    (링크는 프로필에 👆)
-
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage image featuring the LG 32-inch Eltenbymy and the TV Outlet Google TV, each shown in different stylish home environments (e.g., bedroom, kitchen, living room). The overall aesthetic is bright, modern, and inviting. Include a clear, clean space at the bottom or side for text overlay 'Link in Bio'. High resolution, photorealistic, cinematic, trending on ArtStation.`
+    ```
+    A dynamic infographic-style image comparing three different sized mobile smart TVs (a large 70-inch, a medium 32-inch, and a smaller, budget-friendly option) in a clean, brightly lit, abstract showroom setting. Each TV has an overlaid price tag or a 'best value' icon. Arrows and dotted lines connect them, emphasizing choice and affordability. Modern, clean design with vibrant, eye-catching elements. --ar 1:1 --v 5.2
+    ```
