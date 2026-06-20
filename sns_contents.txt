@@ -1,69 +1,64 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-*(배경음악: 신나는 비트의 브이로그/테크 리뷰풍 배경음악)*
+**(음악: 밝고 경쾌하며 트렌디한 BGM)**
 
-**[0-3초] 훅 (화면: LG 스탠바이미 이미지에 빨간 X, 이어 '삼탠바이미' 등장하며 화려한 효과)**
-**나레이션 (빠르고 활기차게):** "LG 스탠바이미? 너무 비싸서 포기했어? NO! 이젠 '이거' 하나면 돼!"
+**[0-3초] 훅 & 문제 제기**
+*   **화면:** (빠른 컷 전환) 예쁜 스탠바이미 이미지 → 가격표 보고 충격받는 표정 → 이내 실망하는 표정.
+*   **내레이션:** "스탠바이미 너무 갖고 싶었는데... 비싼 가격에 망설였어요? 😩"
 
-**[3-7초] 문제 제기 & 솔루션 (화면: 스탠바이미 가격표에 놀라는 표정, 이어서 무빙큐빅스 삼탠바이미 SET 27인치 제품이 20만원대 가격표와 함께 등장하며 스르륵 이동하는 모습)**
-**나레이션:** "갖고 싶었지만 가격 때문에 망설였다면 주목! 20만원대로 이동식 스마트 TV를 득템할 기회!"
+**[3-7초] 솔루션 제시 & 컨셉 소개**
+*   **화면:** (빠르게 전환) 깔끔한 '삼탠바이미'가 침실, 주방, 거실로 스르륵 이동하는 모습 → 행복하게 사용하며 미소 짓는 사람.
+*   **내레이션:** "댓츠 노노! 이제 20만원대로 이동식 스마트 TV 즐기세요! ✨ 바로 #삼탠바이미!"
 
-**[7-11초] 주요 기능 & 활용 (화면: 무빙큐빅스/티비아울렛 번갈아 등장하며 넷플릭스, 유튜브 앱 화면, 침실, 주방 등 다양한 공간에서 활용되는 모습 빠르게 전환)**
-**나레이션:** "넷플릭스, 유튜브는 기본! 27인치 스탠다드부터 구글TV 탑재로 더 똑똑하게!"
+**[7-12초] 메인 상품 2가지 소개**
+*   **화면:**
+    *   (7-9초) 이노스 32인치 삼탠바이미 제품 이미지 + 가격 (27.9만원) 및 '초가성비 끝판왕!' 텍스트 오버레이.
+    *   (9-12초) 티비아울렛 구글TV 삼탠바이미 제품 이미지 + 가격 (28.5만원) 및 '구글TV 탑재! 넷플/유튜브 바로!' 텍스트 오버레이.
+*   **내레이션:** "첫째! 27만 9천원, 이노스 삼탠바이미! FHD 스마트 TV에 무빙 거치대까지! 초가성비 끝판왕! 💖"
+*   **내레이션:** "둘째! 28만 5천원, 티비아울렛 구글TV 삼탠바이미! 넷플, 유튜브 바로 실행! 스마트 기능 강화!"
 
-**[11-14초] 추가 선택지 & 이동성 강조 (화면: 위드라이프 43인치 제품이 대화면을 강조하며 등장, 바퀴로 스무스하게 이동하는 모습)**
-**나레이션:** "43인치 대화면 모델도 있어! 거실, 침실, 주방 어디든! 당신의 라이프스타일에 맞춰 자유롭게!"
-
-**[14-15초] 클로징 & CTA (화면: 3가지 삼탠바이미 제품이 한 화면에 모여 '가성비 끝판왕' 문구와 함께 프로필 링크를 가리키는 손가락 아이콘 등장)**
-**나레이션:** "현명한 소비는 지금! 최저가 구매 정보는 프로필 링크에서 확인하세요!"
+**[12-15초] 클로징 & Call to Action**
+*   **화면:** 침실, 주방, 거실에서 삼탠바이미를 즐기는 모습들을 빠르게 교차 편집 → "프로필 링크 클릭!" 텍스트 강조.
+*   **내레이션:** "침실, 주방, 거실 어디든 나만의 OTT 극장 완성! 🏠 지금 바로 프로필 링크에서 만나보세요!"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### 💡 카드뉴스 공통 스타일 가이드
-*   **폰트:** 깔끔하고 모던한 산세리프체 (예: Pretendard, Noto Sans)
-*   **색상:** 베이직한 화이트/블랙 텍스트, 포인트 컬러로 스카이블루 또는 라임 그린 활용
-*   **구성:** 각 컷별 메인 텍스트 중앙 배치, 하단 또는 우측에 작은 부가 설명 추가 가능
+### 컷 1: 훅 & 문제/솔루션 제시
 
----
+*   **텍스트:**
+    스탠바이미 비싸서 망설였지? 💸
+    20만원대 '이동식 스마트TV'로 감성 뚝! 가격 뚝! #삼탠바이미
+*   **Midjourney 프롬프트:**
+    `A visually striking image depicting the transition from despair to delight. On one side, a person looking frustrated at a high price tag on a modern smart display. On the other side, the same person smiling joyfully at a sleek, mobile smart TV on wheels, with a clear, affordable price tag visible. The overall aesthetic is clean, modern, with vibrant colors and soft, inviting lighting. --ar 1:1 --v 5.2`
 
-### 1컷: 훅 (Hook)
+### 컷 2: 상품 1 소개 (이노스 32인치 삼탠바이미)
 
-*   **들어갈 텍스트:**
-    **[메인]** LG 스탠바이미? 비싸서 망설였다면?
-    **[하단]** ✨ 이젠 '삼탠바이미'가 답이다! ✨
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A visually striking, modern living room scene with an empty space where an expensive LG StandbyME TV *should* be, but instead, a thought bubble above it shows a question mark and a large dollar sign. The atmosphere is slightly wistful but hopeful. Clean lines, minimalist aesthetic, natural light. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    [가성비 끝판왕] 이노스 32인치 삼탠바이미 📺 ✨
+    ✅ 27만 9천원 초가성비!
+    ✅ FHD 스마트TV + 무빙 거치대!
+    ✅ 내방 침대 옆, 주방 어디든!
+*   **Midjourney 프롬프트:**
+    `A cozy and modern bedroom interior. A person is comfortably lounging on a bed, smiling, and happily watching Netflix on a 32-inch mobile smart TV (SamtanbyME) placed on a stylish, sturdy stand with wheels right beside the bed. The TV screen displays a vibrant, high-definition movie scene. Emphasize a sense of comfort, ease, and personal entertainment. Soft, warm lighting. --ar 1:1 --v 5.2`
 
----
+### 컷 3: 상품 2 소개 (티비아울렛 구글TV 삼탠바이미)
 
-### 2컷: 무빙큐빅스 스마트 삼탠바이미 SET 27인치
+*   **텍스트:**
+    [스마트 기능 강화] 티비아울렛 구글TV 삼탠바이미 💡
+    ✅ 28만 5천원! 구글TV OS 탑재!
+    ✅ 넷플릭스, 유튜브 바로 실행!
+    ✅ 스마트폰처럼 편리한 사용성!
+*   **Midjourney 프롬프트:**
+    `A bright and clean modern kitchen interior. A person is casually cooking or enjoying a snack, while a sleek 32-inch mobile smart TV (SamtanbyME) on a moving stand displays the intuitive Google TV operating system interface, prominently showing icons for Netflix, YouTube, and other streaming apps. The scene highlights convenience and seamless integration of smart entertainment into daily life. Abundant natural light. --ar 1:1 --v 5.2`
 
-*   **들어갈 텍스트:**
-    **[메인]** 💥 20만원대 후반! 27인치 가성비 끝판왕!
-    **[하단]** LG 스탠바이미와 동일한 화면 크기! 이동식 스마트 TV를 합리적인 가격에!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, 27-inch movable smart TV on a minimalist stand, placed in a cozy, modern bedroom. The screen displays a popular streaming service logo (e.g., Netflix). Soft, warm lighting from a window, emphasizing comfort and affordability. Clean Scandinavian design. --ar 1:1 --v 5.2`
+### 컷 4: 클로징 & Call to Action
 
----
-
-### 3컷: 티비아울렛 스마트 구글 Google TV 삼탠바이미
-
-*   **들어갈 텍스트:**
-    **[메인]** 🤩 구글TV 탑재로 더 스마트하게! 넷플릭스 무제한!
-    **[하단]** 안드로이드 OS 기반, 원하는 앱 마음껏 설치! 콘텐츠 허브가 내 손안에!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A contemporary living space with a movable smart TV prominently featuring the Google TV interface and various app icons (Netflix, YouTube, Disney+). A hand is holding a sleek remote control. The scene is bright and vibrant, emphasizing smart technology and endless entertainment options. Tech-focused, interactive feel. --ar 1:1 --v 5.2`
-
----
-
-### 4컷: 위드라이프 43인치 스마트TV 삼탠바이미 세트 & 클로징
-
-*   **들어갈 텍스트:**
-    **[메인]** 🎬 대화면은 43인치! 현명한 쇼핑은 지금!
-    **[하단]** 일반 TV 대용으로도 완벽! 당신의 공간을 압도하는 몰입감!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A spacious, chic apartment interior with a large 43-inch movable smart TV displaying a vibrant movie scene. The TV is effortlessly positioned in front of a comfortable sofa. The overall ambiance is luxurious yet accessible, highlighting the big screen experience and the convenience of mobility. Call to action text on the screen is subtly suggested. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    침실, 주방, 거실 어디든 나만의 'OTT 극장' 완성! 💖
+    지금 바로 프로필 링크에서 가성비 삼탠바이미 만나봐!
+*   **Midjourney 프롬프트:**
+    `A dynamic, eye-catching triptych or multi-panel image. Each panel showcases the same mobile smart TV (SamtanbyME) being used in a different home setting: a cozy bedroom, a vibrant kitchen, and a stylish living room. In each scene, a different person or activity demonstrates the versatility and enjoyment. Focus on happiness, freedom, and seamless entertainment. Bright, inviting colors. --ar 1:1 --v 5.2`
