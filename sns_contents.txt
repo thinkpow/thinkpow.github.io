@@ -1,71 +1,69 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**제목:** 스탠바이미 비싸고 작아서 망설였다면? 딱 15초만 봐! 🔥
+*(배경음악: 신나는 비트의 브이로그/테크 리뷰풍 배경음악)*
 
-**[영상 구성]**
+**[0-3초] 훅 (화면: LG 스탠바이미 이미지에 빨간 X, 이어 '삼탠바이미' 등장하며 화려한 효과)**
+**나레이션 (빠르고 활기차게):** "LG 스탠바이미? 너무 비싸서 포기했어? NO! 이젠 '이거' 하나면 돼!"
 
-*   **훅 (Hook) - 0~3초: 시선 강탈!**
-    *   **화면:** (빠른 전환) 한숨 쉬는 사람이 27인치 스탠바이미를 아쉬운 듯 바라본다 → 화면 가득 "NO!" 크게 뜨면서 전환 → 거대한 70인치 TV 화면이 고급스러운 집안을 이동하는 모습 (놀란 표정 클로즈업)
-    *   **내레이션/텍스트:** "스탠바이미, 비싸고 작아서 망설였니? 딱 15초면 고민 끝! 🔥"
-*   **본문 - 3~14초: 핵심 정보 속사포!**
-    *   **화면:** (3~7초) 삼성 70인치 TV가 거실, 침실 등 다양한 공간에서 압도적인 영화/게임 장면을 보여주는 모습. (고급스럽고 웅장한 분위기)
-    *   **내레이션/텍스트:** "70인치 초대형 화면이 이동까지?! 80만원대 '삼텐바이미'! 영화관이 우리집으로! 🎬"
-    *   **화면:** (7~11초) LG 32인치 스마트모니터가 주방, 침대 옆 등 아기자기하고 실용적인 공간에서 넷플릭스/유튜브를 보여주는 장면.
-    *   **내레이션/텍스트:** "LG 감성 그대로! 32인치 '엘텐바이미'는 40만원대! 원조 느낌 물씬~ ✨"
-    *   **화면:** (11~14초) 20만원대 스마트 구글 TV가 OTT 앱 로고들(넷플릭스, 유튜브, 디즈니플러스 등)로 가득 찬 화면을 보여주며 다양한 콘텐츠를 즐기는 모습.
-    *   **내레이션/텍스트:** "심지어 20만원대 '구글 TV'까지?! 초가성비 폭발! 🤯"
-*   **마무리 (Call-to-Action) - 14~15초:**
-    *   **화면:** 세 제품이 한 화면에 스타일리시하게 비교 전시된 후, "자세한 정보는 프로필/댓글 링크 클릭!" 텍스트 오버레이.
-    *   **내레이션/텍스트:** "진짜 스탠바이미 가성비는 이거지! 지금 바로 확인해봐! ➡️"
+**[3-7초] 문제 제기 & 솔루션 (화면: 스탠바이미 가격표에 놀라는 표정, 이어서 무빙큐빅스 삼탠바이미 SET 27인치 제품이 20만원대 가격표와 함께 등장하며 스르륵 이동하는 모습)**
+**나레이션:** "갖고 싶었지만 가격 때문에 망설였다면 주목! 20만원대로 이동식 스마트 TV를 득템할 기회!"
 
----
+**[7-11초] 주요 기능 & 활용 (화면: 무빙큐빅스/티비아울렛 번갈아 등장하며 넷플릭스, 유튜브 앱 화면, 침실, 주방 등 다양한 공간에서 활용되는 모습 빠르게 전환)**
+**나레이션:** "넷플릭스, 유튜브는 기본! 27인치 스탠다드부터 구글TV 탑재로 더 똑똑하게!"
 
-## 📸 인스타그램 카드뉴스 4컷
+**[11-14초] 추가 선택지 & 이동성 강조 (화면: 위드라이프 43인치 제품이 대화면을 강조하며 등장, 바퀴로 스무스하게 이동하는 모습)**
+**나레이션:** "43인치 대화면 모델도 있어! 거실, 침실, 주방 어디든! 당신의 라이프스타일에 맞춰 자유롭게!"
 
-### 1️⃣ 첫 번째 컷: 훅 & 문제 제기
-
-*   **카드 텍스트:**
-    "스탠바이미, 비싸서 망설였다면? 🚫"
-    "💰 가성비 끝판왕 대안 3가지!"
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A person standing in front of a small, minimalist smart TV on a stand, looking thoughtful and slightly frustrated. An overlay graphic with a bold red 'X' and text 'Too expensive? Too small?'. Behind them, a blurred but inviting background of three different screen sizes on mobile stands, suggesting better solutions. Bright, modern indoor setting, soft cinematic lighting, high contrast. --ar 1:1 --v 5.2
-    ```
+**[14-15초] 클로징 & CTA (화면: 3가지 삼탠바이미 제품이 한 화면에 모여 '가성비 끝판왕' 문구와 함께 프로필 링크를 가리키는 손가락 아이콘 등장)**
+**나레이션:** "현명한 소비는 지금! 최저가 구매 정보는 프로필 링크에서 확인하세요!"
 
 ---
 
-### 2️⃣ 두 번째 컷: 70인치 삼텐바이미
+## 2. 인스타그램 카드뉴스 4컷
 
-*   **카드 텍스트:**
-    "✨ 70인치 삼텐바이미: 우리 집이 영화관! 84만원대부터!"
-    "압도적인 몰입감, 이동의 자유까지!"
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A futuristic, minimalist living space seamlessly transforms into a private cinema with a massive 70-inch smart display on a sleek, modern mobile stand. The screen vividly displays an epic wide-shot movie scene with breathtaking colors and resolution. Soft ambient light fills the modern architectural space, creating a feeling of ultimate immersion. High-definition, cinematic quality. --ar 1:1 --v 5.2
-    ```
+### 💡 카드뉴스 공통 스타일 가이드
+*   **폰트:** 깔끔하고 모던한 산세리프체 (예: Pretendard, Noto Sans)
+*   **색상:** 베이직한 화이트/블랙 텍스트, 포인트 컬러로 스카이블루 또는 라임 그린 활용
+*   **구성:** 각 컷별 메인 텍스트 중앙 배치, 하단 또는 우측에 작은 부가 설명 추가 가능
 
 ---
 
-### 3️⃣ 세 번째 컷: 32인치 엘텐바이미
+### 1컷: 훅 (Hook)
 
-*   **카드 텍스트:**
-    "💡 32인치 엘텐바이미: LG 감성 그대로, 46만원대! 이동성 갑!"
-    "주방, 침실 어디든 나만의 스마트TV!"
+*   **들어갈 텍스트:**
+    **[메인]** LG 스탠바이미? 비싸서 망설였다면?
+    **[하단]** ✨ 이젠 '삼탠바이미'가 답이다! ✨
 *   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A cozy, bright kitchen corner or a small, stylish home office, featuring a 32-inch smart monitor on a modern, slender mobile stand. The screen displays a popular streaming service, showing a vibrant cooking show or a relaxed documentary. The scene is bathed in warm, inviting natural light, with a clean and minimalist aesthetic, hinting at a trusted brand's quality. --ar 1:1 --v 5.2
-    ```
+    `A visually striking, modern living room scene with an empty space where an expensive LG StandbyME TV *should* be, but instead, a thought bubble above it shows a question mark and a large dollar sign. The atmosphere is slightly wistful but hopeful. Clean lines, minimalist aesthetic, natural light. --ar 1:1 --v 5.2`
 
 ---
 
-### 4️⃣ 네 번째 컷: 초가성비 & 선택
+### 2컷: 무빙큐빅스 스마트 삼탠바이미 SET 27인치
 
-*   **카드 텍스트:**
-    "🔥 20만원대 구글 TV까지?! 비교하고 현명하게 고르세요!"
-    "더 많은 정보는 프로필 링크 클릭! ➡️"
+*   **들어갈 텍스트:**
+    **[메인]** 💥 20만원대 후반! 27인치 가성비 끝판왕!
+    **[하단]** LG 스탠바이미와 동일한 화면 크기! 이동식 스마트 TV를 합리적인 가격에!
 *   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A dynamic infographic-style image comparing three different sized mobile smart TVs (a large 70-inch, a medium 32-inch, and a smaller, budget-friendly option) in a clean, brightly lit, abstract showroom setting. Each TV has an overlaid price tag or a 'best value' icon. Arrows and dotted lines connect them, emphasizing choice and affordability. Modern, clean design with vibrant, eye-catching elements. --ar 1:1 --v 5.2
-    ```
+    `A sleek, 27-inch movable smart TV on a minimalist stand, placed in a cozy, modern bedroom. The screen displays a popular streaming service logo (e.g., Netflix). Soft, warm lighting from a window, emphasizing comfort and affordability. Clean Scandinavian design. --ar 1:1 --v 5.2`
+
+---
+
+### 3컷: 티비아울렛 스마트 구글 Google TV 삼탠바이미
+
+*   **들어갈 텍스트:**
+    **[메인]** 🤩 구글TV 탑재로 더 스마트하게! 넷플릭스 무제한!
+    **[하단]** 안드로이드 OS 기반, 원하는 앱 마음껏 설치! 콘텐츠 허브가 내 손안에!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A contemporary living space with a movable smart TV prominently featuring the Google TV interface and various app icons (Netflix, YouTube, Disney+). A hand is holding a sleek remote control. The scene is bright and vibrant, emphasizing smart technology and endless entertainment options. Tech-focused, interactive feel. --ar 1:1 --v 5.2`
+
+---
+
+### 4컷: 위드라이프 43인치 스마트TV 삼탠바이미 세트 & 클로징
+
+*   **들어갈 텍스트:**
+    **[메인]** 🎬 대화면은 43인치! 현명한 쇼핑은 지금!
+    **[하단]** 일반 TV 대용으로도 완벽! 당신의 공간을 압도하는 몰입감!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A spacious, chic apartment interior with a large 43-inch movable smart TV displaying a vibrant movie scene. The TV is effortlessly positioned in front of a comfortable sofa. The overall ambiance is luxurious yet accessible, highlighting the big screen experience and the convenience of mobility. Call to action text on the screen is subtly suggested. --ar 1:1 --v 5.2`
