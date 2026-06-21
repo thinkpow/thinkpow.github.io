@@ -1,76 +1,96 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
 
-**제목:** 스탠바이미 비싸서 못 샀다고? 😱 20만원대 '이것'만 알면 돼! #삼탠바이미 #가성비TV
+**[영상 컨셉]**
+스탠바이미의 높은 가격에 좌절하는 모습으로 시작, 반전 가성비템들을 소개하며 도파민 폭발! 짧은 시간에 핵심 장점을 임팩트 있게 전달.
 
----
+**[타이밍별 상세 스크립트]**
 
-**[영상 시작 - 훅 (0~3초)]**
+*   **0-3초 (훅):**
+    *   **화면:** 고가 스탠바이미 가격표 클로즈업 -> 좌절하며 한숨 쉬는 인물 클로즈업
+    *   **대사:** "스탠바이미 갖고 싶어서 울었어? 😭 가격 보고 한숨만 푹푹...?"
+    *   **효과음:** (한숨 소리, 좌절감 섞인 멜로디)
 
-*   **영상:** LG 스탠바이미 화면이 나오다가 갑자기 '너무 비싸!'라는 텍스트가 번개처럼 뜨며 X표시. 동시에 화면이 전환되며 활기찬 음악 시작.
-*   **자막:** ⚡️ 스탠바이미 비싸서 포기했어? ⚡️
-*   **내레이션 (신나게):** 스탠바이미? 너무 비싸서 엄두도 못 냈다고? 에이~ 그럴 필요 없어!
+*   **3-8초 (초가성비템 소개):**
+    *   **화면:** 티비아울렛 무빙 구글 TV (침대 옆, 주방 등 다양한 공간에서 편리하게 사용되는 모습)
+    *   **대사:** "노노! 이젠 20만원대로 이동식 TV 끝! 넷플릭스, 유튜브 다 되는 구글 TV가 달랑 28만원대?! 🤯"
+    *   **텍스트 오버레이:** ✨ 20만원대 이동식 TV!, 📺 구글TV OS 탑재
+    *   **효과음:** (놀람, 반전 BGM)
 
-**[본론 (3~12초)]**
+*   **8-13초 (대화면 가성비템 소개):**
+    *   **화면:** 삼성 70인치 삼텐바이미 (넓은 거실에서 영화를 보거나 게임을 즐기는 모습, 부드럽게 이동하는 모습)
+    *   **대사:** "난 무조건 큰 화면! 스탠바이미 가격에 무려 70인치 삼텐바이미 대화면?! 거실이 통째로 영화관이야! 🎬"
+    *   **텍스트 오버레이:** 💥 70인치 4K UHD!, 🎬 삼텐바이미 대화면
+    *   **효과음:** (웅장하고 시원한 BGM)
 
-*   **영상:** (빠르게 전환) '티비아울렛 스마트 구글 TV 삼탠바이미' 제품 영상/사진 -> cozy한 침대 옆, 주방에서 사용
-*   **자막:** ✨ 20만원대 구글TV 기본 탑재!
-*   **내레이션:** 첫 번째! 20만원대 '티비아울렛 삼탠바이미'! 구글TV가 기본이라 넷플릭스, 유튜브 바로 가능! 침실, 주방 어디든 OK!
-
-*   **영상:** (빠르게 전환) '무빙큐빅스 스마트 삼탠바이미 SET 32인치' 제품 영상/사진 -> 깔끔한 원룸, 서재에서 사용
-*   **자막:** 🤩 32인치 깔끔 디자인!
-*   **내레이션:** 다음은 디자인 끝판왕, '무빙큐빅스 32인치 삼탠바이미'! 넉넉한 화면에 인테리어까지 UP!
-
-**[마무리 (12~15초)]**
-
-*   **영상:** 두 제품의 비교 컷 or 사람들이 행복하게 삼탠바이미를 사용하는 모습.
-*   **자막:** 더 이상 비싸게 사지마! 꿀템 보러가기 👉 [링크 유도]
-*   **내레이션:** 이제 비싸게 사지 말고, 가성비 삼탠바이미로 스마트 라이프 즐겨봐! 더 많은 정보는 프로필 링크 확인!
-
----
-
-## 2. 인스타그램 카드뉴스 4컷
-
-**콘텐츠 제목:** 스탠바이미 비싸서 망설였다면? 🥹 2024년 가성비 삼탠바이미 BEST 3
+*   **13-15초 (클로징 & CTA):**
+    *   **화면:** 두 제품 나란히 비교 -> '더 자세한 정보는 프로필 링크 확인!' 텍스트
+    *   **대사:** "스탠바이미 고민 끝! 가성비 대박템들, 지금 바로 프로필 링크에서 확인하세요! ➡️"
+    *   **효과음:** (밝고 신나는 BGM)
 
 ---
 
-### **[1/4 컷] - 시선 강탈 훅**
+## 2. 인스타그램 카드뉴스 (4컷)
 
-*   **텍스트:** "스탠바이미 사고 싶은데… 가격 보고 한숨만?"
-    *   **부제목:** 😩 비싸서 망설였다면 꼭 보세요! 2024 가성비 '삼탠바이미' 등장!
-*   **Midjourney 프롬프트:**
-    ```
-    A young person looking disappointed and frustrated, holding a credit card, while a blurry, out-of-reach expensive smart TV on a stand is in the background. The mood is slightly melancholic with soft, warm lighting. --ar 1:1 --v 5.2 --style raw
-    ```
+---
 
-### **[2/4 컷] - 가성비 끝판왕 소개**
+### **[1컷]**
 
-*   **텍스트:** "✨ 20만원대 구글TV 기본 탑재! 티비아울렛 스마트 삼탠바이미"
-    *   **장점 요약:** 침실/주방/캠핑 어디든! 넷플릭스, 유튜브 바로 즐기는 이동식 스마트 TV!
-    *   **가격:** 💰 285,000원부터! (링크 클릭!)
-*   **Midjourney 프롬프트:**
+*   **카드뉴스 텍스트:**
+    **스탠바이미는 좋은데… 비싸?! 😩**
+    **이젠 '가성비 이동식 TV'로 Flex! ✨**
+    *고가의 스탠바이미 대신 합리적인 가격으로 즐기는 스마트한 TV 생활!*
+
+*   **Midjourney 스타일 영문 프롬프트:**
     ```
-    A cozy modern bedroom scene with a sleek, minimalist movable smart TV on a stand next to a bed. The TV screen displays a vibrant Google TV interface with Netflix and YouTube icons. Soft, inviting warm lighting. --ar 1:1 --v 5.2 --style raw
+    A sleek, modern portable smart TV (like LG StandbyMe) with a high price tag overlayed, in a minimalist, warm living room setting. A person is looking at the TV with a slightly sad or longing expression, hands on their chin. The background should subtly hint at luxury but also a sense of unattainable desire. High-quality photography, soft natural lighting, emotional, 4k.
     ```
 
-### **[3/4 컷] - 디자인 & 활용성 소개**
+---
 
-*   **텍스트:** "🤩 32인치 대화면에 깔끔한 디자인! 무빙큐빅스 스마트 삼탠바이미"
-    *   **장점 요약:** 원룸, 서재 인테리어 완성! 답답함 없이 시원하게 즐기는 나만의 영화관!
-    *   **가격:** 💰 369,000원부터! (링크 클릭!)
-*   **Midjourney 프롬프트:**
+### **[2컷]**
+
+*   **카드뉴스 텍스트:**
+    **💖 20만원대로 이동식 TV 끝!**
+    **"티비아울렛 무빙 구글 TV"**
+    ✔ 압도적인 20만원대 가격
+    ✔ 넷플릭스, 유튜브 다 되는 구글 TV OS
+    ✔ 침실, 주방 어디든 OK!
+    *초가성비 스탠바이미 대체재, 후회 없을 걸?*
+
+*   **Midjourney 스타일 영문 프롬프트:**
     ```
-    A stylish, Scandinavian-inspired studio apartment living room. A 32-inch smart TV on a minimalist movable stand is positioned perfectly, blending with the clean aesthetic. Natural light streams in. --ar 1:1 --v 5.2 --style raw
+    A cozy bedroom or a bright, modern kitchen, a person happily enjoying a sleek, minimalist portable smart TV on a stand (resembling '티비아울렛 무빙 구글 TV'). The screen shows Netflix playing. Warm, inviting atmosphere. Bright daylight streaming in, comfortable and accessible. Soft focus on the background. High resolution, vibrant colors.
     ```
 
-### **[4/4 컷] - CTA 및 프리미엄 옵션**
+---
 
-*   **텍스트:** "더 이상 비싸게 사지 마세요! 💖 당신의 스마트 라이프를 바꿀 가성비 삼탠바이미 BEST 3"
-    *   **추가 꿀팁:** ⚡️ 대화면 원한다면? 삼성 70인치 4K 삼텐바이미도 있어요!
-    *   **클릭 유도:** 👉 자세한 정보는 프로필 링크에서 확인하세요!
-*   **Midjourney 프롬프트:**
+### **[3컷]**
+
+*   **카드뉴스 텍스트:**
+    **💥 스탠바이미 가격에 70인치 대화면?!**
+    **"삼성 70인치 삼텐바이미"**
+    ✔ 압도적인 70인치 크리스탈 UHD 4K
+    ✔ 삼성 브랜드의 신뢰와 고품격 화질
+    ✔ 거실이 나만의 영화관으로 변신!
+    *대화면 & 이동성, 두 마리 토끼를 잡다!*
+
+*   **Midjourney 스타일 영문 프롬프트:**
     ```
-    A collage of three different lifestyle scenes showing people happily enjoying mobile smart TVs (Sam-Tan-by-Me) in various settings: one in a cozy bedroom, one in a modern kitchen, and one in a spacious living room with a large 70-inch screen. Dynamic and joyful atmosphere. --ar 1:1 --v 5.2 --style raw
+    A spacious, modern living room with a large (70-inch) Samsung smart TV on an elegant, barely visible mobile stand. The TV screen displays a vibrant, high-definition movie scene. A happy family or couple is comfortably relaxing on a sofa, fully immersed in the viewing experience. Cinematic lighting, luxurious interior design, high resolution, dynamic.
+    ```
+
+---
+
+### **[4컷]**
+
+*   **카드뉴스 텍스트:**
+    **내게 딱 맞는 '스탠바이미 가성비'는?**
+    ➡️ **20만원대 초가성비** or **70인치 대화면** ◀️
+    *더 자세한 정보는 프로필 링크에서 확인하세요! 🛒*
+
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A split image or juxtaposed composition. On the left side, a small, cozy portable smart TV (representing '티비아울렛 무빙 구글 TV') in a minimalist setting. On the right side, a grand 70-inch smart TV (representing '삼성 70인치 삼텐바이미') in a spacious living room. A subtle 'VS' or a comparison graphic in the middle. Clean, modern, decision-making theme, infographic style, 4k.
     ```
