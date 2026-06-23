@@ -2,75 +2,81 @@
 
 ## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 스탠바이미 비싸서 포기했어? 🙅‍♀️ 갓성비 삼탠바이미로 삶의 질 수직 상승! ✨
+**콘셉트:** LG 스탠바이미의 높은 가격 때문에 망설이던 사람들에게 '가성비 삼탠바이미'라는 완벽한 대안을 제시, 주요 제품의 핵심 매력을 빠르게 전달하며 구매 욕구를 자극. 첫 3초 안에 시선을 사로잡는 강력한 후크!
 
 ---
 
-**[0-3초 훅(Hook)]**
-*   **영상:** 스탠바이미 가격 보고 깜짝 놀라는 표정 ➡️ 눈 크게 뜨고 "헉!" 외치는 자막 + 효과음 (띵!)
-*   **대사:** "스탠바이미, 너무 비싸서 포기했어? 😡 이젠 고민 끝! 갓성비 삼탠바이미가 나타났다!"
+**제목:** 😲 LG 스탠바이미? 이제 '가성비 삼탠바이미'로 FLEX! (선택장애 해결)
 
-**[3-8초 도입 및 비교 1]**
-*   **영상:** 스타일리쉬한 이동식 스마트 모니터가 거실, 침실, 주방으로 스르륵 움직이는 모션 그래픽.
-*   **대사:** "넷플릭스, 유튜브 어디서든 OK! ✨ 첫 번째, **위드라이프 43인치!**" (화면에 위드라이프 제품과 '43인치 대화면', '35만9천원' 자막 빠르게 띄우기)
-*   **대사:** "영화관이 내 방으로 쏙! 구글 TV로 OTT 몰입감 폭발!"
+**(0-3초) 훅: 💸 비싸서 포기? NO!**
+*   **화면:** 슬픈 표정으로 LG 스탠바이미 가격표를 줌인해서 보여주다가, 고개를 절레절레 흔들며 아쉬워하는 모습.
+*   **자막:** LG 스탠바이미... 😭
+*   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미 너무 비싸서 망설였죠?!"
 
-**[8-13초 비교 2]**
-*   **영상:** LG 제품이 등장하며 깔끔하고 신뢰감 있는 느낌. 스마트 모니터로 작업도 하고 OTT도 보는 장면.
-*   **대사:** "두 번째, 믿고 쓰는 **LG 엘텐바이미 32인치!**" (화면에 LG 제품과 'LG 브랜드', '활용도 갑', '43만3천8백원' 자막 빠르게 띄우기)
-*   **대사:** "LG 감성 포기 못해? 작업용으로도 딱! 브랜드 가치까지 완벽!"
+**(3-7초) 문제 해결 & 대안 제시: ✨ 로망, 현실이 되다!**
+*   **화면:** 침대 옆, 주방 식탁, 거실 소파 등 다양한 공간에서 가성비 삼탠바이미가 자유롭게 이동하며 사용되는 모습 (빠른 컷 전환).
+*   **자막:** 가성비 삼탠바이미가 답!
+*   **내레이션:** "이제 그 로망, 현실로 만들어줄 '가성비 삼탠바이미'가 왔어요!"
 
-**[13-15초 마무리 및 CTA]**
-*   **영상:** 두 제품이 나란히 비교되는 화면. 링크 클릭 유도하는 손가락 이모지.
-*   **대사:** "어때? 너의 취향은? 👆 지금 바로 링크에서 인생템 겟해봐! #삼탠바이미 #가성비 #스탠바이미대체"
+**(7-12초) 핵심 상품 어필: 🎯 취향 저격템 등장!**
+*   **화면:**
+    *   `무빙큐빅스` 제품 클로즈업. 선 없이 자유롭게 이동하는 모습 연출.
+    *   `티비아울렛 구글TV` 제품 클로즈업. 구글TV 앱 화면 전환, 음성인식 사용하는 손 동작.
+*   **자막:** (좌) 선 없는 자유! 무빙큐빅스 / (우) 앱 무제한! 구글TV 탑재!
+*   **내레이션:** "선 없는 완벽 자유! '무빙큐빅스'와 앱 무제한! 스마트 끝판왕 '구글TV 삼탠바이미'!"
+
+**(12-15초) 마무리 & CTA: 🛒 내 인생템은?**
+*   **화면:** 두 제품이 나란히 비교되어 보이며, 하단에 프로필 링크 유도 자막.
+*   **자막:** 📌 내 라이프스타일에 딱 맞는 제품은? 프로필 링크 Click!
+*   **내레이션:** "내 라이프스타일에 딱 맞는 인생템, 지금 바로 프로필 링크에서 만나보세요!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-### **카드 1: 훅 & 문제 제기**
+---
 
-*   **텍스트:**
-    **스탠바이미, 너무 비싸서 포기했어? 😭**
-    거실, 침실, 주방 어디든 옮겨 다니며 즐기는 자유로움!
-    하지만 가격 때문에 망설였다면... 이제 고민 끝!
-    **#스탠바이미 #비싸 #가성비 #고민끝**
-*   **Midjourney 프롬프트:**
-    `A young woman sitting on a sofa, looking frustrated at an expensive LG StandbyME in a sleek modern living room. Her wallet is empty. The atmosphere is slightly melancholic with a touch of luxury, cinematic lighting, ultra-realistic, --ar 1:1 --v 5.2`
+### **📍 첫 번째 컷: 후크 (문제 제기)**
 
-### **카드 2: 솔루션 제시 (삼탠바이미)**
+*   **들어갈 텍스트:**
+    LG 스탠바이미, 너무 비싸서 포기했어요? 😢
+    하지만 '이것'만 알면 당신의 로망이 현실이 됩니다!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A stylish, minimalist living room with a person sitting on a sofa, looking somewhat disappointed or wistful at an empty corner where a portable TV could be. Soft natural light, modern design, cinematic wide shot, in the style of *architectural photography*, *warm muted colors*. --ar 1:1 --v 5.2
 
-*   **텍스트:**
-    **✨ 갓성비 '삼탠바이미' 시대가 왔다!**
-    스마트 모니터 + 이동식 스탠드 = 완벽한 스탠바이미 대체!
-    넷플릭스, 유튜브는 기본! 미러링까지 스마트하게!
-    **당신의 삶의 질을 수직 상승시켜 줄 특급 아이템 공개!**
-    **#삼탠바이미 #스마트모니터 #인생템 #강력추천**
-*   **Midjourney 프롬프트:**
-    `A futuristic, elegant mobile smart monitor on a sleek movable stand, glowing with vibrant OTT app icons (Netflix, YouTube, Disney+). The screen displays a dynamic movie scene, surrounded by a cozy yet modern apartment interior. Soft ambient lighting, high-tech, --ar 1:1 --v 5.2`
+---
 
-### **카드 3: 메인 추천 1 (위드라이프 43인치)**
+### **📍 두 번째 컷: 솔루션 (삼탠바이미 소개)**
 
-*   **텍스트:**
-    **🏆 압도적 가성비! 43인치 대화면의 끝판왕!**
-    **위드라이프 43인치 구글 삼탠바이미**
-    ✔️ **43인치** 대화면으로 영화관 몰입감!
-    ✔️ 최신 **구글 TV OS**로 모든 OTT 지원!
-    ✔️ 이동식 스탠드 포함 **완벽 세트!**
-    ✔️ 놀라운 가격 **359,000원!** (1등급 에너지 효율까지!)
-    **#위드라이프 #43인치 #구글TV #대화면**
-*   **Midjourney 프롬프트:**
-    `A person happily watching a vibrant movie on a huge 43-inch smart monitor, which is on a mobile stand in a cozy, dim-lit bedroom. Popcorn and drinks are nearby. The screen emits a soft, immersive glow, cinematic, warm tones, high detail, --ar 1:1 --v 5.2`
+*   **들어갈 텍스트:**
+    NO! '삼탠바이미'로 가성비+감성 다 잡아요! ✨
+    이동성, 스마트 기능 다 잡은 현명한 대안이 여기 있어요!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A sleek, modern movable smart TV (like a SamtanbyME) being happily used in a cozy bedroom with warm lighting. A person is smiling softly while comfortably watching content on the screen. *Soft focus, warm aesthetic, hygge vibe, slightly cinematic, product photography style*. --ar 1:1 --v 5.2
 
-### **카드 4: 메인 추천 2 (LG 엘텐바이미 32인치)**
+---
 
-*   **텍스트:**
-    **💖 역시 'LG'! 믿고 쓰는 브랜드의 안정감!**
-    **LG 엘텐바이미 32인치 스마트모니터**
-    ✔️ **'LG' 브랜드**의 압도적인 신뢰도!
-    ✔️ 32인치 스마트 모니터 + 이동형 스탠드!
-    ✔️ **OTT는 물론, 작업용 모니터까지!**
-    ✔️ 가격 **433,800원!** (믿을 수 있는 품질에 투자!)
-    **#LG모니터 #엘텐바이미 #LG #브랜드신뢰 #다용도**
-*   **Midjourney 프rompt:**
-    `A stylish 32-inch LG smart monitor on a clean mobile stand, shown in a bright, minimalist home office/living room. One side of the screen shows a work document, the other shows a relaxed streaming service. A person is comfortably using it for both productivity and leisure, clean, modern, --ar 1:1 --v 5.2`
+### **📍 세 번째 컷: 메인 상품 1 (무빙큐빅스 프리미엄 무선 삼탠바이미)**
+
+*   **들어갈 텍스트:**
+    📌 **MD's PICK 1: 선 없이 완전 자유! 🔋**
+    **무빙큐빅스 프리미엄 무선 삼탠바이미 (40만원대)**
+    ✅ 내장 배터리로 어디든 OK!
+    ✅ QLED 화질로 선명하게
+    ✅ 세련된 화이트 디자인
+*   **Midjourney 스타일 영문 프롬프트:**
+    A sleek, white portable smart TV (like the Moving Cubics) being used wirelessly outdoors on a stylish patio or balcony. A person is enjoying a movie or content with a cup of coffee. Lush green background, golden hour lighting. *Clean, modern product photography, bright and airy, a sense of freedom and relaxation*. --ar 1:1 --v 5.2
+
+---
+
+### **📍 네 번째 컷: 메인 상품 2 (티비아울렛 구글TV 삼탠바이미) & CTA**
+
+*   **들어갈 텍스트:**
+    📌 **MD's PICK 2: 스마트함의 끝판왕! 📺**
+    **티비아울렛 구글TV 삼탠바이미 (20만원대 후반)**
+    ✅ 구글 TV OS로 앱 무제한!
+    ✅ 압도적인 가성비
+    ✅ 음성 인식으로 편리함 UP!
+    더 자세한 비교는 프로필 링크에서! 🔗
+*   **Midjourney 스타일 영문 프롬프트:**
+    A modern portable smart TV (like the TV Outlet Google TV SamtanbyME) in a minimalist living room, displaying a vibrant app interface (like Netflix or YouTube). A hand reaching for the remote or using voice control feature. *Modern, tech-focused, clean lines, bright screen, cozy but smart home aesthetic*. --ar 1:1 --v 5.2
