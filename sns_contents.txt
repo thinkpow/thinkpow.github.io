@@ -1,84 +1,83 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 🚨 LG 스탠바이미 비켜! 지갑 부담 덜어줄 가성비 이동식 TV BEST 2!
+**(영상 길이: 15초)**
 
-**[시작 - 훅 (0-3초)]**
-*   **화면:** (빠른 컷 전환)
-    1.  LG 스탠바이미 가격표를 보고 좌절하는 사람의 얼굴 (클로즈업)
-    2.  이어폰을 꽂고 '헉!' 하는 표정 (음향: 돈 나가는 소리, 삑사리 나는 효과음)
-    3.  팝업 텍스트: "LG 스탠바이미... 넘 비싸!"
-*   **내레이션:** (빠르고 흥분된 목소리) "LG 스탠바이미 비싸서 포기했어?! 🤯 첫 3초 안에 시선 강탈! 이동식 스마트TV 가성비 끝판왕 딱 2개만 보여줄게!"
+**[영상 시작]**
 
-**[전개 - 문제 제기 및 해결책 제시 (3-12초)]**
-*   **화면:** (경쾌한 배경음악 시작)
-    *   **3-6초:** 침대 옆, 주방 식탁, 베란다 등 다양한 공간에서 세련된 이동식 TV를 자유롭게 사용하는 모습 (배경 전원 코드가 보이지 않게 연출)
-    *   **내레이션:** "스탠바이미는 갖고 싶은데... 가격이 후덜덜했죠? 이제 그럴 필요 없어요! 지갑은 지키고 원하는 기능은 다 가진 이동식 TV가 있거든요!"
-    *   **6-9초:** **[상품 1: 무빙큐빅스 삼탠바이미]**
-        *   화면: 무빙큐빅스 TV 클로즈업. 선명한 QLED 화면으로 영화 장면이 재생되고, 배터리 잔량 아이콘이 깜빡이며 '배터리 내장' 강조. 이어서 사람이 TV를 가볍게 밀어 다른 공간으로 옮기는 장면.
-        *   팝업 텍스트: "🔋 배터리 내장! 💎 QLED 화질!"
-        *   **내레이션:** "첫 번째! **무빙큐빅스 삼탠바이미!** 🔋 배터리 내장이라 전원 없이 어디든 쓱~ QLED 화질까지 미쳤다구요!"
-    *   **9-12초:** **[상품 2: 티비아울렛 구글 TV 삼탠바이미]**
-        *   화면: 티비아울렛 TV 클로즈업. 구글 TV 인터페이스가 선명하게 보이며 넷플릭스, 유튜브 아이콘을 손가락으로 가리키는 장면. 가격 '20만원대' 팝업 강조.
-        *   팝업 텍스트: "💸 20만원대! ✨ 구글TV 기본!"
-        *   **내레이션:** "두 번째! **티비아울렛 구글TV 삼탠바이미!** ✨ 20만원대 초가성비에 구글TV까지 기본 탑재! 넷플릭스, 유튜브 바로 GO!"
+**[0-3초] 훅 (Hook) - 시선 강탈!**
+*   **화면:** 고급스러운 스탠바이미가 멋진 공간에 놓여있음. 하지만 화면 하단에 깜짝 놀랄 만한 높은 가격표(ex. 129만원)가 뿅! 하고 뜨고, 동시에 좌절하는 사람의 얼굴 이모지  overlay.
+*   **자막:** 😲 스탠바이미 가격보고 심장 멎을 뻔...
+*   **내레이션 (빠르고 경쾌하게):** "스탠바이미 갖고 싶어서 검색했는데... 가격 실화?!"
 
-**[마무리 - 강조 및 CTA (12-15초)]**
-*   **화면:** (활기찬 배경음악 지속) 두 제품이 나란히 놓여있는 깔끔한 배경. 화면 하단에 댓글 아이콘과 화살표 표시 강조.
-*   **팝업 텍스트:** "이동식 스마트TV, 비싸게 사지 마세요!" -> "⬇️ 더 자세한 정보는 댓글 링크 확인!"
-*   **내레이션:** "이동식 스마트TV, 이제 비싸게 사지 마세요! 더 자세한 정보는 댓글 링크 확인!"
+**[3-8초] 문제 제기 & 해결책 제시**
+*   **화면:** MD 복장을 한 유튜버/숏폼 크리에이터가 카메라를 보며 자신감 있는 표정으로 등장, 뒤로 스탠바이미 가성비 제품 2개가 깔끔하게 나타남.
+*   **자막:** 😱 고민 NO! 10년차 MD가 찾은 '스탠바이미 가성비' 끝판왕!
+*   **내레이션:** "걱정 마세요! 10년차 베테랑 MD가 직접 발품 팔아 찾은 '스탠바이미 가성비' 끝판왕 두 가지! 지금 바로 공개합니다!"
 
----
+**[8-12초] MD픽 1: 압도적 가성비**
+*   **화면:** 첫 번째 추천 제품인 '티비아울렛 구글TV 삼탠바이미' (제품 이미지)가 등장하고, 넷플릭스, 유튜브 UI가 재생되는 모습 연출. 가격(28만5천원) 강조.
+*   **자막:** 🥇 MD픽 1: 20만원대 구글TV 삼탠바이미! 넷플릭스, 유튜브 기본!
+*   **내레이션:** "첫째! 20만원대 '티비아울렛 구글TV 삼탠바이미'! 넷플릭스, 유튜브는 기본! 모든 OTT 앱이 다 된다고요!"
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+**[12-15초] MD픽 2: 원조에 근접한 경험**
+*   **화면:** 두 번째 추천 제품인 '무빙큐빅스 QLED 유무선 삼탠바이미' (제품 이미지)가 등장. 무선으로 침대 옆, 주방 등 다양한 공간에서 움직이는 모습 연출 (자유로운 이동성 강조). QLED 화질 강조.
+*   **자막:** 🥈 MD픽 2: 무선+QLED 화질! 원조 스탠바이미 경험 그대로!
+*   **내레이션:** "둘째! 무선에 QLED 화질까지! 원조 스탠바이미 경험에 가장 근접한 '무빙큐빅스'!"
 
-### **📇 카드뉴스 1/4**
+**[마무리]**
+*   **화면:** 두 제품이 나란히 놓여있는 모습, 또는 즐겁게 TV를 시청하는 사람의 모습.
+*   **자막:** ➡️ 내 방에 스탠바이미 드림 실현! 프로필 링크 클릭!
+*   **내레이션:** (생략 또는 "더 자세한 정보는 프로필 링크에서 확인하세요!")
 
-*   **카드 텍스트:**
-    *   **헤드라인:** 🚨 LG 스탠바이미 비싸서 포기? 🚨
-    *   **본문:** 지갑은 가볍게! 원하는 기능은 다 가진 #이동식스마트TV #가성비 대안 BEST 2! 지금 바로 공개합니다!
-*   **Midjourney 프롬프트:**
-    `A stylish, modern living room with soft, natural light streaming through large windows. A sleek, minimalist mobile TV stand with a blank screen stands in the center. A person with a slightly thoughtful but determined expression looks at the TV. The atmosphere is aspirational, clean, and a bit frustrated but hopeful. Ultra-realistic photography, cinematic lighting, 8k, --ar 1:1`
+**[영상 끝]**
 
 ---
 
-### **📇 카드뉴스 2/4**
+## 2. 인스타그램 카드뉴스 4컷
 
-*   **카드 텍스트:**
-    *   **헤드라인:** 1️⃣ 전원 없이 자유롭게! 무빙큐빅스 삼탠바이미
-    *   **본문:**
-        *   🔋 내장 배터리+이동식 스탠드 기본!
-        *   ✨ FHD QLED 선명한 화질!
-        *   🏠 침실, 주방, 캠핑 어디든 나만의 영화관!
-        *   **가격:** 40만원대
-*   **Midjourney 프롬프트:**
-    `A cozy bedroom with a modern aesthetic, featuring soft, warm lighting. A sleek 32-inch portable QLED TV on a mobile stand is positioned next to the bed, displaying a vibrant, high-definition movie scene. The TV is not connected to a power outlet, emphasizing its battery. Ultra-realistic photography, cinematic, cozy, inviting atmosphere, 8k, --ar 1:1`
+**카드뉴스 1/4**
 
----
+*   **들어갈 텍스트:**
+    ✨스탠바이미 갖고 싶었지만 가격보고 망설였다면? ✨
+    10년차 MD가 찾아낸 '가성비' 끝판왕 대안 2가지!
 
-### **📇 카드뉴스 3/4**
-
-*   **카드 텍스트:**
-    *   **헤드라인:** 2️⃣ 20만원대 초가성비! 티비아울렛 구글 TV 삼탠바이미
-    *   **본문:**
-        *   💸 압도적 가성비! 20만원대!
-        *   📺 Google TV 기본 탑재 (넷플릭스, 유튜브 바로 GO!)
-        *   💨 간편 이동식 스탠드!
-        *   **가격:** 20만원대
-*   **Midjourney 프롬프트:**
-    `A bright, clean, modern kitchen island. A sleek 32-inch portable TV on a mobile stand is placed on the island, prominently displaying the Google TV interface with Netflix and YouTube icons. A person is casually watching the TV while preparing a simple meal in the background. Ultra-realistic photography, bright, clean, modern, 8k, --ar 1:1`
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A modern, minimalist living room with a slightly blurred, aesthetically pleasing mobile smart TV in the background. In the foreground, a hand holding a credit card with a 'hesitation' emoji overlay, symbolizing the high price of popular smart TVs. Soft, natural lighting, clean lines, high quality, cinematic, realistic photo, hyper-detailed, --ar 1:1"
 
 ---
 
-### **📇 카드뉴스 4/4**
+**카드뉴스 2/4**
 
-*   **카드 텍스트:**
-    *   **헤드라인:** 💡 당신의 선택은? 가성비 끝판왕 이동식 TV!
-    *   **본문:**
-        *   **무빙큐빅스:** 배터리+QLED, 완벽한 스탠바이미 경험!
-        *   **티비아울렛:** 구글TV+20만원대, 스마트 기능/가격 동시 만족!
-        *   💖 더 자세한 정보는 프로필 링크 확인!
-        *   #스탠바이미 #삼탠바이미 #포터블TV #가성비템 #스마트TV
-*   **Midjourney 프롬프트:**
-    `Two sleek, modern portable TVs (one slightly more premium-looking, one slightly more compact, but both elegant) standing side-by-side on a clean, minimalist light background. Both screens display vibrant, exciting content. A subtle glow emanates from the screens. A hand is gently pointing towards the TVs, indicating a choice. Minimalist product photography, high key lighting, clean studio shot, 8k, --ar 1:1`
+*   **들어갈 텍스트:**
+    🥇 MD픽 1: 압도적 가성비!
+    20만원대 '티비아울렛 구글TV 삼탠바이미'
+    ➡️ 넷플릭스, 유튜브, 모든 OTT 앱 완벽 지원! 스마트함은 그대로, 가격은 파격적!
+
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A sleek, white mobile smart TV (similar to StandbyMe) with Google TV interface showing Netflix logo, placed in a cozy bedroom with warm lighting. A user's hand is subtly holding a remote. The TV is the focal point, emphasizing smart features and affordability. Modern, inviting atmosphere, realistic photo, hyper-detailed, --ar 1:1"
+
+---
+
+**카드뉴스 3/4**
+
+*   **들어갈 텍스트:**
+    🥈 MD픽 2: 원조 스탠바이미 경험에 가장 근접!
+    '무빙큐빅스 QLED 유무선 삼탠바이미'
+    ➡️ QLED 화질, 내장 배터리로 유무선 자유롭게! 디자인까지 완벽!
+
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A stylish, white mobile smart TV with a vibrant QLED display showing a high-quality movie scene, positioned outdoors on a modern balcony or a bright living room without visible power cords, highlighting its wireless portability. Clean, aesthetic design, bright and natural light, realistic photo, cinematic, --ar 1:1"
+
+---
+
+**카드뉴스 4/4**
+
+*   **들어갈 텍스트:**
+    내 방, 주방, 베란다까지 ✨어디든 나만의 영화관 완성!✨
+    지금 바로 프로필 링크에서 MD 추천템을 만나보세요!
+    #스탠바이미가성비 #이동식TV #스마트TV #삼탠바이미
+
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A joyful person relaxing on a modern sofa, smiling while watching content on a mobile smart TV placed comfortably in front of them. The room is bright and stylish with soft ambient light. Emphasize comfort, freedom, and the joy of having entertainment anywhere. Cinematic, warm and inviting atmosphere, realistic photo, hyper-detailed, --ar 1:1"
