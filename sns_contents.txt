@@ -1,64 +1,37 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 분량 스크립트
 
-**제목:** 비싼 스탠바이미 졸업! 💸 이 영상 보면 지갑 지킨다! #스탠바이미 #가성비 #삼탠바이미
+**제목:** LG 스탠바이미? 이제 '이거'로 가성비 끝판왕 찍으세요! ✨
 
-**등장인물:** 텐션 높은 유튜버 (화면 가득 잡히는 얼굴)
+**(훅 Hook - 0~3초)**
+*   **화면:** 비싼 LG 스탠바이미 가격표를 보고 충격받는 표정의 사용자 (X 표시). 빠르게 '헉! 너무 비싸잖아?!' 자막이 스쳐 지나감.
+*   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미... 갖고 싶어서 검색했다가 가격에 심장 멎을 뻔했다면? 잠깐!"
 
----
+**(본론 - 3~12초)**
+*   **화면:** 침대 옆, 주방 식탁 위, 거실 소파 앞 등 다양한 공간에서 '삼탠바이미'를 자유롭게 이동하며 사용하는 모습. 무빙큐빅스 제품(QLED 화질 강조), 티비아울렛 제품(구글TV 로고 강조)이 번갈아 빠르고 매력적으로 노출.
+*   **내레이션:** "이제 '삼탠바이미'로 가성비+이동성 다 잡으세요! 👏 QLED 32인치 무선 스마트TV가 40만원대? (무빙큐빅스) 심지어 20만원대로 구글TV까지! (티비아울렛) 원하는 곳 어디든 OK! 넷플릭스, 유튜브는 기본!"
 
-**(0-3초) ⚡️ 훅! 강렬한 시선 강탈!**
-**(유튜버가 화면에 가까이 다가와 비장하게 말한다)**
-"야! LG 스탠바이미... 그거 너무 비싸잖아? (갑자기 표정 바꾸며) 근데 갖고 싶지??"
-
-**(3-7초) 문제 제기 & 해결책 제시**
-"그럼 이제 멈춰! 지갑 지키는 '가성비 삼탠바이미'가 왔어! 이동식 TV인데 스마트 기능 다 되고! 가격은 훨씬 착해!"
-
-**(7-10초) 무빙큐빅스 소개 (빠르게 핵심만)**
-"첫 번째! ✨ 무빙큐빅스! 스탠바이미 감성 그대로! 32인치 QLED에 무선, 내장 배터리까지! (엄지 척) 40만원대면 이거 완전 혜자!"
-
-**(10-13초) 티비아울렛 소개 (더 빠르게 핵심만)**
-"두 번째! 💰 찐 가성비 끝판왕! 티비아울렛 구글 TV! 20만원대로 넷플, 유튜브 다 돼! 이동식 스탠드 기본이라고!"
-
-**(13-15초) 마무리 & CTA**
-"스탠바이미 부럽지 않은 자유로움! 지금 바로 쿠팡에서 비교해봐! (손가락으로 화면 아래 가리키며) 자세한 건 댓글 링크 확인!"
+**(클로징/CTA - 12~15초)**
+*   **화면:** 두 제품이 나란히 놓여 있고, 구매 링크 유도 텍스트 오버레이. (예: "프로필 링크에서 더보기!")
+*   **내레이션:** "진짜 가성비 스탠바이미? 더 자세한 정보는 지금 바로 프로필 링크에서 확인하세요!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & 미드저니 프롬프트)
+## 2. 인스타그램 카드뉴스 4컷
 
-### **📌 컷 1: 후킹 & 문제 제기**
+### 1/4 컷
+*   **들어갈 텍스트:** LG 스탠바이미 사고 싶은데… 가격 때문에 망설였다면? 😥
+*   **Midjourney 스타일 영문 프롬프트:** A person with a slightly frustrated expression looking at a large, blurry price tag of a premium movable smart TV, in a stylish, modern living room. The ambiance is elegant but with a hint of longing. Cinematic, high contrast, soft natural lighting. --ar 1:1 --v 5.2
 
-*   **텍스트:**
-    **비싼 LG 스탠바이미, 더 이상 고민 No! 🙅‍♀️**
-    **현명한 당신을 위한 '삼탠바이미'가 온다!**
-*   **Midjourney Prompt:**
-    `A frustrated person looking at a high price tag on a sleek, minimalist movable TV, then a sudden burst of dopamine energy and excitement as a "solution" appears with bright, colorful light rays, dynamic, modern, cinematic, high contrast, vaporwave aesthetics, --ar 1:1 --v 5.2`
+### 2/4 컷
+*   **들어갈 텍스트:** 이제 '삼탠바이미'로 가성비와 이동성 두 마리 토끼를 한 번에! ✨
+*   **Midjourney 스타일 영문 프롬프트:** A dynamic scene showing a sleek, modern, white movable smart TV (SamtenbyMe concept) being effortlessly glided from a cozy bedroom to a bright, minimalist kitchen. Sunlight streaming in, emphasizing ease of movement and versatile use. Vibrant, clean, high-key lighting. --ar 1:1 --v 5.2
 
-### **📌 컷 2: 무빙큐빅스 상품 강조**
+### 3/4 컷
+*   **들어갈 텍스트:** 🚀 40만원대 QLED 32인치! 무빙큐빅스 유무선 삼탠바이미
+*   **Midjourney 스타일 영문 프롬프트:** A 32-inch QLED smart TV on a minimalist white movable stand, prominently displaying vibrant, high-definition streaming content (e.g., a colorful movie scene). The TV is used wirelessly in a modern, organized home office. Soft, ambient light, focus on screen quality and premium feel. Product photography. --ar 1:1 --v 5.2
 
-*   **텍스트:**
-    **✨ 무빙큐빅스: 스탠바이미 감성 그대로!**
-    **32인치 QLED+무선+내장 배터리! 🔋**
-    **40만원대 프리미엄 삼탠바이미!**
-*   **Midjourney Prompt:**
-    `A stylish white 32-inch movable smart TV (similar to StandbyME) with a vibrant QLED display showing a breathtaking movie scene, elegantly placed in a modern, minimalist living room, a hand effortlessly pushing it, emphasizing wireless freedom and long-lasting battery, soft, warm natural lighting, high detail, photorealistic, product photography style, --ar 1:1 --v 5.2`
-
-### **📌 컷 3: 티비아울렛 상품 강조**
-
-*   **텍스트:**
-    **💰 티비아울렛: 20만원대 역대급 가성비!**
-    **구글 TV로 넷플릭스, 유튜브 무제한!**
-    **이동식 스탠드 기본 포함! 이건 무조건 사야 해!**
-*   **Midjourney Prompt:**
-    `A person in a cozy, bright bedroom happily watching a movable smart TV that clearly displays the Google TV interface with prominent Netflix and YouTube icons, emphasizing extreme affordability and ease of use, warm and inviting atmosphere, realistic, soft focus on the person's joyous expression, lifestyle photography, --ar 1:1 --v 5.2`
-
-### **📌 컷 4: 비교 & CTA**
-
-*   **텍스트:**
-    **현명한 당신의 선택은? 🛒**
-    **지금 바로 쿠팡에서 비교하고 득템하세요!**
-    **➡️ 프로필 링크 클릭!**
-*   **Midjourney Prompt:**
-    `Two distinct movable smart TVs (one sleek white, one more functional black) side-by-side on a clean, bright background, with thought bubbles above them comparing features like 'QLED vs. Google TV' and '400K vs. 200K', a shining "BEST BUY" badge, a stylized shopping cart icon, dynamic comparison elements, modern and clean infographic style, professional, --ar 1:1 --v 5.2`
+### 4/4 컷
+*   **들어갈 텍스트:** 💸 20만원대로 구글 TV까지! 티비아울렛 스마트 삼탠바이미
+*   **Midjourney 스타일 영문 프롬프트:** A close-up shot of a person's hands holding a remote control, effortlessly navigating the Google TV interface on a sleek, affordable smart movable TV (SamtenbyMe concept). The background is a cozy, inviting living space, suggesting comfort and smart entertainment. Warm, soft lighting, focus on user experience and accessibility. --ar 1:1 --v 5.2
