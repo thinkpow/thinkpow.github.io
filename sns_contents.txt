@@ -1,81 +1,57 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🚀 유튜브 쇼츠/틱톡 15초 스크립트
 
-**콘텐츠 제목:** LG 스탠바이미 비켜! 💰 가성비 '삼탠바이미' 추천 BEST 2
+**(도파민 폭발! 첫 3초 시선 강탈 훅 강제 포함)**
 
-**영상 컨셉:** 빠른 전환, 톡톡 튀는 자막, 트렌디한 배경음악. MD가 직접 강추하는 핵가성비템!
+**영상 구성:**
 
----
-
-**[0-3초] 훅 (Hook)**
-
-*   **비주얼:** 슬픈 표정의 사람이 LG 스탠바이미 광고를 보며 한숨 쉬는 모습 (가격표에 X표시). 이내 눈빛이 반짝이며 화면 전환! (화려한 효과음)
-*   **대사:** "LG 스탠바이미 사고 싶다.. 근데 가격이?!" (한숨) "그.럴.줄.알.고! 내가 준비했지! 가성비 끝판왕 '삼탠바이미'!"
-*   **자막:** 😡 LG 스탠바이미 비싸?! / ✨ 가성비 '삼탠바이미' 등판!
-
-**[3-7초] 상품 1 소개**
-
-*   **비주얼:** '티비아울렛 스마트 구글 TV 삼탠바이미' 제품이 침실, 주방 등 다양한 공간에서 편리하게 사용되는 모습 빠르게 교차. 구글TV UI가 클로즈업.
-*   **대사:** "첫째, 20만원대 실화?! 구글TV 탑재 '티비아울렛 삼탠바이미'!"
-*   **자막:** 💰 20만원대 실화?! / 💡 구글TV로 OTT 다 됨!
-
-**[7-12초] 상품 2 소개**
-
-*   **비주얼:** '와이드뷰 FHD QLED 화이트에디션 스마트 TV' 제품이 세련된 인테리어 공간에 놓여있고, QLED 화면의 선명한 색감이 강조됨. 화이트 디자인 부각.
-*   **대사:** "화질 포기 못 해? 32인치 QLED '와이드뷰 삼탠바이미'! 화이트 디자인까지 완벽!"
-*   **자막:** ✨ QLED 화질! / 🤍 화이트 디자인 존예!
-
-**[12-15초] 클로징 & CTA**
-
-*   **비주얼:** 두 제품이 함께 등장하며 "나에게 맞는 삼탠바이미는?" 질문 자막. 마지막에 MD가 엄지 척하며 화면 하단/프로필 링크를 가리키는 제스처.
-*   **대사:** "이제 비싸게 사지 마! 나에게 딱 맞는 삼탠바이미 찾으려면, 지금 바로 링크 확인!"
-*   **자막:** 🤔 당신의 선택은? / 👆 프로필 링크 고고!
+*   **0-3초 (훅):** LG 스탠바이미 가격표 클로즈업! → 💥 "악! 100만원 넘네?! 비싸서 포기했어? 절대 NO!" (놀라는 표정, 격렬한 손짓, 충격 효과음)
+*   **3-8초 (메인 상품 1):** 삼성 43인치 삼텐바이미가 거실, 침실, 서재 등 다양한 공간에서 자유롭게 이동하며 넷플릭스 4K 영상 재생 → "잠깐! 50만원대에 43인치 삼성 삼텐바이미가 풀옵션?! 🤯 4K 대화면에 이동식 스탠드까지! 내 방이 영화관으로 변신!" (역동적인 카메라 워크, 화면 전환 효과)
+*   **8-12초 (메인 상품 2):** 티비아울렛 구글 스마트 무빙 스탠드 TV가 작은 방, 주방 등 협소한 공간에서 OTT 서비스 재생 → "더 대박은? 20만원대 초가성비 구글 스마트 무빙 TV! ✨ 자취생, 주부들 심장 저격! 넷플/유튜브 다 깔려있어!" (제품 장점 텍스트 오버레이, 발랄한 배경음악)
+*   **12-15초 (클로징 & CTA):** 세 제품 모두 보여주며 화려한 효과와 함께 "지금 바로 겟하세요!" → "이거 진짜 실화?! 스탠바이미 감성 그대로! 가성비 끝판왕 이동식 TV는 오직 여기! 👇 프로필 링크 클릭! 후회 안 할 걸?" (강렬한 마무리, 프로필 링크 강조 애니메이션)
 
 ---
 
 ## 📸 인스타그램 카드뉴스 4컷
 
-**[1/4컷] - 문제 제기 & 후킹**
+### **💡 카드뉴스 1/4**
 
-*   **텍스트:**
-    ## LG 스탠바이미, 너무 비싸서 망설였다면? 😥
-    공간 제약 없이 어디서든 TV 보고 싶은데…
-    가격 때문에 포기하고 계셨나요?
-    **이제 그 고민, '삼탠바이미'로 해결!**
-*   **배경 이미지 프롬프트 (Midjourney 스타일):**
-    `A minimalistic living room, a sad person holding an empty wallet looking at a luxurious, expensive LG StandbyME TV, subtle price tag icon with a red cross, cinematic lighting, soft shadows, warm tones, high detail, realistic, --ar 3:4 --v 5.2`
+*   **카드 텍스트:**
+    **헉! LG 스탠바이미 가격 실화? 😨**
+    감성+편리함 다 좋은데...
+    '그 돈' 주고 사긴 좀... 망설여진다면?
+    **👉 다음장 GO! 스탠바이미 가성비 끝판왕 대공개!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A person with a surprised or slightly dismayed expression looking at a high price tag on a smartphone. In the background, a blurry, elegant smart TV on a stand is visible in a modern, minimalistic living room. Dramatic lighting with soft shadows, realistic, cinematic style, high detail, 35mm lens, warm ambient light, sophisticated color palette --ar 1:1`
 
-**[2/4컷] - 솔루션 1 (가성비 끝판왕)**
+### **💡 카드뉴스 2/4**
 
-*   **텍스트:**
-    ## 💰 가성비 끝판왕! 20만원대 구글TV '티비아울렛 삼탠바이미'
-    ✔ **압도적인 가격!** 20만원대 최강 가성비
-    ✔ **구글TV 탑재!** 넷플릭스, 유튜브, 디즈니+ 다 OK
-    ✔ **이동의 자유!** 침대, 주방, 거실 어디든 내 극장
-    **👉 가격 부담 없이 스마트함을 즐기세요!**
-*   **배경 이미지 프롬프트 (Midjourney 스타일):**
-    `A modern, cozy bedroom with a sleek, black "SamtanbyME" style TV on a movable stand. The screen displays a vivid Google TV interface (Netflix, YouTube icons visible). A happy person is casually watching it from bed. Bright, inviting atmosphere, soft focus, high resolution, product photography style. --ar 3:4 --v 5.2`
+*   **카드 텍스트:**
+    **스탠바이미 '대화면 감성'은 놓칠 수 없어?**
+    **➡️ 삼성 43인치 삼텐바이미 (579,000원)**
+    ✅ 4K 대화면에 삼성 브랜드 신뢰도!
+    ✅ 거실/침실/서재 어디든 나만의 영화관!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish, modern living room with a sleek, minimalist 43-inch Samsung smart TV on an elegant mobile stand. The screen displays vibrant 4K movie content. A comfortable sofa is subtly visible. Bright, inviting, and uncluttered atmosphere. Soft natural light streaming in, wide shot, realistic, bright and clean aesthetic, high detail, Canon EOS R5 style photography --ar 1:1`
 
-**[3/4컷] - 솔루션 2 (화질+디자인)**
+### **💡 카드뉴스 3/4**
 
-*   **텍스트:**
-    ## ✨ 화질X디자인 다 잡았다! '와이드뷰 QLED 삼탠바이미'
-    ✔ **32인치 QLED!** 선명하고 생생한 FHD 화질
-    ✔ **깔끔한 화이트!** 인테리어 오브제로도 완벽
-    ✔ **스마트 TV 기능!** 원하는 콘텐츠 바로 시청
-    **👉 보는 즐거움과 공간의 품격을 동시에!**
-*   **배경 이미지 프롬프트 (Midjourney 스타일):**
-    `A chic, minimalist living room with a white "SamtanbyME" style TV on a stylish movable stand. The QLED screen shows a breathtaking landscape or movie scene with vibrant colors. Natural light streaming in, clean lines, aesthetic, high-end product advertisement, --ar 3:4 --v 5.2`
+*   **카드 텍스트:**
+    **20만원대로 스탠바이미 감성을? 😲**
+    **➡️ 티비아울렛 구글 스마트 무빙 TV (285,000원)**
+    ✅ 구글 TV OS로 넷플릭스/유튜브 무제한!
+    ✅ 1인 가구, 주방, 세컨드 TV로 최적!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cozy, modern studio apartment or a minimalist kitchen corner. A compact, white or light-colored smart TV on a simple, elegant mobile stand is displaying a Google TV interface with popular streaming apps. A person is casually watching it while relaxing or preparing food. Warm, soft indoor lighting, comfortable atmosphere, clean lines, realistic, cozy aesthetic, high detail, Fujifilm X-T4 style photography --ar 1:1`
 
-**[4/4컷] - 마무리 & CTA**
+### **💡 카드뉴스 4/4**
 
-*   **텍스트:**
-    ## 🧐 당신의 '삼탠바이미'는?
-    **✔️ 압도적인 가성비를 원한다면?**
-    ➡️ 티비아울렛 스마트 구글 TV 삼탠바이미
-    **✔️ 화질과 디자인까지 포기 못 한다면?**
-    ➡️ 와이드뷰 FHD QLED 화이트에디션 스마트 TV
-    **지금 바로 나에게 딱 맞는 삼탠바이미를 찾고, 스마트한 라이프를 시작하세요!**
-*   **배경 이미지 프롬프트 (Midjourney 스타일):**
-    `A split image or collage showing two different "SamtanbyME" style TVs in distinct, appealing home settings (one cozy, one minimalist). Text overlay area clearly defined. Bright and inviting, showcasing lifestyle benefits, consumer choice, comparison concept, --ar 3:4 --v 5.2`
+*   **카드 텍스트:**
+    **💰 스탠바이미 가성비 끝판왕, 놓치지 마세요!**
+    LG 스탠바이미 가격이 부담스럽다면?
+    이동식 스마트 TV로 스마트 라이프 시작하세요!
+    **지금 바로 프로필 링크 클릭!👆**
+    (⚠️ 초대형 70인치 삼텐바이미도 있으니 확인!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A vibrant, energetic infographic-style image showcasing three distinct mobile smart TVs on stands, with subtle price tags or value indicators. The background is a clean, bright, and slightly abstract geometric pattern with subtle tech circuit elements. A glowing hand icon points upwards towards a "link in bio" or "swipe up" call to action. Dynamic composition, clean UI design, modern, abstract, digital art, high contrast, vivid colors --ar 1:1`
