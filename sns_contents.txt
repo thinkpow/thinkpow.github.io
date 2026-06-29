@@ -1,65 +1,63 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🌟 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡) 🌟
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**(화면 전환 빠르고 경쾌한 배경 음악)**
+**(음악: 빠르고 경쾌한 비트의 숏폼 배경음악)**
 
-**[0-3초] 훅 (Hook)**
-*   **화면:** (1초) 럭셔리한 LG 스탠바이미를 부러운 눈빛으로 바라보는 사람 -> (1초) 이내 가격표를 보고 동공 지진 + 좌절하는 표정 -> (1초) 곧바로 환하게 웃으며 고개를 젓는 표정 (좌절 NO!)
-*   **내레이션 (빠르게, 활기찬 톤):** 스탠바이미 갖고 싶은데 가격보고 깜짝 놀랐지? 😱 놉! 이젠 가성비로 꿈을 현실로!
+**[0-3초] 훅 (화면: LG 스탠바이미 비싼 가격표 클로즈업 -> X 표시 -> 환하게 웃는 얼굴)**
+**나레이션:** "스탠바이미 사고 싶은데 가격 때문에 맨날 눈팅만 했어? 😱"
 
-**[3-7초] 삼성 삼텐바이미 소개**
-*   **화면:** 삼성 43인치 삼텐바이미가 침실에서 거실로 부드럽게 이동하는 모습. 화면에는 넷플릭스 4K 영상 재생.
-*   **내레이션 (자신감 있는 톤):** 삼성 43인치 4K 삼텐바이미! 🌟 삼성 퀄리티에 이동성까지 완벽한 진짜 스탠바이미 경험!
+**[3-6초] (화면: 삼성 43인치 삼텐바이미 등장! 슬라이드 이동하는 모습)**
+**나레이션:** "이제 그만! 🙅‍♀️ 삼성 정품 4K '삼텐바이미'가 50만원대!"
 
-**[7-12초] 티비아울렛 거치대 소개**
-*   **화면:** 평범한 TV가 티비아울렛 이동식 스탠드에 장착되는 모습 (간단한 조립 연출). 곧이어 구글 TV 인터페이스가 띄워지고 OTT 앱들을 스크롤하는 손가락.
-*   **내레이션 (친근하고 똑똑한 톤):** 더 가볍게? 💰 20만원대 구글TV 이동 스탠드로 내 TV를 스마트 스탠바이미로 변신!
+**[6-9초] (화면: 넷플릭스 재생, 거실/침실 이동하는 모습 빠르게 전환)**
+**나레이션:** "4K 화질에 넷플릭스, 유튜브 다 돼! 거실? 침실? 어디든 이동해봐!"
 
-**[12-15초] 마무리 & CTA**
-*   **화면:** 침대 옆에서 영화 보는 모습, 주방에서 레시피 보는 모습 등 다양한 활용 장면 빠르게 전환. 마지막으로 제품 이미지와 "링크 클릭!" 문구 강조.
-*   **내레이션 (활기찬 톤):** 침실에서 영화, 주방에서 레시피! 어디든 내 맘대로! 지금 바로 링크 클릭하고 나만의 스탠바이미 득템하세요! 🎁
+**[9-12초] (화면: 티비아울렛 20만원대 삼텐바이미 등장! 가격 285,000원 강조!)**
+**나레이션:** "아니, 20만원대 '삼텐바이미'도 실화냐?! 💸 가성비 끝판왕은 바로 이거!"
 
----
-
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트) 📸
+**[12-15초] (화면: 두 제품 비교 컷, 혹은 사람이 신나게 리모컨 조작하는 모습)**
+**나레이션:** "내 라이프스타일에 딱! 맞는 스탠바이미 가성비템, 지금 바로 득템하고 싶다면? 프로필 링크 클릭!"
 
 ---
 
-### **카드 1/4: 훅 (Hook)**
+## 2. 인스타그램 카드뉴스 4컷
 
-*   **카드 텍스트:**
-    "스탠바이미 갖고 싶은데... 가격보고 눈물 찔끔? 😥"
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A young woman looking wistfully at a luxurious, high-end portable TV in a modern minimalist living room. A thought bubble above her head shows a huge, unaffordable price tag with many zeros. The woman has a slightly sad, longing expression. Cinematic lighting, soft focus background, realistic photo, film grain, emotional expression, high contrast --ar 1:1 --v 5.2"
+### **💡 카드뉴스 공통 스타일 프롬프트**
+`Aesthetic: Modern, minimalist, clean, cozy, bright, high-resolution. Lighting: Soft, natural daylight. Composition: Product-focused, inviting, lifestyle photography. Color palette: Warm neutrals with accent colors.`
 
 ---
 
-### **카드 2/4: 문제 해결 제시**
-
-*   **카드 텍스트:**
-    "NO! 이젠 가성비 끝판왕 '삼텐바이미' 시대! 💡"
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A bright, energetic young person smiling confidently, triumphantly holding a remote control, next to a sleek, modern portable TV on wheels. A glowing lightbulb icon is brightly lit above the TV, signifying a brilliant idea or solution. The background is a clean, versatile home interior, vibrant colors, dynamic composition, optimistic mood, digital art, --ar 1:1 --v 5.2"
-
----
-
-### **카드 3/4: 메인 상품 1 - 삼성 43인치 삼텐바이미**
-
-*   **카드 텍스트:**
-    "✨ 삼성 43인치 4K 삼텐바이미 ✨
-    믿고 쓰는 삼성 퀄리티에 이동성까지!
-    완벽한 스탠바이미 경험을 50만원대로!"
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A stylish 43-inch Samsung Smart TV on a mobile stand, displaying vibrant 4K content (e.g., a high-definition movie scene or a scenic landscape). The TV is positioned in a modern, cozy bedroom with natural light, next to a comfortable bed. A hand is gently pushing the stand, indicating effortless mobility. Clean aesthetic, high detail, realistic photography, product focus, warm lighting, cozy atmosphere --ar 1:1 --v 5.2"
+### **[카드 1/4]**
+*   **텍스트:**
+    **스탠바이미, 갖고 싶지만 비싸서 망설였다면? 😥**
+    **당신을 위한 #스탠바이미가성비 끝판왕!**
+*   **Midjourney 프롬프트:**
+    `A person looking longingly at a sleek, expensive, modern mobile smart TV (like LG StandbyMe) in a minimalist living room, with a thought bubble showing a large price tag. The person has a slightly wistful expression. The room is stylish, filled with natural light, but a subtle "X" mark over the price tag is implied, emphasizing the desire for an alternative. --ar 1:1 --v 5.2`
 
 ---
 
-### **카드 4/4: 메인 상품 2 - 티비아울렛 구글TV 이동 스탠드**
+### **[카드 2/4]**
+*   **텍스트:**
+    **📺 국민 삼텐바이미! 삼성 43인치 이동식 스탠드 스마트TV**
+    **57만원대! 삼성 정품 4K 화질 + 스마트 기능 그대로!**
+*   **Midjourney 프롬프트:**
+    `A stylish Samsung 43-inch 4K smart TV on a sleek, white mobile stand, effortlessly moved by a hand in a modern, sunlit apartment. The TV screen displays a vibrant Netflix scene, with reflections of a cozy living room. Emphasize crisp 4K display and seamless mobility. --ar 1:1 --v 5.2`
 
-*   **카드 텍스트:**
-    "내 TV를 스탠바이미로?! 📺
-    20만원대 '구글TV 이동 스탠드'로
-    스마트한 자유를 누리세요!"
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A person in a modern, brightly lit kitchen, effortlessly moving a standard flat-screen TV mounted on a sleek, minimalist mobile stand. The TV screen displays the Google TV interface with various streaming app icons clearly visible. The kitchen is clean and well-organized, emphasizing practicality and smart living. Realistic photo, focus on user convenience and product in action, bright and airy environment --ar 1:1 --v 5.2"
+---
+
+### **[카드 3/4]**
+*   **텍스트:**
+    **✨ 20만원대 실화?! 극강의 가성비! 티비아울렛 스마트 구글 TV**
+    **서브 TV, 캠핑용으로 딱! 부담 없는 가격으로 즐기는 스마트 이동형 TV!**
+*   **Midjourney 프롬프트:**
+    `An affordable, compact smart Google TV on a simple, mobile stand, positioned in two different scenes: one in a cozy bedroom with warm lighting, and another subtly hinting at a modern camping tent setup. The screen shows a YouTube video. Focus on versatility and cheerful, casual use. --ar 1:1 --v 5.2`
+
+---
+
+### **[카드 4/4]**
+*   **텍스트:**
+    **내 라이프스타일에 딱 맞는 '삼텐바이미'는?**
+    **지금 바로 비교하고, 스마트한 이동형 TV 득템하세요! 🛒**
+*   **Midjourney 프롬프트:**
+    `Two different mobile smart TVs (one sleek, 43-inch, another compact, 20-inch class) side-by-side, each in a subtly different modern room setting (e.g., one in a home office, another in a bedroom), with small arrows or icons suggesting comparison and choice. A subtle shopping cart icon or "shop now" button overlay. Bright, encouraging atmosphere. --ar 1:1 --v 5.2`
