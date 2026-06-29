@@ -1,84 +1,63 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
+## 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**핵심 메시지:** LG 스탠바이미의 높은 가격 때문에 망설였다면, 20만원대 '삼탠바이미'로 가성비와 편리함을 모두 잡으세요!
-
----
-
-**[영상 구성]**
-
-*   **배경음악:** 트렌디하고 경쾌한 BGM (점점 고조되는 느낌)
-*   **자막:** 주요 대사와 강조 포인트는 큰 글씨로 화면 중앙에 노출
-
-**[스크립트]**
-
-**(0-3초) 💥 훅 (Hook): 시선 강탈!**
-*   **화면:** (빠르게 전환)
-    *   LG 스탠바이미의 세련된 이미지 → X표시 + '너무 비싸!' 자막
-    *   곧바로 이동식 스마트 TV (이노스 or 티비아울렛)의 세련된 이미지 등장 + '이게 20만원대?!' 자막
-*   **내레이션 (빠르고 흥미롭게):** "아니, LG 스탠바이미 비싸서 포기했니? 누가 아직도 비싸게 사? 가성비 '삼탠바이미'로 바로 끝내!"
-
-**(3-8초) 🤩 첫 번째 대안: 이노스 삼탠바이미**
-*   **화면:** 이노스 32인치 삼탠바이미 제품 컷, 침대 옆, 주방 테이블 위 등 다양한 공간에서 활용되는 모습 빠르게 편집.
-*   **내레이션:** "20만원대 압도적 가성비! '이노스 32인치 삼탠바이미'는 올인원 솔루션! 거치대, 스마트TV 고민 끝! 침실, 주방 어디든 옮겨 다니며 넷플릭스, 유튜브 다 봐!"
-
-**(8-13초) ✨ 두 번째 대안: 티비아울렛 구글TV 삼탠바이미**
-*   **화면:** 티비아울렛 구글TV 삼탠바이미 제품 컷, 음성 인식으로 TV 제어하는 모습, 스마트폰 미러링 장면 등 스마트 기능 강조.
-*   **내레이션:** "스마트함 끝판왕은 '티비아울렛 구글TV'! '헤이 구글'로 음성 제어하고, 폰 미러링까지 완벽! 진짜 스마트한데 20만원대! 지갑은 지키고 삶의 질은 UP!"
-
-**(13-15초) 🔥 마무리 & CTA**
-*   **화면:** 두 제품이 나란히 비교되는 컷. 화면 하단에 '내 인생템 보러가기!' 자막과 링크 아이콘.
-*   **내레이션:** "더 자세한 정보는 댓글/프로필 링크에서 확인해! 지금 바로 스마트한 자유를 겟!"
+**콘셉트:** LG 스탠바이미의 높은 가격 때문에 망설였던 소비자들에게 '삼텐바이미'라는 가성비 넘치는 대안을 제시하며, 이동식 스마트TV의 로망을 현실로 만들어주는 흥분과 만족감을 선사.
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**[영상 시작 - 훅 (0-3초)]**
+
+*   **화면:** (빠른 템포의 경쾌한 배경음악 시작) LG 스탠바이미 매장 이미지 -> 가격표(매우 비쌈) 클로즈업 -> 실망한 표정의 사람 얼굴 -> X 표시 이펙트
+*   **자막:** "스탠바이미? 가격보고 뒷목 잡음? 💔"
+*   **대사 (AI 보이스 또는 활기찬 목소리):** "LG 스탠바이미... 예쁜데... 가격 보고 심쿵했죠? 이젠 그만!"
+
+**[본론 (4-12초)]**
+
+*   **화면:** 비싸다고 고민하던 사람이 갑자기 환하게 웃으며 삼성 43인치 '삼텐바이미' (TV+스탠드)를 침실로 끌고 가는 장면 -> 이어서 70인치 '삼텐바이미'로 거실에서 가족과 영화 보는 장면 (빠르게 전환, 역동적)
+*   **자막:** "삼성 4K 스마트TV + 이동식 스탠드 = 삼텐바이미!"
+*   **대사:** "삼성 4K 스마트TV에 이동식 스탠드 조합! 가성비 끝판왕 '삼텐바이미'가 떴다! 43인치 방구석 영화관부터 70인치 거실 시네마까지! 넷플, 유튜브, 게임! 원하는 곳 어디든 OK! 🤩"
+
+**[클로징 & CTA (13-15초)]**
+
+*   **화면:** '삼텐바이미'가 놓인 다양한 공간 (침실, 거실, 서재)을 빠르게 보여주며 '지금 바로 확인!' 자막 오버레이.
+*   **자막:** "스탠바이미 로망? 삼텐바이미로 현실화! 💸" & "지금 바로 프로필 링크 클릭!"
+*   **대사:** "스탠바이미 로망, 비싸게 포기 마세요! 삼텐바이미로 가성비 폭발! 지금 바로 프로필 링크 확인하세요! 고고! 🔥"
 
 ---
 
-### **[카드뉴스 1/4]**
+## 인스타그램 카드뉴스 4컷
 
-*   **카드 텍스트:**
-    **LG 스탠바이미 비싸서 포기? 😭**
-    **이제 '삼탠바이미'로 스마트한 자유를 가성비 있게 누리세요!**
-    (내 공간을 영화관, 작업실, 학습 공간으로!)
+### 1컷: 훅 (문제 제기)
+
+*   **들어갈 텍스트:**
+    *   **메인:** "스탠바이미 갖고싶은데.. 가격 보고 심쿵💔"
+    *   **서브:** "예쁜데 비싸서 포기했던 당신! 이제 그만 고민하세요!"
 *   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A sleek, modern movable smart TV (similar to LG StandbyMe but a generic, minimalist design) in a bright, inviting room. Above the TV, a thought bubble shows a frustrated emoji and a large, red, crossed-out price tag. Below and around the TV, floating icons represent a movie reel, a laptop, and a book, symbolizing various uses. Clean, Scandinavian-style interior, soft natural light. --ar 1:1 --v 5.2
-    ```
+    `A stylish, minimalist modern living room with a blurred LG StandbyME in the background. In the foreground, a person's hands holding a smartphone, looking at a ridiculously high price tag with a heartbroken emoji on the screen. Soft, slightly disappointed lighting, clean aesthetic. Midjourney style, cinematic, high contrast.`
 
-### **[카드뉴스 2/4]**
+### 2컷: 해결책 제시
 
-*   **카드 텍스트:**
-    **✨ 압도적 가성비! 이노스 32인치 삼탠바이미**
-    *   **20만원대 올인원! 스마트TV + 무빙 거치대 일체형**
-    *   **침실, 주방, 1인 가구 최적화 사이즈 (32인치 FHD)**
-    *   **복잡한 설정 없이 플러그 앤 플레이로 즉시 사용!**
+*   **들어갈 텍스트:**
+    *   **메인:** "이젠 '삼텐바이미'로 가성비 끝판왕 찍자! 🥳"
+    *   **서브:** "삼성 4K 스마트TV + 이동식 스탠드! 당신의 로망을 현실로!"
 *   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A close-up, elegant shot of a 32-inch movable smart TV (representing Innos Samtanbymy) with a minimalist design, standing in a cozy, modern bedroom. The screen displays a vibrant streaming service. Soft, warm lighting creates an inviting atmosphere. A subtle tag in the corner indicates "All-in-one Smart TV + Stand". Focus on its sleek form and portability. --ar 1:1 --v 5.2
-    ```
+    `A vibrant, energetic scene featuring a sleek, modern Samsung 4K smart TV on an elegant mobile stand. The TV screen displays various streaming app icons (Netflix, YouTube) and a crystal-clear image. A happy, excited person is effortlessly pushing the stand across a bright, versatile living space. Dynamic composition, bright lighting, joyful atmosphere. Midjourney style, futuristic, clean lines.`
 
-### **[카드뉴스 3/4]**
+### 3컷: 메인 상품 1 (43인치)
 
-*   **카드 텍스트:**
-    **🤩 구글TV의 편리함! 티비아울렛 스마트 삼탠바이미**
-    *   **넷플릭스, 유튜브는 기본! 음성 인식으로 똑똑하게!**
-    *   **스마트폰 미러링, 크롬캐스트 내장으로 뛰어난 접근성**
-    *   **어떤 공간이든 스마트 디스플레이로 변신!**
+*   **들어갈 텍스트:**
+    *   **메인:** "✨ 43인치 삼텐바이미! 나만의 스마트 공간"
+    *   **가격:** "💰 579,000원"
+    *   **장점:** "침실/서재/원룸 어디든 쏙! 4K 화질로 OTT 정주행! 삼성의 믿음직한 품질까지!"
 *   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A dynamic, interactive scene featuring a movable smart TV (representing TV Outlet Google TV Samtanbymy) with its screen showing a Google TV interface. A hand is subtly gesturing towards the screen, implying voice control, with a speech bubble icon floating nearby. A smartphone screen is seamlessly mirrored on the TV. Bright, engaging, and technologically advanced interior. --ar 1:1 --v 5.2
-    ```
+    `A cozy, inviting modern bedroom with a 43-inch Samsung-style smart TV on a minimalist mobile stand. The TV screen shows a high-quality movie scene. A person is comfortably lounging on the bed, relaxed and engaged. Warm, natural light streaming through a window, soft textures, a plant in the corner. Midjourney style, comfortable, domestic.`
 
-### **[카드뉴스 4/4]**
+### 4컷: 메인 상품 2 (70인치)
 
-*   **카드 텍스트:**
-    **내 공간을 스마트하게 만드는 자유! 지금 바로 경험하세요!**
-    **👇 나에게 딱 맞는 삼탠바이미 찾아보기! (프로필 링크 클릭!)**
-    *(💡 70인치 대화면은 회의실/넓은 거실용으로 추천!)*
+*   **들어갈 텍스트:**
+    *   **메인:** "🎬 70인치 삼텐바이미! 거실을 영화관으로"
+    *   **가격:** "💰 849,000원"
+    *   **장점:** "압도적인 대화면! 온 가족이 즐기는 4K 스마트TV! 방문 설치까지 완벽!"
 *   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A vibrant, cinematic montage of diverse individuals happily using modern movable smart TVs (Samtanbymy) in various contemporary settings: one person watching movies in a cozy bedroom, another following a recipe in a bright kitchen, a couple playing games in a stylish living room, and someone working in a minimalist home office. Emphasize versatility and freedom. The overall mood is joyful and empowering. --ar 1:1 --v 5.2
-    ```
+    `A spacious, luxurious living room designed as a home cinema, featuring a grand 70-inch Samsung-style smart TV on a sturdy, elegant mobile stand. A family (parents and kids) is happily gathered on a large sofa, enjoying a vibrant movie on the screen with popcorn. Cinematic lighting, rich colors, comfortable modern furniture. Midjourney style, grand, joyful.`
