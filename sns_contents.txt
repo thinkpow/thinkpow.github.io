@@ -1,77 +1,81 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**콘셉트:** 스탠바이미의 높은 가격에 좌절했던 사람들을 위한 가성비 끝판왕 제품 소개! 빠르고 명확한 정보 전달과 시선을 사로잡는 시각적 전환.
+**(음악: 경쾌하고 시선을 사로잡는 배경음악)**
 
-**음악:** 빠르고 경쾌한 트렌디한 배경 음악
+**[0-3초] 훅 (Hook)**
+**화면:** 스탠바이미 비싼 가격표 (가상 이미지 or 텍스트) → "가격 실화?" 자막 큼직하게 뜸.
+**내레이션:** "스탠바이미 갖고 싶어서 검색했다가 가격보고 깜짝 놀랐죠? 😱"
 
----
+**[3-7초] 문제 해결 제시**
+**화면:** '삼탠바이미' 키워드와 함께 휠 달린 이동식 TV가 집안 곳곳을 움직이는 영상.
+**내레이션:** "그래서 준비했어요! #삼탠바이미 가성비 끝판왕 BEST 3!"
 
-**[영상 시작 (0-3초 훅)]**
-*   **화면:** (줌인) 실망한 표정의 사람, 손으로 'NO' 표시 + '스탠바이미 가격보고 기절할 뻔...' 자막 강렬하게 등장!
-*   **대사 (빠르게, 놀란 톤):** "스탠바이미 사고 싶었는데… 가격 보고 기절할 뻔 했다면 주목! 😱"
+**[7-10초] 첫 번째 추천 (가성비)**
+**화면:** 이노스 32인치 삼탠바이미 제품 이미지 또는 사용 영상. (가격: 299,000원 강조)
+**내레이션:** "첫 번째! 20만원대 '이노스 32인치'! 직접 설치해서 더 저렴하게! 이동식 TV 감성 그대로~"
 
-**[전환 (3-7초)]**
-*   **화면:** (갑자기 밝아지며 긍정적인 표정) 손가락으로 화면을 가리키며 '이제 그만!' 제스처, 다양한 이동식 스마트TV가 빠르게 스쳐 지나가는 효과. '비싼 스탠바이미? NO! 이제 '가성비' 스탠바이미 시대!' 자막.
-*   **대사 (자신감 있게):** "비싼 스탠바이미? 이제 그만! 여기 '가성비' 스탠바이미 끝판왕 2종이 있어요!"
+**[10-13초] 두 번째 추천 (프리미엄 가성비)**
+**화면:** 삼성 43인치 4K 삼탠바이미 제품 이미지 또는 사용 영상. (가격: 579,000원 강조)
+**내레이션:** "두 번째는 '삼성 43인치 4K 삼탠바이미'! 방문 설치에 화질까지 프리미엄!"
 
-**[상품 1 소개 (7-11초)]**
-*   **화면:** 삼성 43인치 삼텐바이미 제품 이미지(혹은 짧은 영상) 클로즈업. '삼성' 로고, '43인치', '방문 설치' 키워드 강조. 화면 전환 효과.
-*   **대사 (신뢰감 있게):** "첫 번째! 💥 삼성 43인치 삼텐바이미! 역시 삼성, 퀄리티에 방문설치까지 완벽해요!"
-
-**[상품 2 소개 (11-14초)]**
-*   **화면:** 티비아울렛 구글 스마트 이동식 TV 제품 이미지(혹은 짧은 영상) 클로즈업. '20만원대', '구글 TV', '넷플릭스/유튜브' 키워드 강조. 화면 전환 효과.
-*   **대사 (놀라움, 강조):** "두 번째! 💰 20만원대 티비아울렛 구글TV! 미친 가성비에 넷플릭스, 유튜브 다~ 된다고?!"
-
-**[마무리 및 CTA (14-15초)]**
-*   **화면:** 두 제품이 나란히 있는 모습 + 밝게 웃는 출연자. '어떤 스탠바이미가 끌리세요?' 자막과 함께 '프로필 링크 확인!' 강조.
-*   **대사 (밝게):** "더 자세한 정보는 지금 바로 프로필 링크 확인! #스탠바이미가성비 #이동식TV"
+**[13-15초] 추가 추천 & CTA**
+**화면:** 티비아울렛 구글TV 삼탠바이미 이미지 (가격: 285,000원) → "프로필 링크 확인!" 텍스트 강조.
+**내레이션:** "20만원대 구글TV 삼탠바이미도 있어요! ✨ 나에게 딱 맞는 삼탠바이미는 프로필 링크에서!"
 
 ---
 
-## 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 이미지 프롬프트)
+## 2. 인스타그램 카드뉴스 (4컷)
 
 ---
 
-### **카드 1**
+**[카드 1]**
 
-*   **카드 텍스트:**
-    **스탠바이미, 너무 비싸서 포기? 놉!**
-    (부제: 당신의 라이프스타일을 바꿀 '가성비' 이동식 TV가 온다!)
-*   **Midjourney 프롬프트:**
-    `A cozy, modern living room at dusk. A young woman sits on a comfortable sofa, looking slightly wistful or frustrated, gazing at an empty spot in front of her. The lighting is soft and warm, hinting at a desire for a luxurious item like a mobile TV. The overall mood is thoughtful and relatable. Realistic photo, cinematic lighting, high quality, soft focus, dreamlike atmosphere.`
-
----
-
-### **카드 2**
-
-*   **카드 텍스트:**
-    **현명한 당신을 위한 '가성비' 스탠바이미 끝판왕 2가지!**
-    (부제: 브랜드 vs 압도적 가격, 당신의 선택은?)
-*   **Midjourney 프롬프트:**
-    `A bright, minimalist apartment with abundant natural light. Two sleek, modern mobile smart TVs (one with a slightly more premium look, the other more compact and vibrant) are positioned elegantly in the foreground. They look accessible and stylish. Clean lines, contemporary design, high contrast, vibrant colors, professional product photography style, studio lighting.`
+*   **텍스트:**
+    ## 스탠바이미, 비싸서 망설였다면? 😭
+    ### 갓성비 '삼탠바이미'로 로망 실현! ✨
+    이동식 스마트TV, 더 이상 꿈이 아니에요!
+    지금 바로 당신의 지갑을 지켜줄
+    최고의 '삼탠바이미'를 만나보세요!
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A sleek, modern movable smart TV stand (SamtanbyME concept) with a glowing screen, placed in a minimalist, cozy living room. Soft, warm lighting from a window. The overall atmosphere is inviting and sophisticated, representing a dream coming true. High detail, cinematic quality, product advertisement style. --ar 1:1"
 
 ---
 
-### **카드 3**
+**[카드 2]**
 
-*   **카드 텍스트:**
-    **[가성비 끝판왕 1] 삼성 43인치 삼텐바이미**
-    ✨ 믿고 쓰는 삼성 퀄리티!
-    🏡 43인치 황금 크기, 방문 설치까지 완벽!
-    (가격: 579,000원)
-*   **Midjourney 프롬프트:**
-    `A bright and spacious bedroom with minimalist decor. A stylish 43-inch Samsung smart TV on a black mobile stand, displaying a vibrant 4K movie scene. The room feels inviting and modern, with natural light streaming in. A hand is gently gesturing towards the screen, highlighting its immersive quality and ease of use. Clean aesthetic, high quality display, warm lighting, realistic photo, modern home interior design.`
+*   **텍스트:**
+    ## 💰 20만원대 '가성비 끝판왕'
+    ### 이노스 32인치 FHD 삼탠바이미!
+    ✅ 32인치 FHD 스마트 TV + 무빙 거치대
+    ✅ 직접 설치로 비용 절감!
+    ✅ 침대 옆, 주방, 어디든 나만의 영화관!
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A bright and airy bedroom scene. A 32-inch smart TV is set up on a simple, modern movable stand next to a bed. The TV screen displays a vibrant, colorful streaming service interface. A relaxed person (partially visible) is enjoying content. Minimalist aesthetic, focused on affordability and convenience. Soft, natural light. --ar 1:1"
 
 ---
 
-### **카드 4**
+**[카드 3]**
 
-*   **카드 텍스트:**
-    **[가성비 끝판왕 2] 20만원대! 티비아울렛 구글 스마트 TV**
-    💰 20만원대 파격 가격!
-    🍿 구글 TV로 넷플릭스, 유튜브 다~ 돼!
-    (가격: 285,000원)
-*   **Midjourney 프롬프트:**
-    `A vibrant and dynamic image of a person happily watching Netflix on a compact, modern mobile Google TV in a small, cozy apartment. The TV screen clearly shows the Google TV interface with app icons (Netflix, YouTube, Disney+). The setting is minimalist and youthful, with soft, natural light creating a warm and inviting atmosphere. The overall feeling is one of affordability meeting smart functionality. Realistic photo, bright, engaging, youthful energy.`
+*   **텍스트:**
+    ## 🌟 '프리미엄급 가성비'
+    ### 삼성 43인치 4K 삼탠바이미!
+    ✅ 믿고 쓰는 삼성 브랜드!
+    ✅ 43인치 대화면 & UHD 4K 고화질
+    ✅ 편리한 '방문 설치' 서비스까지!
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A luxurious and spacious living room with large windows. A 43-inch 4K Samsung smart TV on a sophisticated, black movable stand takes center stage. The TV screen displays an incredibly sharp and vivid nature scene. The room feels elegant and high-tech, emphasizing quality and comfort. Cinematic lighting, rich colors. --ar 1:1"
+
+---
+
+**[카드 4]**
+
+*   **텍스트:**
+    ## 💡 초가성비 '구글 TV' 삼탠바이미도!
+    ### 넷플릭스, 유튜브는 기본! 📺
+    ✔️ 20만원대 구글 TV 기능까지!
+    ✔️ 합리적인 당신을 위한 완벽한 선택!
+    👉 **자세한 정보와 구매는 프로필 링크 클릭!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    "An infographic-style image with a clean, modern design. Three distinct icons or small illustrations representing different movable smart TV options. One clearly features a 'Google TV' logo. Arrows or lines connect them to a central message: 'Find Your Perfect SamtanbyME'. A prominent button or icon says 'Link in Bio'. Bright, engaging colors, clear typography. --ar 1:1"
