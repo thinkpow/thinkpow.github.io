@@ -1,61 +1,72 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 스탠바이미 가성비 숏폼/카드뉴스 기획
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (대사 위주)
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
-
-**제목:** 스탠바이미 비싸다고? 놉! MD가 찾은 초갓성비 삼탠바이미 BEST 2!
-
----
-
-**[영상 구성]**
+**[영상 시작]**
 
 *   **0-3초 (훅):**
-    *   **화면:** LG 스탠바이미 이미지/영상에 '₩₩₩' 가격표, 놀라는 표정의 인물 클로즈업. ❌ 표시 후 밝게 전환.
-    *   **대사:** "스탠바이미 가격 보고 심장 멎었니? 😱 잠깐! 돈 쓰지마!"
-*   **3-6초 (문제 제기 & 솔루션):**
-    *   **화면:** '가성비 삼탠바이미' 키워드 자막 등장. 두 제품(위드라이프, 티비아울렛)의 세련된 모습 빠르게 교차.
-    *   **대사:** "MD가 직접 찾았다! 스탠바이미 뺨치는 초갓성비 삼탠바이미 2개!"
-*   **6-11초 (제품 1 소개):**
-    *   **화면:** 위드라이프 43인치 제품이 거실/방에서 사용되는 모습. 넷플릭스 화면, '43인치 대화면', '34만원대', '구글TV' 자막 강조.
-    *   **대사:** "첫 번째! 위드라이프 43인치! 30만원대 대화면에 넷플릭스, 유튜브 다 되는 구글TV까지? 이건 무조건 사야 돼!"
-*   **11-14초 (제품 2 소개):**
-    *   **화면:** 티비아울렛 제품이 침실/주방에서 이동하며 사용되는 모습. '20만원대', '초가성비', '이동성' 자막 강조.
-    *   **대사:** "더 미친 가성비! 20만원대 티비아울렛! 방구석 극장 완성! 이건 초갓성비 인정! 👏"
-*   **14-15초 (클로징 & CTA):**
-    *   **화면:** 두 제품이 나란히 있는 모습 + '프로필 링크 확인!' 자막.
-    *   **대사:** "고민은 배송만 늦출 뿐! 자세한 건 프로필 링크 고고! #스탠바이미 #가성비TV"
+    *   **(비장한 음악 + LG 스탠바이미 로고 등장하며 가격표 '100만원대' 깜빡임)**
+        *   **나레이션:** "LG 스탠바이미, 비싸서 망설였다고?"
+    *   **(화면 전환: 밝고 경쾌한 음악, 예쁜 방에 삼탠바이미 등장!)**
+        *   **나레이션:** "그럼 '이것'만 보세요! 🚨 가성비 끝판왕 삼탠바이미!"
+        *   **(화면 자막: LG 스탠바이미? 이젠 안녕! ➡️ 가성비 삼탠바이미!)**
+
+*   **3-7초 (위드라이프 43인치):**
+    *   **(침실, 주방 등 다양한 공간에서 43인치 TV를 자유롭게 사용하는 모습)**
+        *   **나레이션:** "43인치 대화면에 구글 스마트 TV까지! 이게 30만원대라고?!"
+        *   **(화면 자막: 위드라이프 43인치 / 349,000원! / 구글TV 기본 탑재!)**
+
+*   **7-11초 (티비아울렛 20만원대):**
+    *   **(자취방, 원룸 등 아담한 공간에서 20만원대 TV를 신나게 사용하는 모습)**
+        *   **나레이션:** "더 저렴한 걸 원한다면? 20만원대 초가성비 삼탠바이미!"
+        *   **(화면 자막: 티비아울렛 삼탠바이미 / 285,000원! / 압도적 최저가!)**
+
+*   **11-15초 (마무리 & CTA):**
+    *   **(두 제품의 핵심 장점(이동성, 스마트 기능)을 빠르게 보여주며 다양한 활용씬)**
+        *   **나레이션:** "스마트TV 기능에 어디든 OK 이동성! 스탠바이미? 이제 안녕!"
+        *   **(화면 자막: 🤯 가성비 삼탠바이미 정보 더보기 ➡️ 프로필 링크 클릭!)**
+
+**[영상 종료]**
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 📸 인스타그램 카드뉴스 4컷
 
----
+### **1. 첫 번째 컷**
 
-### **[1컷]**
-*   **텍스트:** "스탠바이미 비싸서 망설였다면? 😥 이제 가성비 삼탠바이미 시대!"
-*   **Midjourney 프롬프트:**
-    ```
-    A person looking at a luxurious, expensive smart TV with a hesitant expression, overlaid with a dollar sign. In the background, a more affordable, modern mobile TV is subtly glowing, symbolizing accessibility. The scene is set in a stylish, minimalist living room. Cinematic lighting, high contrast, clean lines, modern aesthetic, --ar 1:1 --v 5.2
-    ```
+*   **들어갈 텍스트:**
+    LG 스탠바이미 너무 비싸서 포기했어? 😭
+    **가성비 끝판왕 '삼탠바이미' 대안 BEST 4!**
+    (옆으로 넘겨서 MD's PICK 확인!)
+*   **배경 이미지 Midjourney 프롬프트:**
+    A sleek, expensive-looking white portable smart TV with a stand on the left, next to it on the right, a vibrant, modern black portable smart TV with a stand, showing a cheerful user watching a movie. The expensive TV has a "SOLD OUT" sign and a price tag "$1,000+", the cheaper one has a price tag "$300-" and a "BEST DEAL" badge. Dramatic lighting, comparative, modern living room, --ar 1:1 --v 5.2
 
-### **[2컷]**
-*   **텍스트:** "✨ MD's Pick 1. 위드라이프 43인치 삼탠바이미: 30만원대 대화면+구글TV!"
-*   **Midjourney 프롬프트:**
-    ```
-    A sleek, black 43-inch mobile smart TV on a minimalist stand, prominently displaying a vibrant Google TV interface (showing Netflix or YouTube logo). It is placed in a bright, modern living room or bedroom with a cozy atmosphere and subtle natural light. High resolution, inviting and clean design, --ar 1:1 --v 5.2
-    ```
+### **2. 두 번째 컷**
 
-### **[3컷]**
-*   **텍스트:** "💰 MD's Pick 2. 티비아울렛 삼탠바이미: 20만원대 초가성비 끝판왕!"
-*   **Midjourney 프롬프트:**
-    ```
-    A compact, stylish black mobile smart TV with a clean stand, showing a streaming service content. It is positioned in a small, yet organized and modern bedroom or a chic kitchen corner, emphasizing its versatility and space-saving design. Bright, practical, accessible feel, soft focus background, --ar 1:1 --v 5.2
-    ```
+*   **들어갈 텍스트:**
+    ✨ **MD's PICK 1. 위드라이프 43인치 삼탠바이미 세트!**
+    ✅ **43인치 대화면 & 구글 스마트TV**
+    ✅ **30만원대! (LG 스탠바이미 절반 가격!)**
+    ✅ **침실, 주방 어디든 나만의 영화관 완성!**
+*   **배경 이미지 Midjourney 프롬프트:**
+    A stylish young woman comfortably watching a movie on a 43-inch black portable smart TV with a stand, placed beside her bed in a cozy, minimalist bedroom with soft ambient lighting. Google TV interface visible on screen, showing a Netflix movie. Realistic, cinematic, warm tones, high-quality, --ar 1:1 --v 5.2
 
-### **[4컷]**
-*   **텍스트:** "고민 끝! 나만의 스마트TV, 지금 바로 만나보세요! 🔗 (링크는 프로필)"
-*   **Midjourney 프롬프트:**
-    ```
-    A collage or split image showing diverse individuals (young adult, couple, single person) happily enjoying content on mobile smart TVs in various comfortable home settings – one in bed, one on a sofa, one in a kitchen. The TVs are modern and unobtrusive. Emphasize comfort, personal entertainment, and a joyful, modern lifestyle. Bright, cheerful, inspiring, --ar 1:1 --v 5.2
-    ```
+### **3. 세 번째 컷**
+
+*   **들어갈 텍스트:**
+    ✨ **MD's PICK 2. 티비아울렛 스마트 구글TV 삼탠바이미!**
+    ✅ **20만원대 압도적 최저가! (예산 걱정 끝!)**
+    ✅ **구글TV 기본 탑재 & 자유로운 이동성!**
+    ✅ **스마트 라이프, 지금 바로 시작하세요!**
+*   **배경 이미지 Midjourney 프롬프트:**
+    A happy person (gender neutral) enjoying various content (YouTube, gaming) on a smaller, sleek black portable smart TV with a stand in a compact, modern studio apartment kitchen, with sunlight streaming in. Emphasize ease of movement and use in a tight space. Bright, clean, functional aesthetic, joyful atmosphere. --ar 1:1 --v 5.2
+
+### **4. 네 번째 컷**
+
+*   **들어갈 텍스트:**
+    💡 **당신의 라이프스타일에 맞게 골라봐!**
+    ✔️ 70인치 대화면? 삼성 4K 삼탠바이미!
+    ✔️ 기존 TV 활용? 이동식 스탠드만!
+    **더 많은 정보는 프로필 링크에서 확인하세요! ➡️**
+*   **배경 이미지 Midjourney 프롬프트:**
+    A dynamic collage featuring four distinct scenes: 1) a grand 70-inch smart TV on a mobile stand in a spacious, luxurious living room, 2) a mid-sized smart TV on a stand in a minimalist bedroom, 3) a person easily setting up an existing monitor on a standalone mobile TV stand, 4) a family enjoying a portable TV on a patio. Emphasize variety and flexibility. Modern, bright, aspirational, --ar 1:1 --v 5.2
