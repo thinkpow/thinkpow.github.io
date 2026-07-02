@@ -1,72 +1,77 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (대사 위주)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발!)
 
-**[영상 시작]**
-
-*   **0-3초 (훅):**
-    *   **(비장한 음악 + LG 스탠바이미 로고 등장하며 가격표 '100만원대' 깜빡임)**
-        *   **나레이션:** "LG 스탠바이미, 비싸서 망설였다고?"
-    *   **(화면 전환: 밝고 경쾌한 음악, 예쁜 방에 삼탠바이미 등장!)**
-        *   **나레이션:** "그럼 '이것'만 보세요! 🚨 가성비 끝판왕 삼탠바이미!"
-        *   **(화면 자막: LG 스탠바이미? 이젠 안녕! ➡️ 가성비 삼탠바이미!)**
-
-*   **3-7초 (위드라이프 43인치):**
-    *   **(침실, 주방 등 다양한 공간에서 43인치 TV를 자유롭게 사용하는 모습)**
-        *   **나레이션:** "43인치 대화면에 구글 스마트 TV까지! 이게 30만원대라고?!"
-        *   **(화면 자막: 위드라이프 43인치 / 349,000원! / 구글TV 기본 탑재!)**
-
-*   **7-11초 (티비아울렛 20만원대):**
-    *   **(자취방, 원룸 등 아담한 공간에서 20만원대 TV를 신나게 사용하는 모습)**
-        *   **나레이션:** "더 저렴한 걸 원한다면? 20만원대 초가성비 삼탠바이미!"
-        *   **(화면 자막: 티비아울렛 삼탠바이미 / 285,000원! / 압도적 최저가!)**
-
-*   **11-15초 (마무리 & CTA):**
-    *   **(두 제품의 핵심 장점(이동성, 스마트 기능)을 빠르게 보여주며 다양한 활용씬)**
-        *   **나레이션:** "스마트TV 기능에 어디든 OK 이동성! 스탠바이미? 이제 안녕!"
-        *   **(화면 자막: 🤯 가성비 삼탠바이미 정보 더보기 ➡️ 프로필 링크 클릭!)**
-
-**[영상 종료]**
+**콘텐츠 제목:** 💸 LG 스탠바이미? NO! 10년차 MD가 찾은 가성비 삼탠바이미 BEST 2!
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+**[영상 시작 (0-3초)]**
+*   **화면:** (경고음 효과음과 함께) LG 스탠바이미 가격표 클로즈업! '300만원대?' 자막! 화면에 빨간색 'X' 표시 크게 나타남.
+*   **내레이션 (빠르고 강렬하게):** "LG 스탠바이미? NO! 💸 비싸서 포기했지? 10년차 MD가 '이거' 딱 알려줄게!"
 
-### **1. 첫 번째 컷**
+**[전환 (3-8초)]**
+*   **화면:** (경쾌한 효과음) 첫 번째 추천 제품 `티비아울렛 구글 Google TV 삼탠바이미`의 깔끔한 모습이 거실에서 이동하는 장면. 화면에 넷플릭스, 유튜브 로고가 번개처럼 지나감. 가격 '285,000원' 강조!
+*   **내레이션:** "첫 번째! ✨ 스마트 끝판왕! 넷플릭스, 유튜브 다 되는 구글 TV 삼탠바이미! 20만원대로 스마트 라이프 ON!"
 
-*   **들어갈 텍스트:**
-    LG 스탠바이미 너무 비싸서 포기했어? 😭
-    **가성비 끝판왕 '삼탠바이미' 대안 BEST 4!**
-    (옆으로 넘겨서 MD's PICK 확인!)
-*   **배경 이미지 Midjourney 프롬프트:**
-    A sleek, expensive-looking white portable smart TV with a stand on the left, next to it on the right, a vibrant, modern black portable smart TV with a stand, showing a cheerful user watching a movie. The expensive TV has a "SOLD OUT" sign and a price tag "$1,000+", the cheaper one has a price tag "$300-" and a "BEST DEAL" badge. Dramatic lighting, comparative, modern living room, --ar 1:1 --v 5.2
+**[전환 (8-13초)]**
+*   **화면:** (산뜻한 효과음) 두 번째 추천 제품 `스카이뷰 화이트에디션 삼탠바이미`가 침실이나 주방 등 예쁜 공간에 놓인 모습. 모던한 화이트 디자인 강조. 가격 '250,000원' 강조!
+*   **내레이션:** "두 번째! 💖 20만원대 초특가! 화이트 감성까지 잡은 삼탠바이미! 내 방 인테리어템으로 딱이야!"
 
-### **2. 두 번째 컷**
+**[마무리 (13-15초)]**
+*   **화면:** 두 제품이 나란히 배치된 비교 컷. "프로필 링크 클릭!" 큼지막한 자막과 함께 구매 유도 버튼이 깜빡임.
+*   **내레이션:** "이거 보고도 스탠바이미 살 거야? 🤔 현명한 당신은 프로필 링크 클릭! 지금 바로 확인해봐!"
 
-*   **들어갈 텍스트:**
-    ✨ **MD's PICK 1. 위드라이프 43인치 삼탠바이미 세트!**
-    ✅ **43인치 대화면 & 구글 스마트TV**
-    ✅ **30만원대! (LG 스탠바이미 절반 가격!)**
-    ✅ **침실, 주방 어디든 나만의 영화관 완성!**
-*   **배경 이미지 Midjourney 프롬프트:**
-    A stylish young woman comfortably watching a movie on a 43-inch black portable smart TV with a stand, placed beside her bed in a cozy, minimalist bedroom with soft ambient lighting. Google TV interface visible on screen, showing a Netflix movie. Realistic, cinematic, warm tones, high-quality, --ar 1:1 --v 5.2
+---
 
-### **3. 세 번째 컷**
+## 📸 인스타그램 카드뉴스 (4컷)
 
-*   **들어갈 텍스트:**
-    ✨ **MD's PICK 2. 티비아울렛 스마트 구글TV 삼탠바이미!**
-    ✅ **20만원대 압도적 최저가! (예산 걱정 끝!)**
-    ✅ **구글TV 기본 탑재 & 자유로운 이동성!**
-    ✅ **스마트 라이프, 지금 바로 시작하세요!**
-*   **배경 이미지 Midjourney 프롬프트:**
-    A happy person (gender neutral) enjoying various content (YouTube, gaming) on a smaller, sleek black portable smart TV with a stand in a compact, modern studio apartment kitchen, with sunlight streaming in. Emphasize ease of movement and use in a tight space. Bright, clean, functional aesthetic, joyful atmosphere. --ar 1:1 --v 5.2
+---
 
-### **4. 네 번째 컷**
+### **카드 1**
 
-*   **들어갈 텍스트:**
-    💡 **당신의 라이프스타일에 맞게 골라봐!**
-    ✔️ 70인치 대화면? 삼성 4K 삼탠바이미!
-    ✔️ 기존 TV 활용? 이동식 스탠드만!
-    **더 많은 정보는 프로필 링크에서 확인하세요! ➡️**
-*   **배경 이미지 Midjourney 프롬프트:**
-    A dynamic collage featuring four distinct scenes: 1) a grand 70-inch smart TV on a mobile stand in a spacious, luxurious living room, 2) a mid-sized smart TV on a stand in a minimalist bedroom, 3) a person easily setting up an existing monitor on a standalone mobile TV stand, 4) a family enjoying a portable TV on a patio. Emphasize variety and flexibility. Modern, bright, aspirational, --ar 1:1 --v 5.2
+*   **텍스트:**
+    🚨 **LG 스탠바이미 비싸서 못 샀다고?** 🚨
+    10년차 MD가 찾아낸
+    **✨가성비 삼탠바이미 BEST 2✨**
+
+*   **Midjourney 프롬프트:**
+    A sleek, modern portable smart TV stand in a minimalist, bright living room. The TV screen displays a dollar sign with a red cross-out or a "SALE" tag. A dynamic arrow points emphatically towards the TV from an out-of-frame hand. Bold, vibrant colors, clean product photography style, high resolution. --ar 1:1
+
+---
+
+### **카드 2**
+
+*   **텍스트:**
+    **1. 스마트 끝판왕! 구글 TV 탑재 삼탠바이미 (28만원대!)**
+    ✅ 넷플릭스, 유튜브 무제한!
+    ✅ 폰 미러링, 확장성 최고!
+
+*   **Midjourney 프롬프트:**
+    A modern portable smart TV stand, similar to LG StandbyMe, with a Google TV interface clearly visible on its screen, showcasing Netflix and YouTube logos. It's positioned in a cozy, stylish bedroom or a high-tech study. Focus on smart features, a vibrant display, and sleek design. High-tech, minimalist aesthetic, warm ambient lighting. --ar 1:1
+
+---
+
+### **카드 3**
+
+*   **텍스트:**
+    **2. 초특가 화이트 감성! 삼탠바이미 (25만원대!)**
+    ✅ 20만원대 압도적 가성비!
+    ✅ 깔끔한 화이트 인테리어 효과까지!
+
+*   **Midjourney 프롬프트:**
+    A minimalist white portable smart TV stand, similar to LG StandbyMe, blending seamlessly into a modern, Scandinavian-style living room. Soft, natural lighting emphasizes its clean, aesthetic design. There's a subtle hint of a price tag showing "200k KRW range". Elegant, bright, inviting, home decor magazine quality. --ar 1:1
+
+---
+
+### **카드 4**
+
+*   **텍스트:**
+    **💰 현명한 당신을 위한 선택!**
+    ✨ 더 많은 가성비 삼탠바이미는
+    **프로필 링크에서 확인하세요!** ✨
+
+*   **Midjourney 프롬프트:**
+    A dynamic collage of various portable smart TVs (referencing "삼탠바이미" style) in different stylish home settings (e.g., modern living room, cozy kitchen, chic bedroom). The layout is energetic and inviting. There's a prominent, stylish overlay area for text. Bright, engaging, aspirational, high resolution, product advertisement style. --ar 1:1
+
+---
