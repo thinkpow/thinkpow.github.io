@@ -1,84 +1,65 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📢 도파민 폭발 15초 쇼츠 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**[제목]:** 스탠바이미 비싸서 못 샀어? 😱 20만원대 삼탠바이미로 스마트 라이프 시작!
+**[영상 시작: 빠르고 경쾌한 배경 음악, 도파민 폭발 효과음 추가]**
 
-**[시간]:** 15초
-
----
-
-**[0-3초] (훅! 시선 강탈!)**
-*   **화면:** 침대 옆에서 폰으로 불편하게 넷플릭스 보는 사람 (답답한 표정).
-    *   **효과음:** (폰 알람 or 푸시 알림) 띵동!
-*   **내레이션 (빠르고 경쾌하게):** "스탠바이미 갖고 싶다고요? 비싸서 포기했어요? 잠깐!"
-*   **자막:** ⚡️스탠바이미 가격 실화? ➡️ 💸20만원대 대안 등장!
-
-**[3-9초] (문제 제시 & 핵심 솔루션 1)**
-*   **화면:** 이노스 삼탠바이미 제품 (FHD, 스마트 기능 강조) 및 사용 예시 (넷플릭스 재생 화면 등). 빠르게 전환.
-    *   **효과음:** (경쾌한 전환음) 슈웅!
-*   **내레이션:** "이제 20만원대로 이동식 스마트 TV를 만날 수 있어요! FHD 고화질 이노스 삼탠바이미가 31만원대!"
-*   **자막:** 🚀 FHD 고화질! 이노스 삼탠바이미 (31만원대) / 📺 넷플릭스, 유튜브는 기본!
-
-**[9-13초] (핵심 솔루션 2)**
-*   **화면:** 스카이뷰 삼탠바이미 제품 (최저가, 화이트 디자인 강조) 및 사용 예시 (주방에서 요리하며 시청).
-    *   **효과음:** (톡톡 튀는 효과음) 뿅!
-*   **내레이션:** "압도적 최저가! 20만원대 스카이뷰는 어때요? 깔끔한 화이트 디자인에 세컨드 TV로 딱!"
-*   **자막:** 💰 20만원대 최저가! 스카이뷰 삼탠바이미 / ✨ 깔끔 화이트! 세컨드 TV로 강추!
-
-**[13-15초] (클로징 & CTA)**
-*   **화면:** 세 제품이 함께 놓여있거나, 각 제품의 스마트한 사용 예시가 빠르게 지나가며 '스마트 라이프' 연출.
-    *   **효과음:** (활기찬 마무리 음악)
-*   **내레이션:** "현명한 당신의 선택! 가성비 삼탠바이미로 스마트 라이프 시작하세요! 더 자세한 정보는 댓글 링크 확인!"
-*   **자막:** 💖 내 방을 영화관으로! / 👇 댓글/프로필 링크 확인!
+*   **0-3초 (훅):**
+    *   **내레이션 (놀란 듯, 빠르고 강하게):** 스탠바이미 예쁜데 너무 비싸죠? ㅠㅠ 아, 망설이지 마세요!
+    *   **화면 텍스트:** 🚨 스탠바이미 비싸서 못 샀다면 주목!
+    *   **비주얼:** 고민하는 사람의 모습 → 눈이 번쩍 뜨이며 환한 표정으로 전환. LG 스탠바이미 이미지 위에 X표시가 빠르게 나타났다 사라지고, 다음 화면으로 전환되는 빠른 효과.
+*   **3-7초 (메인 상품 1: 삼성 삼텐바이미):**
+    *   **내레이션 (자신감 있게):** 10년차 MD가 찾은 첫 번째! 😲 70인치 삼성 스마트TV를 이동식으로! 무려 80만원대 삼텐바이미!
+    *   **화면 텍스트:** 📺 압도적 70인치 삼성 스마트TV (84만원대)
+    *   **비주얼:** 삼성 70인치 삼텐바이미가 거실, 침실, 서재 등 다양한 공간에서 자연스럽게 움직이는 모습. 대화면으로 영화나 게임을 즐기는 연출.
+*   **7-11초 (메인 상품 2: 이동식 스탠드):**
+    *   **내레이션 (아이디어를 던지듯):** 두 번째는 20만원대 이동식 스탠드! 🤩 집에 있는 TV로 나만의 스탠바이미를 만들어요!
+    *   **화면 텍스트:** 💡 내 TV로 만드는 'DIY 스탠바이미' (28만원대)
+    *   **비주얼:** 기존 TV나 모니터에 이동식 스탠드를 결합하는 모습. 깔끔하고 모던한 디자인 강조.
+*   **11-15초 (추가 상품 및 CTA):**
+    *   **내레이션 (살짝 속삭이듯):** LG 팬이라면 65인치 엘텐바이미도 놓치지 마세요!
+    *   **화면 텍스트:** 💖 LG 65인치 엘텐바이미도 있어요!
+    *   **내레이션 (마무리, 빠르고 명확하게):** 스탠바이미 가성비 대안! 지금 바로 프로필 링크에서 확인하세요!
+    *   **화면 텍스트:** 🚀 자세한 정보는 프로필 링크 클릭!
+    *   **비주얼:** 세 가지 제품(삼성, DIY 스탠드, LG)이 한 화면에 스타일리시하게 모여있고, "프로필 링크 클릭" 문구가 강조되며 화면이 전환.
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 4컷
 
----
+### 🔹 1컷
+*   **들어갈 텍스트:**
+    스탠바이미 비싸서 망설였다면? 🚨
+    10년차 MD가 찾은
+    '가성비 끝판왕' 대안 3가지!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A vibrant, eye-catching image with a broken piggy bank and money flying out, next to a sleek, expensive smart TV (representing StandbyMe). In the background, a lightbulb icon shines brightly over more affordable, modern TV alternatives. Dynamic, bold, infographic style, high contrast, clean lines, digital art. --ar 1:1 --v 5.2
 
-### **[1/4컷] 훅! 스탠바이미 가격보고 망설였다면?**
+### 🔹 2컷
+*   **들어갈 텍스트:**
+    📺 압도적 70인치!
+    삼성 '삼텐바이미' (84만원대)
+    *   삼성 스마트TV + 이동식 스탠드
+    *   초대형 화면으로 거실/침실 영화관
+    *   믿을 수 있는 삼성 브랜드 & 방문 설치
+*   **Midjourney 스타일 영문 프롬프트:**
+    A modern living room transitioning into a cozy bedroom, featuring a large 70-inch Samsung smart TV on a sleek, mobile stand. The screen displays vibrant, high-quality content. A subtle Samsung logo visible. Warm, inviting light, clean minimalist interior design. --ar 1:1 --v 5.2
 
-*   **카드뉴스 텍스트:**
-    스탠바이미, 너무 비싸서 포기했어? 😭
-    이동식 스마트TV, 이제 20만원대로 즐기세요!
-*   **Midjourney 프롬프트:**
-    `A young person looking disappointed and frustrated at an expensive price tag displayed on a sleek, minimalist portable smart TV (similar to LG StandbyMe). Next to them, a more affordable, modern portable TV with a friendly, glowing aura appears. The setting is a cozy, contemporary living room. High contrast, cinematic lighting, vibrant, --ar 1:1 --v 5.2`
+### 🔹 3컷
+*   **들어갈 텍스트:**
+    💡 내 TV로 만드는
+    'DIY 스탠바이미' (28만원대 이동식 스탠드)
+    *   기존 TV/모니터/미니빔 활용 가능
+    *   스탠바이미 이동성을 최소 비용으로!
+    *   깔끔한 디자인, 자유로운 조합
+*   **Midjourney 스타일 영문 프롬프트:**
+    A creative workspace or living area where an ordinary flat-screen TV or monitor is mounted on a stylish, minimalist mobile stand with wheels. The stand itself is the focal point, emphasizing its versatility and DIY potential. Clean, modern aesthetic with a touch of ingenuity. --ar 1:1 --v 5.2
 
----
-
-### **[2/4컷] ✨ FHD 고화질! 이노스 삼탠바이미**
-
-*   **카드뉴스 텍스트:**
-    **✨ FHD 고화질! 이노스 삼탠바이미**
-    ▶️ 31만원대!
-    ✔️ 넷플릭스/유튜브 기본
-    ✔️ 이동식 거치대 포함
-    👉 화질까지 포기 못하는 당신에게!
-*   **Midjourney 프롬프트:**
-    `A stylish, modern bedroom interior with a sleek 32-inch portable smart TV (like Innos Samtanbyme) on its stand. The TV screen displays vibrant, high-definition content from Netflix. A person is comfortably lying on the bed, watching. Soft natural light through a window, warm and inviting atmosphere, clean aesthetic, high detail, --ar 1:1 --v 5.2`
-
----
-
-### **[3/4컷] 💰 압도적 최저가! 스카이뷰 삼탠바이미**
-
-*   **카드뉴스 텍스트:**
-    **💰 압도적 최저가! 스카이뷰 삼탠바이미**
-    ▶️ 25만원대!
-    ✔️ 깔끔한 화이트 디자인
-    ✔️ 세컨드 TV로 딱!
-    👉 가성비가 가장 중요한 당신에게!
-*   **Midjourney 프롬프트:**
-    `A minimalist, bright kitchen or a cozy home office space with a sleek, white 32-inch portable smart TV (like Skyview Samtanbyme) on a stand. The TV shows a casual video, perhaps a YouTube cooking tutorial or a lighthearted vlog. The setting is airy and clean, with natural light. A person is casually present in the background. Simple, modern, bright colors, --ar 1:1 --v 5.2`
-
----
-
-### **[4/4컷] 💡 당신의 스마트 라이프, 지금 시작하세요!**
-
-*   **카드뉴스 텍스트:**
-    당신의 스마트 라이프, 지금 시작하세요!
-    💡 **구글 TV 탑재 제품도 있어요!** (티비아울렛)
-    👇 더 자세한 정보는 프로필 링크 클릭!
-*   **Midjourney 프롬프트:**
-    `A dynamic collage showcasing three different portable smart TVs in various modern settings: one in a cozy bedroom with Netflix, one in a bright kitchen with YouTube, and one in a stylish living room displaying a Google TV interface. A chic hand is subtly pointing towards the bottom of the frame, indicating a call to action. Vibrant colors, smart home aesthetic, high-tech, --ar 1:1 --v 5.2`
+### 🔹 4컷
+*   **들어갈 텍스트:**
+    💖 LG 팬이라면?
+    65인치 '엘텐바이미'도 있어요! (89만원대)
+    📌 스탠바이미 가성비, 이제 고민 끝!
+    궁금하다면 프로필 링크 클릭!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A comparison infographic style image with three elegant mobile smart TVs lined up. One is a sleek LG 65-inch smart TV on a mobile stand, another a large Samsung 70-inch TV on a stand, and the third showcases a versatile mobile stand with a generic TV mounted. All are in a bright, inviting home setting. Subtle checkmarks or 'best choice' icons floating above them. --ar 1:1 --v 5.2
