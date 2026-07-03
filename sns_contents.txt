@@ -1,90 +1,104 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
+## 🚀 도파민 폭발! 15초 숏폼 & 인스타그램 카드뉴스 기획 (스탠바이미 가성비)
 
-**제목:** 💥 비싼 스탠바이미? NO! 30만원대 '이것'으로 극장 만듦! (삼탠바이미 가성비 대박)
+---
+
+### **1. 유튜브 쇼츠/틱톡용 15초 스크립트**
+
+**콘텐츠 제목:** LG 스탠바이미 100만원 넘는다고?! 🤯 갓성비 삼탠바이미 딱 15초컷!
 
 **[영상 구성]**
 
-*   **러닝타임:** 15초
-*   **컨셉:** 도파민 폭발! 빠른 전환, 핵심 강조, 충격적인 가성비 어필
+*   **시각적 특징:** 빠르고 강렬한 컷 전환, 자막, 이모지, 트렌디한 배경 음악 ( upbeat, catchy K-pop or trendy sound)
+*   **음악/사운드:** 0-3초: 긴장감 있는 효과음(ex. 띠용!), 3초 이후: 신나는 배경음악
+*   **자막:** 주요 대사 강조, 핵심 키워드 크게 표시
 
 ---
 
-**(0-3초) 훅: 시선 강탈 & 문제 제기**
-*   **영상:**
-    *   [화려한 LG 스탠바이미 광고 영상 짧게] → [갑자기 'X' 표시, "200만원대?" 텍스트] → [충격받은 표정의 인물 클로즈업 또는 '아니!?' 이모지 팝업]
-    *   **음악:** 긴장감 있는 짧은 효과음 후, 밝고 경쾌한 비트로 전환
-*   **대사:** "비싼 스탠바이미, 아직도 고민해? 😲 이제 그만!"
-*   **자막:** #스탠바이미 #가성비 #삼탠바이미
+**(0-3초) 훅(Hook): 시선 강탈 도입부**
 
-**(3-7초) 해결책 제시 & 1번 상품 소개**
-*   **영상:**
-    *   [위드라이프 43인치 삼탠바이미 세트가 침대 옆, 주방 등 다양한 공간에 스르륵 이동하는 장면]
-    *   [텍스트: ✨ 30만원대 43인치 구글TV 삼탠바이미!]
-*   **대사:** "30만원대에 스탠바이미 쌉가능? 실화냐?! 🤯 넷플릭스, 유튜브 다~ 돼!"
-*   **자막:** #위드라이프 #구글TV #이동식TV
+*   **화면:** (빠르게 전환)
+    *   [화면 1] LG 스탠바이미 광고 화면 또는 비싼 가격표(1,000,000원+)에 'X' 표시, 실망한 표정의 사람 클로즈업
+    *   [화면 2] 물음표 이모티콘 팡팡 터지는 애니메이션 + "진짜 이 가격 실화?!" 텍스트
+*   **내레이션 (빠르고 격양된 목소리):** "LG 스탠바이미 100만원 넘는다고?! 🤯 비싸서 못 샀던 당신 주목! 딱 15초면 인생템 찾는다!"
+*   **자막:** "LG 스탠바이미 🙅‍♀️비싸다?!" "15초 안에 #갓성비 #인생템 찾아줌!"
 
-**(7-12초) 2번 상품 소개 & 기능 강조**
-*   **영상:**
-    *   [삼성 70인치 삼탠바이미 세트가 거실에서 영화를 재생하는 웅장한 장면]
-    *   [텍스트: 🔥 70인치 대화면 삼성 삼탠바이미! 4K UHD 화질 대박!]
-*   **대사:** "아니, 70인치 삼성TV가 이동식으로? 극장 Flex! 🎬 믿고 쓰는 삼성, 고화질은 덤!"
-*   **자막:** #삼성TV #70인치 #4KUHD
+**(3-10초) 문제 제시 & 해결책 소개**
 
-**(12-15초) 마무리 & CTA**
-*   **영상:**
-    *   [세 상품이 나란히 비교되는 간략한 인포그래픽 또는 제품 이미지 썸네일]
-    *   [밝은 미소의 인물, 손가락으로 위(프로필)를 가리키거나 화면 하단에 '👆' 이모지]
-    *   [텍스트: ➡️ 프로필 링크 클릭! 득템각!]
-*   **대사:** "더 자세한 정보는 프로필 링크에서! 현명한 당신의 선택을 기다려요! 😉"
-*   **자막:** #갓성비 #쇼핑꿀팁 #지금바로확인
+*   **화면:**
+    *   [화면 3] 다양한 공간(거실, 침실, 주방)을 자유롭게 이동하며 콘텐츠를 즐기는 사람들의 모습 (빠르게 전환)
+    *   [화면 4] '위드라이프 43인치 삼탠바이미' 블랙 제품이 깔끔한 인테리어에 놓인 모습
+*   **내레이션:** "고민은 이제 그만! **삼탠바이미**가 답이다! 첫 번째, **위드라이프 43인치**! 무려 **43인치 대화면**에 **구글 스마트TV**까지! 30만원대로 나만의 극장 만들자!"
+*   **자막:** "✨ 해결책은? #삼탠바이미" "1️⃣ **위드라이프 43인치**" "👀 #대화면 #구글TV #30만원대"
 
----
+**(10-14초) 추가 상품 소개 & 특징 강조**
 
-## 📸 인스타그램 카드뉴스 4컷
+*   **화면:**
+    *   [화면 5] '티비아울렛 초가성비 삼탠바이미' 제품이 아기자기한 방에 놓여있는 모습
+    *   [화면 6] 다양한 OTT 앱 아이콘들이 화면에 번개처럼 지나가는 연출
+*   **내레이션:** "더 싸게 사고 싶다면? **티비아울렛 초가성비**! **20만원대**로 이동식 스마트TV 끝판왕 등극! 어디든 옮겨 다니며 유튜브, 넷플릭스 즐겨봐!"
+*   **자막:** "2️⃣ **티비아울렛 초가성비**" "💸 #20만원대 #이동식TV #넷플릭스"
 
-**콘텐츠 제목:** 💰 비싼 스탠바이미 NO! 30만원대 '삼탠바이미'로 극장 FLEX! (현명한 가성비템 총정리)
+**(14-15초) 강력한 클로징 & CTA**
+
+*   **화면:**
+    *   [화면 7] 위드라이프 화이트 제품 포함, 3개 제품이 한데 모여있는 깔끔한 인서트 컷
+    *   [화면 8] '지금 바로 확인!' 문구와 함께 프로필 링크 강조 애니메이션
+*   **내레이션:** "LG 스탠바이미는 비싸잖아! 똑똑한 당신은 **삼탠바이미**로 스마트한 가성비 라이프 즐겨! 지금 바로 프로필 링크 확인!"
+*   **자막:** "💖 스마트한 당신의 선택은?" "👆 프로필 링크 클릭!"
 
 ---
 
-**[1/4 컷]**
+### **2. 인스타그램 카드뉴스 4컷**
 
-*   **카드 텍스트:**
-    *   **메인:** 💰 비싼 스탠바이미는 이제 그만!
-    *   **서브:** 30만원대 '삼탠바이미'로 스마트한 이동식 TV를 내 방에!
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A visually engaging split-screen composition. The left side subtly features a blurred, distant image of an expensive, generic "StandbyMe" device, suggesting its inaccessibility. The right side is vibrant and clear, showcasing a collage or dynamic transition of the two recommended "삼탠바이미" products (43-inch and 70-inch) in various inviting home environments (bedroom, living room). In the center, a bright, glowing arrow points downwards, with a subtle "Link in Bio" graphic. Modern, clean, energetic, digital art style, --ar 1:1 --v 5.2`
+**[공통 디자인 키워드]**
+*   **스타일:** Modern, minimalist, clean, soft natural light, cozy, comfortable, aspirational lifestyle, cinematic, ultra realistic, detailed, high resolution, f/1.8, bokeh, soft shadows, warm color palette.
 
 ---
 
-**[2/4 컷]**
+**카드뉴스 1/4 컷**
 
-*   **카드 텍스트:**
-    *   **메인:** ✨ 압도적 가성비 끝판왕!
-    *   **서브1:** 30만원대 위드라이프 43인치 구글TV 삼탠바이미 세트
-    *   **서브2:** 침실/주방 어디든 OK! 스마트 기능+에너지 1등급!
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A minimalist and cozy modern bedroom, illuminated by soft ambient lighting. A stylish 43-inch smart TV on a sleek, black movable stand is positioned beside a comfortable bed. The TV screen vividly displays the Google TV interface with the Netflix logo prominent. Emphasize comfort, smart functionality, and easy movement. Photorealistic, high detail, warm color palette, --ar 1:1 --v 5.2`
-
----
-
-**[3/4 컷]**
-
-*   **카드 텍스트:**
-    *   **메인:** 🤩 극장 부럽지 않아!
-    *   **서브1:** 삼성 70인치 4K UHD 삼탠바이미 세트로 대화면 몰입!
-    *   **서브2:** 삼성의 고화질과 믿음직한 AS, 방문설치까지 완벽!
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A luxurious, spacious living room designed for home entertainment. A massive 70-inch Samsung 4K UHD smart TV on a sturdy, premium movable stand is the centerpiece, displaying a vibrant, cinematic scene from a movie. The room has soft, inviting lighting and comfortable seating. High-end, sophisticated, home theater feel, photorealistic, --ar 1:1 --v 5.2`
+*   **들어갈 텍스트:**
+    LG 스탠바이미 비싸서 포기? 🙅‍♀️
+    똑똑한 당신을 위한 ✨
+    #갓성비 #삼탠바이미 등장!
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    A disappointed young woman sitting on a modern sofa, looking longingly at a blurred, expensive smart TV with a high price tag (e.g., "$1000+"). In the foreground, a vibrant, modern "Samtanbyme" portable TV concept (sleek design, thin bezel) emerges with a glowing, affordable price tag (e.g., "$300"). The room is a bright, minimalist living room with warm natural light streaming in. Cinematic, dramatic lighting, ultra realistic, f/1.8, bokeh, soft shadows, detailed, high resolution, cozy atmosphere, modern interior design.
 
 ---
 
-**[4/4 컷]**
+**카드뉴스 2/4 컷**
 
-*   **카드 텍스트:**
-    *   **메인:** 현명한 당신의 선택은? 💰
-    *   **서브1:** '스탠바이미 가성비'템, 더 자세히 보려면?
-    *   **서브2:** ➡️ 프로필 링크에서 지금 바로 확인하세요!
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A dynamic and engaging comparison scene. On one side, a subtle, blurred representation of a high-priced, original "StandbyMe" with a 'sold out' or 'too expensive' tag. On the other side, a bright, spotlighted display of the three "삼탠바이미" options (43-inch, 70-inch, entry-level) presented as excellent value choices. A prominent, glowing call-to-action button or arrow pointing towards "Link in Bio" with text that says "Click for Best Deals!". Energetic, modern, e-commerce ad style, --ar 1:1 --v 5.2`
+*   **들어갈 텍스트:**
+    👀 43인치 대화면! 위드라이프 삼탠바이미
+    ✔️ 구글 스마트TV
+    ✔️ 30만원대 압도적 가성비
+    ✔️ 에너지 효율 1등급
+    #대화면 #집콕필수템
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    A happy person (gender neutral) comfortably lounging on a bed in a modern, minimalist bedroom, deeply immersed in watching a movie on a large (43-inch equivalent) sleek black portable smart TV on a stand. The screen shows a vibrant movie scene. Soft, warm natural light enters through a large window. The room is decorated with simple, cozy elements. Cinematic, dramatic lighting, ultra realistic, f/1.8, bokeh, soft shadows, detailed, high resolution, cozy atmosphere, modern interior design.
+
+---
+
+**카드뉴스 3/4 컷**
+
+*   **들어갈 텍스트:**
+    💰 20만원대 초특가! 티비아울렛 삼탠바이미
+    ✔️ 휴대성 끝판왕
+    ✔️ 어디서든 구글TV 즐겨
+    ✔️ 부담 없는 스마트 입문템
+    #20만원대 #이동식TV
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    A compact, stylish portable smart TV on a stand being effortlessly moved by a hand between two different modern, brightly lit rooms (e.g., from a kitchen counter to a living room corner). The TV screen displays various streaming app logos (YouTube, Netflix). The background shows a blurred, seamless transition of modern home interiors, emphasizing mobility and versatility. Cinematic, dramatic lighting, ultra realistic, f/1.8, bokeh, soft shadows, detailed, high resolution, cozy atmosphere, modern interior design.
+
+---
+
+**카드뉴스 4/4 컷**
+
+*   **들어갈 텍스트:**
+    나에게 딱 맞는 삼탠바이미는?
+    지금 바로 프로필 링크 확인! ✨
+    #가성비TV #스마트라이프
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    A collection of three stylish "Samtanbyme" portable smart TVs (one black 43-inch, one white 43-inch, one smaller compact model) elegantly displayed together in a sunlit, contemporary open-plan living space. The TVs are on their stands, showcasing their sleek designs. The background is slightly blurred, featuring modern furniture and soft decor. A subtle glowing arrow points towards a call-to-action button or text overlay area. Cinematic, dramatic lighting, ultra realistic, f/1.8, bokeh, soft shadows, detailed, high resolution, cozy atmosphere, modern interior design.
