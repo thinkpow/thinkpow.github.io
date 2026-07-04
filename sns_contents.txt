@@ -1,91 +1,69 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
 
-**제목:** 스탠바이미? ✋ 잠깐! 가성비 삼탠바이미가 대륙을 씹어먹는다고?!
+**영상 컨셉:** 빠르고 경쾌한 배경음악과 함께 제품이 스피디하게 전환되며 텍스트 효과와 화려한 UI 애니메이션이 가미됩니다.
 
-**(영상 시작: 빠르고 경쾌한 비트의 BGM 시작, 화면 중앙에 "스탠바이미" 텍스트 큼직하게)**
+---
 
-**[0-3초] 훅 (Hook):**
-*   **내레이션:** "스탠바이미? ✋ 잠깐만요! 비싼 가격에 눈물 닦아줄 가성비 끝판왕이 나타났다!"
+**[시선 강탈 훅: 0-3초]**
+
+*   **화면:** (긴장감 있는 음악과 함께) 비싼 정품 스탠바이미 가격표가 화면을 가득 채우고 '💸70만원대?!' 텍스트 크게 등장. 이내 X표시로 전환.
+*   **대사:** "스탠바이미 사고 싶어서 현기증 나요? 💸" (음악 전환: 밝고 신나는 템포)
+*   **화면:** '걱정 마! 내가 다 찾아왔어!' 텍스트와 함께 삼성 삼탠바이미 이미지가 빠르게 등장!
+*   **대사:** "하지만 50만원대에 43인치 스마트 이동식 TV를 가질 수 있다면?!"
+
+**[본문: 3-12초]**
+
 *   **화면:**
-    *   처음 1초: LG 스탠바이미의 고급스러운 모습이 빠르게 스쳐 지나감.
-    *   다음 2초: 가격표가 튀어나오며 X 표시, 옆에 "🤯💰" 이모지 폭발. 놀란 표정의 사람 얼굴(밈 스타일) 빠르게 지나감.
+    *   **3-6초:** 삼성 43인치 삼탠바이미 (제품명/가격/핵심 장점 텍스트: "50만원대! 4K UHD! 삼성 믿고 쓰는!")
+    *   **대사:** "첫 번째! 압도적 가성비, 삼성 43인치 삼탠바이미! 50만원대로 삼성 4K TV와 이동식 스탠드를 한 번에! 믿을 수 있는 삼성 퀄리티!"
+    *   **6-9초:** LG 43인치 엘텐바이미 (제품명/가격/핵심 장점 텍스트: "LG 웹OS! 화이트 디자인! 70만원대!")
+    *   **대사:** "두 번째! LG 팬이라면 엘텐바이미! 70만원대로 LG 웹OS의 편리함과 깔끔한 디자인까지! 프리미엄 가성비 끝판왕!"
+    *   **9-12초:** 티비아울렛 DIY 솔루션 (제품명/가격/핵심 장점 텍스트: "20만원대! DIY 구글TV! 초가성비!")
+    *   **대사:** "이것마저 부담된다면? 20만원대 초가성비 DIY 구글 TV 이동식 스탠드도 있어요! 나만의 스탠바이미를 만들 기회!"
 
-**[3-7초] 문제 제기 & 해결책 제시:**
-*   **내레이션:** "가성비 삼탠바이미 2종! 지금부터 스탠바이미 뺨치는 스펙 보여드릴게요!"
-*   **화면:**
-    *   "삼탠바이미" 텍스트가 번쩍이며 등장.
-    *   두 개의 삼탠바이미 제품 이미지가 좌우로 빠르게 분할되어 나타남. (위드라이프, 무빙큐빅스)
+**[클로징 & CTA: 12-15초]**
 
-**[7-11초] 첫 번째 상품 소개:**
-*   **내레이션:** "첫 번째, 위드라이프 43인치! 30만원대 중반에 43인치 대화면 스마트 TV에 이동식 스탠드까지? 미쳤다 진짜!"
-*   **화면:**
-    *   위드라이프 43인치 삼탠바이미 TV가 침실/거실에서 사용되는 모습. (대화면 강조)
-    *   "43인치 대화면! 30만원대! 구글 스마트TV!" 자막 효과.
-
-**[11-14초] 두 번째 상품 소개:**
-*   **내레이션:** "두 번째, 무빙큐빅스 QLED 무선 삼탠바이미! 선 없는 자유에 QLED 화질까지! 이건 진짜 스탠바이미 저격수!"
-*   **화면:**
-    *   무빙큐빅스 무선 QLED 삼탠바이미 TV가 전원선 없이 주방/테라스 등 다양한 공간으로 이동하는 모습.
-    *   "무선! QLED 화질! 세련된 화이트!" 자막 효과.
-
-**[14-15초] 마무리 & CTA:**
-*   **내레이션:** "더 자세한 정보는 댓글 & 프로필 링크에서 확인하세요!"
-*   **화면:** 두 제품이 나란히 배치된 비교 컷. "지금 바로 확인!" 문구와 함께 댓글/프로필 링크 유도하는 화살표 이모지. (BGM 페이드아웃)
+*   **화면:** 세 제품이 나란히 비교되는 인포그래픽, 또는 가장 눈길을 끄는 제품이 클로즈업. '프로필 링크에서 더 자세히 비교하고 구매하세요!' 텍스트.
+*   **대사:** "어떤 제품이 현명한 당신의 선택? 더 자세한 정보는 지금 바로 프로필 링크 확인하세요! 품절 임박!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+## 📸 인스타그램 카드뉴스 4컷
 
----
+### **💡 카드 1: 훅 & 문제 제기**
 
-### **1. 첫 번째 컷: 훅 & 문제 제기**
+*   **텍스트:**
+    *   **메인:** "스탠바이미 갖고 싶어서 현기증 나? 💸"
+    *   **서브:** "비싼 가격에 망설였다면 이젠 안녕! 👋"
+    *   **CTA:** "✨다음 장으로 넘겨봐!"
+*   **Midjourney 프롬프트 (영문):**
+    `A young woman with wide, yearning eyes, looking longingly at a luxurious, futuristic portable screen (StandbyMe-style) with a prohibitive price tag floating beside it. The background is a dreamy, slightly blurred modern interior. The overall mood is aspirational but with a hint of financial struggle. Cinematic, soft lighting, vibrant colors. --ar 1:1 --v 5.2`
 
-*   **컷 텍스트:**
-    **LG 스탠바이미, 비싸서 포기했어요? 💸**
-    **"가성비 삼탠바이미"가 정답입니다!**
-    (Swipe to discover amazing alternatives!)
+### **💡 카드 2: 솔루션 1 - 삼성 삼탠바이미**
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A frustrated person holding an empty wallet, looking longingly at a blurred, expensive LG StandbyME TV in a modern minimalist living room. The scene is slightly desaturated, with a bright red overlay on the price tag showing an X. Emphasize regret and desire. Product photography, cinematic lighting, high detail, --ar 1:1 --v 5.2`
+*   **텍스트:**
+    *   **메인:** "🌟 가성비 끝판왕: 삼성 43인치 삼탠바이미!"
+    *   **서브:** "50만원대! 4K UHD 스마트TV + 이동식 스탠드 = 완벽 조합!"
+    *   **특징 강조:** "✔️ 믿을 수 있는 삼성 브랜드 ✔️ 43인치 대화면 & 선명한 4K"
+*   **Midjourney 프롬프트 (영문):**
+    `A sleek, modern Samsung 43-inch 4K UHD smart TV on a minimalist mobile stand, perfectly integrated into a cozy, sunlit living room with contemporary furniture. A person is comfortably watching movies on the screen. Focus on the crisp display and the mobility of the stand. Bright, inviting atmosphere. --ar 1:1 --v 5.2`
 
----
+### **💡 카드 3: 솔루션 2 - LG 엘텐바이미**
 
-### **2. 두 번째 컷: 메인 상품 1 (위드라이프 43인치)**
+*   **텍스트:**
+    *   **메인:** "✨ 프리미엄 가성비: LG 43인치 엘텐바이미!"
+    *   **서브:** "LG 웹OS & 깔끔한 화이트 디자인으로 어디든 착!"
+    *   **특징 강조:** "✔️ 독보적인 LG 웹OS 경험 ✔️ 인테리어 완성 화이트 디자인"
+*   **Midjourney 프롬프트 (영문):**
+    `A stylish LG 43-inch 4K UHD smart TV on a white, elegant mobile stand, positioned in a bright, minimalist bedroom. The TV screen displays a vibrant nature scene. Emphasize the clean design and the seamless integration into a modern, serene interior. Soft, natural light. --ar 1:1 --v 5.2`
 
-*   **컷 텍스트:**
-    **📺 초대형 스크린, 압도적 가성비!**
-    **위드라이프 43인치 삼탠바이미 TV**
-    ✨ 43인치 대화면 + 구글 스마트TV
-    💰 30만원대 중반 가격!
-    (어디든 이동하며 영화관처럼 즐기세요!)
+### **💡 카드 4: DIY 솔루션 & 최종 CTA**
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A vibrant, modern living room at dusk, with a sleek 43-inch smart TV on a minimalist movable stand. The TV screen displays a dynamic scene from a popular streaming service (e.g., Netflix logo subtly visible). Soft, warm interior lighting, cozy atmosphere, high-resolution product photography, detailed screen reflection, --ar 1:1 --v 5.2`
-
----
-
-### **3. 세 번째 컷: 메인 상품 2 (무빙큐빅스 무선 QLED)**
-
-*   **컷 텍스트:**
-    **🔋 선 없는 자유! QLED의 선명함!**
-    **무빙큐빅스 무선 QLED 삼탠바이미 TV**
-    ✨ 무선 이동성 + QLED 화질
-    🤍 세련된 화이트 디자인
-    (콘센트 걱정 없이 자유롭게 즐기세요!)
-
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A stylish white wireless QLED TV on a sleek, minimalist stand in a bright, modern bedroom with soft morning light. No visible wires. The TV screen shows vivid, high-definition nature scenery. Clean aesthetic, elegant design, product photography, cozy and calm atmosphere, --ar 1:1 --v 5.2`
-
----
-
-### **4. 네 번째 컷: 추가 추천 & CTA**
-
-*   **컷 텍스트:**
-    **더 저렴한 20만원대 삼탠바이미도 있어요!**
-    **최고의 가성비 삼탠바이미, 지금 바로 확인!**
-    **프로필 링크 🔗 클릭하고 스마트한 쇼핑하세요!**
-
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A split image or collage, showcasing two different modern Samtanbyme TVs (one large screen, one white wireless) side-by-side in a dynamic, eye-catching arrangement. Bright, inviting studio lighting, clean background with subtle gradient. Emphasize "Best Value" and "Discover More" with visual cues like arrows pointing towards text. Product showcase, high contrast, --ar 1:1 --v 5.2`
+*   **텍스트:**
+    *   **메인:** "이것마저 부담된다면? 🚨 20만원대 DIY 솔루션!"
+    *   **서브:** "나만의 스탠바이미, 더 저렴하게 만들어요!"
+    *   **CTA:** "👉🏻 더 자세한 비교와 구매는 프로필 링크 클릭! ✨"
+*   **Midjourney 프롬프트 (영문):**
+    `A vibrant infographic style image showcasing three different portable smart TVs on mobile stands side-by-side. The leftmost one is a Samsung, the middle is an LG, and the rightmost is a custom, slightly more budget-friendly looking DIY setup with a generic monitor. Each has a small price tag (500k KRW, 700k KRW, 200k KRW respectively). Emphasize choice and affordability. A cursor icon or a "link in bio" icon subtly placed. Clean, modern graphic design. --ar 1:1 --v 5.2`
