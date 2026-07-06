@@ -1,64 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 💥 도파민 폭발 15초 숏폼 스크립트
 
-**[훅(Hook)]**
-*   **영상 시작 (0-3초):** 한숨 쉬며 휴대폰 스크롤 내리는 사람의 얼굴 클로즈업. 뒤로 비싼 LG 스탠바이미 광고가 잠깐 스쳐 지나간다.
-*   **자막:** 스탠바이미.. 갖고는 싶은데.. 너무 비싸다고?
-*   **음악:** 경쾌하고 궁금증 유발하는 비트 (예: 틱톡 유행 사운드)
+**제목:** 스탠바이미? 이제 '삼탠바이미'로 통장 사수! 💸
 
----
-
-**[본문]**
-*   **0초-1초:** (배우 1 - 좌절한 표정) "아.. 스탠바이미 너무 예쁜데.. 내 지갑 눈 감아..!"
-*   **1초-3초:** (배우 2 - 갑자기 등장하며 활기찬 표정) "잠깐! MD가 직접 찾은 '가성비 삼탠바이미' 봤어?"
-*   **3초-6초:** (화면 전환: '위드라이프 43인치 구글TV 삼탠바이미' 이미지/영상)
-    *   **자막:** ⚡️ 43인치 압도적 대화면! 구글TV 풀 스마트 기능! ⚡️
-    *   **배우 2 목소리:** "봐봐! 43인치 대화면에 구글TV까지! OTT 다 되는 거 실화야?"
-*   **6초-9초:** (화면 전환: 'LG 32인치 이동식 스마트 모니터 세트' 이미지/영상)
-    *   **자막:** ✨ 믿고 쓰는 LG! 32인치 스마트 모니터! ✨
-    *   **배우 2 목소리:** "게다가 LG 정품! 화질부터 디자인까지 스탠바이미 그 잡채!"
-*   **9초-12초:** (화면 전환: 세 제품이 나란히 비교되는 장면 or 핵심 기능 아이콘 나열)
-    *   **자막:** 이동성? 스마트 기능? 디자인? 이젠 가격까지 잡았다!
-    *   **배우 2 목소리:** "이동성, 스마트 기능, 디자인까지! 이 가격에 다 된다고?"
-*   **12초-14초:** (배우 1 - 놀란 표정으로 휴대폰 보는 모습)
-    *   **자막:** 고민은 이제 그만! 지금 바로 클릭!
-    *   **배우 1 목소리:** "대박! 나 이거 당장 사야겠는데?"
-*   **14초-15초:** (화면: 프로필 링크 유도 문구와 함께 제품 썸네일 노출)
-    *   **자막:** ➡️ 더 자세한 정보는 프로필 링크 확인!
-*   **음악:** 최고조로 신나게 마무리
+**[영상 연출 가이드]**
+*   **전체적인 분위기:** 빠르고 경쾌한 비트의 BGM, 시선을 사로잡는 빠른 화면 전환과 텍스트 효과 (이모지, 강조 효과).
+*   **캐릭터:** 활기차고 친근한 유튜버/틱톡커 톤.
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+**[0-3초] 훅 (Hook)**
+*   **화면:** (초고속 화면 전환) 값비싼 스탠바이미 이미지 ➡️ 고민하는 사람 표정 ➡️ 갑자기 'STOP' 그래픽 효과와 함께 눈을 번쩍 뜨는 표정.
+*   **대사:** "스탠바이미 갖고 싶어서 통장 털 준비 중? 🚫 잠시만요! 이거 모르면 100% 후회해요!"
 
-### 컷 1: 훅 (Hook)
-*   **텍스트:**
-    "LG 스탠바이미 갖고 싶지만… 💸 가격이 너무 비싸 고민이셨죠?"
-    "이제 비싸게 주지 마세요! 똑똑한 MD가 직접 찾아낸 '가성비 삼탠바이미' 대안들!"
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A stylish living room, modern minimalist design, a person looking longingly at a blurred, expensive-looking smart mobile screen, a transparent price tag overlay with "TOO EXPENSIVE" visible, soft focus on the person's slightly frustrated face, cinematic, moody lighting, high contrast, --ar 1:1 --style raw --v 5.2`
+**[3-7초] 문제 제기 & 해결책 제시**
+*   **화면:** 스탠바이미와 비슷한 디자인의 '삼탠바이미 호환 거치대'가 부드럽게 움직이는 모습. 가격 비교 그래프 오버레이.
+*   **대사:** "비싼 LG 스탠바이미, 굳이? ❌ 2024년엔 '삼탠바이미'가 대세라고요! 가격은 1/4인데 기능은 완벽!"
 
-### 컷 2: 메인 추천 1 - 위드라이프 43인치 구글TV 삼탠바이미
-*   **텍스트:**
-    "✨ 43인치 압도적 대화면! 구글TV 삼탠바이미 (30만원대)"
-    "🎬 유튜브, 넷플릭스 OTT 무제한! 1등급 에너지 효율은 덤!"
-    "👉 상품 보러가기 (프로필 링크)"
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A modern living room with a sleek, minimalist design, a large 43-inch smart TV on a mobile stand, displaying a vibrant Google TV interface with prominent YouTube and Netflix icons, a cozy sofa with throw pillows in the background, warm natural light flooding in, comfortable and inviting atmosphere, --ar 1:1 --style raw --v 5.2`
+**[7-11초] 핵심 기능 어필**
+*   **화면:** 거치대에 설치된 TV로 넷플릭스, 유튜브 시청 장면 (거실, 침실, 주방 등 다양한 공간에서). 'Google TV 내장' 텍스트 강조.
+*   **대사:** "거실에서 드라마? 침대에서 영화? 주방에서 레시피까지! 📺 구글 TV 내장이라 별도 기기 필요 없이 그냥 켜면 끝!"
 
-### 컷 3: 메인 추천 2 - LG 32인치 이동식 스마트 모니터 세트
-*   **텍스트:**
-    "✅ 믿고 쓰는 LG! 32인치 이동식 스마트 모니터 세트 (40만원대)"
-    "📺 LG만의 선명한 화질 & 직관적인 WebOS 스마트 기능!"
-    "👉 상품 보러가기 (프로필 링크)"
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A Scandinavian-style bedroom, clean and bright, with a 32-inch LG smart monitor on a stylish mobile stand next to the bed, displaying a crisp, colorful image, a soft blanket draped over the bed, a small plant on a bedside table, serene and high-quality feel, --ar 1:1 --style raw --v 5.2`
+**[11-13초] 가격 어필**
+*   **화면:** '285,000원'이라는 가격이 번쩍이는 효과와 함께 크게 강조됨. 놀라는 표정.
+*   **대사:** "28만 원대에 이 모든 게 가능하다고? 😱 이게 바로 진정한 가성비 끝판왕!"
 
-### 컷 4: 추가 추천 & 콜 투 액션 (Call to Action)
-*   **텍스트:**
-    "💰 20만원대 초가성비! 구글TV 이동식 스탠드도 있어요!"
-    "💡 MD가 엄선한 '가성비 스탠바이미' 대안들, 더 궁금하다면?"
-    "➡️ 프로필 링크에서 지금 바로 확인하세요! (놓치면 후회!)"
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A dynamic split screen showing the 43-inch Google TV on one side and the 32-inch LG monitor on the other, both in their respective modern home settings, vibrant arrows pointing towards a central, glowing "LINK IN BIO" button or a smartphone icon with a cursor tapping, energetic and inviting, --ar 1:1 --style raw --v 5.2`
+**[13-15초] 마무리 & CTA**
+*   **화면:** (빠르게) '삼탠바이미' 거치대 + 고양이 캣닢 인형이 번갈아 나오며 "가성비" 이모지 폭발. 손가락으로 아래를 가리키는 제스처.
+*   **대사:** "현명한 당신의 선택! 🙋‍♀️ 삼탠바이미부터 냥이 꿀템까지, 자세한 정보는 댓글 또는 프로필 링크에서 확인하세요! 지금 바로 클릭!"
+
+---
+
+## 📸 인스타그램 카드뉴스 (4컷)
+
+---
+
+### **📍 첫 번째 컷: 훅 (Hook)**
+
+*   **들어갈 텍스트:** "스탠바이미 갖고 싶지만... 가격 때문에 포기했니? 😨"
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A young person looking disappointed and frustrated, staring at a blurred background image of a sleek, expensive movable smart TV (similar to LG StandbyMe) with a high price tag overlay. The person is in the foreground, expressing dilemma. Modern, minimalist interior setting. Dramatic lighting, realistic photo, cinematic, high detail. --ar 1:1"
+
+---
+
+### **📍 두 번째 컷: 해결책 제시**
+
+*   **들어갈 텍스트:** "✋ 잠시 멈춰! 이제 '삼탠바이미'의 시대가 온다! 💥"
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A hand gesturing "stop" prominently in the foreground, in sharp focus. In the background, a vibrant, modern smart TV (similar to the product 'SamtanbyMe compatible stand') on a movable stand is positioned in a stylish, well-lit living room. The TV screen displays a dynamic, inviting interface. Bright, energetic, slightly futuristic aesthetic. Product photography style, clean background, sharp focus. --ar 1:1"
+
+---
+
+### **📍 세 번째 컷: 핵심 기능 & 가격 어필**
+
+*   **들어갈 텍스트:** "28만원대에 스탠바이미 기능 완벽 구현! 🤯 스마트 TV 내장 + 자유로운 이동성까지!"
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A dynamic split image or montage. On one side, a sleek mobile smart TV (on the 'SamtanbyMe' compatible stand) being effortlessly wheeled across a modern wooden floor in an airy, bright home. On the other side, a close-up of the TV screen displaying popular streaming app icons (Netflix, YouTube, Disney+). A bold graphic overlay with '285,000 KRW' price tag is prominently featured. Functional, elegant, realistic. --ar 1:1"
+
+---
+
+### **📍 네 번째 컷: CTA & 가성비 추가 아이템**
+
+*   **들어갈 텍스트:** "스탠바이미 대체템부터 냥이 꿀템까지! 모든 가성비는 프로필 링크에서! 💸"
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A cheerful and inviting composite scene. On the left, a modern, mobile smart TV stand (SamtanbyMe style) with a vibrant screen. On the right, a cute, fluffy cat happily playing with a colorful catnip cushion toy, captured in mid-air or mid-pounce. The background is a soft, warm blur with subtle hints of home decor. A clear 'LINK IN BIO' button graphic is integrated at the bottom. Bright, playful, high-quality photograph. --ar 1:1"
