@@ -1,68 +1,64 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**[영상 컨셉]**
-빠른 템포의 화면 전환과 자막, 효과음으로 시선을 사로잡는다.
-
-**(0-3초) 훅(Hook) - 시선 강탈!**
-*   **[장면]** 침대 옆, 주방, 거실 등 다양한 공간에 스탠바이미가 멋지게 놓여있는 이상적인 모습 빠르게 전환 (드림모드)
-*   **[대사]** "와, 이거 하나면 집이 극장?! 스탠바이미 드림... 현실은?"
-*   **[효과음]** 휘파람 소리, 감탄사 -> 돈 계산기 소리
-
-**(3-7초) 문제 제기 & 반전**
-*   **[장면]** 스탠바이미 가격 (100만원 이상) 크게 띄우기 -> 놀라는 표정 (혹은 비싼 가격표에 X표)
-*   **[대사]** "백만원 넘는다고?! 잠깐만요, 제 지갑은요..."
-*   **[효과음]** 삐빅! (오류음), 망치 소리
-
-**(7-12초) 해결책 제시: 가성비 대안 소개**
-*   **[장면]** (빠르게) 이노스 S2720G 등장 (스타일리시하게) -> 주요 특징 자막으로 강조 (스마트OS, 피벗, 틸트)
-*   **[대사]** "스탠바이미 감성 그대로! **이노스 S2720G!** 넷플릭스 기본, 피벗까지? 가격은 1/3!"
-*   **[효과음]** 샤방한 효과음, 띠링!
-
-**(12-15초) 추가 대안 및 CTA**
-*   **[장면]** 더함 N322FHD 등장 (더 큰 화면 강조) -> "더 큰 화면 찾는다면?" 자막
-*   **[대사]** "아니면 더 큰 **32인치 더함 노바**는 어때요? 이제 비싸게 사지 마세요!"
-*   **[효과음]** 팡파르, 돈 세는 소리
-*   **[마무리 자막]** "스탠바이미 가성비 끝판왕은? 댓글에서 확인!"
+**[훅(Hook)]**
+*   **영상 시작 (0-3초):** 한숨 쉬며 휴대폰 스크롤 내리는 사람의 얼굴 클로즈업. 뒤로 비싼 LG 스탠바이미 광고가 잠깐 스쳐 지나간다.
+*   **자막:** 스탠바이미.. 갖고는 싶은데.. 너무 비싸다고?
+*   **음악:** 경쾌하고 궁금증 유발하는 비트 (예: 틱톡 유행 사운드)
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[본문]**
+*   **0초-1초:** (배우 1 - 좌절한 표정) "아.. 스탠바이미 너무 예쁜데.. 내 지갑 눈 감아..!"
+*   **1초-3초:** (배우 2 - 갑자기 등장하며 활기찬 표정) "잠깐! MD가 직접 찾은 '가성비 삼탠바이미' 봤어?"
+*   **3초-6초:** (화면 전환: '위드라이프 43인치 구글TV 삼탠바이미' 이미지/영상)
+    *   **자막:** ⚡️ 43인치 압도적 대화면! 구글TV 풀 스마트 기능! ⚡️
+    *   **배우 2 목소리:** "봐봐! 43인치 대화면에 구글TV까지! OTT 다 되는 거 실화야?"
+*   **6초-9초:** (화면 전환: 'LG 32인치 이동식 스마트 모니터 세트' 이미지/영상)
+    *   **자막:** ✨ 믿고 쓰는 LG! 32인치 스마트 모니터! ✨
+    *   **배우 2 목소리:** "게다가 LG 정품! 화질부터 디자인까지 스탠바이미 그 잡채!"
+*   **9초-12초:** (화면 전환: 세 제품이 나란히 비교되는 장면 or 핵심 기능 아이콘 나열)
+    *   **자막:** 이동성? 스마트 기능? 디자인? 이젠 가격까지 잡았다!
+    *   **배우 2 목소리:** "이동성, 스마트 기능, 디자인까지! 이 가격에 다 된다고?"
+*   **12초-14초:** (배우 1 - 놀란 표정으로 휴대폰 보는 모습)
+    *   **자막:** 고민은 이제 그만! 지금 바로 클릭!
+    *   **배우 1 목소리:** "대박! 나 이거 당장 사야겠는데?"
+*   **14초-15초:** (화면: 프로필 링크 유도 문구와 함께 제품 썸네일 노출)
+    *   **자막:** ➡️ 더 자세한 정보는 프로필 링크 확인!
+*   **음악:** 최고조로 신나게 마무리
 
-### 1컷
-*   **[카드 텍스트]**
-    **"스탠바이미 갖고 싶어? 📺"**
-    **"근데 가격보고 '헉' 했지...? 😱"**
-    (드림과 현실의 간극 강조)
-*   **[Midjourney 프롬프트]**
-    `A modern, minimalist living room with a sleek, portable smart TV (resembling LG StandbyMe) in the background. A person (stylized, ambiguous gender) looking at the TV with a dreamy expression, overlaid with a giant, glowing "1,000,000₩+" price tag with a red 'X' over it. Dynamic lighting, soft focus on the person, product photography style, vibrant colors. --ar 1:1 --v 5.2`
+---
 
-### 2컷
-*   **[카드 텍스트]**
-    **"스탠바이미 감성 그대로! ✨"**
-    **"이노스 S2720G (27인치)"**
-    - 스마트 OS 내장 (넷플릭스/유튜브 직행)
-    - 피벗/틸트/스위블 자유자재!
-    - 30만원대 압도적 가성비!
-*   **[Midjourney 프롬프트]**
-    `A clean, cozy bedroom setting with a 27-inch portable smart TV (resembling Innos S2720G) on a sleek, mobile stand. The screen shows a Netflix interface. The TV is slightly pivoted vertically. Soft, warm lighting, modern minimalist design, product photography style. --ar 1:1 --v 5.2`
+## 📸 인스타그램 카드뉴스 4컷
 
-### 3컷
-*   **[카드 텍스트]**
-    **"더 큰 화면에서 즐길래? 🎬"**
-    **"더함 노바 N322FHD (32인치)"**
-    - 32인치 대화면 몰입감!
-    - 안드로이드 OS (앱 설치 자유)
-    - 무선 미러링 & 블루투스 지원
-*   **[Midjourney 프롬프트]**
-    `A modern, bright kitchen or dining area with a 32-inch portable smart TV (resembling Theam Nova N322FHD) displaying a vivid movie scene. A person is casually watching while having breakfast. Focus on the large screen and the portability, clean interior design, natural light. --ar 1:1 --v 5.2`
+### 컷 1: 훅 (Hook)
+*   **텍스트:**
+    "LG 스탠바이미 갖고 싶지만… 💸 가격이 너무 비싸 고민이셨죠?"
+    "이제 비싸게 주지 마세요! 똑똑한 MD가 직접 찾아낸 '가성비 삼탠바이미' 대안들!"
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A stylish living room, modern minimalist design, a person looking longingly at a blurred, expensive-looking smart mobile screen, a transparent price tag overlay with "TOO EXPENSIVE" visible, soft focus on the person's slightly frustrated face, cinematic, moody lighting, high contrast, --ar 1:1 --style raw --v 5.2`
 
-### 4컷
-*   **[카드 텍스트]**
-    **"이제 비싸게 사지 마세요! 💰"**
-    **"내 라이프스타일에 딱 맞는 #스탠바이미대안"**
-    - 가성비 끝판왕 이동식 TV 비교!
-    - 당신의 후회 없는 선택을 도와줄게요!
-*   **[Midjourney 프롬프트]**
-    `A collage of several different portable smart TVs and portable monitors on mobile stands, showcasing various sizes and designs, arranged aesthetically in a modern home setting. Emphasize smart shopping and affordability. Text overlays on some screens showing "SMART CHOICE" and "SAVE MONEY". Bright, energetic atmosphere. --ar 1:1 --v 5.2`
+### 컷 2: 메인 추천 1 - 위드라이프 43인치 구글TV 삼탠바이미
+*   **텍스트:**
+    "✨ 43인치 압도적 대화면! 구글TV 삼탠바이미 (30만원대)"
+    "🎬 유튜브, 넷플릭스 OTT 무제한! 1등급 에너지 효율은 덤!"
+    "👉 상품 보러가기 (프로필 링크)"
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A modern living room with a sleek, minimalist design, a large 43-inch smart TV on a mobile stand, displaying a vibrant Google TV interface with prominent YouTube and Netflix icons, a cozy sofa with throw pillows in the background, warm natural light flooding in, comfortable and inviting atmosphere, --ar 1:1 --style raw --v 5.2`
+
+### 컷 3: 메인 추천 2 - LG 32인치 이동식 스마트 모니터 세트
+*   **텍스트:**
+    "✅ 믿고 쓰는 LG! 32인치 이동식 스마트 모니터 세트 (40만원대)"
+    "📺 LG만의 선명한 화질 & 직관적인 WebOS 스마트 기능!"
+    "👉 상품 보러가기 (프로필 링크)"
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A Scandinavian-style bedroom, clean and bright, with a 32-inch LG smart monitor on a stylish mobile stand next to the bed, displaying a crisp, colorful image, a soft blanket draped over the bed, a small plant on a bedside table, serene and high-quality feel, --ar 1:1 --style raw --v 5.2`
+
+### 컷 4: 추가 추천 & 콜 투 액션 (Call to Action)
+*   **텍스트:**
+    "💰 20만원대 초가성비! 구글TV 이동식 스탠드도 있어요!"
+    "💡 MD가 엄선한 '가성비 스탠바이미' 대안들, 더 궁금하다면?"
+    "➡️ 프로필 링크에서 지금 바로 확인하세요! (놓치면 후회!)"
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A dynamic split screen showing the 43-inch Google TV on one side and the 32-inch LG monitor on the other, both in their respective modern home settings, vibrant arrows pointing towards a central, glowing "LINK IN BIO" button or a smartphone icon with a cursor tapping, energetic and inviting, --ar 1:1 --style raw --v 5.2`
