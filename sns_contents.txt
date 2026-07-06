@@ -1,78 +1,68 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발! 15초 스탠바이미 가성비 쇼츠/틱톡 스크립트 🚀
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**(영상 시작 0-3초, 시선 강탈 훅!)**
+**[영상 컨셉]**
+빠른 템포의 화면 전환과 자막, 효과음으로 시선을 사로잡는다.
 
-**[영상 비주얼]**
-*   **0-1초:** 예쁜 침실에서 LG 스탠바이미를 부러운 듯 쳐다보는 사람. 화면에 `스탠바이미?` 텍스트 깜빡.
-*   **1-3초:** 갑자기 화면이 깨지듯 `100만원? 🤯` 이라는 텍스트가 뜨고, 가격표 보고 충격받은 표정 클로즈업.
+**(0-3초) 훅(Hook) - 시선 강탈!**
+*   **[장면]** 침대 옆, 주방, 거실 등 다양한 공간에 스탠바이미가 멋지게 놓여있는 이상적인 모습 빠르게 전환 (드림모드)
+*   **[대사]** "와, 이거 하나면 집이 극장?! 스탠바이미 드림... 현실은?"
+*   **[효과음]** 휘파람 소리, 감탄사 -> 돈 계산기 소리
 
-**[내레이션/대사]**
-**나레이터:** "스탠바이미 사고 싶어? 근데 100만원이라 망설여진다고? 🤯"
+**(3-7초) 문제 제기 & 반전**
+*   **[장면]** 스탠바이미 가격 (100만원 이상) 크게 띄우기 -> 놀라는 표정 (혹은 비싼 가격표에 X표)
+*   **[대사]** "백만원 넘는다고?! 잠깐만요, 제 지갑은요..."
+*   **[효과음]** 삐빅! (오류음), 망치 소리
 
-**[영상 비주얼]**
-*   **3-5초:** '고민 끝!' 텍스트와 함께, 세련된 '삼탠바이미' 3개가 차례로 빠르게 등장. 밝고 경쾌한 템포.
-*   **5-8초:** 무빙큐빅스가 침실, 주방, 거실을 자유롭게 이동하는 모습 (선 없음 강조). 화면에 `QLED, 무선! 🔋` 텍스트 오버레이.
-*   **8-11초:** 43인치 위드라이프로 가족이 영화를 시청하며 웃는 모습. 화면에 `43인치 대화면! 🎬` 텍스트 오버레이.
-*   **11-13초:** 티비아울렛 제품이 등장하며 `20만원대 초극강 가성비! 💸` 텍스트 오버레이.
-*   **13-15초:** 세 제품이 모두 화면에 나오고, 엄지척👍 이모지 + '프로필 링크 확인!' 텍스트 강조.
+**(7-12초) 해결책 제시: 가성비 대안 소개**
+*   **[장면]** (빠르게) 이노스 S2720G 등장 (스타일리시하게) -> 주요 특징 자막으로 강조 (스마트OS, 피벗, 틸트)
+*   **[대사]** "스탠바이미 감성 그대로! **이노스 S2720G!** 넷플릭스 기본, 피벗까지? 가격은 1/3!"
+*   **[효과음]** 샤방한 효과음, 띠링!
 
-**[내레이션/대사]**
-**나레이터:** "고민은 이제 그만! 갓성비 '삼탠바이미' 대안이 떴다! ✨"
-**나레이터:** "선 없이 자유로운 QLED 무선! 🔋 무빙큐빅스!"
-**나레이터:** "압도적 대화면 좋아해? 43인치 위드라이프는 30만원대!"
-**나레이터:** "심지어 20만원대 극강 가성비도 있다니! 💸 이제 스탠바이미, 가성비로 즐겨봐! 프로필 링크 클릭! 👆"
-
----
-
-## 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+**(12-15초) 추가 대안 및 CTA**
+*   **[장면]** 더함 N322FHD 등장 (더 큰 화면 강조) -> "더 큰 화면 찾는다면?" 자막
+*   **[대사]** "아니면 더 큰 **32인치 더함 노바**는 어때요? 이제 비싸게 사지 마세요!"
+*   **[효과음]** 팡파르, 돈 세는 소리
+*   **[마무리 자막]** "스탠바이미 가성비 끝판왕은? 댓글에서 확인!"
 
 ---
 
-### **1. 첫 번째 카드뉴스 (훅 & 문제 제기)**
+## 2. 인스타그램 카드뉴스 4컷
 
-*   **카드뉴스 텍스트:**
-    **스탠바이미 사고 싶은데… 100만원이라 망설여졌다고요? 🤯**
-    #스탠바이미 #비싸 #고민끝 #삼탠바이미
+### 1컷
+*   **[카드 텍스트]**
+    **"스탠바이미 갖고 싶어? 📺"**
+    **"근데 가격보고 '헉' 했지...? 😱"**
+    (드림과 현실의 간극 강조)
+*   **[Midjourney 프롬프트]**
+    `A modern, minimalist living room with a sleek, portable smart TV (resembling LG StandbyMe) in the background. A person (stylized, ambiguous gender) looking at the TV with a dreamy expression, overlaid with a giant, glowing "1,000,000₩+" price tag with a red 'X' over it. Dynamic lighting, soft focus on the person, product photography style, vibrant colors. --ar 1:1 --v 5.2`
 
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A person looking at a sleek, modern portable smart TV on a stand with a surprised and slightly disappointed expression, an exaggerated price tag showing "1,000,000 KRW" hovering beside it. Minimalist home interior, soft natural lighting, cinematic, high contrast, --ar 1:1 --v 5.2`
+### 2컷
+*   **[카드 텍스트]**
+    **"스탠바이미 감성 그대로! ✨"**
+    **"이노스 S2720G (27인치)"**
+    - 스마트 OS 내장 (넷플릭스/유튜브 직행)
+    - 피벗/틸트/스위블 자유자재!
+    - 30만원대 압도적 가성비!
+*   **[Midjourney 프롬프트]**
+    `A clean, cozy bedroom setting with a 27-inch portable smart TV (resembling Innos S2720G) on a sleek, mobile stand. The screen shows a Netflix interface. The TV is slightly pivoted vertically. Soft, warm lighting, modern minimalist design, product photography style. --ar 1:1 --v 5.2`
 
----
+### 3컷
+*   **[카드 텍스트]**
+    **"더 큰 화면에서 즐길래? 🎬"**
+    **"더함 노바 N322FHD (32인치)"**
+    - 32인치 대화면 몰입감!
+    - 안드로이드 OS (앱 설치 자유)
+    - 무선 미러링 & 블루투스 지원
+*   **[Midjourney 프롬프트]**
+    `A modern, bright kitchen or dining area with a 32-inch portable smart TV (resembling Theam Nova N322FHD) displaying a vivid movie scene. A person is casually watching while having breakfast. Focus on the large screen and the portability, clean interior design, natural light. --ar 1:1 --v 5.2`
 
-### **2. 두 번째 카드뉴스 (해결책 제시 & 기대감 고조)**
-
-*   **카드뉴스 텍스트:**
-    **걱정 마! 가성비 끝판왕 '삼탠바이미' BEST 3 전격 공개! ✨**
-    **이동성, 화질, 대화면까지 다 잡은 갓성비 TV!**
-    #가성비TV #스마트TV #자취필수템 #대안TV
-
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `Three different stylish, modern portable smart TVs on elegant stands, showcasing smart features like streaming apps on their screens, arranged in a bright, inviting, contemporary living room. Emphasis on affordability, versatility and convenience. Cinematic, vibrant colors, --ar 1:1 --v 5.2`
-
----
-
-### **3. 세 번째 카드뉴스 (메인 상품 2개 비교)**
-
-*   **카드뉴스 텍스트:**
-    **당신의 선택은? 🤔**
-    **1. 🔋 선 없이 자유로운 QLED 무선!** (무빙큐빅스)
-    **2. 🎬 압도적 43인치 대화면!** (위드라이프)
-    #무선TV #QLED #대화면TV #삼탠바이미추천
-
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A split image. Left side: A sleek, white portable QLED smart TV on a stand, wire-free, being easily moved by a graceful hand in a bright, modern bedroom. Right side: A large 43-inch smart TV on a stand, displaying a vibrant movie scene, with a joyful family watching from a sofa. Contemporary design, clean aesthetic, --ar 1:1 --v 5.2`
-
----
-
-### **4. 네 번째 카드뉴스 (추가 추천 상품 & 강력한 CTA)**
-
-*   **카드뉴스 텍스트:**
-    **💥 20만원대 극강 가성비도 가능!**
-    **당신의 '삼탠바이미'는? 지금 바로 만나봐! ➡️**
-    **프로필 링크 클릭! 😉**
-    #20만원대TV #초저가 #리뷰언니 #쇼핑추천
-
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A stylish portable smart TV on a stand, showing various streaming apps on its screen, surrounded by dynamic, energetic graphic elements like "285,000 KRW", "BEST VALUE", and a prominent arrow pointing towards a "link in bio" icon. Modern, minimalist background, bright and inviting, --ar 1:1 --v 5.2`
+### 4컷
+*   **[카드 텍스트]**
+    **"이제 비싸게 사지 마세요! 💰"**
+    **"내 라이프스타일에 딱 맞는 #스탠바이미대안"**
+    - 가성비 끝판왕 이동식 TV 비교!
+    - 당신의 후회 없는 선택을 도와줄게요!
+*   **[Midjourney 프롬프트]**
+    `A collage of several different portable smart TVs and portable monitors on mobile stands, showcasing various sizes and designs, arranged aesthetically in a modern home setting. Emphasize smart shopping and affordability. Text overlays on some screens showing "SMART CHOICE" and "SAVE MONEY". Bright, energetic atmosphere. --ar 1:1 --v 5.2`
