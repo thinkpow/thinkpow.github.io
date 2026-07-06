@@ -1,67 +1,61 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 💥 도파민 폭발 15초 숏폼 스크립트
-
-**제목:** 스탠바이미? 이제 '삼탠바이미'로 통장 사수! 💸
-
-**[영상 연출 가이드]**
-*   **전체적인 분위기:** 빠르고 경쾌한 비트의 BGM, 시선을 사로잡는 빠른 화면 전환과 텍스트 효과 (이모지, 강조 효과).
-*   **캐릭터:** 활기차고 친근한 유튜버/틱톡커 톤.
+## 🚀 도파민 폭발! 15초 숏폼 & 인스타그램 카드뉴스 기획 (스탠바이미 가성비)
 
 ---
 
-**[0-3초] 훅 (Hook)**
-*   **화면:** (초고속 화면 전환) 값비싼 스탠바이미 이미지 ➡️ 고민하는 사람 표정 ➡️ 갑자기 'STOP' 그래픽 효과와 함께 눈을 번쩍 뜨는 표정.
-*   **대사:** "스탠바이미 갖고 싶어서 통장 털 준비 중? 🚫 잠시만요! 이거 모르면 100% 후회해요!"
+### 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**[3-7초] 문제 제기 & 해결책 제시**
-*   **화면:** 스탠바이미와 비슷한 디자인의 '삼탠바이미 호환 거치대'가 부드럽게 움직이는 모습. 가격 비교 그래프 오버레이.
-*   **대사:** "비싼 LG 스탠바이미, 굳이? ❌ 2024년엔 '삼탠바이미'가 대세라고요! 가격은 1/4인데 기능은 완벽!"
+**[영상 컨셉]**
+빠른 전환, 강조되는 텍스트, 흥겨운 배경음악과 함께 가성비 '삼탠바이미'의 매력을 어필.
 
-**[7-11초] 핵심 기능 어필**
-*   **화면:** 거치대에 설치된 TV로 넷플릭스, 유튜브 시청 장면 (거실, 침실, 주방 등 다양한 공간에서). 'Google TV 내장' 텍스트 강조.
-*   **대사:** "거실에서 드라마? 침대에서 영화? 주방에서 레시피까지! 📺 구글 TV 내장이라 별도 기기 필요 없이 그냥 켜면 끝!"
+**[스크립트]**
 
-**[11-13초] 가격 어필**
-*   **화면:** '285,000원'이라는 가격이 번쩍이는 효과와 함께 크게 강조됨. 놀라는 표정.
-*   **대사:** "28만 원대에 이 모든 게 가능하다고? 😱 이게 바로 진정한 가성비 끝판왕!"
+*   **시각 (0-3초):** [화면 가득 '스탠바이미 가격보고 심장 멎은 사람? 🙋‍♀️' 텍스트 + 놀란 표정의 인물]
+    *   **대사:** "스탠바이미 가격보고 심장 멎은 사람? 🙋‍♀️ 3초 안에 충격적인 가성비 보여드림!" (빠르고 강조된 톤)
 
-**[13-15초] 마무리 & CTA**
-*   **화면:** (빠르게) '삼탠바이미' 거치대 + 고양이 캣닢 인형이 번갈아 나오며 "가성비" 이모지 폭발. 손가락으로 아래를 가리키는 제스처.
-*   **대사:** "현명한 당신의 선택! 🙋‍♀️ 삼탠바이미부터 냥이 꿀템까지, 자세한 정보는 댓글 또는 프로필 링크에서 확인하세요! 지금 바로 클릭!"
+*   **시각 (3-8초):** [고급스러운 LG 스탠바이미 이미지 잠깐 → 바로 20만원대 '삼탠바이미' 이미지 전환, 가격 강조]
+    *   **대사:** "비싼 LG 스탠바이미 말고, 20만원대 '삼탠바이미'가 나타났다! 💥"
 
----
+*   **시각 (8-12초):** [삼탠바이미 화면에 넷플릭스/유튜브 로고 번갈아 보이고, 거실-침실-주방 등 다양한 공간에서 TV를 옮겨 사용하는 모습 빠르게 전환]
+    *   **대사:** "이게 바로 스마트 구글 TV! 넷플릭스, 유튜브 다~ 돼! 거실? 침실? 주방? 어디든 자유롭게 이동! 이 가격 실화냐고?! 🤩" (감탄사 및 놀라움 강조)
 
-## 📸 인스타그램 카드뉴스 (4컷)
+*   **시각 (12-15초):** [삼탠바이미 제품 클로즈업 + "지금 바로 FLEX!" 텍스트 + 댓글/프로필 링크 강조]
+    *   **대사:** "더 자세한 정보는 댓글 링크 확인! 지금 바로 FLEX 하세요! ✨" (활기차고 명확한 CTA)
 
 ---
 
-### **📍 첫 번째 컷: 훅 (Hook)**
+### 2. 인스타그램 카드뉴스 4컷
 
-*   **들어갈 텍스트:** "스탠바이미 갖고 싶지만... 가격 때문에 포기했니? 😨"
+**[공통 디자인 키워드]**
+미니멀, 모던, 클린, 라이프스타일, 가성비, 스마트
+
+**[각 컷별 내용]**
+
+**📍 1컷: 도입 (문제 제기)**
+*   **들어갈 텍스트:**
+    *   **메인 헤드라인:** 스탠바이미 사고 싶은데 가격 때문에 고민?! 💸
+    *   **서브 텍스트:** 갖고 싶지만 부담스러운 가격 😭 / 이제 고민 끝! 스마트한 대안이 여기 있어요!
 *   **Midjourney 스타일 영문 프롬프트:**
-    "A young person looking disappointed and frustrated, staring at a blurred background image of a sleek, expensive movable smart TV (similar to LG StandbyMe) with a high price tag overlay. The person is in the foreground, expressing dilemma. Modern, minimalist interior setting. Dramatic lighting, realistic photo, cinematic, high detail. --ar 1:1"
+    `A person looking thoughtfully at a luxurious, modern mobile TV (like LG StandbyMe) with a thoughtful expression, a subtle money bag icon with a cross over it in the background, minimalist interior, soft lighting, high contrast, cinematic, --ar 1:1 --style raw`
 
----
-
-### **📍 두 번째 컷: 해결책 제시**
-
-*   **들어갈 텍스트:** "✋ 잠시 멈춰! 이제 '삼탠바이미'의 시대가 온다! 💥"
+**📍 2컷: 해결책 제시 (삼탠바이미 등장)**
+*   **들어갈 텍스트:**
+    *   **메인 헤드라인:** 100만원대 LG 말고, 20만원대 '삼탠바이미'가 대세! 🔥
+    *   **서브 텍스트:** 혁신적인 가성비! '삼탠바이미'로 당신의 로망 실현! / 무빙 TV, 이젠 합리적인 가격으로 즐기세요!
 *   **Midjourney 스타일 영문 프롬프트:**
-    "A hand gesturing "stop" prominently in the foreground, in sharp focus. In the background, a vibrant, modern smart TV (similar to the product 'SamtanbyMe compatible stand') on a movable stand is positioned in a stylish, well-lit living room. The TV screen displays a dynamic, inviting interface. Bright, energetic, slightly futuristic aesthetic. Product photography style, clean background, sharp focus. --ar 1:1"
+    `A vibrant split screen showing two mobile TVs. On the left, a sleek, expensive-looking premium mobile TV with a high price tag. On the right, a slightly different but equally stylish, more affordable mobile TV labeled "SamtenbyMe" with a clear, much lower price tag. A glowing "BEST VALUE" badge on the right side. Modern interior, bright and clean, comparative visual, --ar 1:1 --style raw`
 
----
-
-### **📍 세 번째 컷: 핵심 기능 & 가격 어필**
-
-*   **들어갈 텍스트:** "28만원대에 스탠바이미 기능 완벽 구현! 🤯 스마트 TV 내장 + 자유로운 이동성까지!"
+**📍 3컷: 핵심 기능 및 장점**
+*   **들어갈 텍스트:**
+    *   **메인 헤드라인:** 스마트 구글TV에 자유로운 이동성까지! 완벽한 스탠바이미 가성비!
+    *   **서브 텍스트:** 넷플릭스, 유튜브 기본! 📺 / 거실, 침실, 주방 어디든 나만의 극장!
 *   **Midjourney 스타일 영문 프롬프트:**
-    "A dynamic split image or montage. On one side, a sleek mobile smart TV (on the 'SamtanbyMe' compatible stand) being effortlessly wheeled across a modern wooden floor in an airy, bright home. On the other side, a close-up of the TV screen displaying popular streaming app icons (Netflix, YouTube, Disney+). A bold graphic overlay with '285,000 KRW' price tag is prominently featured. Functional, elegant, realistic. --ar 1:1"
+    `A dynamic montage of a smart mobile TV (SamtenbyMe style) being used in various modern home settings: someone watching Netflix in a cozy bedroom, another watching YouTube in a minimalist living room, and someone following a recipe in a bright kitchen. Seamless transitions, warm and inviting atmosphere, lifestyle photography, --ar 1:1 --style raw`
 
----
-
-### **📍 네 번째 컷: CTA & 가성비 추가 아이템**
-
-*   **들어갈 텍스트:** "스탠바이미 대체템부터 냥이 꿀템까지! 모든 가성비는 프로필 링크에서! 💸"
+**📍 4컷: 행동 유도 (CTA)**
+*   **들어갈 텍스트:**
+    *   **메인 헤드라인:** 지금 바로 프로필 링크에서 '삼탠바이미' 만나보기! 🔗
+    *   **서브 텍스트:** 합리적인 가격으로 스마트한 TV 라이프 시작! / #스탠바이미 #삼탠바이미 #가성비TV #이동형TV #스마트TV
 *   **Midjourney 스타일 영문 프롬프트:**
-    "A cheerful and inviting composite scene. On the left, a modern, mobile smart TV stand (SamtanbyMe style) with a vibrant screen. On the right, a cute, fluffy cat happily playing with a colorful catnip cushion toy, captured in mid-air or mid-pounce. The background is a soft, warm blur with subtle hints of home decor. A clear 'LINK IN BIO' button graphic is integrated at the bottom. Bright, playful, high-quality photograph. --ar 1:1"
+    `A stylish, close-up shot of a modern hand holding a smartphone, pointing towards a "LINK IN BIO" button or a social media profile icon. In the background, a blurred, elegant home interior with a corner of a mobile TV (SamtenbyMe style) subtly visible. Clean, minimalist, focus on engagement, soft natural light, --ar 1:1 --style raw`
