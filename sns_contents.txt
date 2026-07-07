@@ -1,118 +1,56 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📢 도파민 폭발! 15초 숏폼 & 인스타그램 카드뉴스 기획 (이동식 스마트TV & 삼탠바이미)
+## 🚀 도파민 폭발 15초 쇼츠/틱톡 스크립트 (대사 위주)
+
+**영상 제목:** 💸 스탠바이미 비싸서 포기? 20만원대로 감성 끝! 삼탠바이미로 역대급 가성비 FLEX!
 
 ---
 
-### 1. 📺 유튜브 쇼츠/틱톡용 15초 스크립트
+**[0-3초 훅(Hook)]**
+**(화면: 고급스러운 LG 스탠바이미가 잠깐 스쳐 지나가며 가격표(₩1,200,000~)가 큼지막하게 뜸. 이어서 한숨 쉬는 사람의 표정 클로즈업 후, 곧바로 활기찬 분위기로 전환되며 '반전!' 자막과 함께 다음 장면으로 넘어감)**
+**내레이션 (빠르고 경쾌하게):** "스탠바이미 비싸서 포기했어요? 이제 그 돈 아껴서 스탠바이미 감성 끝내버려!"
 
-**제목**: ✨ 이제 TV가 널 따라다닌다?! 이동식 스마트TV 삼탠바이미 추천! ✨
+**[3-12초 본문]**
+**(화면: 티비아울렛 삼탠바이미 구글 TV 스탠드가 침실, 주방, 거실 등 다양한 공간에서 자유롭게 이동하며 사용되는 모습이 빠르고 역동적으로 전환됨. 넷플릭스, 유튜브 로고가 화면에 잠시 크게 뜨며 '구글 TV' 강조)**
+**내레이션:** "20만원대 삼탠바이미 알아요? 이동형 스탠드에 스마트 TV 기능까지! 침대 옆, 주방, 심지어 캠핑까지! 원하는 곳 어디든 OK! 넷플릭스, 유튜브, 디즈니+ 기본 탑재! 복잡한 연결 없이 전원만 꽂으면 바로 OTT 파티 시작! 내 맘대로 TV 연결해서 DIY도 가능하니까 진짜 핵꿀템!"
 
-**(영상 효과: 빠르고 신나는 비트의 배경음악. 장면 전환 효과는 빠르고 다이내믹하게.)**
-
-*   **[0-3초] 훅 (Hook)**
-    *   **화면**: (침대에 누워 천장만 보는 지루한 표정의 사람 -> 주방에서 요리하며 TV 소리만 듣는 사람 -> 거실 소파에 앉아 멀리 떨어진 TV를 억지로 보는 사람)
-    *   **내레이션**: "맨날 거실에서만 TV 봐? 😩 이제 TV가 널 따라다닌다! 👀"
-    *   **자막**: "TV가 날 따라온다고?! 🏃‍♀️💨"
-*   **[3-7초] 문제 해결 & 기능 소개 1**
-    *   **화면**: (위드라이프 43인치 삼탠바이미가 침실로, 주방으로 스르륵 이동하는 모습. 넷플릭스, 유튜브 로고 빠르게 플래시)
-    *   **내레이션**: "요리할 땐 주방에서, 뒹굴거릴 땐 침대에서! 🍳🛌 넷플릭스, 유튜브는 기본! 구글TV로 앱 확장까지 💯"
-    *   **자막**: "어디든 내 영화관! 🍿", "구글TV로 무한 확장!"
-*   **[7-11초] 가성비 강조 & 제품 소개 2**
-    *   **화면**: (위드라이프 43인치 삼탠바이미 클로즈업 -> 가격 349,000원 강조 -> 1등급 에너지 효율 아이콘)
-    *   **내레이션**: "심지어 전기세까지 착해? ⚡ 1등급 에너지 효율! 30만원대 43인치 대화면? 😮 이건 무조건 사야 해!"
-    *   **자막**: "43인치 가성비 끝판왕! 💸", "전기세까지 절약?!"
-*   **[11-13초] 추가 제품 소개**
-    *   **화면**: (티비아울렛 미니 삼탠바이미 등장, 컴팩트한 모습 강조)
-    *   **내레이션**: "더 작고 저렴하게? 20만원대 미니 삼탠바이미도 있어! ✨"
-    *   **자막**: "20만원대 초가성비 미니! ✨"
-*   **[13-15초] 클로징 & CTA**
-    *   **화면**: (두 제품이 함께 놓여있고, 화면 하단에 '자세히 보러가기' 링크/프로필 링크 유도)
-    *   **내레이션**: "링크에서 바로 확인하고, 나만의 스마트 공간 만들어봐! 🚀"
-    *   **자막**: "링크 클릭! 나만의 스마트 공간 GO! 👉"
+**[12-15초 클로징 & CTA]**
+**(화면: 삼탠바이미가 멋지게 배치된 감성적인 공간 컷. 마지막에 귀여운 고양이 캣닢 인형이 화면 한 구석에 뿅 하고 나타났다 사라짐. '가성비 삼탠바이미' '내 프로필 링크에서 확인!' 자막 크게 등장)**
+**내레이션:** "스탠바이미 가성비 끝판왕은 바로 이거! 게다가 뜻밖의 냥이 꿀템까지? 지금 바로 프로필 링크에서 만나보세요!"
 
 ---
 
-### 2. 📸 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 4컷
 
-**✨ 캐치프레이즈: TV가 날 따라온다고? 📺✨ 이동식 스마트TV & 삼탠바이미 추천 가이드!**
-
----
-
-**[1/4 컷] - 시선 강탈 훅 (Hook)**
-
-*   **텍스트**:
-    ```
-    TV가 날 따라온다고? 📺✨
-    이동식 스마트TV & 삼탠바이미 추천!
-
-    거실 TV에 묶여있던 당신, 이제 안녕!👋
-    침실, 주방, 어디든 나만의 영화관을 만들어줄
-    이동식 스마트TV와 삼탠바이미의 세상으로 초대합니다.
-    궁금하다면 다음으로 넘겨보세요! 👀
-    ```
-*   **Midjourney 프롬프트 (영문)**:
-    ```
-    A vibrant, cozy modern home interior. A sleek, minimalist portable smart TV on a stylish rolling stand is prominently placed, displaying dynamic, colorful streaming content. Sunlight streams through a window. The room blends comfort and technology. --ar 1:1 --v 5.2 --style raw
-    ```
+**콘텐츠 제목:** ✨ 스탠바이미 비싸다고? 이제 20만원대로 감성 끝! 삼탠바이미 가성비 끝판왕 공개!
 
 ---
 
-**[2/4 컷] - 메인 추천 1: 압도적 가성비 위드라이프 43인치 삼탠바이미**
+### **카드 1/4**
+*   **들어갈 텍스트:**
+    **슬라이드 제목:** 💸 스탠바이미 감성? 이제 20만원대로 즐겨!
+    **본문:** "LG 스탠바이미, 너무 좋은데... 가격 때문에 망설였다면? 당신을 위한 완벽한 가성비 솔루션이 여기 있어요!"
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A visually striking image, split horizontally. The top half shows an elegant, minimalist LG StandbyMe TV in a chic, expensive-looking living room, with a subtle overlay of a high price tag. The bottom half shows a vibrant, modern "SamtanbyMe" (DIY portable smart TV stand) with a generic smart TV, in a cozy, affordable, yet stylish bedroom, with a clear overlay of a much lower price tag (e.g., "$285,000 KRW"). The overall mood is hopeful and accessible, with a strong contrast between luxury and smart affordability. Photorealistic, soft natural light, warm color palette, --ar 1:1 --v 5.2`
 
-*   **텍스트**:
-    ```
-    💰 압도적 가성비! 위드라이프 43인치 삼탠바이미
+### **카드 2/4**
+*   **들어갈 텍스트:**
+    **슬라이드 제목:** 🛋️ 어디든 OK! 삼탠바이미의 자유로운 이동성!
+    **본문:** "침실에서 넷플릭스, 주방에서 레시피, 거실에서 게임까지! 바퀴 달린 이동형 스탠드로 내 라이프스타일에 맞춰 TV를 옮겨보세요!"
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A dynamic composite image showcasing the "SamtanbyMe" (portable smart TV stand with a generic smart TV screen displaying various content) in three different home environments: a cozy bedroom with someone watching Netflix, a modern kitchen with someone following a recipe, and a bright living room with someone playing a game. The TV stand is central in each scene, emphasizing its mobility and versatility. Soft, warm interior lighting, photorealistic, vibrant, seamless transitions between scenes. --ar 1:1 --v 5.2`
 
-    ✅ 30만원대 43인치 대화면 + 이동식 스탠드 동시 획득!
-    ✅ 넷플릭스, 유튜브, 구글TV로 무한 콘텐츠 확장! 🎬
-    ✅ 1등급 에너지 효율로 전기세 걱정 끝! 💸
-    ✅ 거실, 침실, 서재 어디든 간편하게 이동 🏃‍♀️
+### **카드 3/4**
+*   **들어갈 텍스트:**
+    **슬라이드 제목:** 📺 구글 TV 기본 탑재! OTT 세상으로 바로!
+    **본문:** "넷플릭스, 유튜브, 디즈니+ 기본 탑재! 별도 장치 없이 전원만 꽂으면 스마트 TV로 변신! 나만의 TV로 DIY 구축도 가능해요!"
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A close-up shot of a "SamtanbyMe" (portable smart TV stand) with a generic smart TV screen prominently displaying the Google TV OS interface, showing icons for Netflix, YouTube, and Disney+. A hand is holding a remote control, about to select an app. In the background, slightly out of focus, is a modern, clean living space. The image also subtly implies DIY flexibility, perhaps with a minimalist stand design. High-tech, clean UI, vibrant screen colors, shallow depth of field, photorealistic. --ar 1:1 --v 5.2`
 
-    ✨ 당신의 공간을 스마트 시네마로!
-    ```
-*   **Midjourney 프롬프트 (영문)**:
-    ```
-    A person is comfortably lounging on a bed in a modern, brightly lit bedroom, watching a movie on a 43-inch portable smart TV with a sleek, minimalist stand. The screen shows a vibrant streaming service interface. Cozy blankets, soft textures, and a relaxed atmosphere. --ar 1:1 --v 5.2 --style raw
-    ```
-
----
-
-**[3/4 컷] - 메인 추천 2: 초가성비 티비아울렛 미니 삼탠바이미**
-
-*   **텍스트**:
-    ```
-    ✨ 나만의 스마트 공간! 티비아울렛 미니 삼탠바이미
-
-    ✅ 20만원대 초저가로 스마트TV 경험 시작!
-    ✅ 컴팩트한 디자인, 1인 가구/침실에 최적화! 🏡
-    ✅ 구글TV 음성 인식으로 더 편리하게 제어! 🗣️
-    ✅ 경량 스탠드로 공간 제약 없이 간편 이동!
-
-    💖 합리적인 가격으로 스마트 라이프를!
-    ```
-*   **Midjourney 프롬프트 (영문)**:
-    ```
-    A compact portable smart TV (mini samtanbymi) with a contemporary design, placed on a small, stylish rolling stand in a cozy, minimalist studio apartment. A person is sitting nearby, playfully interacting with the TV using voice commands. Warm, soft lighting, focus on a comfortable, small living space. --ar 1:1 --v 5.2 --style raw
-    ```
-
----
-
-**[4/4 컷] - 추가 추천 & CTA (Call to Action)**
-
-*   **텍스트**:
-    ```
-    💡 당신의 라이프스타일을 업그레이드할 BEST PICK!
-
-    ✔️ LG 32인치 이동식 스마트모니터:
-        믿을 수 있는 LG 브랜드, 모니터+TV 다용도 활용!
-    ✔️ 고양이 팡팡 캣닢 쿠션: 😻 (P.S. 집사님들 주목!)
-        고양이 스트레스 해소, 가성비 2P 세트!
-
-    ✅ 지금 바로 프로필 링크에서 만나보세요!
-    #이동식스마트TV #삼탠바이미 #구글TV #스마트모니터 #홈인테리어 #가성비TV #집꾸미기 #LG모니터 #고양이장난감
-    ```
-*   **Midjourney 프롬프트 (영문)**:
-    ```
-    A dynamic collage. Dominant elements: a hand reaching out to touch a glowing, futuristic transparent screen displaying multiple sleek portable smart TVs and monitors. In a smaller, cheerful corner of the image, a cute fluffy cat is happily batting at a catnip toy. Bright, inviting, and slightly whimsical. --ar 1:1 --v 5.2 --style raw
-    ```
+### **카드 4/4**
+*   **들어갈 텍스트:**
+    **슬라이드 제목:** 💖 스탠바이미 가성비 끝판왕! 지금 바로 만나봐!
+    **본문:** "이동성, 스마트 기능, 합리적인 가격까지! 스탠바이미의 완벽 대체재, 삼탠바이미! (뜻밖의 냥이 꿀템은 덤!)"
+    **CTA:** "🔗 프로필 링크에서 자세히 보기!"
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A captivating wide shot of the "SamtanbyMe" (portable smart TV stand with a generic smart TV) positioned perfectly in a stylish, minimalist, and cozy home corner, radiating comfort and modern functionality. The screen displays a bright, inviting "Explore Now!" message. In a playful, subtle corner of the frame, a small, cute catnip cushion toy for cats is visible, adding a touch of unexpected charm. The overall image is aspirational, high-quality, and inviting, with soft ambient lighting. Photorealistic, warm tones, inviting atmosphere. --ar 1:1 --v 5.2`
