@@ -1,78 +1,49 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡용)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**[영상 구성 가이드]**
-*   **전체 분위기:** 빠르고 경쾌한 편집, 밝고 활기찬 배경음악
-*   **자막:** 대사와 일치하거나 핵심 내용을 강조하는 큰 자막 필수
-*   **전환:** 컷 전환 빠르고 효과적으로!
+**[훅 Hook - 0-3초]**
+*   **화면:** (빠른 컷 전환) 좌절한 표정으로 폰 화면(고가 스탠바이미 가격) 보는 사람 -> "스탠바이미" 키워드 검색창 -> "가격 실화냐?!" 텍스트 오버레이 -> 눈이 번쩍 뜨이는 표정으로 폰 화면 확대!
+*   **대사:** "스탠바이미 갖고 싶어서 검색했는데... 가격 실화냐고?! 😮"
 
----
+**[본론 - 3-12초]**
+*   **화면:** (템포 빠르게 전환)
+    *   기존 TV에 이동 스탠드를 간편하게 결합하는 모습 (쉬운 조립 강조)
+    *   스탠드에 설치된 TV가 360도 회전하며 침대에서 편하게 드라마 보는 장면
+    *   주방에서 레시피 보며 요리하는 장면, 거실에서 가족들과 영화 보는 장면
+    *   (자막 강조: 360도 회전! 높이 조절! 쉬운 이동!)
+    *   깔끔하고 모던한 스탠드가 인테리어와 어우러진 모습 (자막: 인테리어 UP!)
+*   **대사:** "걱정 마! 내가 28만원대로 스탠바이미 쌉가능 만드는 꿀템 찾아왔어! 기존 TV 그대로 완벽 변신! 360도 회전, 높이 조절, 이동식 바퀴까지! 방방곡곡 내 방을 극장으로, 주방을 스마트 작업실로! 인테리어까지 UP!"
 
-**[숏폼 스크립트]**
-
-*   **0-3초 (훅! 시선 강탈 구간)**
-    *   **화면:** (처음 1초) 고민하는 표정의 인물 클로즈업, 지갑을 텅 비우는 듯한 시각 효과.
-        (다음 2초) 갑자기 환하게 웃으며 손가락으로 'OK' 사인, 뒤로 저렴한 가격의 삼탠바이미 이미지 빠르게 스쳐 지나감.
-    *   **대사:** "스탠바이미, 비싸서 포기했다구요? ✋ 딱 3초만 봐봐!"
-    *   **자막:** "스탠바이미 포기자 주목! 💸"
-*   **3-8초 (문제 제기 & 솔루션)**
-    *   **화면:** 침실, 거실, 주방 등 다양한 공간에 삼탠바이미가 자연스럽게 놓여있는 모습 (빠르게 전환)
-    *   **대사:** "걱정 마! 이제 20만원대 '갓성비 삼탠바이미'로 나만의 스마트 영화관 만들 수 있어!"
-    *   **자막:** "✨20만원대 삼탠바이미로 내 방이 영화관!"
-*   **8-13초 (핵심 제품 소개)**
-    *   **화면:**
-        *   (8-10초) 위드라이프 43인치 삼탠바이미 이미지 (넷플릭스 재생 화면). '43인치 대화면! 30만원대!' 자막 크게.
-        *   (10-13초) 티비아울렛 20만원대 삼탠바이미 이미지 (유튜브 재생 화면). '20만원대 끝판왕!' 자막 크게.
-    *   **대사:** "43인치 대화면 구글TV가 30만원대? 🤯 20만원대로 구글TV+이동식 스탠드까지 실화?"
-    *   **자막:** "MD픽 가성비 끝판왕 TOP2! 💥"
-*   **13-15초 (클로징 & CTA)**
-    *   **화면:** 두 제품이 나란히 배치된 비교 컷. 하단에 '더보기/자세히' 아이콘이 반짝거림.
-    *   **대사:** "MD가 직접 고른 최강 가성비! 자세한 정보는 프로필 링크에서 확인하세요!"
-    *   **자막:** "지금 바로 프로필 링크 클릭! 👆"
+**[클로징/CTA - 12-15초]**
+*   **화면:** 제품명 & 가격 크게 노출 ("스마트 TV 삼탠바이미 이동 스탠드, 285,000원!") -> 손가락으로 링크 클릭하는 제스처 -> "더보기/프로필 링크 확인!" 자막 강조.
+*   **대사:** "비싼 스탠바이미 대신 이젠 스마트하게! 지금 바로 프로필 링크 클릭!"
 
 ---
 
-## 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 4컷
 
-**[카드뉴스 공통 스타일 가이드]**
-*   **전체 분위기:** 깔끔하고 모던한 디자인, 따뜻한 조명과 아늑한 홈 인테리어 느낌.
-*   **폰트:** 가독성 좋은 고딕 계열, 제목은 두껍게, 본문은 적절한 크기로.
+### 🔹 카드뉴스 1컷
+*   **텍스트:**
+    *   **제목:** 스탠바이미, 비싸서 포기했니? 💰
+    *   **부제목:** 이제 20만원대로 "스탠바이미 가성비" 끝판왕을 만날 시간!
+*   **Midjourney 프롬프트:** `A person looking frustrated at a transparent screen displaying a very expensive "StandbyMe" smart TV. A thought bubble above their head shows a sad face and money flying away. The background is a clean, minimalist modern home interior. Bright, pastel color palette, soft studio lighting, depth of field, minimalist aesthetic, --ar 3:4`
 
----
+### 🔹 카드뉴스 2컷
+*   **텍스트:**
+    *   **제목:** 내 TV가 스탠바이미로? 😮
+    *   **내용:** 기존 TV에 이 스탠드만 더하면 완벽 변신! 360도 회전, 높이 조절, 바퀴로 어디든 자유롭게!
+*   **Midjourney 프롬프트:** `A sleek, minimalist mobile TV stand (similar to StandbyMe's stand) with a generic flat-screen TV mounted on it, positioned in a bright, modern living room. The TV is rotating 360 degrees, with subtle motion blur. Emphasize mobility and clean design. High key lighting, clear details, soft shadows, warm natural light, --ar 3:4`
 
-### **[카드 1]**
+### 🔹 카드뉴스 3컷
+*   **텍스트:**
+    *   **제목:** 침실, 주방, 거실... 어디든 나만의 영화관! 🏡
+    *   **내용:** 이제 공간 제약 없이 콘텐츠를 즐겨보세요. 인테리어 효과까지 UP!
+*   **Midjourney 프롬프트:** `A split image. On the left side, a person comfortably watches TV in bed using the mobile TV stand (with a regular TV on it), sun streaming in. On the right side, another person cooks in a stylish, clean kitchen, happily watching a recipe on the same mobile TV stand. Both scenes are cozy and modern. Warm, inviting lifestyle photography, --ar 3:4`
 
-*   **카드 텍스트:**
-    스탠바이미? 💸 비싸서 포기했다면 주목!
-    ✨ 20만원대 '갓성비 삼탠바이미'로 내 방을 스마트 영화관으로!
-    #스탠바이미 #삼탠바이미 #가성비TV #내돈내산
-*   **Midjourney 이미지 프롬프트:**
-    A minimalist modern bedroom, bathed in soft, warm morning light. A sleek, portable smart TV on a white rolling stand is positioned near the bed, displaying a vibrant movie scene. The room has a cozy, inviting atmosphere with simple, stylish decor. High-quality, cinematic, realistic photograph. --ar 1:1 --v 5.2 --style raw
-
-### **[카드 2]**
-
-*   **카드 텍스트:**
-    🌟 MD 추천 1. 위드라이프 43인치 구글 스마트TV 세트
-    📺 30만원대 중반! 43인치 대화면 + 구글OS + 이동식 스탠드!
-    OTT는 기본, 에너지 효율 1등급!
-*   **Midjourney 이미지 프롬프트:**
-    A cozy, stylish living room corner with a large 43-inch smart TV on a black minimalist mobile stand. The TV screen clearly displays the Netflix interface. A comfortable armchair and a small side table with a cup of coffee are nearby. The lighting is warm and inviting. Modern, high-resolution product photography. --ar 1:1 --v 5.2 --style raw
-
-### **[카드 3]**
-
-*   **카드 텍스트:**
-    🌟 MD 추천 2. 티비아울렛 20만원대 구글 스마트TV 세트
-    😱 이 가격 실화?! 20만원대 후반 + 구글OS + 이동식 스탠드!
-    가성비 끝판왕으로 나만의 공간 완성!
-*   **Midjourney 이미지 프롬프트:**
-    A bright, clean studio apartment space with a compact 20-inch range smart TV on a white mobile stand. The TV screen shows a YouTube video of a cooking tutorial. A neatly organized desk with a laptop and a small plant is in the background. Abundant natural light, fresh and clean aesthetic. --ar 1:1 --v 5.2 --style raw
-
-### **[카드 4]**
-
-*   **카드 텍스트:**
-    고민은 배송만 늦출 뿐! 💨 지금 바로 MD 추천 삼탠바이미 만나러 가기!
-    (👆 프로필 링크 클릭!)
-    📌 대화면 선호하면 LG 65인치 4K UHD도 확인!
-*   **Midjourney 이미지 프롬프트:**
-    A dynamic close-up shot of a hand gently swiping up on a modern portable smart TV screen, where a prominent "Shop Now" button or a link icon is displayed. The TV is on a sleek mobile stand, with a blurred background of a stylish, modern home interior. Bright, engaging, commercial photography with a sense of urgency. --ar 1:1 --v 5.2 --style raw
+### 🔹 카드뉴스 4컷
+*   **텍스트:**
+    *   **제목:** [가성비템 보너스] 냥이도 행복하게! 🐾
+    *   **내용:** 우리 냥이 스트레스 팡팡! 캣닢 인형 2개 세트 5천원대!
+    *   **(스마트 TV 스탠드 🔗 프로필 링크 확인!)**
+*   **Midjourney 프롬프트:** `A bright, modern living room with a sleek mobile TV stand (holding a regular TV) prominently displayed in the background, slightly out of focus. In the foreground, a cute, fluffy cat is happily playing with a small, colorful catnip toy, kicking its back paws. The overall scene conveys smart, comfortable living. Golden hour lighting, cozy home atmosphere, vibrant colors, --ar 3:4`
