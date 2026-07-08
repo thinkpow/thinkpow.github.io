@@ -1,76 +1,75 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
 
-**콘텐츠 제목:** 스탠바이미 살 돈 아껴! 💰 30만원대 갓성비 '삼탠바이미' 등장!
-
-**[시선 강탈 훅: 첫 3초]**
-
-*   **영상:** 스탠바이미 비싼 가격표에 망설이는 표정 (X 표시) ➡️ 화사하고 세련된 삼탠바이미 등장 (O 표시)
-*   **자막:** 스탠바이미 갖고 싶죠? 근데 비싸죠? ㅠㅠ
-*   **내레이션/말하는 사람:** "스탠바이미 갖고 싶어서 가격 보고 '흐읍...' 했죠? 잠깐!"
+**콘텐츠 제목:** 스탠바이미 짝퉁? ㄴㄴ! 20만원대 삼탠바이미로 삶의 질 수직 상승! ✨
 
 ---
 
-**[본문: 4-15초]**
+**[영상 시작 0-3초: 시선 강탈 훅(Hook)]**
 
-*   **영상:** 이노스 32인치 제품 이미지와 함께 서브 TV로 활용하는 모습 (작은 방, 주방 등)
-*   **자막:** 🌟 이노스 32인치 삼탠바이미!
-*   **내레이션/말하는 사람:** "이제 30만원 미만으로 스탠바이미 감성 완벽 구현! 이노스 32인치 삼탠바이미면 방마다 하나씩, 서브 TV로 딱이에요!"
+*   **비주얼:** 🛋️ 고급스러운 LG 스탠바이미 영상 잠깐 스쳐 지나감 ➡️ 화면에 💰💰💰 엄청난 가격표 (129만원!) 팝업! ➡️ 유튜버/틱톡커 깜짝 놀라며 손으로 X 표시!
+*   **대사:**
+    **(유튜버/틱톡커, 빠르게) "스탠바이미 갖고 싶어서 검색했다가 가격에 놀란 사람 손! ✋"**
+    **(활짝 웃으며) "걱정 마! 내가 20만원대로 스탠바이미 감성 완벽 구현하는 법 알려줄게!"**
 
-*   **영상:** 위드라이프 43인치 제품 이미지와 함께 거실 메인 TV로 활용하는 모습 (넷플릭스 등 시청)
-*   **자막:** 🔥 위드라이프 43인치! 구글TV까지!
-*   **내레이션/말하는 사람:** "더 큰 화면 원한다고요? 43인치 대화면에 구글 스마트TV까지! 30만원대 중반으로 거실 메인 TV로도 손색 없어요!"
+**[4-15초: 핵심 내용 & 클로징]**
 
-*   **영상:** 두 제품을 함께 보여주며 '최고의 가성비' 강조. 구매 유도하는 손가락 제스처.
-*   **자막:** 지금 바로 확인! ➡️
-*   **내레이션/말하는 사람:** "똑똑한 당신을 위한 갓성비 삼탠바이미! 지금 바로 링크에서 확인하세요! 이건 꼭 사야 해!"
-
----
-
-## 📸 인스타그램 카드뉴스 4컷
-
-### 1컷: 도입 (Hook)
-
-*   **텍스트:**
-    **스탠바이미 부럽지 않아! 📺✨**
-    **갓성비 '삼탠바이미' TOP 2 추천!**
-    (LG 스탠바이미 가격 ❌) (삼탠바이미 가격 ✅)
-*   **Midjourney Prompt (영문):**
-    A stylish living room with a large, bright "X" mark over an expensive-looking LG StandbyME, and a vibrant "O" mark over a modern, sleek portable smart TV on a stand that looks affordable, glowing screen, cozy atmosphere, warm lighting, high quality, cinematic, realistic --ar 1:1 --v 5.2
+*   **비주얼:**
+    *   (4-8초) `스카이뷰 삼탠바이미` 제품 영상 (침대 옆, 거실 등 다양한 공간에서 활용하는 모습) 텍스트 오버레이: "20만원대 초반! 32인치 대화면!"
+    *   (9-12초) `티비아울렛 구글TV 삼탠바이미` 제품 영상 (OTT 앱 실행, 검색 등 스마트 기능 강조) 텍스트 오버레이: "구글 TV 탑재! 더 스마트하게!"
+    *   (13-15초) 두 제품 나란히 비교 화면, 가격 강조 ➡️ 손으로 화면을 가리키며 "더 자세한 정보는 댓글/프로필 링크 확인!"
+*   **대사:**
+    **(유튜버/틱톡커, 빠르게) "첫 번째! ✨ 스카이뷰 삼탠바이미! 20만원대 초반에 32인치 대화면?! 이거 미쳤다구요!"**
+    **(더 신나게) "두 번째! 🤩 티비아울렛 구글 TV! 넷플릭스? 유튜브? 구글 OS로 끊김 없이 즐겨봐! 스마트 기능 끝판왕!"**
+    **(손으로 화면 가리키며) "두 제품 다 대박 가성비! 우리 이제 비싸게 사지 말자! 자세한 정보는 프로필 링크 확인!"**
 
 ---
 
-### 2컷: 메인 추천 1 - 이노스 32인치
-
-*   **텍스트:**
-    **1. 이노스 32인치 FHD 삼탠바이미**
-    💰 **298,000원**
-    ✨ **30만원 미만! 원룸/서재/주방 서브 TV 딱!**
-    **깔끔 디자인으로 어디든 찰떡!**
-*   **Midjourney Prompt (영문):**
-    A minimalist studio apartment bedroom, featuring a sleek 32-inch portable smart TV (resembling Innos) on a white movable stand. The TV screen displays Netflix. Cozy and clean aesthetic, warm morning light, modern furniture, soft focus background, realistic --ar 1:1 --v 5.2
+## 📸 인스타그램 카드뉴스 (4컷)
 
 ---
 
-### 3컷: 메인 추천 2 - 위드라이프 43인치
+### **✔️ 1컷: 도입 (문제 제기 & 솔루션 제시)**
 
-*   **텍스트:**
-    **2. 위드라이프 43인치 구글 스마트TV 삼탠바이미**
-    🔥 **349,000원**
-    📺 **43인치 대화면 + 구글TV! 거실 메인도 OK!**
-    **1등급 에너지 효율로 전기료 걱정 끝!**
-*   **Midjourney Prompt (영문):**
-    A spacious, modern living room with a comfortable sofa, featuring a 43-inch Google smart TV (resembling Withlife) on a sleek black movable stand. The TV screen shows a vibrant movie scene. Evening light, sophisticated decor, cozy ambiance, high-end yet accessible feel, cinematic, realistic --ar 1:1 --v 5.2
+*   **카드뉴스 텍스트:**
+    **스탠바이미, 갖고는 싶은데... 💸 넘사벽 가격에 심장이 아팠던 분들 주목!**
+    **20만원대 '삼탠바이미'로 감성 + 실용성 다 잡으세요!**
+*   **Midjourney 프롬프트 (배경 이미지):**
+    `A heartbroken young person sadly looking at a luxury portable TV on an online shopping screen, with huge price tag overlayed, in a modern, minimalist living room. Below, a bright, exciting question mark and a shining "SamtanbyME" solution. Pastel colors, dreamlike, cinematic, high contrast lighting, --ar 1:1 --style raw`
 
 ---
 
-### 4컷: 마무리 & CTA (Call To Action)
+### **✔️ 2컷: 메인 상품 1 (스카이뷰 삼탠바이미)**
 
-*   **텍스트:**
-    **스탠바이미 대신, 현명한 당신의 선택!**
-    **💰 링크에서 최저가 확인하고**
-    **스마트 라이프 지금 바로 시작하세요!**
-    #스탠바이미가성비 #삼탠바이미 #이동식TV #스마트TV추천 #갓성비템
-*   **Midjourney Prompt (영문):**
-    A stylized illustration of a hand holding a smartphone, pointing towards a "Shop Now" button or a link icon. In the background, blurry but recognizable elements of modern smart home devices and a portable TV. Focus on smart shopping, money saving, and convenience. Vibrant colors, clean graphic design, futuristic elements, flat design with depth --ar 1:1 --v 5.2
+*   **카드뉴스 텍스트:**
+    **✨ 압도적인 가성비! 스카이뷰 삼탠바이미 32인치**
+    *   **20만원대 초반! 💰 놀라운 가격**
+    *   **LG 스탠바이미보다 큰 32인치 대화면!**
+    *   **화이트 디자인으로 인테리어 끝!**
+*   **Midjourney 프롬프트 (배경 이미지):**
+    `A sleek white 32-inch portable smart TV (SamtanbyME style) standing next to a cozy bed in a bright, minimalist bedroom with soft morning light. The screen shows a vibrant movie scene. Emphasize clean lines and a sense of affordable luxury. High-angle shot, cozy aesthetic, warm lighting, --ar 1:1 --style raw`
+
+---
+
+### **✔️ 3컷: 메인 상품 2 (티비아울렛 구글TV 삼탠바이미)**
+
+*   **카드뉴스 텍스트:**
+    **🚀 구글 TV로 더 스마트하게! 티비아울렛 스마트 구글 TV 삼탠바이미**
+    *   **안정적인 구글 OS 탑재! 넷플릭스, 유튜브 끊김 없이!**
+    *   **20만원대 후반! 가격 + 스마트 기능 완벽 조화**
+    *   **어디든 이동 가능한 스탠드로 나만의 공간 완성!**
+*   **Midjourney 프롬프트 (배경 이미지):**
+    `A modern black portable smart TV (SamtanbyME style) with a Google TV interface displaying Netflix, set in a contemporary living room with a comfortable sofa. The TV is on a sturdy mobile stand, subtly suggesting portability. Dynamic lighting, tech-focused, clean design, --ar 1:1 --style raw`
+
+---
+
+### **✔️ 4컷: 마무리 (핵심 요약 & CTA)**
+
+*   **카드뉴스 텍스트:**
+    **이젠 '스탠바이미 가성비'로 스마트 라이프 시작!**
+    **👉 나의 라이프스타일에 맞는 삼탠바이미는?**
+    **지금 바로 프로필 링크에서 상세 리뷰 확인하고 GET하세요!**
+    **(더 큰 화면을 원한다면? LG 65인치 엘텐바이미도 있어요!)**
+*   **Midjourney 프롬프트 (배경 이미지):**
+    `Two different models of portable smart TVs (SamtanbyME style, one white and one dark) side-by-side, in a bright and inviting multi-room setting (e.g., kitchen, bedroom, living room visible in background). A spotlight effect on the TVs, with positive, energetic vibes. Minimalistic text overlay space, abstract geometric shapes, modern infographic style, --ar 1:1 --style raw`
