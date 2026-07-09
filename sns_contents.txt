@@ -1,80 +1,62 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** LG 스탠바이미 비싸서 망설였다면? 🚫 삼탠바이미 가성비 끝판왕 떴다!
+**제목:** 💡캠핑 랜턴 찾다가 인생템 발견?! | 43인치 이동식 스마트 TV
 
-**[영상 길이: 15초]**
+**[영상 시작 - 0초]**
 
----
+*   **영상:** [빠른 템포의 배경 음악 시작. 화면에 '캠핑 랜턴' 검색창이 잠시 뜨는가 싶더니, 갑자기 세련된 이동식 스마트 TV 영상으로 확 전환. 쇼츠 제작자는 놀란 표정으로 카메라를 응시]
+*   **내레이션 (도파민 폭발 톤):** "캠핑 랜턴 찾다가... 진짜 '이거' 발견하고 문화 충격받음!! 🤯"
 
-**0-3초 (훅):**
-*   **화면:** (빠른 템포의 경쾌한 음악 시작) 침대에 누워 LG 스탠바이미 가격을 검색하다가 충격받은 표정, "헉! 가격 실화?!" 텍스트 오버레이. 빠르게 스탠바이미 가격 (예: 100만원 이상)과 망설이는 표정 클로즈업.
-*   **내레이션:** "LG 스탠바이미 사고 싶은데… 가격 보고 깜짝 놀랐다고요?!"
+**[3초 - 7초]**
 
-**3-7초 (문제 제기 & 솔루션 도입):**
-*   **화면:** 'NO MORE!' 텍스트와 함께 '삼탠바이미' 로고 등장, 침대 옆, 주방 등 다양한 공간에서 삼탠바이미를 자유롭게 사용하는 활기찬 모습 연속 컷.
-*   **내레이션:** "고민 끝! 현명한 당신을 위한 '삼탠바이미' 가성비 끝판왕이 떴습니다!"
+*   **영상:** [답답하게 고정된 일반 TV 화면을 손으로 가리키는 시늉 -> 이동식 TV가 침대 옆으로 스르륵 움직이는 장면]
+*   **내레이션:** "솔직히 집에서 TV, 맨날 고정된 거 너무 불편했잖아?! 침대에서, 주방에서 자유롭게 큰 화면 보고 싶다! 이젠 가능하다고! 🤩"
 
-**7-11초 (핵심 제품 1 소개):**
-*   **화면:** 위드라이프 43인치 삼탠바이미 제품 이미지 클로즈업, '349,000원' 가격표 크게 띄우고, 구글 TV UI 화면 전환 빠르게 보여주기.
-*   **내레이션:** "첫째! 30만원대 43인치 '위드라이프'! 구글TV까지 완벽한 최강 가성비 입문템!"
+**[7초 - 12초]**
 
-**11-14초 (핵심 제품 2 소개):**
-*   **화면:** 무빙큐빅스 43인치 화이트 에디션 제품 이미지 클로즈업, 깔끔한 화이트 디자인 강조, 전문가가 설치해주는 모습(또는 설치 완료 후 만족스러운 표정) 연출.
-*   **내레이션:** "둘째! 방문설치+세련된 화이트 디자인! 편의성 UP! '무빙큐빅스'!"
+*   **영상:** ['위드라이프 삼탠바이미 TV' 블랙/화이트 제품이 번갈아 나오며, 넷플릭스, 유튜브 앱이 실행되는 모습. AI 추천 기능 화면도 스쳐 지나감.]
+*   **내레이션:** "이게 바로 '위드라이프 43인치 삼탠바이미 TV'! 43인치 대화면이 내 마음대로 스르륵~ 넷플릭스, 유튜브 기본! 구글 TV OS 탑재로 없는 게 없어! 블랙/화이트 취향대로 골라봐!"
 
-**14-15초 (클로징 & CTA):**
-*   **화면:** 세 제품 비교 썸네일과 함께 "이동식 스마트 TV, 지금 바로 겟하세요!" 문구 등장, '자세한 건 댓글 링크 확인' 문구 강조.
-*   **내레이션:** "자세한 건 댓글 링크 확인! 당신의 스마트 라이프, 지금 시작하세요!"
+**[12초 - 15초]**
+
+*   **영상:** [이동식 TV를 활용해 테라스에서 영화를 보거나, 친구들과 파티하는 장면 등 다채로운 라이프스타일 연출. 마지막에 제품과 CTA 강조.]
+*   **내레이션:** "이동식 TV 혁명! 내 라이프스타일 폼 미쳤다! 🤩 지금 바로 프로필 링크 확인하고 '인생 TV' 겟하세요! 이건 진짜 사야 돼!"
+*   **텍스트 오버레이:** "✨위드라이프 삼탠바이미 TV✨ 프로필 링크 GO!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (이미지 프롬프트 포함)
+## 2. 인스타그램 카드뉴스 4컷
 
-**[전체 콘셉트: 모던, 미니멀, 트렌디, 깔끔한 홈 인테리어 분위기]**
+### **<1컷>**
 
----
+*   **들어갈 텍스트:** 💡캠핑 랜턴 찾다... '이거' 발견하고 문화 충격?! #캠핑 #랜턴 #뜻밖의발견 #라이프스타일변화
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A curious person, mid-scroll on a smartphone, showing a look of surprise and excitement. In the background, a warm, cozy camping tent at dusk, but a futuristic, glowing portable smart TV screen is subtly superimposing over the scene. The aesthetic is a blend of cozy camping and sleek technology, vibrant and unexpected, with a touch of magic realism. --ar 1:1 --v 5.2
+    ```
 
-### **✨ 카드뉴스 1컷: 훅 & 문제 제기**
+### **<2컷>**
 
-*   **들어갈 텍스트:**
-    "LG 스탠바이미 비싸서 망설였다면? 🚫💰\n'삼탠바이미'가 답이야! 이동식 TV 로망, 현실이 된다!"
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A stylish, minimalist living room. A person is looking wistfully at a luxurious, expensive-looking LG StandbyMe TV, while a thought bubble above their head reveals a more affordable, equally sleek and modern "Samtanbymy" alternative. The scene uses soft, natural lighting, high detail, realistic, modern interior design style. --ar 1:1 --v 5.2`
+*   **들어갈 텍스트:** 집 안팎 어디든! 내 맘대로 옮기는 43인치 스마트 스크린 등장! #이동식TV #스마트스크린 #나만의영화관 #위드라이프
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A stylish 43-inch portable smart TV on a minimalist wheeled stand, shown in three different modern home settings: elegantly positioned in a minimalist living room, then in a bright, modern kitchen island, and finally on a chic outdoor patio at golden hour. The TV screen displays various vibrant OTT app interfaces. The image emphasizes mobility and versatility with clean lines and bright ambient lighting. --ar 1:1 --v 5.2
+    ```
 
----
+### **<3컷>**
 
-### **✨ 카드뉴스 2컷: 메인 추천 1 (위드라이프)**
+*   **들어갈 텍스트:** 블랙/화이트 취향 따라! 넷플릭스, 유튜브, AI 추천까지 완벽! #구글TV #OTT맛집 #인테리어템 #취향저격
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A diptych image. On the left, a sleek black 43-inch portable smart TV stands in a luxurious, dimly lit modern bedroom, displaying a dramatic cinematic movie scene from Netflix. On the right, a pristine white 43-inch portable smart TV is placed in a bright, Scandinavian-style living room, showcasing a vibrant YouTube video or an AI recommendation interface. Both TVs are shown in a premium, high-tech context, highlighting their design and smart features. --ar 1:1 --v 5.2
+    ```
 
-*   **들어갈 텍스트:**
-    "✨ 1. 위드라이프 43인치 삼탠바이미\n30만원대 대화면+구글TV? 역대급 가성비 입문템! 📺"
-    -   압도적 가성비! 30만원대 43인치
-    -   구글 TV 기본 탑재! OTT 무제한
-    -   직접 설치로 최저가 스마트 라이프!
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A cozy, modern bedroom scene. A person is comfortably watching a movie on a 43-inch smart TV mounted on a sleek black mobile stand. The TV screen clearly displays the Google TV interface with popular streaming app icons. Warm, inviting ambient lighting, minimalist decor. Realistic, high detail photo. --ar 1:1 --v 5.2`
+### **<4컷>**
 
----
-
-### **✨ 카드뉴스 3컷: 메인 추천 2 (무빙큐빅스)**
-
-*   **들어갈 텍스트:**
-    "🤍 2. 무빙큐빅스 43인치 화이트 에디션\n방문설치+세련된 화이트 디자인! 편하게 예쁘게! 🛠️"
-    -   전문가 방문 설치 서비스!
-    -   어떤 공간에도 어울리는 화이트 디자인
-    -   편의성 + 심미성 모두 잡은 프리미엄 가성비!
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A bright, elegant living room with a pristine white 43-inch smart TV on a matching white mobile stand. A blurred figure of an expert technician is making final adjustments to the TV. The room features clean, modern minimalist design with abundant natural light, creating a sophisticated and comfortable atmosphere. Realistic, high detail photo. --ar 1:1 --v 5.2`
-
----
-
-### **✨ 카드뉴스 4컷: 추가 추천 & 클로징**
-
-*   **들어갈 텍스트:**
-    "💰 3. 티비아울렛 스마트 구글 TV 삼탠바이미\n20만원대 초가성비! 당신의 이동식 TV 로망, 지금 바로 실현! 🌟"
-    -   20만원대 후반! 극한의 가성비
-    -   저렴한 가격에 구글 TV 기능까지!
-    -   자세한 정보는 프로필 링크에서 확인하세요!
-*   **배경 이미지 Midjourney 프롬프트:**
-    `A dynamic, vibrant collage showcasing three different mobile smart TV setups in diverse modern environments (e.g., a cozy reading nook, a sleek kitchen counter, a relaxing balcony). Each setup has a subtle price tag or dollar sign icon floating near it, emphasizing affordability and versatility. The overall composition is bright, inviting, and highlights the "Smart TV" icon. Realistic, high detail photo. --ar 1:1 --v 5.2`
+*   **들어갈 텍스트:** 침실 영화관? 주방 레시피? 야외 파티? 이젠 모두 가능! 🥳 나만의 무빙 시네마를 경험하세요! (지금 바로 링크 확인!) #라이프스타일업그레이드 #필수템 #홈엔터테인먼트 #이건사야해
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A dynamic collage showcasing diverse lifestyle scenarios. Top-left: A person comfortably watching a romantic comedy on the portable TV in a cozy bed. Top-right: Someone using the TV to follow a complex cooking recipe in a spacious, modern kitchen. Bottom: A group of friends laughing and enjoying a concert or show on the portable TV on a stylish outdoor terrace at sunset. High-quality lifestyle photography, conveying joyful, relaxed, and connected atmospheres. --ar 1:1 --v 5.2
+    ```
