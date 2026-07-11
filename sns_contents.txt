@@ -2,64 +2,66 @@
 
 ## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**핵심 키워드:** 스탠바이미 가성비, 삼탠바이미, 이동식TV, 스마트TV
+**제목:** LG 스탠바이미 비싸서 못 샀다고요? 🤯 43인치 '삼탠바이미'로 고민 끝!
 
-**[0-3초] 훅 (Hook) - 시선 강탈!**
-*   **화면:** LG 스탠바이미 이미지 (혹은 유사한 비싼 무빙 TV) → 바로 옆에 **'가격: 150만원대'** 빨간색 글씨로 오버레이, 충격받은 표정의 사람 클로즈업
-*   **내레이션:** "이거 진짜 갖고 싶어? 근데 가격이 150만원대라고?! 💥 미쳤다!" (도파민 폭발하듯 빠르게, 놀란 톤)
+**[훅 (첫 3초)]**
+*   **영상:** (화면1: LG 스탠바이미 가격표를 보고 좌절하는 모습 → 빠르게 전환 → 화면2: 43인치 삼탠바이미를 쓰다듬으며 환하게 웃는 모습)
+*   **대사:** "LG 스탠바이미, 비싸서 맨날 망설였죠? 이제 그 고민, 제가 싹! 해결해 드릴게요! 🚨"
 
-**[3-6초] 문제 제기 & 반전 예고**
-*   **화면:** 손가락으로 'X' 표시, **'비싸게 사지 마세요!'** 텍스트 크게 등장
-*   **내레이션:** "NO! 스탠바이미, 이제 비싸게 사지 마세요! 진짜 가성비 대안 제가 찾았어요!" (단호하게)
+**[본문 (4~12초)]**
+*   **영상:** (삼탠바이미로 넷플릭스/유튜브를 시청하는 모습, 침대 옆, 주방, 거실 등 다양한 공간에서 쉽게 이동하는 모습 빠르게 편집)
+*   **대사:** "짠! 43인치 대화면 스마트 TV에 이동식 스탠드까지! 가격은 무려 1/3?! 이게 바로 '삼탠바이미' 매직!"
+*   **대사:** "넷플릭스, 유튜브? 기본 구글 TV OS로 원하는 앱 다 깔아! 방이든, 거실이든, 주방이든 어디든 슥~ 옮겨서 나만의 영화관 만들라고! 🍿"
 
-**[6-9초] 솔루션 공개**
-*   **화면:** '티비아울렛 스마트 구글 TV 삼탠바이미' 제품 시원하게 등장, **'28만 5천원'** 가격 강조
-*   **내레이션:** "20만원대로 스탠바이미 감성 완벽 구현! ✨ 스마트 삼탠바이미!" (밝고 경쾌하게)
-
-**[9-12초] 핵심 기능 & 활용성**
-*   **화면:** 넷플릭스, 유튜브 구동 화면 빠르게 전환 → 침실-거실-주방 이동하며 사용하는 모습 교차 편집
-*   **내레이션:** "넷플릭스, 유튜브 기본 탑재! 거실, 침실, 주방 어디든 나만의 무비룸 완성!" (빠르고 리드미컬하게)
-
-**[12-15초] 강력한 마무리 & CTA**
-*   **화면:** 제품 클로즈업, **'가성비 끝판왕'** 텍스트 크게 강조, 손가락으로 화면 밖 어딘가를 가리키며 CTA
-*   **내레이션:** "LG 스탠바이미의 완벽 대안! 더 자세한 정보는 프로필 링크에서 확인하세요! ➡️" (자신감 있게)
+**[클로징 & CTA (13~15초)]**
+*   **영상:** (블랙, 화이트 위드라이프 제품 번갈아 보여주며 가격 자막 '30만원대부터!' 강조 → 마지막으로 초가성비 모델과 '20만원대도?!' 자막)
+*   **대사:** "이 가격에 43인치 스마트 TV? 심지어 20만원대 초가성비 모델까지 있다고?! 놓치면 무조건 후회할 가성비 끝판왕!"
+*   **대사:** "자세한 정보는 댓글이나 프로필 링크 확인! 지금 바로 당신의 라이프를 업그레이드하세요! 🔥"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### 🔹 1컷: 스탠바이미, 비싸서 포기했나요?
+---
 
-*   **텍스트:**
-    스탠바이미 갖고 싶지만, 가격 때문에 망설였나요? 😥
-    로망은 비싸다는 편견, 제가 오늘 깨드릴게요!
+### **첫 번째 컷**
 
-*   **Midjourney 프롬프트 (영문):**
-    `A person looking longingly at a sleek, modern movable smart TV (resembling LG StandbyMe) in a stylish minimalist living room. Their face shows a mix of desire and disappointment. Above the TV, a thought bubble or overlay shows a high price tag (e.g., "$1500+") with a red 'X' over it. Focus on emotional expression and luxurious but unattainable feel. Cinematic lighting, high detail, UHD, --ar 1:1 --v 5.2`
+*   **카드뉴스 텍스트:**
+    **LG 스탠바이미, 갖고 싶지만… 너무 비쌌죠? 💸**
+    (꿈만 꾸고 있었다면, 이제 현실로!)
 
-### 🔹 2컷: 20만원대 스탠바이미? 이제 현실!
+*   **Midjourney 프롬프트:**
+    `A person looking longingly at a luxurious and sleek LG StandbyME TV in a modern, minimalist living room. A thought bubble above their head shows a high price tag with a sad or worried emoji. The lighting is elegant but slightly melancholic. High-end product photography, cinematic, detailed, soft bokeh background. --ar 1:1 --v 5.2`
 
-*   **텍스트:**
-    💥 20만원대로 스탠바이미 감성 완벽 구현! ✨
-    이동식 구글 스마트 TV, '삼탠바이미'를 소개합니다!
+---
 
-*   **Midjourney 프롬프트 (영문):**
-    `A bright, clean image of a modern movable smart TV on a stand (similar to a 'Samtanbyme' or an affordable StandbyMe alternative), elegantly placed in a cozy, sunlit bedroom. The TV screen displays a vibrant, enticing content. A large, clear text overlay indicating "Under $300" or "285,000 KRW" is prominently featured. Emphasize affordability, innovation, and stylish design. Minimalist aesthetic, soft lighting, sharp focus, --ar 1:1 --v 5.2`
+### **두 번째 컷**
 
-### 🔹 3컷: 어디든 나만의 스마트 영화관!
+*   **카드뉴스 텍스트:**
+    **✨ 43인치 구글TV 삼탠바이미가 30만원대부터?!**
+    (위드라이프: 대화면+스마트+이동성 한 번에!)
 
-*   **텍스트:**
-    넷플릭스, 유튜브 기본 탑재! 🧠
-    침실, 거실, 주방 어디든 OK! 🏃‍♀️ 공간 제약 없는 자유로움!
+*   **Midjourney 프롬프트:**
+    `A stylish black 43-inch Google TV on a portable stand (SamtanbyME style) in a cozy, modern bedroom. The TV screen displays a vibrant Netflix scene, and a person is comfortably watching from the bed with a happy expression. Emphasize the large screen and smart features. Warm ambient lighting, soft focus, cinematic, depth of field, vibrant colors, detailed, product photography. --ar 1:1 --v 5.2`
 
-*   **Midjourney 프롬프트 (영문):**
-    `A dynamic collage or split scene showcasing a movable smart TV being used in various home environments. One part shows it in a cozy bedroom with Netflix playing, another in a modern kitchen with a cooking show, and a third in a stylish living room with YouTube. Subtle logos of Netflix and YouTube are visible on the screens. Emphasize seamless mobility, versatile usage, and the convenience of built-in smart features. Bright, inviting, warm home aesthetics, --ar 1:1 --v 5.2`
+---
 
-### 🔹 4컷: 10년차 MD가 엄선한 '찐' 가성비!
+### **세 번째 컷**
 
-*   **텍스트:**
-    10년차 MD가 엄선한 '가성비 끝판왕' 스탠바이미 대안!
-    후회 없는 선택, 지금 바로 확인하세요! ➡️ (링크)
+*   **카드뉴스 텍스트:**
+    **화이트는 인테리어까지 UP! 🎨 어디든 착착!**
+    (블랙/화이트, 취향껏 고르는 디자인!)
 
-*   **Midjourney 프롬프트 (영문):**
-    `A confident, professional-looking person (resembling a marketing expert or product reviewer in their 30s-40s) with a friendly smile, gesturing emphatically towards a sleek, modern movable smart TV. The TV is brightly illuminated with a soft spotlight, signifying an ultimate recommendation. The background is a clean, contemporary studio or home office. Text overlay "Expert Recommended" or "Best Value Pick". Focus on trust, endorsement, and product excellence. High contrast, professional photography style, --ar 1:1 --v 5.2`
+*   **Midjourney 프롬프트:**
+    `A sleek white 43-inch Google TV on a portable stand (SamtanbyME style) in a bright, airy, Scandinavian-style living room. A smiling person is effortlessly rolling the TV to a new position. Natural sunlight streams in, highlighting the clean aesthetic and minimalist design. Emphasize portability and how it blends with modern interior. --ar 1:1 --v 5.2`
+
+---
+
+### **네 번째 컷**
+
+*   **카드뉴스 텍스트:**
+    **놀라지 마세요! 🤫 20만원대 초가성비 모델도!**
+    (티비아울렛: 부담없이 즐기는 스마트 무빙TV!)
+
+*   **Midjourney 프롬프트:**
+    `A dynamic and eye-catching image of an ultra-affordable portable Google TV (SamtanbyME style) in a lively, modern setting. Money symbols or coins are playfully floating around the TV, clearly highlighting its low price point. A bright, stylized "BEST PRICE!" or "200k KRW range" tag is subtly incorporated. Vibrant, energetic, pop art style, clear product visibility. --ar 1:1 --v 5.2`
