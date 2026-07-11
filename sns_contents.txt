@@ -1,91 +1,72 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
-
-**제목:** 😲 스탠바이미 가격 실화? "삼탠바이미"로 20만원대에 FLEX 하는 법! #가성비TV #스마트TV
-
-**타겟:** 스탠바이미는 갖고 싶지만 가격이 부담스러운 2030세대 (흥미 위주, 구매 유도)
-**분위기:** 빠르고 경쾌한 배경음악, 역동적인 화면 전환, 핵심 내용 강조 자막
+## 도파민 폭발! 15초 스탠바이미 가성비 쇼츠/틱톡 스크립트 & 인스타그램 카드뉴스
 
 ---
 
-### **[숏폼 스크립트]**
+### 1. 유튜브 쇼츠/틱톡용 15초 분량 스크립트
 
-**[0-3초] ⚡️ 시선 강탈 훅 (Hook):**
-*   **(화면):** (슬픈 표정으로 LG 스탠바이미 가격표를 보며 한숨 푹 쉬는 모습) 실제 스탠바이미 가격 크게 띄우고 빠르게 X 표시! 그 위에 **"비싸서 못 샀지...?😩"** 자막 강력하게 띄우기.
-*   **(내레이션/대사):** "흐읍... 스탠바이미, 너무 예쁜데 가격이... 혹시 나만 비싸?"
+**제목:** 스탠바이미 너무 비싸? 🙅‍♀️ 20만원대 삼탠바이미로 FLEX! ✨
 
-**[3-7초] 💡 문제 제기 & 해결책 제시:**
-*   **(화면):** 밝고 경쾌한 전환! '스탠바이미 로망' 이미지 (이동식 TV로 침대에서 넷플릭스 보는 장면 등) 빠르게 보여주며 **"로망 포기 NO! ✨ 이젠 '가성비 삼탠바이미' 시대가 왔다!"** 자막 크게!
-*   **(내레이션/대사):** "천만의 말씀! 똑똑한 우리는 '삼탠바이미'로 20만원대에 즐겨버려!"
+**[영상 구성 아이디어]**
 
-**[7-12초] 🔥 핵심 기능 & 상품 하이라이트:**
-*   **(화면):**
-    *   [20만원대 삼탠바이미] 실제 제품 이미지(구글TV UI 보이는) + **"20만원대 초극강 가성비!"** 자막
-    *   [구글TV OS] 넷플릭스, 유튜브 아이콘 보이는 구글TV 화면 + **"OTT 바로 재생!"** 자막
-    *   [QLED 삼탠바이미] 실제 제품 이미지(선명한 QLED 화질 강조) + **"QLED 선명한 화질!"** 자막
-    *   [이동식 스탠드] TV가 바퀴로 부드럽게 이동하는 모습 + **"어디든 내 맘대로!"** 자막
-*   **(내레이션/대사):** "20만원대 구글TV부터, QLED 화질까지! 이동식 스탠드로 내 방이 어디든 극장으로 변신! 진짜 안 살 이유가 없잖아?"
-
-**[12-15초] 🚀 강력한 구매 유도 (Call to Action):**
-*   **(화면):** 두 제품이 나란히 있는 모습 + "✨ 나만의 스마트 공간 ✨" 자막 + **"지금 바로 프로필 링크 확인!"** 버튼 모양 이미지/자막.
-*   **(내레이션/대사):** "내 집을 영화관으로? 현명한 당신, 지금 바로 프로필 링크 클릭해서 갓성비 TV 겟하세요!"
+*   **장면 1 (0-3초): 훅!**
+    *   **비주얼:** 슬픈 표정으로 비싼 스탠바이미 가격표를 보고 한숨 쉬는 사람 → 갑자기 눈이 번쩍 뜨이며 '오잉?' 하는 표정으로 바뀜.
+    *   **대사:** "스탠바이미... 가격에 또르륵? 😭 이제 20만원대로 FLEX 해봐!"
+*   **장면 2 (3-8초): 무빙큐빅스 소개**
+    *   **비주얼:** 32인치 무빙큐빅스 삼탠바이미가 침실에서 스르륵 움직이는 모습. 넷플릭스가 재생되고, 방문설치하는 모습이 빠르게 스쳐 지나감.
+    *   **대사:** "32인치 대화면에 방문설치까지! ✨ 무빙큐빅스 삼탠바이미! 30만원대 갓성비!"
+*   **장면 3 (8-13초): 티비아울렛 소개**
+    *   **비주얼:** 20만원대 티비아울렛 구글TV 삼탠바이미가 주방에서 요리하는 사람 옆에 놓여있고, 구글TV 인터페이스에서 여러 앱(유튜브, 웨이브 등)을 자유롭게 넘기는 모습.
+    *   **대사:** "심지어 20만원대! 구글TV로 모든 앱 OK! 📱 티비아울렛 가성비 미쳤다! 🤯"
+*   **장면 4 (13-15초): 클로징 & CTA**
+    *   **비주얼:** 스탠바이미가 거실, 침실, 주방 등 다양한 공간에서 활용되는 몽타주. 마지막에 링크 유도 텍스트가 크게 뜸.
+    *   **대사:** "내 라이프에 딱 맞는 삼탠바이미, 지금 바로 프로필 링크에서 만나봐! 👇"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+### 2. 인스타그램 카드뉴스 4컷
+
+**[총 제목]:** ✨ 스탠바이미 가성비 끝판왕?! 20만원대 삼탠바이미 추천! ✨
 
 ---
 
-### **[카드 1]**
+**카드뉴스 1/4**
 
-*   **카드 텍스트:**
-    스탠바이미 갖고 싶지만, 가격 때문에 망설였다면? 😩
-    2024년 '가성비 삼탠바이미' TOP 2가 정답!
-    #스탠바이미 #삼탠바이미 #가성비 #스마트TV
-
-*   **Midjourney 프롬프트 (영문):**
-    A split image: left side showing a luxurious, expensive LG StandbyMe in a minimalist, high-end living room with a disappointed young woman looking at a price tag that says "$$$$" and a sad emoji. Right side showing a vibrant, stylish yet affordable "sam-ten-by-me" (a portable smart TV alternative) in a cozy, modern bedroom, with a happy young woman watching content with a smile, bright, clean, soft lighting. --ar 1:1 --v 5.2 --style raw
+*   **들어갈 텍스트:**
+    **스탠바이미, 너무 비싸서 포기했다고? 🙅‍♀️**
+    **⚡️ 20만원대 삼탠바이미로 똑똑하게 즐겨봐! ⚡️**
+*   **배경 이미지 생성을 위한 Midjourney 스타일 영문 프롬프트:**
+    `A split image concept. Left side: a luxurious, minimalist living room with an empty space where an expensive, sleek mobile TV would be, conveying a sense of high cost and longing. Right side: a cozy, modern living space with a vibrant, affordable mobile smart TV, actively being used by a smiling person. The atmosphere on the right is warm and inviting, highlighting accessibility. --ar 1:1 --v 5.2`
 
 ---
 
-### **[카드 2]**
+**카드뉴스 2/4**
 
-*   **카드 텍스트:**
-    **✨ 20만원대 초극강 가성비! 최저가 구글TV 삼탠바이미 📺**
-    *(285,000원)*
-    ✅ 20만원대 압도적 가격!
-    ✅ 최신 구글TV OS (넷플릭스, 유튜브 바로!)
-    ✅ 슬림 디자인 & 이동형 스탠드
-
-*   **Midjourney 프롬프트 (영문):**
-    A sleek, modern portable smart TV (like a StandbyMe alternative) with a screen displaying the Google TV interface (Netflix, YouTube, Disney+ icons clearly visible). The TV is on a minimalist stand with small wheels, positioned in a bright, cozy living room or bedroom corner. The design is clean and functional, highlighting its portability and smart features. Soft natural light, modern minimalist aesthetic. --ar 1:1 --v 5.2 --style raw
+*   **들어갈 텍스트:**
+    **👍 32인치 대화면에 방문설치까지!**
+    **무빙큐빅스 스마트 삼탠바이미 SET**
+    **✅ 30만원대로 누리는 스마트 라이프**
+*   **배경 이미지 생성을 위한 Midjourney 스타일 영문 프롬프트:**
+    `A realistic photo of a sleek, 32-inch mobile smart TV in a modern, well-lit bedroom. The TV screen displays a vibrant movie scene. A person is comfortably lounging on the bed, smiling, and watching the TV. The room has a cozy, inviting atmosphere with soft, ambient lighting. Emphasize the screen size and the convenience of home installation (subtly implied by the relaxed user). --ar 1:1 --v 5.2`
 
 ---
 
-### **[카드 3]**
+**카드뉴스 3/4**
 
-*   **카드 텍스트:**
-    **🎨 화질까지 놓칠 수 없다면? 와이드뷰 40인치 QLED 삼탠바이미!**
-    *(379,050원)*
-    ✅ 선명한 QLED 화질 (생생한 색감!)
-    ✅ 깔끔한 화이트 에디션 (인테리어 오브제!)
-    ✅ 적당한 40인치 크기 (내 공간에 딱!)
-
-*   **Midjourney 프롬프트 (영문):**
-    A stylish, all-white portable smart TV with a vibrant QLED screen displaying a high-definition nature scene (e.g., a lush green forest or a colorful coral reef) or a dynamic movie scene, emphasizing vivid colors and sharpness. The TV is positioned in a modern, light-filled bedroom or study, showcasing its sleek white design as an interior decor piece. Minimalist white aesthetic, focus on vivid colors and display quality. --ar 1:1 --v 5.2 --style raw
+*   **들어갈 텍스트:**
+    **🤯 20만원대 실화?! 구글TV까지 탑재!**
+    **티비아울렛 스마트 구글 TV 삼탠바이미**
+    **📲 OTT는 물론, 모든 앱 자유롭게!**
+*   **배경 이미지 생성을 위한 Midjourney 스타일 영문 프롬프트:**
+    `A dynamic shot of a compact, affordable mobile smart TV with a vibrant Google TV interface on screen, displaying various app icons (Netflix, YouTube, Spotify, etc.). The TV is placed in a stylish, small studio apartment or dorm room. A young person is happily interacting with the remote, demonstrating ease of use and smart features. Bright, modern aesthetic, emphasizing accessibility and affordability. --ar 1:1 --v 5.2`
 
 ---
 
-### **[카드 4]**
+**카드뉴스 4/4**
 
-*   **카드 텍스트:**
-    이제 비싼 가격 때문에 로망 포기 NO! 🙅‍♀️
-    현명한 당신을 위한 '가성비 삼탠바이미'로
-    나만의 스마트 공간을 만들 시간!
-    더 자세한 내용은 프로필 링크에서 확인하세요! ➡️
-
-*   **Midjourney 프롬프트 (영문):**
-    A cozy and inviting scene where a person (seen from behind or side profile, enjoying) is comfortably watching a portable smart TV in a relaxed setting. They are on a plush sofa with a soft blanket, or in a bed with pillows. The room is warm, well-lit with ambient lighting and natural light. The TV screen shows a joyful or engaging movie/series. The overall mood is one of comfort, relaxation, and modern home entertainment. --ar 1:1 --v 5.2 --style raw
-
----
+*   **들어갈 텍스트:**
+    **내 방을 영화관으로! 🎬 침대 옆, 주방 어디든 OK!**
+    **✨ 더 많은 삼탠바이미는 프로필 링크에서 확인! ✨**
+*   **배경 이미지 생성을 위한 Midjourney 스타일 영문 프롬프트:**
+    `A vibrant and dynamic montage or collage showing a single sleek mobile smart TV seamlessly transitioning between different household settings: being used in a cozy bedroom by a window, then in a modern kitchen while cooking, and finally in a relaxed living room corner. The images convey a sense of freedom, versatility, and enhanced lifestyle. Modern, bright photography style. --ar 1:1 --v 5.2`
