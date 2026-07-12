@@ -1,65 +1,59 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 대본 & 인스타그램 카드뉴스
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
+
+**[영상 컨셉: 빠른 전환, 트렌디한 배경음악, 강조되는 텍스트 자막]**
+
+*   **0-3초 (훅):**
+    *   **화면:** 고급스러운 '스탠바이미' 가격표 화면이 줌인 -> 가격을 보고 동공지진하는 사람의 얼굴 클로즈업. (자막: "헉, 이렇게 비싸다고?!")
+    *   **대사 (빠르게, 놀란 목소리):** "스탠바이미 비싸서 포기하셨죠?"
+*   **3-7초:**
+    *   **화면:** '티비아울렛 스마트 구글 TV 삼탠바이미'가 침대 옆, 부엌 식탁 위, 거실 등 다양한 공간에서 유연하게 사용되는 모습이 빠르게 전환됨. (자막: "20만원대? 갓성비 삼탠바이미 실화냐?!")
+    *   **대사 (신나는 목소리):** "잠깐! 20만원대 '갓성비' 삼탠바이미가 있다고?! 심지어 스마트 구글TV!"
+*   **7-11초:**
+    *   **화면:** '위드라이프 구글 43인치 스마트TV'로 넷플릭스 영화를 보거나 유튜브 채널을 즐기는 장면. 몰입감 있는 표정 강조. (자막: "43인치 대화면에 구글TV까지? 몰입감 미쳤다! 🤯")
+    *   **대사 (감탄하는 목소리):** "43인치 대화면으로 몰입감 끝판왕! 넷플릭스, 유튜브 다 되는 스마트TV!"
+*   **11-14초:**
+    *   **화면:** '무빙큐빅스 스마트 삼탠바이미'가 깔끔하게 설치되어 있는 모습. 또는 설치 기사님이 마무리하는 모습 살짝. (자막: "설치까지 해주는 프리미미엄 삼탠바이미! 💁‍♀️")
+    *   **대사 (설득력 있는 목소리):** "설치까지 걱정 없는 프리미엄 삼탠바이미도 30만원대!"
+*   **14-15초:**
+    *   **화면:** 세 제품의 핵심 장점(가격, 크기, 서비스)이 아이콘과 함께 빠르게 뜨면서 '현명한 당신의 선택!' 문구 강조. (자막: "현명한 당신의 선택! ✨ 댓글 링크 확인!")
+    *   **대사 (활기찬 목소리):** "더 자세한 정보는 댓글 링크에서 확인하세요! 지금 바로 클릭!"
 
 ---
 
-### 📺 유튜브 쇼츠/틱톡 15초 스크립트 (대사 위주)
+## 2. 인스타그램 카드뉴스 4컷
 
-**[영상 컨셉]**
-빠른 전환, 유머러스하면서도 정보 전달력 높은 톤. 각 제품 소개 시 해당 제품 이미지/짧은 영상 오버레이. 마지막에 CTA 명확히 강조.
+**[전체 컨셉: 미니멀하고 세련된 디자인, 감성적인 공간 연출, 명확한 정보 전달]**
 
----
+### 1컷
+*   **들어갈 텍스트:**
+    스탠바이미 너무 비싸다고? 💸
+    갓성비 삼탠바이미 추천 BEST 3!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish, minimalist living room with soft natural light, featuring a modern, sleek movable TV stand (without a specific brand logo) with a large, bright screen displaying a "loading" or "thinking" icon over a blurred price tag, symbolizing the high cost of premium flexible TVs. Focus on elegant interior design with warm wooden accents and comfortable textiles. Cinematic, ultra-realistic, warm lighting, f/1.8, --ar 1:1 --v 5.2`
 
-**[스크립트]**
+### 2컷
+*   **들어갈 텍스트:**
+    1. 20만원대! 가성비 끝판왕 삼탠바이미! 😮
+    (티비아울렛 스마트 구글 TV 삼탠바이미)
+    ✨ 20만원대 최저가 / 📱 구글TV 기본 / 🚚 이동식 거치대 포함
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cozy and modern bedroom, bathed in soft morning light filtering through sheer curtains. A sleek, minimalist movable TV (like a SambyMe, no brand) on a stand is positioned perfectly at the foot of a bed, displaying a vibrant Netflix movie scene. The room has neutral tones, warm wooden floor, and a comfortable duvet. Ultra-realistic, intimate atmosphere, shallow depth of field, --ar 1:1 --v 5.2`
 
-**(0-3초) 훅: (배경: LG 스탠바이미 가격표 화면이 나오다 갑자기 'X' 표시되며 사라짐)**
-"스탠바이미 비싸서 포기? 😱 놉! 이제 20만원대로 이동식 TV 겟하는 법!"
+### 3컷
+*   **들어갈 텍스트:**
+    2. 43인치 대화면! 몰입감 UP! 🍿
+    (위드라이프 구글 43인치 스마트TV 삼탠바이미 세트)
+    ✨ 43인치 대화면 / 📱 구글 스마트TV / 🔋 에너지 효율 1등급
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish and spacious living area with large windows, showcasing a large 43-inch movable smart TV (SambyMe style, no brand) in the center, playing a high-quality, cinematic movie trailer with vibrant colors. A comfortable, modern sofa and a small coffee table with snacks and drinks are nearby. Bright, airy, luxurious feel, soft shadows, f/2.8, --ar 1:1 --v 5.2`
 
-**(3-7초) 제품 1: (배경: 위드라이프 43인치 삼탠바이미, 거실에서 영화 보는 장면)**
-"대박! 43인치 대화면에 구글TV까지? 위드라이프 삼탠바이미가 30만원대! 영화관이 집으로 쏙!"
-
-**(7-11초) 제품 2: (배경: 티비아울렛 삼탠바이미, 침대 옆, 부엌 등 다양한 공간에서 가볍게 이동하며 사용)**
-"더 싸게? 20만원대 실화?! 티비아울렛 삼탠바이미는 가격파괴 끝판왕!"
-
-**(11-14초) 공통 장점: (배경: 두 제품 모두 넷플릭스, 유튜브 등 OTT 로고가 빠르게 전환되며 나오는 모습)**
-"넷플릭스, 유튜브 다 돼! 끌고 다니면서 스마트하게 즐겨봐! 😲"
-
-**(14-15초) CTA: (배경: 모든 제품이 함께 보이며 "링크는 프로필에!" 텍스트 크게 등장, 손가락 제스처)**
-"자세한 정보는 프로필 링크 확인! 지금 바로 GO!"
-
----
-
-### 📸 인스타그램 카드뉴스 (4컷)
-
----
-
-#### 📌 카드뉴스 1컷
-
-*   **텍스트:** 스탠바이미 비싸서 포기? 😱 놉! 20만원대로 스마트 이동식 TV 사는 법!
-*   **Midjourney 프롬프트:**
-    "A person with a frustrated expression looking at a very expensive, sleek white portable TV on a stand, then suddenly a bright, inviting alternative portable smart TV with a much lower price tag (e.g., '20만원대') appears next to them with a 'WOW!' expression. Modern minimalist living room background, cinematic lighting, soft glow, high resolution, vibrant, clean lines, --ar 1:1"
-
----
-
-#### 📌 카드뉴스 2컷
-
-*   **텍스트:** ✨ 43인치 대화면 + 구글TV! 위드라이프 삼탠바이미 (34만원대)
-*   **Midjourney 프롬프트:**
-    "A sleek, modern 43-inch portable smart TV (resembling '위드라이프 삼탠바이미') on a mobile stand, displaying a vibrant movie scene with a subtle Google TV interface visible on screen. The TV is positioned in a cozy, bright modern living room. Professional product photography style, high resolution, clear, crisp focus, soft ambient lighting, --ar 1:1"
-
----
-
-#### 📌 카드뉴스 3컷
-
-*   **텍스트:** 🔥 20만원대 실화?! 티비아울렛 삼탠바이미 (역대급 가성비)
-*   **Midjourney 프롬프트:**
-    "A minimalist and compact portable smart TV (resembling '티비아울렛 삼탠바이미') on wheels, with an eye-catching, glowing digital price tag displaying '20만원대' prominently. It's placed in a versatile, bright setting like a modern kitchen or a small, chic bedroom, emphasizing extreme affordability and easy portability. High quality, realistic, clean design, --ar 1:1"
-
----
-
-#### 📌 카드뉴스 4컷
-
-*   **텍스트:** 이제 LG 스탠바이미 부럽지 않아! 내맘대로 스마트 이동식 TV 즐기자! (자세한 정보는 프로필 링크!)
-*   **Midjourney 프롬프트:**
-    "A dynamic collage of people enjoying affordable portable smart TVs in various modern home settings: one person watching a cooking show in the kitchen, another doing yoga with a fitness video in the living room, and a third watching a movie in bed. The scene should exude freedom, convenience, and a smart, joyful lifestyle. Vibrant colors, clean interior design, high detail, wide shot capturing multiple scenarios, --ar 1:1"
+### 4컷
+*   **들어갈 텍스트:**
+    3. 설치 걱정 NO! 방문설치 삼탠바이미 🛠️
+    (무빙큐빅스 스마트 삼탠바이미 SET)
+    ✨ 편리한 방문설치 / 📱 스마트TV 기능
+    현명한 당신의 선택은? ➡️ 지금 바로 링크 확인!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A clean, modern home office or studio space with a large, bright window. A sleek, white movable smart TV (SambyMe style, no brand) is perfectly integrated into the room, displaying a calming, minimalist desktop interface. A subtle hint of a hand in the background, carefully adjusting the TV, suggesting professional installation. Focus on neatness, productivity, and effortless integration. Soft, indirect lighting, professional, --ar 1:1 --v 5.2`
