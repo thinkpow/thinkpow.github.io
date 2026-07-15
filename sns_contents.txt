@@ -1,90 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 쇼츠 & 인스타 카드뉴스 기획 (스탠바이미 가성비 '삼탠바이미' 편)
+## 🎥 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+
+**[영상 컨셉]** 스탠바이미 구매 고민하는 모습 -> 합리적인 삼탠바이미 발견하고 놀라는 모습 -> 제품 장점 소개 -> 구매 독려
 
 ---
 
-### 1. 🎬 유튜브 쇼츠/틱톡 15초 스크립트
+**[0-3초] 훅! (시선을 빼앗는 장면)**
+*   **화면:** (빠른 템포의 전환) 정품 스탠바이미 가격표 보고 좌절하는 표정 ➡️ 눈이 휘둥그레지는 표정으로 화면에 집중 ➡️ "뭐라고? 이 가격에?!" 자막과 함께 '초저가' 강조!
+*   **음성/대사:** "스탠바이미 넘 비싸서 포기했어? 😭 잠깐! 20만원대 인생 꿀템 알려줄게!"
 
-**[영상 컨셉]**
-빠른 컷 전환, 시선을 사로잡는 자막과 효과음. 침실, 거실, 주방 등 다양한 공간에서 삼탠바이미를 자유롭게 사용하는 모습이 교차하며 등장.
+**[3-7초] 초대형 삼탠바이미 소개**
+*   **화면:** 43인치 초대형 구글TV가 거실에 놓여 영화를 재생하는 모습 (몰입감 강조)
+*   **음성/대사:** "봐봐! 이게 무려 43인치 초대형 구글TV! 😳 가격이 30만원대라고? 거실이 영화관 되는 마법!"
 
-**[스크립트]**
+**[7-11초] 초가성비 삼탠바이미 소개**
+*   **화면:** 20만원대 삼탠바이미가 침실, 주방 등으로 이동하며 활용되는 모습 (다양한 공간 활용 강조)
+*   **음성/대사:** "더 충격적! 20만원대로 구글 스마트TV 이동식 스크린이 내 손에! 🤯 방구석 라이프 완전 FLEX!"
 
-**(0-3초) ⚡️ 훅! - 빠르고 경쾌한 비트 시작, 화면에 강렬한 텍스트 등장**
-**나레이션:** "스탠바이미 갖고 싶어서 가격 봤다가 심장마비 올 뻔? 😱"
-**화면:** LG 스탠바이미 비싼 가격표 클로즈업 -> X 표시와 함께 '잠깐!'
-
-**(3-7초) 💡 문제 제기 및 솔루션 제시**
-**나레이션:** "이제 한숨 그만! 가격은 확 낮추고 기능은 그대로! ✨ '삼탠바이미'가 답이다!"
-**화면:** 일반 TV 옆에 서있는 사람이 삼탠바이미를 들고 쉽게 이동하는 모습. '삼탠바이미' 키워드 강조.
-
-**(7-12초) 🌟 핵심 상품 2가지 소개 (빠른 전환)**
-**나레이션:** "몰입감 터지는 43인치 대화면? 30만원대! (위드라이프 43인치)"
-**화면:** 43인치 삼탠바이미로 영화 보는 모습 (꽉 찬 화면). 가격 텍스트 오버레이.
-**나레이션:** "오리지널 감성 27인치를 20만원대로? (무빙큐빅스 27인치)"
-**화면:** 27인치 삼탠바이미를 침대 옆에서 사용하는 모습. 가격 텍스트 오버레이.
-
-**(12-15초) 🤩 마무리 & CTA (강렬한 효과음과 함께)**
-**나레이션:** "넷플릭스, 유튜브, 게임까지! 폰 하나 값으로 어디든 나만의 스마트 TV! 지금 바로 확인해봐! 👇"
-**화면:** 다양한 사람들이 삼탠바이미를 즐기는 모습 빠르게 교차. 마지막에 "자세히 보러 가기 링크 클릭!" 문구와 함께 화살표 이모티콘.
+**[11-15초] 클로징 & CTA**
+*   **화면:** 두 제품이 나란히 비교되거나, 핵심 장점(가격, 대화면, 스마트 기능)이 강조되는 인포그래픽 화면. 마지막에 프로필 링크 유도 자막.
+*   **음성/대사:** "누구나 살 수 있는 스탠바이미 대안! ✨ 더 자세한 정보는 프로필 링크에서 지금 바로 확인해봐!"
 
 ---
 
-### 2. 📸 인스타그램 카드뉴스 (4컷)
-
-**[전체 컨셉]**
-모던하고 깔끔한 디자인, 핵심 메시지를 직관적으로 전달. 각 컷마다 해당 제품 또는 기능이 강조된 이미지를 상상하며 프롬프트 작성.
+## 📸 인스타그램 카드뉴스 (4컷)
 
 ---
 
-**카드뉴스 1컷**
+### **▪️ 첫 번째 컷**
 
 *   **들어갈 텍스트:**
-    **스탠바이미, 꿈만 꾸셨나요? 💭**
-    **LG 스탠바이미 비싸서 망설였다면?**
-    **가격은 낮추고, 만족은 올리는**
-    **✨ '삼탠바이미'가 답! ✨**
+    스탠바이미 비싸서 포기? 🙅‍♀️
+    20만원대 '삼탠바이미' 대안 보러가기!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, modern living room with a person looking longingly at a blurred, expensive smart TV, then turning with a hopeful smile towards a bright, spotlighted phrase "Samtanbyme" on a minimalist background. High contrast, cinematic lighting, 16:9 aspect ratio, photorealistic, vibrant colors, clean aesthetic, --ar 16:9 --v 5.2`
+    A vibrant split image for a social media carousel. The left side shows a person looking frustrated with a thought bubble above their head displaying a very expensive smart TV price tag ($1000+). The right side shows the same person smiling broadly and confidently pointing towards a stylish, modern, yet affordable portable smart TV on a stand (with a price tag like "$200-$300"). The background is clean and bright, with dynamic lines and a subtle gradient that implies transition from disappointment to joy. Focus on clear emotions and modern product aesthetics. --ar 1:1 --v 5.2
 
 ---
 
-**카드뉴스 2컷**
+### **▪️ 두 번째 컷**
 
 *   **들어갈 텍스트:**
-    **1️⃣ 압도적 몰입감! 43인치 대화면 삼탠바이미**
-    **#위드라이프 43인치 구글 스마트 삼탠바이미**
-    ✅ 영화관을 내 방으로! 43인치 초대형 화면
-    ✅ 넷플릭스, 유튜브는 기본! 완벽 구글 TV OS
-    ✅ 침실, 거실, 주방 어디든 이동 가능
-    **👉 가격: 359,000원**
+    🍿 영화관이 우리집으로!
+    43인치 초대형 구글TV가 단돈 30만원대?!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy bedroom with a person comfortably watching a movie on a large 43-inch mobile smart TV (Samtanbyme) with a sleek, minimalist design. The screen shows a vibrant movie scene. Warm, inviting lighting, modern interior, high detail, photorealistic, --ar 16:9 --v 5.2`
+    A cozy and modern living room or bedroom at dusk. A large 43-inch portable Google TV, sleek and black on a minimalist white stand, is centrally placed, displaying a vibrant, high-definition movie scene. A person is comfortably lounging on a plush sofa or bed, fully engrossed in the screen, with a bowl of popcorn and a soft blanket nearby. The lighting is warm and inviting, creating a cinematic, immersive atmosphere. Realistic photo, high detail, professional interior shot. --ar 1:1 --v 5.2
 
 ---
 
-**카드뉴스 3컷**
+### **▪️ 세 번째 컷**
 
 *   **들어갈 텍스트:**
-    **2️⃣ 오리지널 감성! 27인치 가성비 삼탠바이미**
-    **#무빙큐빅스 27인치 가성비 스마트 삼탠바이미**
-    ✅ LG 스탠바이미와 동일한 27인치 화면
-    ✅ 삼탠바이미 중 가장 합리적인 가격!
-    ✅ 셋톱박스 없이 OTT 바로 시청!
-    ✅ 모던한 블랙 디자인으로 어떤 인테리어에도 찰떡!
-    **👉 가격: 269,000원**
+    💸 20만원대로 이동식 스마트TV FLEX!
+    부담 없이 즐기는 구글TV!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A bright, modern home office or small studio apartment, with a person focused on work or casually browsing social media on a compact 27-inch mobile smart TV (Samtanbyme) in a minimalist black design. Natural daylight, clean lines, professional yet relaxed atmosphere, photorealistic, --ar 16:9 --v 5.2`
+    A bright and cheerful lifestyle collage or montage showing a person effortlessly moving a compact, 20-inch portable Google TV (on a slim, mobile stand) between various home settings. One scene shows them watching a cooking show in a modern, clean kitchen, another shows them following a fitness video in a minimalist bedroom, and a third shows them relaxing with a show in a comfortable living room. Emphasize versatility, ease of movement, and happy expressions. Soft natural light, high-quality lifestyle photography. --ar 1:1 --v 5.2
 
 ---
 
-**카드뉴스 4컷**
+### **▪️ 네 번째 컷**
 
 *   **들어갈 텍스트:**
-    **이제 '내 공간'이 곧 '나만의 영화관/작업실'! 🏡**
-    **스탠바이미의 자유로움을 반값에!**
-    **이동식 스마트 TV, 삼탠바이미로 라이프스타일을 업그레이드하세요!**
-    **✅ 프로필 링크에서 추천 상품 보러가기!**
+    당신의 라이프스타일에 딱 맞는 '삼탠바이미'는? ✨
+    프로필 링크에서 더 많은 정보 확인!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage of different scenes: a person watching TV in bed, another cooking in the kitchen with the TV displaying a recipe, and a third person exercising in a living room with the TV playing a fitness video. Each scene features a mobile smart TV (Samtanbyme). Seamless transitions, bright and energetic, diverse settings, lifestyle photography style, --ar 16:9 --v 5.2`
+    A clean, modern infographic style image designed for a social media carousel. The top half features three distinct, visually appealing sections, each showcasing a different type of "SamtanbyMe" (e.g., "Ultra-Budget", "Large Screen Immersion", "Reliable Brand Trust"), represented by small, stylish icons (e.g., a coin for budget, a wide screen for large, a shield for brand). The bottom half contains a prominent, clear call-to-action: "Click Link in Bio for More Info!" in an attractive font. The background is a soft, inviting gradient, and the overall design is minimalist, professional, and utilizes bright, friendly colors. 3D rendered elements, sharp lines. --ar 1:1 --v 5.2
