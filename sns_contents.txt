@@ -1,29 +1,31 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트
+## 📢 숏폼 스크립트 (유튜브 쇼츠/틱톡 15초)
 
-**제목:** 비싼 스탠바이미 OUT! 가성비 끝판왕 삼텐바이미 vs 엘텐바이미 등장!
+**[영상 컨셉]**
+빠른 화면 전환과 효과음으로 시선을 사로잡고, 핵심 내용을 직관적으로 전달합니다. MD가 직접 말하는 듯한 톤으로 신뢰감을 줍니다.
 
-**(시작 전 강력한 비트 음악과 함께)**
+---
 
-**[0-3초] 훅 (Hook)**
-*   **화면:** (화려한 자막 '비싼 스탠바이미? 이제 그만!' 쾅! -> 원본 스탠바이미 가격표에 X표시)
-*   **내레이션 (빠르고 신나게):** "스탠바이미 부러워? 100만원 넘는 돈 펑펑 쓸 거야? NO! 2024년엔 이게 대세다!"
+**[훅(Hook) 설계]**
+첫 3초 안에 '스탠바이미 가격'이라는 문제점과 '가성비 해결책'을 명확히 제시하여 시청자의 공감을 얻고 다음 내용을 기대하게 만듭니다.
 
-**[3-7초] 문제 제시 & 솔루션 시작**
-*   **화면:** (침실에서 넷플릭스 보는 모습, 거실에서 게임하는 모습 빠르게 교차)
-*   **내레이션:** "집 어디든 나만의 영화관, 나만의 게이밍 존! 이걸로 만들 수 있어! 바로 '가성비 스탠바이미'!"
+**대사:**
 
-**[7-12초] 메인 상품 소개 (교차 편집)**
-*   **화면:**
-    *   (삼성 55인치 삼텐바이미 슬라이드, 핵심 장점 텍스트 강조: '삼성 55인치', '60만원대', '믿고 쓰는 대기업')
-    *   (LG 65인치 엘텐바이미 슬라이드, 핵심 장점 텍스트 강조: 'LG 65인치', '80만원대', '압도적 몰입감')
-*   **내레이션:** "삼성 55인치! 대기업 화질에 60만원대 실화? 아님 LG 65인치! 내 방을 영화관으로 80만원대 끝판왕!"
+**(0-2s) [화면: 고급스러운 스탠바이미가 등장. 곧이어 빨간색으로 취소선이 그어진 비싼 가격표(예: 120만원)가 큼지막하게 오버레이되고, '헉!' 소리와 함께 놀라는 표정의 사람 이모지 등장]**
+**나레이션:** "스탠바이미 갖고 싶은데... 가격 보고 헉! 😱"
 
-**[12-15초] 추가 상품 & CTA**
-*   **화면:** (초가성비 구글TV 슬라이드, '20만원대!' 강조 -> 구매 유도 화살표)
-*   **내레이션:** "더 싸게? 20만원대 구글TV까지! 지금 바로 프로필 링크 확인하고, 인생템 득템해봐!"
-**(강렬한 사운드 이펙트와 함께 종료)**
+**(2-5s) [화면: '걱정 마!' 텍스트와 함께 MD 복장의 자신감 넘치는 인물 등장, 손가락으로 'OK' 사인. 배경에 다채로운 OTT 앱 아이콘들이 빠르게 스쳐 지나감]**
+**나레이션:** "이제 그만! 10년차 MD가 찾아낸 '가성비 삼탠바이미' 보러 가자!"
+
+**(5-9s) [화면: '티비아울렛 스마트 구글 TV 삼탠바이미' 제품 이미지 풀샷, 가격 '28만 5천원' 강조. 넷플릭스/유튜브 로고 애니메이션.]**
+**나레이션:** "첫 번째! 💥 20만원대 TV아울렛! 스마트TV+이동식 스탠드, 이 가격 실화?! 넷플릭스, 유튜브 다 돼!"
+
+**(9-13s) [화면: '위드라이프 43인치 스마트TV 삼탠바이미' 제품 이미지 풀샷, '43인치', '34만 9천원' 강조. 에너지 1등급 로고.]**
+**나레이션:** "두 번째! 🤯 무려 43인치! 위드라이프! 30만원대 대화면에 에너지 1등급까지! 이건 무조건 혜자템!"
+
+**(13-15s) [화면: 위에서 소개한 2개 제품과 추가 추천 상품(무빙큐빅스)까지 3가지 제품이 나란히 배치된 콜라주 이미지. 하단에 '더 많은 정보는 프로필 링크 클릭!' 텍스트 오버레이]**
+**나레이션:** "더 자세한 정보는 프로필 링크 확인! 지금 바로 겟하세요!"
 
 ---
 
@@ -31,52 +33,45 @@
 
 ---
 
-### **1. 첫 번째 컷: 시선 강탈 훅 & 궁금증 유발**
+### **▪️ 카드뉴스 1컷**
 
-*   **컷별 텍스트:**
-    **스탠바이미 부럽니? 🤫**
-    **이제 '삼텐바이미', '엘텐바이미' 시대!**
-    (100만원대 스탠바이미 가격표에 빨간 X표시!)
-    **#스탠바이미 #가성비 #스마트TV #무빙스크린**
+**[텍스트]**
+**스탠바이미 사고 싶은데 가격 보고 헉! 😱**
+**10년차 MD가 찾아낸 '가성비 삼탠바이미' 대공개!**
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, futuristic mobile smart screen device glowing with soft light, set against a blurred background of a modern living space. The screen displays an X mark over a high price tag. Text overlay "Are you jealous of StandbyMe? Now it's the era of 'SamtenbyMe', 'EltenbyMe'!" in bold, vibrant typography. Cinematic, high-tech, minimalist, dramatic lighting, high resolution, --ar 1:1 --v 6.0`
+**[Midjourney 스타일 영문 프롬프트]**
+`A luxurious, modern living room with a sleek, expensive-looking portable smart TV prominently displayed. A giant, exaggerated '$$$' symbol or 'TOO EXPENSIVE' text in neon red is aggressively overlayed on the TV. Below, a visionary, smart-looking professional (MD) in a crisp suit points confidently towards an abstract, glowing representation of 'affordable smart TV alternatives' with a triumphant smile. Dynamic, vibrant, slightly dramatic, future tech, realistic photo.`
 
 ---
 
-### **2. 두 번째 컷: 메인 리뷰 상품 (삼성 삼텐바이미)**
+### **▪️ 카드뉴스 2컷**
 
-*   **컷별 텍스트:**
-    **✨ 삼성 55인치 삼텐바이미 ✨**
-    **믿고 쓰는 대기업! 60만원대 가성비!**
-    거실, 침실, 서재 어디든 OK! 🛋️🎮
-    **➡️ 삼성 55인치 4K UHD 스마트TV + 이동식 스탠드**
+**[텍스트]**
+**[MD's Pick 1] 💰 20만원대 끝판왕! 티비아울렛 구글 스마트TV**
+**✨ 장점: 이동식 + 구글 OS + 압도적 가격! 넷플릭스, 유튜브 모두 OK!**
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A bright and modern living room scene featuring a sleek 55-inch Samsung-style smart TV on a mobile stand. The TV screen shows a vibrant movie scene. The room is minimalist with soft natural light, a comfortable sofa, and green plants. Photorealistic, clean aesthetic, high detail, ambient light, --ar 1:1 --v 6.0`
+**[Midjourney 스타일 영문 프롬프트]**
+`A cozy, minimalist bedroom with a modern portable smart TV (like StandbyMe but generic, 27-inch size) on a sleek, white movable stand. On the TV screen, colorful streaming app icons (Netflix, YouTube, Disney+) are prominently displayed. A large, stylized price tag showing '285,000 KRW' with a 'BEST DEAL!' stamp in gold. Soft, inviting lighting, clean lines, minimalist aesthetic. Product photography style.`
 
 ---
 
-### **3. 세 번째 컷: 메인 리뷰 상품 (LG 엘텐바이미)**
+### **▪️ 카드뉴스 3컷**
 
-*   **컷별 텍스트:**
-    **🎬 LG 65인치 엘텐바이미 🎬**
-    **압도적 65인치! 내 방이 영화관으로 변신!**
-    80만원대 특급 몰입감으로 OTT, 게임 즐기기! 🚀
-    **➡️ LG 65인치 4K UHD 스마트TV + 이동식 스탠드**
+**[텍스트]**
+**[MD's Pick 2] ✨ 43인치 대화면! 위드라이프 구글 스마트TV 삼탠바이미 세트**
+**👍 장점: 43인치 대화면 + 구글 OS + 에너지 1등급! 몰입감 폭발!**
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy bedroom transformed into a cinematic viewing space. A large 65-inch LG-style smart TV on a mobile stand displays an intense gaming scene with vibrant colors. Soft, warm mood lighting, comfortable blankets and pillows, a person's silhouette enjoying the screen. Immersive, high contrast, depth of field, photorealistic, --ar 1:1 --v 6.0`
+**[Midjourney 스타일 영문 프롬프트]**
+`A stylish living room, a person is comfortably lounging on a sofa, happily watching a movie on a large (43-inch) portable smart TV. The TV is on a sleek, black movable stand. A subtle 'Energy Star 1st Grade' badge is visible in the corner of the screen. Warm, cinematic lighting, a focus on the screen's vibrant display and the immersive experience. Modern, comfortable atmosphere. UHD, cinematic quality.`
 
 ---
 
-### **4. 네 번째 컷: 추가 추천 & 콜투액션 (CTA)**
+### **▪️ 카드뉴스 4컷**
 
-*   **컷별 텍스트:**
-    **💰 초특가 구글TV도 있어! 💰**
-    **20만원대로 이동식 스마트TV GET!**
-    나에게 맞는 '무빙 스크린'은 무엇?
-    **➡️ 지금 바로 프로필 링크 클릭! 댓글로 알려줘!**
+**[텍스트]**
+**[보너스 픽] 👨‍🔧 설치 걱정 NO! 무빙큐빅스 스마트 삼탠바이미 (전문 기사 방문 설치)**
+**📝 MD's Comment: "가격은 좀 나가도 방문 설치는 최고!"**
+**🔗 MD 추천 삼탠바이미, 더 자세한 정보는 프로필 링크 클릭!**
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A vibrant and energetic abstract graphic illustrating choices and affordability in smart home technology. Multiple glowing, stylized smart screens in different sizes, flowing lines connecting them. Text overlay "Super cheap Google TV also available! Get a mobile smart TV for 200K KRW range! Which 'moving screen' is for you? Let me know in comments!" in an engaging font. Digital art, minimalist, gradient colors, dynamic composition, high energy, --ar 1:1 --v 6.0`
+**[Midjourney 스타일 영문 프롬프트]**
+`A clean, modern apartment interior. A professional, friendly-looking technician in a clean uniform is carefully setting up a 32-inch portable smart TV (on a stand) for a relieved and smiling customer. The customer looks happy with the hassle-free installation. The background is bright and clear, emphasizing professional service and convenience. Product advertisement style, focusing on human interaction and ease of use.`
