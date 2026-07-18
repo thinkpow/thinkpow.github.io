@@ -1,59 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## ✨ 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**(배경음악: 신나고 경쾌한 비트, 빠르고 리드미컬하게 진행)**
+**콘셉트:** LG 스탠바이미의 높은 가격에 좌절한 사람들에게 '삼탠바이미'라는 가성비 대안을 제시하며, 놀라운 기능과 저렴한 가격으로 '이거다!' 싶은 도파민 폭발 경험을 선사.
 
-*   **[0-3초] 훅 (화면: 고급스러운 LG 스탠바이미 이미지 → 비싼 가격표 등장하며 좌절하는 표정의 사람)**
-    *   **내레이션 (빠르고 흥분된 목소리):** "스탠바이미 갖고 싶어서 돈 모았는데... 헉, 가격 실화?!"
-*   **[3-7초] 문제 제기 & 해결책 제시 (화면: 좌절하는 사람 표정 → 짜잔! 밝고 세련된 '삼탠바이미' 이미지로 전환되며 빛나는 효과)**
-    *   **내레이션:** "이제 비싸게 사지 마세요! 가성비 끝판왕 '삼탠바이미'가 왔으니까!"
-*   **[7-12초] 제품 강조 (화면: 무빙큐빅스 32인치 삼탠바이미 → 위드라이프 43인치 삼탠바이미 순서로 빠르게 전환되며 핵심 기능 강조)**
-    *   **내레이션:** "🔌 선 없는 자유로움! QLED 화질에 배터리 내장 무선 TV부터 (휙!) 📺 30만원대에 43인치 대화면 구글 TV까지!"
-*   **[12-15초] 클로징 & CTA (화면: 3가지 삼탠바이미 제품이 함께 등장, '프로필 링크 클릭' 배너 크게 강조)**
-    *   **내레이션:** "이 모든 게 40만원대? 더 싸고 좋은 삼탠바이미! 지금 바로 프로필 링크에서 가성비 끝판왕 만나봐!"
+---
+
+**[영상 시작 - 훅(Hook) - 0-3초]**
+
+**(빠른 비트의 경쾌한 BGM 시작, 화면은 '갖고 싶은 스탠바이미' 이미지 후 '가격표'가 크게 뜨며 좌절하는 표정의 사람 연출)**
+
+*   **내레이션 (빠르고 흥분된 톤):** 스탠바이미... 비싸서 또 포기했어?! 😡
+
+**(화면 전환: '놉!' 크게 뜨면서 고개를 젓는 이모티콘, 다음 장면은 '삼탠바이미' 제품이 화려하게 등장)**
+
+*   **내레이션:** 이젠 그럴 필요 없어! 💥 갓성비 '삼탠바이미'가 있잖아!
+
+**[메인 콘텐츠 - 3-12초]**
+
+**(위드라이프 43인치 삼탠바이미 등장, 침실/거실 등 다양한 공간에서 활용되는 모습 빠르게 전환)**
+
+*   **내레이션:** 43인치 대화면에 구글TV까지?! 📺 위드라이프 삼탠바이미, 무려 30만원대! 넷플릭스, 유튜브 다 되는 스마트함에, 어디든 이동 가능한 자유까지!
+
+**(티비아울렛 삼탠바이미 등장, 좀 더 아담한 사이즈로 좁은 공간(원룸 침대 옆, 주방)에서 아늑하게 사용되는 모습)**
+
+*   **내레이션:** 심지어 20만원대 초가성비 입문템도 있어! 😱 티비아울렛 삼탠바이미로 나만의 홈시네마를 딱!
+
+**(LG 32인치 스마트 모니터 삼탠바이미 등장, 깔끔하고 세련된 디자인 강조하며 작업 환경, 게임 환경 등 다양한 활용 장면)**
+
+*   **내레이션:** 퀄리티 포기 못 해? LG 브랜드 삼탠바이미도 쌉가능! 모니터로도 완벽해!
+
+**[클로징 & CTA - 12-15초]**
+
+**(세 제품이 한 화면에 모여있거나, 각 제품의 장점을 요약한 텍스트 오버레이)**
+
+*   **내레이션:** 이 모든 게 상상 그 이상! 고민은 배송만 늦출 뿐!
+*   **자막:** 🚀 가성비 삼탠바이미 구매 좌표는 프로필 링크 클릭!
+*   **내레이션 (밝고 힘찬 톤):** 지금 바로 경험해봐!
 
 ---
 
 ## 📸 인스타그램 카드뉴스 4컷
 
-### 1컷
-*   **텍스트:**
-    **스탠바이미, 가격 때문에 포기했었죠? 😥**
-    **이제 '삼탠바이미'로 로망 실현 가능! ✨**
-    #스탠바이미 #삼탠바이미 #가성비TV #이동식TV
-*   **Midjourney 프롬프트:**
-    `A visually striking split image. On the left, a person looks sad next to a luxury portable TV with an exorbitant price tag, depicted in muted, cold tones. On the right, the same person smiles happily next to a sleek, modern, affordable portable smart TV on a stand, illuminated in warm, bright colors. The overall aesthetic is minimalist and aspirational, with a smooth transition in the middle, cinematic, high detail --ar 1:1 --style raw`
+**[1컷] - 시선 강탈 & 문제 제기**
 
-### 2컷
-*   **텍스트:**
-    **🔌 선 없는 자유로움! 무빙큐빅스 32인치 QLED 삼탠바이미**
-    **💰 40만원대!**
-    **✅ 핵심 기능:**
-    **🎨 선명한 QLED 화면**
-    **🔋 완벽한 무선 이동성 (배터리 내장)**
-    **🌐 스마트 TV 기능 & 깔끔한 화이트 디자인**
-    #무빙큐빅스 #QLED #무선TV #침실TV
-*   **Midjourney 프롬프트:**
-    `A elegant 32-inch white portable QLED smart TV on a minimalist stand, with no wires visible, positioned in a modern, sunlit bedroom. A person is comfortably lying on the bed, watching high-definition content on the TV, which displays vibrant QLED colors. The room has soft, luxurious textures and a serene atmosphere, cinematic, high detail --ar 1:1 --style raw`
+*   **텍스트:** "스탠바이미, 비싸서 망설였던 당신에게!"
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    `A minimalistic, luxurious living room. A stylish, high-end mobile TV (like LG StandbyMe) is prominently displayed, but with a transparent price tag showing "₩1,200,000+" in a bold, red font. A person with a slightly disappointed yet longing expression gazes at it. Soft, elegant lighting, shallow depth of field, cinematic, high resolution, --ar 1:1`
 
-### 3컷
-*   **텍스트:**
-    **👀 30만원대에 43인치 대화면? 위드라이프 구글 스마트 삼탠바이미**
-    **💰 30만원대!**
-    **✅ 핵심 기능:**
-    **📺 압도적인 43인치 대화면**
-    **📲 구글 안드로이드 OS (OTT, 앱 무제한)**
-    **🌍 이동식 스탠드 & 1등급 에너지 효율**
-    #위드라이프 #43인치TV #구글TV #안드로이드TV
-*   **Midjourney 프롬프트:**
-    `A vibrant scene of a family or friends gathered around a large 43-inch portable smart TV on a stand in a cozy living room. The TV screen clearly shows the Google TV interface with various app icons (Netflix, YouTube), and people are smiling, pointing, and engaged. The room is brightly lit, with comfortable seating and a warm, inviting ambiance, cinematic, high detail --ar 1:1 --style raw`
+**[2컷] - 압도적 가성비 솔루션 1 (대화면 + 스마트)**
 
-### 4컷
-*   **텍스트:**
-    **나에게 딱 맞는 삼탠바이미는?**
-    **고민은 NO! 지금 바로 비교하고 현명하게 구매하세요! ➡️**
-    **(20만원대 초가성비 모델도 확인!)**
-    #삼탠바이미추천 #스마트TV #가성비템 #쇼핑꿀팁 #내돈내산
-*   **Midjourney 프롬프트:**
-    `A dynamic infographic-style comparison of two different portable smart TVs. One side features a sleek white 32-inch TV highlighting "Wireless QLED" and "Premium," the other side features a dark grey 43-inch TV emphasizing "Large Screen" and "Google OS." Animated feature icons float around each TV, leading to a prominent "Shop Now" button at the bottom. The background is clean, modern, and tech-inspired with subtle geometric patterns, vibrant colors, studio lighting --ar 1:1 --style raw`
+*   **텍스트:** "43인치 대화면 + 구글TV가 30만원대?! 🤯 위드라이프 삼탠바이미!"
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    `A vibrant, cozy bedroom with a large 43-inch smart TV (resembling WithLife's SamtanbyMe) on a sleek, mobile stand. The screen displays a colorful streaming service interface (like Netflix or YouTube). A person is happily watching from bed, looking surprised and pleased. Modern, bright interior, warm inviting light, cinematic, high resolution, --ar 1:1`
+
+**[3컷] - 초가성비 입문템 솔루션 (저렴한 가격 + 이동성)**
+
+*   **텍스트:** "더 놀랍다! 20만원대 초가성비 입문템 📺 티비아울렛 삼탠바이미"
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    `A brightly lit, minimalist kitchen with a compact, modern smart TV (resembling TV Outlet's SamtanbyMe) on a mobile stand. A person is cheerfully preparing food, casually glancing at the TV which shows a cooking show. Clean, fresh aesthetic, natural light, --ar 1:1`
+
+**[4컷] - 브랜드 & 다기능 옵션 + 강력한 CTA**
+
+*   **텍스트:** "믿을 수 있는 LG 브랜드도 OK! (스마트 모니터 겸용) 지금 바로 확인하세요! 🚀"
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    `A sophisticated, modern home office space with a 32-inch LG smart monitor on an elegant mobile stand. The screen shows a split-screen view: one side with a creative design software, the other with a game. A person is sitting at a desk, looking engaged. Clean lines, professional yet cozy atmosphere, --ar 1:1`
