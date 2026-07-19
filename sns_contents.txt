@@ -1,55 +1,74 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
-
-**(음악: 경쾌하고 빠른 템포의 BGM)**
-
-**0-3초 (훅! 시선 강탈)**
-*   **영상:** 고급스러운 스탠바이미가 화면에 잡히지만, 바로 위에 '💰70만원 이상?!' 같은 충격적인 가격표가 스쳐 지나간다. 또는 인물이 깜짝 놀라며 뒤로 넘어지는 코믹한 제스처.
-*   **대사:** "스탠바이미? 갖고 싶어서 검색했다가... 가격보고 기절할 뻔 했다고요?! 🚨"
-
-**3-8초 (문제 제기 & 솔루션 도입)**
-*   **영상:** MD 복장을 한 인물이 자신감 있게 나타나 고개를 끄덕이며 엄지 척!
-*   **대사:** "하지만 걱정 마세요! 10년차 MD가 찾아낸 '스탠바이미 가성비' 끝판왕 두 가지!"
-
-**8-12초 (상품 1 강조)**
-*   **영상:** '와이드뷰 40인치 QLED 삼탠바이미' 상품 이미지 또는 연상되는 고화질 화면 (영화, 드라마)이 다양한 공간(침실, 거실)에서 활용되는 장면. '40인치', 'QLED', '30만원대' 텍스트 강조.
-*   **대사:** "첫째! 40인치 QLED 대화면에 30만원대! 와이드뷰 삼탠바이미로 몰입감 폭발!"
-
-**12-15초 (상품 2 강조 & CTA)**
-*   **영상:** '티비아울렛 구글TV 삼탠바이미' 상품 이미지 또는 구글TV 인터페이스(넷플릭스, 유튜브 아이콘)가 보이는 장면. '20만원대', '구글TV' 텍스트 강조. 마지막에 댓글/프로필 링크를 가리키는 손 제스처.
-*   **대사:** "둘째! 20만원대 구글TV! 티비아울렛 삼탠바이미로 스마트 라이프 시작! 더 자세한 정보는 댓글과 프로필 링크 확인!"
+## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[영상 컨셉]**
+스탠바이미의 높은 가격에 좌절한 사람들에게 30만원대 '삼탠바이미'라는 혁신적인 가성비 대안을 제시하며, 제품별 핵심 장점을 빠르고 경쾌하게 전달. 시각적으로 '놀라움'과 '만족감'을 극대화.
 
-### 1컷
-*   **들어갈 텍스트:**
-    스탠바이미 갖고싶은데… 비싸서 포기했어요? 😫
-*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
-    `A dreamy, high-end minimalist interior with a sleek, modern, white, movable smart TV (similar to LG StandbyMe) in the center. The TV screen displays a captivating movie scene. Above the TV, a transparent, slightly blurred thought bubble contains a large, red dollar sign ($) or a confused emoji, representing high cost. Elegant, soft lighting, aspirational mood. --ar 1:1 --style raw --v 5.2`
+**[영상 구성]**
 
-### 2컷
-*   **들어갈 텍스트:**
-    10년차 MD가 찾아낸
-    '스탠바이미 가성비' 대안 BEST 2!
-*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
-    `A professional female E-commerce MD (in her 30s-40s) with a keen, observant expression, wearing smart casual attire. She holds a magnifying glass, looking intently at two glowing, futuristic-looking smart TV silhouettes on sleek, minimalist stands. The background is a modern, clean office or tech showroom, with digital data flowing subtly. Confident, expert vibe, vibrant and engaging. --ar 1:1 --style raw --v 5.2`
+*   **배경 음악:** 밝고 통통 튀는 트렌디한 BGM
+*   **사운드 이펙트:** 뿅! (등장), 띠링! (핵심 강조), 와우! (감탄사)
 
-### 3컷
-*   **들어갈 텍스트:**
-    ✅ 40인치 QLED 대화면!
-    ✨ 와이드뷰 삼탠바이미 (30만원대!)
-    (몰입감 폭발! 어디든 옮겨 다니며 즐겨요!)
-*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
-    `A cozy, modern living room at dusk. A large, sleek 40-inch QLED smart TV on a stylish, minimalist movable stand is the focal point. The TV screen displays an incredibly vibrant, high-resolution cinematic landscape (e.g., a stunning sunset over mountains or a deep space scene), emphasizing the QLED quality and large screen size. Warm, inviting ambiance, soft ambient lighting. --ar 1:1 --style raw --v 5.2`
+---
 
-### 4컷
-*   **들어갈 텍스트:**
-    ✅ 20만원대 구글TV!
-    💰 티비아울렛 삼탠바이미 (가성비 끝판왕!)
-    (스마트 라이프, 이젠 내 손안에!)
-    _더 자세한 정보는 프로필 링크 확인!_
-*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
-    `A bright, minimalist bedroom or kitchen counter. A compact, modern smart TV on a simple, elegant movable stand is visible. The TV screen clearly displays the Google TV interface, with recognizable app icons like Netflix, YouTube, and a search bar, highlighting its smart capabilities. A person (gender-neutral, from behind or side) is casually using the TV. Clean, functional, and inviting atmosphere. --ar 1:1 --style raw --v 5.2`
+**[스크립트]**
+
+**1. 훅 (0-3초)**
+*   **화면:** (어두운 방, 슬픈 표정의 주인공이 비싼 LG 스탠바이미 광고를 보며 한숨)
+    *   **텍스트 오버레이:** 💥스탠바이미.. 비싸서 포기했니?
+*   **내레이션:** "스탠바이미! 비싸서 포기했어?"
+*   **화면 전환:** (눈이 휘둥그레지는 표정! 뿅! 하는 효과음과 함께 '삼탠바이미' 이미지/영상 등장, 배경 밝아짐)
+    *   **텍스트 오버레이:** ✨ 잠깐! 30만원대 '이것'만 알면 돼!
+*   **내레이션:** "잠깐! 30만원대 '이것'만 알면 돼!"
+
+**2. 본문 (3-12초)**
+*   **화면:** (위드라이프 43인치 삼탠바이미가 침실, 주방 등 다양한 공간에 놓여있는 모습 빠르게 전환)
+    *   **텍스트 오버레이:** #위드라이프 📺 43인치 대화면 구글TV 30만원대!
+*   **내레이션:** "43인치 대화면 구글TV가 30만원대? 위드라이프 삼탠바이미!"
+*   **화면:** (와이드뷰 QLED 삼탠바이미의 선명한 화면 확대 클로즈업, 넷플릭스 영화 화면)
+    *   **텍스트 오버레이:** #와이드뷰 🎨 QLED 화질 끝판왕! 선명함까지!
+*   **내레이션:** "화질에 진심이라면? QLED 와이드뷰 삼탠바이미로 넷플릭스가 더 선명해져!"
+*   **화면:** (두 제품이 나란히 놓여있거나, 이동하며 활용하는 모습)
+    *   **텍스트 오버레이:** 🚀 이동식 스마트TV로 어디든 자유롭게!
+
+**3. 클로징 & CTA (12-15초)**
+*   **화면:** (두 제품 이미지/영상이 번갈아 나타나며 비교, 최종적으로 '자세히 보기' 버튼 강조)
+    *   **텍스트 오버레이:** 👇지금 바로 확인! (댓글 링크 클릭!)
+*   **내레이션:** "내 방, 거실, 어디든 영화관으로! 가성비 끝판왕 삼탠바이미, 더 궁금하면 댓글 링크 클릭!"
+*   **화면:** (화면 하단에 해시태그)
+    *   **해시태그:** #스탠바이미가성비 #삼탠바이미 #이동식TV #스마트TV추천
+
+---
+
+## 📸 인스타그램 카드뉴스 (4컷)
+
+---
+
+### **[1컷]**
+*   **텍스트:** 💥 스탠바이미 사고 싶지만... 가격이 부담스러웠다면?
+*   **Midjourney 프롬프트:** `A person looking wistfully at an expensive, sleek, modern portable TV (like LG StandbyMe) in a high-end minimalist living room. The TV is slightly out of focus, emphasizing its aspirational but distant feel. The person has a slight frown of concern. Soft, warm studio lighting, elegant, cinematic, high detail, --ar 1:1`
+
+---
+
+### **[2컷]**
+*   **텍스트:** 이제 30만원대로 '나만의 삼탠바이미'를 만드세요!
+*   **Midjourney 프롬프트:** `A vibrant, modern living space with a stylish, mobile smart TV (Samtanbyme) on a sleek stand. A happy, relaxed person is casually interacting with the TV, smiling. The screen shows colorful streaming app icons. Affordable, accessible technology, bright, clean aesthetic, high detail, studio lighting, --ar 1:1`
+
+---
+
+### **[3컷]**
+*   **텍스트:** 📺 43인치 대화면 구글TV가 30만원대! (위드라이프)
+    *   **서브텍스트:** #대화면 #스마트기능 #에너지1등급 다 잡았다!
+*   **Midjourney 프롬프트:** `Cozy bedroom scene at night. A person is comfortably in bed, engrossed in a movie on a large (43-inch) smart TV on a mobile stand next to the bed. The TV screen clearly shows a vibrant Google TV interface with Netflix playing. Warm, inviting lighting, cinematic, comfortable, immersive experience, high detail, --ar 1:1`
+
+---
+
+### **[4컷]**
+*   **텍스트:** 🎨 QLED 화질 끝판왕은? (와이드뷰)
+    *   **서브텍스트:** #선명한화질 #세련된디자인 #이동성까지 완벽!
+*   **Midjourney 프롬프트:** `A bright, contemporary kitchen with a person cooking or preparing food. A sleek QLED smart TV on a mobile stand is positioned perfectly, displaying incredibly vivid and clear nature documentary footage. The colors on the screen are exceptionally bright and detailed. Modern, clean design, high color fidelity, studio lighting, --ar 1:1`
+
+---
