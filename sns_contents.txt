@@ -1,74 +1,80 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발! 15초 숏폼 스크립트 & 인스타그램 카드뉴스
-
----
+## 도파민 폭발! 15초 숏폼 스크립트 & 인스타그램 카드뉴스 기획
 
 ### 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**[시선을 강탈하는 훅 포함]**
-
-**영상 컨셉:** 빠르고 경쾌한 전환과 흥미로운 자막, 제품 실제 사용 모습 강조.
-
-*   **0-3초 (훅):**
-    *   **화면:** (LG 스탠바이미 비싼 가격표 클로즈업 후 빠르게 X 표시) -> (가성비 삼탠바이미 등장, 밝고 경쾌한 효과음)
-    *   **대사:** "스탠바이미? 비싸서 포기했죠? 놉! 이걸로 끝내세요!"
-    *   **자막:** #스탠바이미가성비 #드디어찾았다
-
-*   **3-7초:**
-    *   **화면:** 이노스 32인치 삼탠바이미 (침실, 주방 등 다양한 공간에서 이동하며 사용)
-    *   **대사:** "32인치 스탠다드! 이노스 32인치, 20만원대로 감성 그대로!"
-    *   **자막:** 29만9천원! / 무빙 거치대 일체형!
-
-*   **7-11초:**
-    *   **화면:** 위드라이프 43인치 삼탠바이미 (화면 분할: 넷플릭스, 유튜브 등 구글TV 기능 강조)
-    *   **대사:** "5만원 더 내면 43인치 대화면? 심지어 구글TV!"
-    *   **자막:** 34만9천원! / 압도적 몰입감!
-
-*   **11-14초:**
-    *   **화면:** (세 제품이 한 화면에 비교되는 인포그래픽/사진) -> (최저가 티비아울렛 강조)
-    *   **대사:** "20만원대 극강 가성비 모델까지! 당신의 선택은?"
-    *   **자막:** 최저가 28만5천원!
-
-*   **14-15초 (클로징):**
-    *   **화면:** (모든 제품이 멋지게 모여있는 화면) -> (프로필 링크 강조)
-    *   **대사:** "지금 바로 프로필 링크 확인하세요!"
-    *   **자막:** #삼탠바이미 #가성비TV #이동식스마트TV #구글TV
+**[영상 컨셉]** 빠르고 경쾌한 배경음악, 각 제품 등장 시 빠르게 전환되는 화면, 텍스트 오버레이 활용.
 
 ---
 
-### 2. 인스타그램 카드뉴스 (4컷)
+**[0-3초] 훅 (Hook)**
+*   **화면:** 슬픈 표정으로 LG 스탠바이미 가격표를 보는 사람 -> 갑자기 눈이 휘둥그레해지는 표정.
+*   **대사:** "스탠바이미 갖고 싶은데... 가격 보고 기절했다고요? 😵" (빠른 속도로) "걱정 마세요! 찐 가성비 삼탠바이미 딱 두 개!"
 
-**[각 컷별 텍스트 및 Midjourney 스타일 영문 프롬프트]**
+**[3-8초] 위드라이프 43인치**
+*   **화면:** 침대에 누워 43인치 TV로 넷플릭스를 몰입감 있게 보는 장면 (고급스러운 분위기)
+*   **대사:** "43인치 대화면? 미쳤다! 위드라이프 삼탠바이미! 구글TV로 넷플릭스, 유튜브 다 돼! 😮"
+*   **텍스트 오버레이:** "위드라이프 43인치 구글 삼탠바이미" / "349,000원! 💸" / "압도적 43인치 & 구글TV!"
 
-**1. 컷 (인트로): 스탠바이미의 로망과 현실, 그리고 해결책 제시**
+**[8-13초] 이노스 32인치**
+*   **화면:** 주방에서 요리하며 32인치 TV로 레시피를 보거나, 방에서 간단히 영상 보는 장면
+*   **대사:** "어머! 20만원대 실화? 이노스 32인치 삼탠바이미! 방, 주방 어디든 찰떡! 보조 TV 끝판왕! ✨"
+*   **텍스트 오버레이:** "이노스 32인치 FHD 삼탠바이미" / "299,000원! 💰" / "20만원대 & 이동식!"
 
-*   **카드 텍스트:**
-    *   **메인:** 스탠바이미? 이제 망설이지 마세요!
-    *   **서브:** [가성비 삼탠바이미] TOP 3 전격 비교! 당신의 로망을 현실로!
-*   **이미지 프롬프트 (Midjourney):**
-    `A stylish, modern minimalist living room. A young woman looks wistfully at an LG StandbyME TV in an advertisement on her tablet, then her eyes light up with surprise and joy as she sees a sleek, affordable alternative (a "SamtanbyME" style TV on a mobile stand, slightly blurred but elegant) in the corner. Warm, inviting light. Cinematic, soft focus, aspirational. --ar 4:5 --v 5.2`
+**[13-15초] 마무리 & CTA**
+*   **화면:** 두 제품이 나란히 놓여있고, 화면에 돋보이는 가격이 빠르게 번갈아 보임.
+*   **대사:** "스탠바이미, 이젠 가성비로 즐기세요! 더 자세한 정보는 댓글 링크 확인! ➡️"
+*   **텍스트 오버레이:** "지금 바로 쿠팡에서 검색!" / "#삼탠바이미 #가성비스탠바이미"
 
-**2. 컷 (상품 1): 이노스 FHD 삼탠바이미 스마트 TV (32인치)**
+---
 
-*   **카드 텍스트:**
-    *   **메인:** 이노스 32인치: 스탠바이미 감성 그대로!
-    *   **서브:** ✨20만원대! FHD & 무빙 거치대 일체형!✨
-*   **이미지 프롬프트 (Midjourney):**
-    `A modern 32-inch smart TV on a minimalist, mobile stand, positioned in a cozy, sunlit bedroom. The TV screen displays a vibrant, high-definition movie scene. The room has soft textures, light colors, and natural light. Elegant, clean, inviting, focus on the TV and its mobility. --ar 4:5 --v 5.2`
+### 2. 인스타그램 카드뉴스 4컷
 
-**3. 컷 (상품 2): 위드라이프 구글 스마트TV 삼탠바이미 세트 (43인치)**
+**[공통 디자인 요소]** 미니멀하고 깔끔한 디자인, 제품 사진과 함께 주요 장점 텍스트 강조.
 
-*   **카드 텍스트:**
-    *   **메인:** 위드라이프 43인치: 5만원 더 내고 대화면+구글TV!
-    *   **서브:** 📺압도적 몰입감, 스마트한 경험!📺
-*   **이미지 프롬프트 (Midjourney):**
-    `A spacious, contemporary living room with a large 43-inch smart TV on a sleek, mobile stand. The TV screen clearly shows the Google TV interface with various streaming app icons (Netflix, YouTube, etc.). A couple is comfortably seated on a sofa, looking engaged. Bright, modern, interactive, emphasis on large screen and smart features. --ar 4:5 --v 5.2`
+---
 
-**4. 컷 (결론/CTA): 세 제품 요약 및 구매 유도**
+**카드뉴스 1컷**
 
-*   **카드 텍스트:**
-    *   **메인:** 당신의 '스탠바이미 가성비'는?
-    *   **서브:** 최저가 20만원대 모델까지! 지금 바로 프로필 링크 클릭!
-*   **이미지 프rompt (Midjourney):**
-    `A stylish collage or grid featuring three different mobile smart TVs (Innos 32-inch, Withlife 43-inch, and a third similar budget model) displayed in distinct, attractive home settings (bedroom, living room, kitchen). Each TV has a subtle, visually integrated price tag. A prominent, elegant arrow points towards a "Link in Bio" button at the bottom. Clean, informative, inviting, aspirational. --ar 4:5 --v 5.2`
+*   **들어갈 텍스트:**
+    **[Headline]** "스탠바이미? ✋ 비싸서 망설였다면?"
+    **[Body]** "이제 '삼탠바이미'로 가성비와 편리함 모두 잡으세요!"
+*   **배경 이미지 생성 Midjourney 스타일 영문 프롬프트:**
+    `A minimalistic, clean living room with soft natural light, featuring a subtle blurred background of a modern portable smart TV stand. The focus is on a question mark made of glowing light. Aesthetic, high-definition, soft pastel colors, cinematic lighting. --ar 1:1 --v 5.2`
+
+---
+
+**카드뉴스 2컷**
+
+*   **들어갈 텍스트:**
+    **[Headline]** "압도적 43인치! 위드라이프 구글 삼탠바이미"
+    **[Body]** "✅ 349,000원! 이 가격에 43인치 대화면? (감탄사) \
+    ✅ 구글/안드로이드TV 탑재로 넷플릭스, 유튜브 완벽 호환! \
+    ✅ 이동식 거치대 포함 올인원! 나만의 스마트 극장 탄생!"
+*   **배경 이미지 생성 Midjourney 스타일 영문 프롬프트:**
+    `A cozy, modern bedroom with a large window, a person comfortably lounging on a bed, watching a movie on a stylish, black 43-inch portable smart TV on a stand. The screen shows vibrant movie scene. Soft warm lighting, cinematic, comfortable atmosphere, ultra realistic. --ar 1:1 --v 5.2`
+
+---
+
+**카드뉴스 3컷**
+
+*   **들어갈 텍스트:**
+    **[Headline]** "20만원대 실화? 이노스 32인치 FHD 삼탠바이미"
+    **[Body]** "✅ 299,000원! 부담 없는 가격으로 만나는 스마트 TV! \
+    ✅ 방, 주방 어디든 OK! 서브 TV or 원룸 메인 TV로 딱! \
+    ✅ 번거로움 없는 올인원 패키지, 깔끔한 공간 활용!"
+*   **배경 이미지 생성 Midjourney 스타일 영문 프롬프트:**
+    `A bright, minimalist kitchen counter with a person preparing food. A sleek, white 32-inch portable smart TV on a stand is displaying a recipe video. Clean lines, modern design, natural daylight, fresh colors, product photography style. --ar 1:1 --v 5.2`
+
+---
+
+**카드뉴스 4컷**
+
+*   **들어갈 텍스트:**
+    **[Headline]** "당신의 스마트 라이프를 업그레이드할 시간!"
+    **[Body]** "고가의 스탠바이미 대신 합리적인 삼탠바이미로\
+    자유로운 콘텐츠 감상을 시작하세요! 🌟"
+    **[CTA]** "지금 바로 프로필 링크 클릭! 👆"
+*   **배경 이미지 생성 Midjourney 스타일 영문 프롬프트:**
+    `A dynamic collage of various small screens floating in a modern, abstract space. Each screen displays different content: movies, cooking videos, fitness tutorials, and social media. The background is a vibrant gradient of tech-inspired colors. Futuristic, energetic, digital art, high contrast. --ar 1:1 --v 5.2`
