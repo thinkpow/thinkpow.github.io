@@ -1,77 +1,62 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**콘셉트:** LG 스탠바이미의 비싼 가격에 좌절한 순간, 반전처럼 나타나는 가성비 '삼탠바이미'의 매력을 다이나믹하게 보여주며 구매 욕구를 자극!
+**(영상 시작: 🛋️ 예쁜 방에 놓인 스탠바이미 비스무리한 TV가 화면에 비치지만, 곧 좌절하는 표정의 인물이 나타난다)**
 
----
+**[0-3초 훅]**
+**인물 (좌절하며):** "스탠바이미 갖고 싶어서 울었어? 😭 근데 가격 보고 두 번 울었지?"
+**(화면 전환: 갑자기 밝고 신나는 BGM으로 바뀌며, 반짝이는 가성비 삼탠바이미들이 등장!)**
 
-**[영상 시퀀스]**
+**[3-8초]**
+**인물 (눈 반짝이며):** "이제 울지 마! 20만원대부터 디자인까지 완벽한 '가성비 삼탠바이미' 찾았다!"
+**(화면 전환: '와이드뷰 40인치 QLED 삼탠바이미' 등장, 깔끔한 화이트 디자인 강조)**
+**인물 (생기발랄하게):** "봐봐, 이 화이트 디자인에 QLED 선명함까지! LG 스탠바이미 감성, 그대로 가져왔는데 30만원대!"
 
-**(0-3초) 훅: 스탠바이미 갖고 싶어서 검색하다가 가격 보고 심쿵?!**
-*   **화면:** (빠른 템포) 고급스러운 LG 스탠바이미 이미지 → 바로 옆에 '120만원?!' 커다란 빨간색 자막과 함께 '심쿵' 이모티콘 → 이어서 '그만해!' 자막과 X 표시.
-*   **내레이션 (신나는 목소리):** "LG 스탠바이미? 딱! 내 스타일인데... 가격 보고 심장이 멈칫했다면?! 잠시만요!"
+**[8-13초]**
+**(화면 전환: '티비아울렛 스마트 구글 삼탠바이미' 등장, 가격표가 깜짝 등장하듯 강조)**
+**인물 (놀란 표정):** "그리고 이건… 뭐?! 20만원대라고? 심지어 구글 TV OS로 넷플릭스, 유튜브 다 된다고?"
 
-**(3-7초) 문제 제기 및 해결: 삼탠바이미 등장!**
-*   **화면:** '여기 가성비 끝판왕이 있다?!' 자막과 함께, 30만원대 '삼탠바이미' 제품이 침실, 주방, 거실 등 다양한 공간에 스르륵 나타나는 연출 (빠르게 전환).
-*   **내레이션:** "100만원대 스탠바이미? 이제 그만! 반의반 가격으로 즐기는 이동식 스마트 TV, '삼탠바이미' 아세요?!"
-
-**(7-12초) 메인 상품 2개 특징 어필**
-*   **화면:** 위드라이프 43인치 구글 삼탠바이미 제품 클로즈업 + 핵심 자막 ("43인치 대화면! 30만원대 구글TV!") → 와이드뷰 QLED 삼탠바이미 V3 제품 클로즈업 + 핵심 자막 ("QLED 미친 화질! 어디든 OK!").
-*   **내레이션:** "첫 번째! 43인치 대화면에 구글TV까지! 30만원대 위드라이프! 두 번째! 화질까지 포기 못 한다면? QLED 와이드뷰가 정답!"
-
-**(12-15초) 마무리 및 CTA**
-*   **화면:** 세 가지 제품(위드라이프, 와이드뷰, 티비아울렛)이 나란히 놓여있고, '최저가 20만원대도 있다?!' 자막 → 프로필 링크 강조 화면.
-*   **내레이션:** "최저가 20만원대 삼탠바이미까지! 지금 바로 프로필 링크에서 확인하세요! 놓치면 후회 각!"
+**[13-15초]**
+**인물 (신나서 손가락으로 가리키며):** "당장 내 방으로 데려와! 🎬 자세한 정보는 댓글, 또는 프로필 링크 확인!"
+**(영상 종료: 뿅! 하는 효과음과 함께 제품 이미지와 "링크 클릭!" 문구 등장)**
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 4컷
 
----
+### **카드뉴스 1/4**
+*   **카드 텍스트:**
+    LG 스탠바이미, 너무 비싸서 망설여졌죠? 😭
+    가성비 끝판왕 삼탠바이미로
+    당신의 로망을 이뤄줄게요! ✨
+*   **미드저니 이미지 프롬프트 (Midjourney Prompt):**
+    A stylish, modern living room corner with a comfortable armchair and a sleek, white, generic brand movable smart TV stand (similar to LG StandbyMe). The TV screen is glowing with vibrant colors from a streaming movie. Soft, warm sunlight streams through a large window. The overall atmosphere is cozy, aspirational, and slightly luxurious but achievable. Cinematic lighting, photorealistic. --ar 1:1 --v 6.0
 
-### **🖼️ 컷 1**
-*   **텍스트:**
-    **LG 스탠바이미 비켜! ✨**
-    **100만원대 대신 30만원대 '삼탠바이미' 등장!**
-    (고민은 이제 그만, 당신의 스마트 라이프를 바꿀 가성비 끝판왕!)
+### **카드뉴스 2/4**
+*   **카드 텍스트:**
+    **✨ 와이드뷰 40인치 QLED 삼탠바이미 ✨**
+    - 화이트 디자인 + QLED! 스탠바이미 감성 그대로!
+    - 40인치 FHD, 원룸/침실 최적화
+    - 스마트TV 기능 & 이동형 스탠드 기본
+    *(가격: 379,050원)*
+*   **미드저니 이미지 프롬프트 (Midjourney Prompt):**
+    A close-up shot of a sleek white 40-inch QLED smart TV on a minimalist, modern movable stand. The screen displays a high-quality, vibrant nature documentary with rich colors and deep blacks. The TV is positioned in a chic, light-filled bedroom or studio apartment with minimalist decor. Focus on the crisp display and elegant design. Photorealistic, high detail. --ar 1:1 --v 6.0
 
-*   **Midjourney 프롬프트:**
-    A sleek, modern living space with a large, high-end portable smart TV (LG StandbyMe style) on the left, displaying a price tag of "1,200,000 KRW". On the right, a vibrant, slightly smaller, equally stylish portable smart TV (SamtanbyMe style) with a price tag of "349,000 KRW" glowing with a halo effect. The background is a soft, inviting home interior. Focus on contrast and value. --ar 1:1 --v 5.2
+### **카드뉴스 3/4**
+*   **카드 텍스트:**
+    **💸 티비아울렛 스마트 구글 삼탠바이미 💸**
+    - 💥 **20만원대 파격적인 가격!**
+    - 구글 TV OS로 넷플릭스/유튜브 풀 지원!
+    - TV + 이동형 스탠드 올인원 구성
+    *(가격: 285,000원)*
+*   **미드저니 이미지 프롬프트 (Midjourney Prompt):**
+    A dynamic, eye-level shot of a smart TV on an adjustable movable stand. The screen prominently displays the Google TV interface with large, colorful Netflix, YouTube, and Disney+ app icons. The image emphasizes the affordability and smart functionality. In the background, blurred, a young person is casually relaxing on a sofa, happily watching the screen. Modern, vibrant, and accessible feel. Photorealistic. --ar 1:1 --v 6.0
 
----
-
-### **🖼️ 컷 2**
-*   **텍스트:**
-    **[압도적 가성비 끝판왕]**
-    **위드라이프 43인치 구글 삼탠바이미**
-    ✔️ 43인치 대화면 + 구글TV + 이동식 스탠드 = 30만원대?!
-    (침실, 주방, 거실 어디든 나만의 영화관 완성!)
-
-*   **Midjourney 프롬프트:**
-    A cozy, modern bedroom, a person comfortably lounging on the bed, watching a 43-inch smart TV on a sleek, minimalist portable stand next to the bed. The TV screen shows a vibrant Netflix movie. Soft, warm ambient lighting. Focus on comfort, large screen, and easy portability. --ar 1:1 --v 5.2
-
----
-
-### **🖼️ 컷 3**
-*   **텍스트:**
-    **[화질까지 놓칠 수 없다면]**
-    **와이드뷰 QLED 삼탠바이미 V3**
-    ✔️ QLED 생생한 화질 + 40인치 FHD + 안정적인 무빙 스탠드
-    (가성비에 고화질까지 잡는 스마트한 선택!)
-
-*   **Midjourney 프롬프트:**
-    A chic, brightly lit open-plan living room with a 40-inch QLED smart TV on a stylish, stable portable stand. The TV screen displays a breathtakingly vivid QLED landscape image with rich, vibrant colors. Elegant interior design, large windows, focus on stunning picture quality and modern aesthetic. --ar 1:1 --v 5.2
-
----
-
-### **🖼️ 컷 4**
-*   **텍스트:**
-    **🎁 더 저렴한 최저가 삼탠바이미도 있어요!**
-    **지금 바로 프로필 링크에서 비교하고 현명하게 구매하세요!**
-    (✨ 돈 낭비 없이 스마트한 라이프 업그레이드!)
-
-*   **Midjourney 프롬프트:**
-    Three different models of sleek, portable smart TVs on stands, artfully arranged on a clean, light background. One TV stands out with a small "Best Price" tag or glowing aura. A subtle magnifying glass icon and a shopping cart icon are floating nearby. Modern, clean, and inviting design with a clear call to action. --ar 1:1 --v 5.2
-
----
+### **카드뉴스 4/4**
+*   **카드 텍스트:**
+    더 이상 고민 NO! 🙅‍♀️
+    당신의 라이프스타일에 딱 맞는 삼탠바이미는? ☝️
+    지금 바로 프로필 링크에서 자세한 리뷰를 확인하세요!
+*   **미드저니 이미지 프롬프트 (Midjourney Prompt):**
+    An energetic, abstract representation of choice and smart entertainment. Multiple glowing, colorful paths converge towards a central, bright smart TV icon or a "play" button. Around it, subtle minimalist outlines of modern home elements (sofa, plant) suggest a cozy environment. A hand with a finger pointing upwards, indicating a call to action. Sleek, digital art style with vibrant colors and subtle gradients, conveying excitement and decision. --ar 1:1 --v 6.0
