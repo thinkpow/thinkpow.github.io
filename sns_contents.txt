@@ -1,88 +1,92 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발!)
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**콘셉트:** LG 스탠바이미의 높은 가격에 좌절했던 시청자들에게 '삼탠바이미'라는 가성비 대안을 속도감 있게 제시하며, 핵심 장점을 임팩트 있게 전달.
+**콘텐츠 제목**: 💥 스탠바이미 100만원? 노놉! 20만원대 가성비 '삼탠바이미' 대공개!
 
----
+**(시작: 0초 ~ 3초 - 시선을 빼앗는 훅)**
+*   **[장면]**: 한 여성이 스마트폰으로 LG 스탠바이미 가격을 검색하다가 깜짝 놀라며 좌절하는 표정. (화면에는 100만원 이상 가격표 강조)
+*   **[자막]**: 스탠바이미 100만원? 😨
+*   **[대사]**: "아.. 스탠바이미 너무 갖고 싶은데.. 가격이 후덜덜했죠?" (빠르고 공감대 형성 톤)
+*   **[효과음]**: 띠용! (경쾌한 소리)
 
-**[영상 시작: 0-3초] 시선을 빼앗는 훅 (Hook)**
+**(중간: 3초 ~ 12초 - 문제 해결 & 핵심 상품 소개)**
+*   **[장면]**: 좌절했던 여성이 갑자기 눈을 반짝이며 화면 밖을 응시. (화면 전환: 거실, 침실, 주방에서 자유롭게 이동하며 스마트TV를 사용하는 사람들의 모습 빠르게 교차)
+*   **[자막]**: 놉! 이젠 20만원대 '삼탠바이미'로!
+*   **[대사]**: "놉! 🙅‍♀️ 이젠 노놉! 😲 20만원대 '가성비 삼탠바이미'가 있잖아요!" (더 빠르고 신나는 톤)
+*   **[장면]**: 이노스 32인치 삼탠바이미 제품이 깔끔한 원룸 침실에 놓여있는 모습 (제품명, 가격 자막 강조)
+*   **[자막]**: #이노스32인치 #29만원대 #원룸필수템
+*   **[대사]**: "첫 번째! ✨ 이노스 32인치! 20만원대 후반! 원룸, 침실에 딱이야!" (명확하고 자신감 있는 톤)
+*   **[장면]**: 위드라이프 43인치 구글 삼탠바이미 제품이 넓은 거실에서 가족이 시청하는 모습 (제품명, 가격, 구글TV 강조 자막)
+*   **[자막]**: #위드라이프43인치 #34만원대 #구글TV #메인TV
+*   **[대사]**: "아니면! 🤩 위드라이프 43인치 구글TV! 30만원대 중반! 구글 OS에 대화면으로 메인TV 쌉가능!" (더욱 흥분되고 강조하는 톤)
 
-*   **화면:** (빠른 템포의 경쾌한 BGM 시작)
-    *   [0-1초] LG 스탠바이미 비싼 가격표 (예: 100만원 이상) 클로즈업! (충격적인 가격에 눈 커지는 사람 이모지 or 표정)
-    *   [1-3초] 빠르게 전환되며 20만원대 '삼탠바이미' 제품 이미지와 가격표 등장! (놀란 표정 -> 안도하는 표정 전환)
-*   **대사:** "스탠바이미 비싸서 포기? 이젠 그럴 필요 없어! 😱"
-
-**[영상 전개: 3-12초] 문제 제기 & 해결책 제시 + 핵심 장점 어필**
-
-*   **화면:**
-    *   [3-6초] '삼탠바이미' 제품이 거실, 침실, 주방 등 다양한 공간으로 자유롭게 이동하며 사용되는 모습 빠르게 교차. (편리한 이동성 강조)
-    *   [6-9초] TV 화면에 넷플릭스, 유튜브 등 OTT 앱 로고와 UI가 역동적으로 펼쳐지는 모습. (스마트 기능 강조)
-    *   [9-12초] 32인치, 43인치 제품 비교 화면과 함께 "20만원대", "30만원대" 가격 강조. 에너지 효율 1등급 마크.
-*   **대사:**
-    *   "LG 스탠바이미 편리함, 똑같이 누리는데 가격은 반의 반값! 이게 바로 '삼탠바이미'!"
-    *   "20만원대부터 43인치 대화면까지! 구글TV로 넷플릭스, 유튜브는 기본! 📱📺"
-    *   "에너지 1등급으로 전기료 걱정도 끝!"
-
-**[영상 마무리: 12-15초] 강력한 Call to Action (CTA)**
-
-*   **화면:**
-    *   [12-15초] '위드라이프 32인치/43인치 삼탠바이미' 두 제품이 나란히 배치된 최종 화면.
-    *   화면에 검색 키워드 **'삼탠바이미 가성비'** 크게 표시.
-    *   "더 자세한 정보는 프로필 링크에서!" 문구 추가.
-*   **대사:** "어디든 나만의 극장 만들고 싶다면? '삼탠바이미 가성비' 지금 바로 검색해봐! 🚀"
-*   **BGM:** 최고조에 달했다가 자연스럽게 마무리.
+**(마무리: 12초 ~ 15초 - 행동 유도)**
+*   **[장면]**: 두 제품이 나란히 비교되는 인포그래픽 화면 + "지금 바로 확인!" 배너
+*   **[자막]**: 더 이상 고민 NO! 지금 바로 확인하세요!
+*   **[대사]**: "더 이상 비싼 스탠바이미 부러워 말고! 원하는 곳 어디든 스마트 무빙TV 겟! 지금 바로 확인해봐!" (끌어들이는 말투)
+*   **[효과음]**: 뿅! (마무리 효과음)
+*   **[배경음악]**: 밝고 통통 튀는 트렌디한 BGM (틱톡 인기 음원 활용)
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 4컷
 
-**콘셉트:** 스탠바이미의 로망과 삼탠바이미의 현실적인 대안을 시각적으로 명확하게 대비하며, 각 제품의 핵심 장점을 직관적으로 전달.
+**카드뉴스 전체 테마**: LG 스탠바이미 비싸? 👉 20만원대 '가성비 삼탠바이미'로 해결!
 
 ---
 
-### **[1컷] 후크 & 문제 제기/솔루션 인트로**
+### **[카드 1/4] - 훅 & 문제 제기**
 
-*   **들어갈 텍스트:**
-    *   LG 스탠바이미 비싸서 망설였다면? ✨
-    *   이젠 '삼탠바이미'로 가성비 끝판왕 찍자!
-    *   (넘겨서 확인)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+*   **들어갈 텍스트**:
+    *   **제목**: "스탠바이미 로망, 가격 때문에 포기했어? 😭"
+    *   **본문**: "100만원 넘는 LG 스탠바이미, 너무 비싸서 망설여졌다고요? 이제 NO! 🙅‍♀️ 20만원대 '삼탠바이미'로 당신의 무빙TV 로망이 현실이 됩니다!"
+*   **Midjourney 스타일 영문 프롬프트**:
     ```
-    A dynamic split image. On the left, a luxurious, high-end LG StandbyMe TV with a hefty price tag ($1000+), looking sophisticated but unattainable. On the right, a modern, sleek, and affordable "SamtanbyMe" portable smart TV with a much lower price tag ($200-$300), emitting an aura of smart value and accessibility. The two TVs are connected by a glowing line of 'affordability' or 'smart choice'. Vibrant, clean, minimalist design, high contrast. --ar 1:1 --v 5.2
-    ```
-
-### **[2컷] '삼탠바이미'의 핵심 장점 어필**
-
-*   **들어갈 텍스트:**
-    *   MD가 엄선한 삼탠바이미, 왜 대세일까? 🤔
-    *   ✅ 합리적인 가격: 부담 없이!
-    *   ✅ 스마트TV 기능: 넷플릭스, 유튜브는 기본!
-    *   ✅ 자유로운 이동성: 원하는 곳 어디든!
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    ```
-    An infographic-style image with three distinct, modern icons representing the key features of a portable smart TV: 1. A glowing dollar sign or coin stack for 'affordability'. 2. Streaming service logos (Netflix, YouTube) on a TV screen icon for 'smart TV functions'. 3. A wheel or arrow icon suggesting movement, with a TV on a stand rolling between various room settings (bedroom, kitchen, living room) in the background. Clean, geometric, vibrant colors against a soft, tech-inspired gradient background. --ar 1:1 --v 5.2
+    A cinematic, emotional shot of a young woman looking frustrated and disappointed while staring at a smart TV screen displaying a very high price tag (e.g., "$1200+"). In the background, a dream-like, blurred image of a sleek mobile TV is visible. The scene transitions with a vibrant, glowing "NO!" overlay, revealing a bright, hopeful vision of a person smiling brightly next to an affordable, modern mobile TV on wheels. Soft, optimistic lighting, minimalist interior design. --ar 1:1 --v 5.2
     ```
 
-### **[3컷] 추천 제품 1: 위드라이프 32인치 삼탠바이미**
+---
 
-*   **들어갈 텍스트:**
-    *   ⭐️ 20만원대 가성비! 위드라이프 32인치 삼탠바이미
-    *   내 방에 딱! 개인 공간 최적화 📺
-    *   구글TV + 에너지 1등급까지 완벽!
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+### **[카드 2/4] - 메인 추천 상품 1: 이노스 32인치 삼탠바이미**
+
+*   **들어갈 텍스트**:
+    *   **제목**: "✨ 압도적 가성비 입문템! 이노스 32인치 삼탠바이미 ✨"
+    *   **본문**: "✅ **29만원대**의 놀라운 가격! \
+        ✅ 원룸, 침실, 세컨드 TV로 **딱 좋은 32인치**! \
+        ✅ 스마트 기능 & 무빙 거치대 **완벽 지원**! \
+        👉 나만의 스마트 무빙TV, 이노스로 시작해봐!"
+*   **Midjourney 스타일 영문 프롬프트**:
     ```
-    A cozy, modern bedroom or a minimalist studio apartment corner. A 32-inch portable smart TV (SamtanbyMe style) on a movable stand is positioned perfectly for a person comfortably lounging on a bed or beanbag, watching a movie. The screen displays a colorful streaming interface. Soft, warm ambient lighting, hygge aesthetic. The overall mood is relaxed and inviting. --ar 1:1 --v 5.2
+    Product photography of a sleek, white 32-inch smart TV on a modern, minimalist mobile stand with wheels, placed in a cozy, hygge-style studio apartment bedroom. A person is comfortably watching a streaming service on the TV. Soft, warm ambient lighting from a window, plants in the background, clean lines. Focus on the TV and its portability in a small space. --ar 1:1 --v 5.2
     ```
 
-### **[4컷] 추천 제품 2: 위드라이프 43인치 삼탠바이미 & CTA**
+---
 
-*   **들어갈 텍스트:**
-    *   🎬 대화면도 포기 못 해? 위드라이프 43인치!
-    *   30만원대로 즐기는 극장급 몰입감!
-    *   거실 보조 TV로도 손색 없어!
-    *   지금 바로 프로필 링크에서 확인! 👇
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+### **[카드 3/4] - 메인 추천 상품 2: 위드라이프 43인치 구글 삼탠바이미**
+
+*   **들어갈 텍스트**:
+    *   **제목**: "🚀 대화면+구글TV OS! 위드라이프 43인치 삼탠바이미 🚀"
+    *   **본문**: "✅ **34만원대**에 만나는 **43인치 대화면**! \
+        ✅ 빠르고 직관적인 **구글 TV OS 탑재**! \
+        ✅ 에너지 효율 **1등급**으로 전기료 걱정 끝! \
+        👉 메인 TV로도 손색없는 스마트 라이프를 경험하세요!"
+*   **Midjourney 스타일 영문 프롬프트**:
     ```
-    A modern, stylish living room at dusk or night. A 43-inch portable smart TV (SamtanbyMe style) on a stand is prominently displayed, showcasing a breathtaking cinematic scene with vibrant colors and rich contrast. A comfy sofa, a few decorative plants, and subtle accent lighting create a perfect home theater ambiance. High-resolution, dramatic and moody lighting. --ar 1:1 --v 5.2
+    Product photography of a large, modern 43-inch smart TV on a stylish mobile stand with wheels, placed in a spacious, contemporary living room. A family (parents and a child) are comfortably gathered, enjoying a vibrant movie on the Google TV interface. Bright, natural lighting, elegant furniture, and a feeling of immersive entertainment. --ar 1:1 --v 5.2
+    ```
+
+---
+
+### **[카드 4/4] - 행동 유도 & 요약**
+
+*   **들어갈 텍스트**:
+    *   **제목**: "내 라이프스타일에 딱 맞는 '삼탠바이미'는? 🤔"
+    *   **본문**: "✔️ **최고 가성비 입문용**: 이노스 32인치\
+        ✔️ **대화면 & 스마트 끝판왕**: 위드라이프 43인치\
+        ✨ 비싼 스탠바이미 대신! 20만원대 '삼탠바이미'로 당신의 스마트한 무빙 라이프를 시작하세요! ✨"
+    *   **CTA**: "지금 바로 프로필 링크에서 확인하기! 🛒"
+*   **Midjourney 스타일 영문 프롬프트**:
+    ```
+    A vibrant, minimalist infographic design showcasing two mobile smart TVs (one 32-inch, one 43-inch) side-by-side with key features and price points highlighted. Below them, a stylized hand points towards a glowing "Shop Now" button or a URL link icon. The background is a clean, modern gradient with subtle geometric patterns. Bright, energetic color palette. --ar 1:1 --v 5.2
     ```
