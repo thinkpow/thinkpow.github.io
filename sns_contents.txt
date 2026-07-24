@@ -1,73 +1,65 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
-
-**제목:** 스탠바이미 비싸서 눈물? 😭 20만원대 '이거' 하나면 끝! #삼탠바이미 #가성비TV
+## 💥 도파민 폭발! 스탠바이미? NO! 갓성비 삼탠바이미 추천! (15초 쇼츠 스크립트)
 
 ---
+
+### **1. 유튜브 쇼츠/틱톡용 15초 분량 스크립트**
+
+**콘텐츠 제목:** 스탠바이미 비싸서 포기? 🙅‍♀️ 갓성비 삼탠바이미 20만원대부터!
 
 **[영상 구성 및 대사]**
 
-**0-3초 (훅! 시선강탈)**
-*   **화면:** 고급스러운 'LG 스탠바이미' 가격표 클로즈업 (50만원 이상) -> 가격표에 크게 X 표시 -> 실망한 표정의 사람
-*   **내레이션 (급박하고 밝게):** "스탠바이미 갖고 싶어서 통장 털뻔? 잠깐!"
+*   **0-3초 (훅):**
+    *   **화면:** (배경음악 갑자기 멈춤) 고급스러운 LG 스탠바이미가 화면에 나오고, 그 밑에 큰 글씨로 "100만원대...😱" 가격표가 뜬다. 좌절하는 표정의 모델.
+    *   **대사:** "스탠바이미... 비싸서 또 포기했어요? 🙅‍♀️ (단호하게 고개 젓기)"
+    *   **화면:** (빠르게 전환) 훨씬 저렴한 삼탠바이미가 등장하며 배경음악 다시 시작! "잠깐! 제가 '갓성비' 삼탠바이미 찾았어요! ✨"
 
-**3-7초 (문제 제기 및 솔루션 제시)**
-*   **화면:** 눈이 번쩍 뜨이며 미소 짓는 사람 -> 침실에서 이동식 스마트TV(삼탠바이미)로 영화 보는 모습 (행복한 표정)
-*   **내레이션:** "비싼 스탠바이미 대신 '이거' 하나면! 우리집이 스마트 영화관으로 변신!"
+*   **3-8초:**
+    *   **화면:** 위드라이프 32인치 삼탠바이미가 침대 옆에 놓여있고, 모델이 침대에 기대 편안하게 넷플릭스를 보는 모습.
+    *   **대사:** "첫 번째! 20만원대! 위드라이프 32인치! 구글TV에 넷플릭스, 유튜브 다~ 돼! 📺✨ 이건 무조건 사야 해!"
 
-**7-12초 (핵심 제품 소개 및 장점)**
-*   **화면:**
-    *   **첫 번째 컷 (2초):** [티비아울렛 삼탠바이미] 제품 이미지/영상 + 자막: "⭐20만원대 최강 가성비!" "구글TV 기본 탑재!"
-    *   **두 번째 컷 (2초):** [위드라이프 삼탠바이미] 제품 이미지/영상 + 자막: "✨43인치 대화면!" "1등급 에너지 효율!"
-*   **내레이션:** "20만원대 압도적 가성비! 구글 TV '티비아울렛 삼탠바이미'! / 더 큰 43인치 대화면 '위드라이프 삼탠바이미'까지!"
+*   **8-13초:**
+    *   **화면:** 와이드뷰 40인치 QLED 삼탠바이미가 거실에 놓여있고, 화면에 역동적인 영화 장면이나 게임 화면이 선명하게 재생된다. 모델이 놀란 표정으로 화면을 응시.
+    *   **대사:** "다음은 화질 끝판왕! 와이드뷰 40인치 QLED 삼탠바이미! 😮 40인치 대화면에 QLED가 30만원대라고? 압도적 몰입감!"
 
-**12-15초 (다용도 활용 & CTA)**
-*   **화면:** 거실, 주방, 침실 등 다양한 공간에서 삼탠바이미를 자유롭게 활용하는 모습 빠른 전환 -> 마지막에 '자세한 정보는 프로필 링크!' 자막 크게
-*   **내레이션:** "방, 거실, 주방 어디든 OK! 지금 바로 프로필 링크에서 자세히 확인하세요!"
-
----
-
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+*   **13-15초 (클로징 & CTA):**
+    *   **화면:** 두 삼탠바이미 제품이 나란히 비교되는 화면. 아래에 구매 링크 유도하는 자막.
+    *   **대사:** "이제 비싸게 사지 마! 댓글 링크에서 바로 확인해봐! 🚀"
 
 ---
 
-### 💳 컷 1/4: 훅 & 도입
+### **2. 인스타그램 카드뉴스 4컷**
 
-*   **들어갈 텍스트:**
-    스탠바이미? NO! 🙅‍♀️
-    통장 지키는 #삼탠바이미 로
-    우리집이 스마트 영화관으로 변신! ✨
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A young woman happily watching a movie on a sleek, modern, movable smart TV (Samtanbymy style, not LG StandbyMe), in a cozy, minimalist living room with warm natural light streaming through a window. The TV screen displays a vibrant, colorful movie scene. Modern interior design, soft beige and white color palette, a comfortable sofa, a cup of coffee on a wooden side table. High quality, cinematic lighting, realistic photo, hyper-detailed.`
+**[카드 1/4]**
+*   **카드 텍스트:**
+    "LG 스탠바이미 비싸서 망설였죠? 😩"
+    "진짜 '갓성비' 삼탠바이미가 나타났다! ✨"
+*   **Midjourney 프롬프트:**
+    `A person looking surprised and relieved, with an expensive price tag (e.g., "$1500") on a sleek, minimalist portable TV crossed out. Next to it, a much smaller price tag (e.g., "$299") with a glowing 'YES'. The background is a bright, cozy modern apartment. Realistic photo, dramatic lighting, conveying relief and discovery. --ar 1:1`
 
----
+**[카드 2/4]**
+*   **카드 텍스트:**
+    "💖 20만원대 극강 가성비!"
+    "위드라이프 32인치 삼탠바이미"
+    "✅ 32인치 구글TV + 모든 OTT!"
+    "✅ 에너지 1등급으로 전기료 절약!"
+*   **Midjourney 프롬프트:**
+    `A clean, modern 32-inch portable smart TV on a minimalist mobile stand, displaying the Netflix interface with a popular show. The TV is in a cozy, sunlit bedroom, positioned next to a comfortable bed. Emphasize affordability and smart features. Realistic product photography, warm tones. --ar 1:1`
 
-### 💳 컷 2/4: 압도적 가성비 & 스마트 기능
+**[카드 3/4]**
+*   **카드 텍스트:**
+    "✨ 40인치 QLED 대화면!"
+    "와이드뷰 40인치 QLED 삼탠바이미"
+    "✅ 30만원대 프리미엄 화질!"
+    "✅ 압도적 몰입감으로 영화관 변신!"
+*   **Midjourney 프롬프트:**
+    `A luxurious, large 40-inch portable smart TV with a vibrant QLED display, showing a breathtaking cinematic scene from a movie. The TV is set up in a stylish, spacious living room with soft, ambient lighting. Emphasize immersive viewing experience and high-quality visuals. Cinematic shot, rich colors, realistic. --ar 1:1`
 
-*   **들어갈 텍스트:**
-    💰 20만원대부터! 압도적 #가성비 끝판왕 삼탠바이미!
-    구글 TV로 넷플릭스, 유튜브는 기본! 🎬
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A close-up shot of a modern, sleek portable smart TV (Samtanbymy style, not LG StandbyMe) displaying the Netflix user interface with a movie thumbnail prominently featured. A hand gracefully holding a minimal remote control. A subtle, soft glow from the screen illuminates the scene. The background is a blurred, stylish home interior, hinting at comfort and modern living. Emphasize smart functionality and affordability. Bright, clean, and inviting, realistic photo, shallow depth of field.`
-
----
-
-### 💳 컷 3/4: 자유로운 이동성 & 대화면
-
-*   **들어갈 텍스트:**
-    침실, 주방, 거실! 🏃‍♀️
-    43인치 대화면이 스르륵~
-    1등급 에너지 효율은 덤! 💚
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic split image or collage showing the same portable smart TV (Samtanbymy style) being effortlessly used in three different modern home settings: 1) a bright bedroom with morning light, showing news, 2) a clean, minimalist kitchen displaying a cooking recipe, 3) a cozy living room with a person watching a drama. The TV in the living room should clearly appear as a 43-inch large screen. Seamless transitions between scenes. Clean lines, modern aesthetic, bright and airy atmosphere, realistic photo, action-oriented.`
-
----
-
-### 💳 컷 4/4: 추가 추천 & CTA
-
-*   **들어갈 텍스트:**
-    💥 화질 끝판왕 QLED 삼탠바이미도 궁금해?
-    프로필 링크에서 내게 맞는 삼탠바이미 찾기!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A beautifully styled display of three distinct portable smart TVs (Samtanbymy style), slightly varied in size and design, arranged elegantly in a sophisticated, minimalist home environment. One TV should prominently feature vibrant, high-contrast QLED quality content, glowing subtly. The overall scene conveys choice, premium quality, and accessible technology. Clean, sophisticated, inviting curiosity, realistic photo, soft ambient lighting, high resolution.`
+**[카드 4/4]**
+*   **카드 텍스트:**
+    "스탠바이미 감성 그대로, 가격은 1/4!"
+    "이제 당신의 스마트 라이프를 업그레이드할 시간!"
+    "👆 지금 바로 프로필 링크에서 만나보세요! 👆"
+*   **Midjourney 프롬프트:**
+    `A montage or split scene showcasing a single, elegant portable smart TV (Samtanbyme style) seamlessly used in three different home settings: being watched in bed, moved to a kitchen counter, and used for gaming in a living room. A sense of freedom and versatility. Bright, dynamic, realistic composite image. --ar 1:1`
