@@ -1,63 +1,101 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## ✨ 도파민 폭발 15초 숏폼 스크립트
-
-**제목:** 스탠바이미 비싸서 포기? 🙅‍♀️ 10년차 MD 추천 '삼탠바이미' 가성비 끝판왕!
-
-**[영상 구성]**
-
-*   **시작 효과음:** 비싼 가격표에 놀라는 소리 (ex: "헉!") 또는 돈 나가는 효과음
-*   **배경 음악:** 통통 튀고 신나는 브이로그 스타일 BGM
+## 📢 도파민 폭발 15초 쇼츠/틱톡 스크립트 (feat. 시선 강탈 훅)
 
 ---
+
+**[영상 컨셉]**
+빠른 전환, 강조되는 자막, 신나는 배경음악 (트렌디한 챌린지 템포). 고민하는 표정에서 환한 표정으로 전환.
+
+**[등장인물]**
+나레이터 (혹은 직접 출연)
 
 **[스크립트]**
 
-**0-3초 (훅):**
-*   **비주얼:** 화면에 정품 스탠바이미 가격표가 뜨며 "헉 소리 나는 가격... 😨 스탠바이미, 비싸서 포기했나요?" (정품 스탠바이미 가격 띄우고, 가격 보고 놀라는 표정 클로즈업)
-*   **대사:** "스탠바이미 비싸서 포기했나요? 😨"
+*   **0-3초 (훅! 시선 집중!)**
+    *   **나레이터:** (고민하는 표정으로 LG 스탠바이미 사진을 보며) "LG 스탠바이미, 너무 예쁜데 비싸서 포기했죠? 🤦‍♀️"
+    *   **자막:** 🚫 비싼 스탠바이미! 이제 그만!
+    *   **효과음:** '띠용' 효과음 + 가격표 X 표시 효과
 
-**3-12초 (전개):**
-*   **비주얼:** "NO! 잠깐! ✨" 텍스트와 함께 손으로 X 표시하며 고개를 젓는 인물 등장. 배경 전환 (화사하고 깔끔한 집 안).
-*   **대사:** "NO! 잠깐! 10년차 MD가 찾아낸 '삼탠바이미' 가성비 끝판왕들 여기 있어요!"
-*   **비주얼 (위드라이프):** 침대 옆, 주방 등 다양한 공간에서 43인치 위드라이프 TV가 활용되는 모습. 구글TV 로고, 43인치 강조 자막.
-*   **대사:** "첫째! 30만원대 위드라이프 43인치! 구글TV에 대화면, 심지어 에너지 1등급까지!"
-*   **비주얼 (와이드뷰):** 영화를 보거나 게임을 하는 등 QLED 화면의 선명함을 강조하는 모습. 선명한 색감, 40인치 강조 자막.
-*   **대사:** "둘째! 난 화질 못 잃어! 와이드뷰 QLED 40인치로 선명함 폭발! 이것도 30만원대 후반이라니!"
+*   **3-7초 (문제 해결 & 첫 번째 솔루션)**
+    *   **나레이터:** (자신감 있는 표정으로 바뀌며) "댓츠 노노! 이젠 20만원대로 스마트 이동식 TV 즐겨봐! 첫 번째!"
+    *   **자막:** ✨ 20만원대 스마트 이동식 TV?!
+    *   **화면:** '티비아울렛 구글TV 삼탠바이미' 제품 이미지 + 핵심 장점 자막
 
-**12-15초 (마무리 & CTA):**
-*   **비주얼:** 20만원대 초특가 옵션 TV가 살짝 보이며 "초특가도 있다고?!" 자막. 마지막으로 모든 제품이 한 화면에 모이고, 프로필 링크 강조.
-*   **대사:** "심지어 20만원대 초특가 옵션까지! 👀 내 라이프스타일에 딱 맞는 삼탠바이미, 지금 바로 프로필 링크에서 만나보세요!"
+*   **7-11초 (두 번째 솔루션)**
+    *   **나레이터:** "28만 5천원에 구글 TV OS까지! 티비아울렛 삼탠바이미! 침실, 주방 어디든 OK!"
+    *   **자막:** 💰 28만원대 #구글TV #압도적가성비
+    *   **화면:** '와이드뷰 QLED 40인치 삼탠바이미' 제품 이미지 + 핵심 장점 자막
+
+*   **11-14초 (세 번째 솔루션 & 강조)**
+    *   **나레이터:** "두 번째! 40인치 QLED 대화면? 이 가격에? 와이드뷰 삼탠바이미! 프리미엄급 화질, 디자인까지 완벽!"
+    *   **자막:** 👑 #40인치 #QLED #프리미엄가성비
+
+*   **14-15초 (클로징 & CTA)**
+    *   **나레이터:** "가성비 삼탠바이미 끝판왕 보러 가기? 지금 바로 프로필 링크 클릭!"
+    *   **자막:** 📌 프로필 링크에서 자세히!
+    *   **효과음:** '클릭' 효과음
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 4컷 기획
 
-### 📍 1컷
-*   **텍스트:**
-    **스탠바이미 비싸서 포기했나요? 🥺**
-    (명품 가격표는 잠시 접어두고...)
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    "A sleek, minimalist home interior with a high-end, futuristic portable smart TV (resembling StandbyME) subtly in the background, out of reach. A young woman looks longingly at it with a slightly dejected expression, holding an empty wallet. Soft, natural light from a large window. Cinematic, warm tones, high detail. --ar 1:1 --v 5.2"
+---
 
-### 📍 2컷
-*   **텍스트:**
-    **10년차 MD가 찾아낸 '삼탠바이미' 가성비 끝판왕! ✨**
-    **➡️ 위드라이프 43인치 구글TV: 30만원대 대화면+스마트**
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    "A modern, bright living room. A stylish young person is comfortably lounging on a sofa, happily watching a large 43-inch portable smart TV (on a sleek, movable stand) displaying a vibrant Google TV interface (Netflix or YouTube icons clearly visible). The room is clean, cozy, and versatile, suggesting easy movement. Realistic photography style, warm and inviting atmosphere, golden hour lighting. --ar 1:1 --v 5.2"
+**[카드뉴스 전체 컨셉]**
+LG 스탠바이미의 대안으로 '가성비 삼탠바이미'를 소개하며, 각 제품의 핵심 장점과 매력적인 가격을 시각적으로 강조. 모던하고 깔끔한 디자인으로 정보 전달력을 높임.
 
-### 📍 3컷
-*   **텍스트:**
-    **화질 포기 못해? QLED 40인치 삼탠바이미로 선명함 UP! 🌈**
-    (보는 즐거움이 두 배!)
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    "A person relaxing in a dimly lit, cozy bedroom, fully immersed in a movie or show on a vivid QLED 40-inch portable smart TV. The TV screen displays a breathtaking, high-definition nature scene with rich, saturated colors that pop. The TV is on a sleek, minimalist moving stand near the bed. Warm ambient lighting, luxurious, cinematic feel. Focus on screen clarity and immersive visual experience. --ar 1:1 --v 5.2"
+---
 
-### 📍 4컷
-*   **텍스트:**
-    **내 라이프스타일에 딱 맞는 '스탠바이미 가성비' 픽! 🎁**
-    **(20만원대 초특가도 있어요!)**
-    **👉 프로필 링크에서 지금 확인하세요!**
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    "A dynamic, vibrant, and inviting collage of three different portable smart TVs (representing Withlife, Wideview, and TV Outlet styles), each showcasing their unique benefits in a modern, aspirational home setting. One highlights a large screen, another brilliant QLED colors, and the third a surprising low price tag (with a subtle '200K KRW' text bubble). A small, elegant gift box icon is subtly integrated. Energetic, visually appealing, with multiple choices. High-contrast, modern aesthetic. --ar 1:1 --v 5.2"
+### **✔️ 1컷: 문제 제기 & 강력한 훅**
+
+*   **카드뉴스 텍스트:**
+    LG 스탠바이미 비싸서 망설였다면? 🚫
+    이제 20만원대로 즐기는
+    #가성비 #삼탠바이미 추천 BEST 3
+    (👈 옆으로 넘겨서 확인!)
+
+*   **Midjourney 프롬프트 (영문):**
+    A luxurious, expensive portable smart TV with a prominent 'TOO EXPENSIVE' sign visually crossed out. Beside it, a sleek, minimalist, affordable 'SamtanbyMe' style portable smart TV displaying a vibrant screen, labeled 'ONLY $2XX,XXX'. The background is a modern, cozy living room. Concept of smart shopping and finding great value. Warm, inviting lighting, interior photography. High resolution, --ar 1:1
+
+---
+
+### **✔️ 2컷: 티비아울렛 구글TV 삼탠바이미 (최저가 + 스마트 OS)**
+
+*   **카드뉴스 텍스트:**
+    ✨ 1위: 티비아울렛 구글TV 삼탠바이미
+    ✅ 28만원대 최저가! 구글 TV OS 탑재!
+    ✅ 침실, 주방 어디든 이동 가능한 스탠드 일체형
+    💰 가격: 285,000원
+    (👉 더 자세히 보기)
+
+*   **Midjourney 프롬프트 (영문):**
+    A sleek, black 'SamtanbyMe' style portable smart TV prominently displaying the colorful Google TV operating system interface on its screen, showing popular streaming apps like Netflix and YouTube. The TV is positioned on its integrated movable stand in a versatile home setting, like a cozy bedroom with soft natural light. A hand is holding a remote control. The scene emphasizes ease of use and smart features. Modern interior, high resolution, --ar 1:1
+
+---
+
+### **✔️ 3컷: 와이드뷰 QLED 40인치 삼탠바이미 (대화면 QLED + 디자인)**
+
+*   **카드뉴스 텍스트:**
+    🔥 2위: 와이드뷰 QLED 40인치 삼탠바이미
+    ✅ 40인치 QLED 대화면의 압도적 몰입감!
+    ✅ 세련된 화이트 디자인으로 인테리어 완성
+    💰 가격: 379,020원
+    (👉 더 자세히 보기)
+
+*   **Midjourney 프롬프트 (영문):**
+    A stunning, white 'SamtanbyMe' style portable smart TV with a large 40-inch QLED screen, displaying an incredibly vibrant, high-definition movie scene with rich colors and deep blacks. The TV is beautifully integrated into a minimalist, stylish living room with white and light wood accents, bathed in soft, natural window light. The aesthetic is clean, modern, and high-end. Interior photography, high resolution, --ar 1:1
+
+---
+
+### **✔️ 4컷: 추가 추천 & 최종 선택 & CTA**
+
+*   **카드뉴스 텍스트:**
+    💡 리뷰언니의 추가 추천:
+    이노스 32인치 FHD 삼탠바이미 (299,000원)
+    ✨ 20만원대 스마트 이동식 TV, 당신의 선택은?
+    👉 자세한 정보 및 구매는 프로필 링크 클릭!
+    #스탠바이미 #삼탠바이미 #가성비TV #스마트TV
+
+*   **Midjourney 프롬프트 (영문):**
+    A visually appealing graphic of three sleek, modern portable smart TVs ('SamtanbyMe' style) arranged dynamically, representing choice and versatility. Each TV subtly highlights its unique selling point (e.g., one showing Google TV, one showing a vibrant QLED screen, one in a compact setting like a kitchen or bedroom). Clean, professional product photography style with a soft gradient background in shades of light blue and white. Minimalist design, high resolution, --ar 1:1
