@@ -1,77 +1,77 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+## 🎯 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 😲 헉! 스탠바이미 20만원대로 사는 법? 가성비 삼탠바이미 끝판왕 등장! #스탠바이미 #삼탠바이미 #가성비
-
----
-
-**[영상 길이: 15초]**
-
-**[화면 전환 및 효과]**
-
-*   **0-3초 (훅! - 시선 강탈):**
-    *   **(빠른 템포의 경쾌한 BGM 시작)**
-    *   **화면:** (놀란 표정의 출연자 클로즈업) "헉! 스탠바이미가 20만원대라고? 이게 가능해?"
-    *   **자막:** 💥 스탠바이미 20만원대? 현실가능?
-*   **3-6초:**
-    *   **화면:** 비싸서 망설였던 스탠바이미! 이제 고민 끝! (다양한 스탠바이미 활용 예시 이미지/짧은 클립 전환)
-    *   **출연자 대사:** "비싼 스탠바이미 고민은 이제 그만! 가성비 끝판왕 '삼탠바이미' 찾는 사람 주목! 지금 바로 보여줄게!"
-    *   **자막:** 💰 가성비 끝판왕 '삼탠바이미'
-*   **6-10초:**
-    *   **화면:** 이브이 32인치 QLED 삼탠바이미 제품 이미지/영상. QLED, 화이트 디자인 강조.
-    *   **출연자 대사:** "첫 번째! ✨이브이 32인치 QLED! 23만원대에 QLED 화질에 예쁜 화이트 디자인까지! MD가 극찬한 가성비!"
-    *   **자막:** 👑 이브이 QLED 삼탠바이미: 23만원대 QLED + 화이트 디자인
-*   **10-13초:**
-    *   **화면:** 위드라이프 32인치 구글 스마트TV 삼탠바이미 세트 제품 이미지/영상. 구글TV, 에너지 1등급 강조.
-    *   **출연자 대사:** "두 번째! 🔋 위드라이프 32인치! 27만원대에 구글TV 기본 탑재! 게다가 에너지 효율 1등급으로 전기세 걱정 끝!"
-    *   **자막:** 💡 위드라이프 삼탠바이미: 구글TV + 에너지1등급
-*   **13-15초 (클로징 & CTA):**
-    *   **화면:** 두 제품이 함께 등장하며 "당신의 선택은?" 질문.
-    *   **출연자 대사:** "내 방 인테리어 종결템! 더 자세한 정보는 댓글/프로필 링크 확인해! #스탠바이미 #삼탠바이미 #가성비 #스마트TV"
-    *   **자막:** ✨ 더 자세한 정보는 프로필 링크!
+**콘텐츠 제목:** 스탠바이미? 그 돈 아껴! 💸 가성비 삼탠바이미 BEST 3!
 
 ---
 
-## 📸 인스타그램 카드뉴스 (총 4컷)
+**[영상 구성 및 대사]**
+
+*   **0-3초 (훅):**
+    *   **(화면):** 텅 빈 지갑을 보며 한숨 쉬는 사람 (혹은 스탠바이미 가격표 보고 깜짝 놀라는 표정) → (빠르게 전환) - 멋진 삼탠바이미가 스르륵 거실로 들어오는 모습
+    *   **(음악/효과음):** 드라마틱한 효과음 → 경쾌하고 힙한 비트 시작
+    *   **(대사):** "스탠바이미 갖고 싶다고? 그 비싼 걸 왜 사?!"
+
+*   **3-7초 (문제 제기 & 솔루션):**
+    *   **(화면):** 삼탠바이미가 침실, 주방, 거실로 스르륵 이동하며 사용되는 모습
+    *   **(대사):** "여기! 반값도 안 되는 가격에, 똑같은 스마트함! 이동성! 다 가진 '삼탠바이미'가 있다고?!"
+
+*   **7-12초 (핵심 제품 소개):**
+    *   **(화면):** 3가지 제품의 장점을 숏컷으로 빠르게 보여줌 (QLED 선명한 화면, 43인치 대화면, 구글 OS 앱 실행 등)
+    *   **(대사):** "QLED로 눈 호강! ✨ 43인치 대화면에 구글 TV까지! 넷플릭스 무제한!"
+
+*   **12-15초 (가격 강조 & CTA):**
+    *   **(화면):** 가격이 크게 강조된 화면 (38만, 34만, 28만) → "지금 바로 겟!" 문구와 프로필 링크 강조
+    *   **(대사):** "심지어 20만원대부터 시작한다고?! 이 정도면 안 살 이유 없잖아? 당장 프로필 링크 클릭!"
 
 ---
 
-### **카드 1/4**
-
-*   **카드 텍스트:**
-    스탠바이미 갖고 싶지만,
-    가격 때문에 망설였나요? 😥
-*   **Midjourney 이미지 프롬프트:**
-    `A stylish, minimalist living room with modern furniture, a large, sleek white smart TV on a movable stand in the background, slightly out of focus. The TV screen shows a blurry, aspirational content. A thought bubble with a dollar sign and a question mark floats above the TV. Soft, warm lighting, conveying a sense of longing or contemplation. High quality, realistic, cinematic lighting. --ar 1:1`
+## 📸 인스타그램 카드뉴스 4컷 (Midjourney 프롬프트 포함)
 
 ---
 
-### **카드 2/4**
+### 🖼️ 1컷 (도입/훅)
 
-*   **카드 텍스트:**
-    비싼 스탠바이미 대신
-    '삼탠바이미'로 가성비 끝판왕 찍자! 💰
-*   **Midjourney 이미지 프롬프트:**
-    `A dynamic close-up shot of a hand holding a sleek, modern TV remote control. Golden coins and dollar signs are dynamically falling and swirling around the remote. The background is a blurred, stylish room with a smart TV on a movable stand. Energetic, vibrant colors, conveying a sense of savings and smart choice. High quality, realistic, dynamic composition. --ar 1:1`
-
----
-
-### **카드 3/4**
-
-*   **카드 텍스트:**
-    🌟 이브이 QLED 삼탠바이미:
-    20만원대에 QLED 화질,
-    화이트 디자인까지!
-*   **Midjourney 이미지 프롬프트:**
-    `A sleek, modern white 32-inch QLED smart TV on a minimalist white movable stand, placed in a bright, modern minimalist living room or bedroom. The screen displays vibrant, high-definition content with rich, saturated colors, highlighting the QLED technology. Emphasize the elegant white design and premium screen quality. Natural light coming from a window. High quality, realistic, interior photography style. --ar 1:1`
+*   **카드뉴스 텍스트:**
+    **스탠바이미 부럽지 않아! 💰**
+    **2024 가성비 삼탠바이미 BEST 3**
+    (MD가 직접 엄선한 최고의 선택!)
+*   **Midjourney 프롬프트:**
+    `A modern, minimalist living space with a stylish, portable smart TV (like a StandbyME alternative) on wheels, sleek design, bright and inviting atmosphere, person happily scrolling through streaming apps, soft ambient lighting, cinematic, 8k --ar 1:1`
 
 ---
 
-### **카드 4/4**
+### 🖼️ 2컷 (메인 상품 1: 와이드뷰 삼탠바이미)
 
-*   **카드 텍스트:**
-    🔋 위드라이프 삼탠바이미:
-    구글TV, 에너지 1등급, 완벽 밸런스!
-*   **Midjourney 이미지 프롬프트:**
-    `A 32-inch smart TV on a movable stand, placed in a versatile, cozy modern room (e.g., a reading nook with a comfortable armchair, or a bedroom corner). The TV screen clearly shows the Google TV interface with recognizable app icons like Netflix and YouTube. Subtle, elegant overlay graphics indicating 'Energy Efficiency 1st Grade' (e.g., a stylized green leaf or star icon) are subtly integrated. Comfortable, functional ambiance with soft lighting. High quality, realistic, interior photography style. --ar 1:1`
+*   **카드뉴스 텍스트:**
+    **1. 와이드뷰 삼탠바이미 세트**
+    **✨ 이 가격에 QLED? ✨**
+    압도적 색감, 일체형 세트로 눈 호강!
+    (381,630원)
+*   **Midjourney 프롬프트:**
+    `A cozy bedroom setup, a person deeply immersed in watching a movie on a sleek portable QLED smart TV. The screen displays vibrant, rich colors. The TV is on a modern stand. Soft, warm lighting, high-quality display, cinematic view, 8k --ar 1:1`
+
+---
+
+### 🖼️ 3컷 (메인 상품 2: 위드라이프 43인치 구글 삼탠바이미)
+
+*   **카드뉴스 텍스트:**
+    **2. 위드라이프 43인치 구글 삼탠바이미**
+    **🎬 대화면 + 구글 OS! 넷플릭스 무제한!**
+    온 가족 즐기는 스마트 엔터테인먼트!
+    (349,000원)
+*   **Midjourney 프롬프트:**
+    `A spacious living room, a family enjoying a movie on a large 43-inch portable smart TV with Google Android OS. The screen clearly shows Netflix or YouTube interface. Comfortable, modern furniture, bright and cheerful atmosphere, focus on shared viewing experience, 8k --ar 1:1`
+
+---
+
+### 🖼️ 4컷 (추가 상품 & CTA)
+
+*   **카드뉴스 텍스트:**
+    **3. 티비아울렛 최저가 구글 삼탠바이미**
+    **💸 20만원대 최저가! 입문용 끝판왕!**
+    부담 없이 즐기는 스마트 TV 라이프!
+    **지금 바로 프로필 링크에서 만나보세요!**
+*   **Midjourney 프rompt:**
+    `A stylish, minimalist studio apartment, showcasing a compact and affordable portable smart TV on wheels. The TV screen displays a simple, clean interface. Emphasize ease of mobility and modern, practical living. Bright, airy, simple aesthetic, 8k --ar 1:1`
