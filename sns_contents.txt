@@ -1,53 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**타이틀:** 🚨 스탠바이미 포기 NO! 가격 반값, 만족도 200% '삼탠바이미' 등장!
+**제목:** 💰스탠바이미 비싸서 포기? 20만원대 '삼탠바이미' 끝판왕 찾았다! (MD's Pick)
 
-*   **[0-3초] 훅 (시선 강탈!)**
-    *   **화면:** (빠른 컷편집) 지쳐 보이는 사람 -> 비싼 가격표에 X표시 -> 갑자기 밝고 세련된 '삼탠바이미' 등장! (효과음: 뿅! 🌟)
-    *   **대사:** "스탠바이미 비싸서 포기했어? 🤯 놉! 이 영상 하나면 끝장내줄게!" (놀람+결단력 있는 톤)
-*   **[3-7초] 무선 이동성 끝판왕!**
-    *   **화면:** '무빙큐빅스' 제품이 거실, 주방, 침실을 자유롭게 이동하며 사용되는 역동적인 모습 (배터리 아이콘, 무선 강조)
-    *   **대사:** "콘센트 NO! ❌ 무빙큐빅스는 진짜 무선! 어디든 끌고 다니는 이동식 TV, 이게 혁명이지!" (신나는 톤)
-*   **[7-11초] 대화면 가성비 혁명!**
-    *   **화면:** '와이드뷰' 40인치 대화면으로 영화, 게임 장면이 꽉 차게 보이는 압도적인 비주얼. QLED 화질 강조.
-    *   **대사:** "30만원대에 40인치 QLED 대화면? 😮 미쳤다 진짜! 와이드뷰로 우리집이 극장으로 변신!" (감탄사 남발)
-*   **[11-14초] 가성비 & 만족도 UP!**
-    *   **화면:** 두 제품의 핵심 스펙 (가격, 인치, 무선여부)이 비교되는 다이나믹한 모션 그래픽. "가성비 UP, 만족도 UP!" 문구.
-    *   **대사:** "고민은 배송만 늦출 뿐! 스탠바이미랑 똑같은 감성, 가격은 반값! ✨" (확신에 찬 톤)
-*   **[14-15초] 강력한 CTA**
-    *   **화면:** 쿠팡 링크 QR코드 또는 "프로필 링크 클릭" 텍스트.
-    *   **대사:** "지금 바로 인생템 겟하러 가자!" (강력한 CTA)
+**[영상 구성 및 대사]**
+
+**0-3초 (훅)**
+*   **영상:** 침대에 누워 폰 보며 한숨 쉬는 사람 (혹은 쇼핑앱 가격 보고 놀라는 표정) -> 갑자기 화면 전환, "나도 스탠바이미 갖고 싶다..." 텍스트 등장
+*   **대사 (빠르게, 흥분된 톤):** "스탠바이미 갖고 싶어서 검색했는데... 가격보고 헉! 하셨죠?!"
+
+**3-7초 (문제 해결 & 소개)**
+*   **영상:** 10년차 이커머스 MD 복장을 한 사람이 등장, 자신감 넘치는 표정으로 두 개의 제품을 손가락으로 가리킴.
+*   **대사:** "걱정 마세요! 10년차 MD가 찾아낸 '스탠바이미 가성비 끝판왕' 삼탠바이미 2종 소개합니다!"
+
+**7-11초 (상품 1)**
+*   **영상:** 첫 번째 제품 (티비아울렛 삼탠바이미)이 깔끔한 배경에 등장. 가격 (285,000원)과 스마트TV 아이콘, 이동식 스탠드 이미지 강조.
+*   **대사:** "첫 번째! 20만원대 실화?! 티비아울렛 삼탠바이미! 스마트TV에 이동식 스탠드까지 완벽!"
+
+**11-14초 (상품 2)**
+*   **영상:** 두 번째 제품 (위드라이프 43인치)이 다른 공간(거실)에 등장. 43인치 대화면, OTT 서비스 화면, 1등급 에너지 효율 마크 강조.
+*   **대사:** "두 번째! 43인치 대화면, 구글 스마트TV 위드라이프! 몰입감 UP, 전기세 DOWN!"
+
+**14-15초 (클로징 & CTA)**
+*   **영상:** 두 제품이 함께 등장하며 손가락으로 위 또는 아래를 가리키는 제스처, "자세한 정보는 댓글/프로필 링크 확인!" 텍스트 오버레이.
+*   **대사:** "더 자세한 정보는 댓글 링크 확인!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 (4컷)
 
-### 1️⃣ 첫 번째 컷: 스탠바이미 비싸서 망설였어?
+### 1컷
 *   **텍스트:**
-    *   **메인:** 스탠바이미 비싸서 망설였어? 🤷‍♀️
-    *   **서브:** 이제 가성비 끝판왕 '삼탠바이미'로 스마트 라이프 시작!
+    스탠바이미 가격에 좌절? 😭
+    10년차 MD가 찾은 '가성비 삼탠바이미' 끝판왕!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A modern, minimalist living room with soft natural light. In the foreground, a young woman looks contemplatively at a price tag, slightly stressed expression. In the background, a sleek, white portable smart TV on a stand is subtly glowing, representing an affordable alternative (Samtanbyme). Warm, inviting atmosphere, aspirational home decor. --ar 1:1 --style raw --v 5.2`
+    `A young person looking disappointed at a smartphone screen showing a high price, then a transition to a bright, modern living room with a sleek, affordable mobile smart TV. Concept of 'discovery' and 'solution'. Clean, minimalist aesthetic, soft natural light, vibrant colors. --ar 1:1 --v 5.2`
 
-### 2️⃣ 두 번째 컷: 선 없는 자유! 무빙큐빅스 무선 삼탠바이미 (32인치)
+### 2컷
 *   **텍스트:**
-    *   **메인:** 🔌 선 없는 자유! 무빙큐빅스 32인치 무선 삼탠바이미
-    *   **서브:** 주방에서, 침대 옆에서! 어디든 자유롭게 이동하며 즐기는 나만의 스마트 TV 📺
+    ✨ 20만원대 실화?! 진정한 가성비 삼탠바이미
+    "티비아울렛 삼탠바이미"
+    ✅ 스마트 구글TV
+    ✅ 이동식 스탠드 완벽 포함
+    **MD's PICK: 최저가로 스탠바이미 감성 즐기기!**
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A bright, modern home setting with a seamless transition between a minimalist kitchen and a cozy bedroom. A sleek 32-inch white portable smart TV (Moving Cubix Samtanbyme) with no visible wires is shown moving effortlessly from the kitchen countertop to a bedside table. The TV screen displays vibrant, inviting content. Emphasize wireless mobility and clean interior design. --ar 1:1 --style raw --v 5.2`
+    `A cozy, modern bedroom scene with a sleek, black or white portable smart TV on a minimalist mobile stand. The TV screen displays a popular streaming service logo (e.g., Netflix). A subtle, clean price tag of "285,000 KRW" is digitally integrated. Warm, inviting atmosphere, soft ambient lighting. --ar 1:1 --v 5.2`
 
-### 3️⃣ 세 번째 컷: 40인치 대화면 가성비 끝판왕! 와이드뷰 QLED 스마트TV 삼탠바이미 (40인치)
+### 3컷
 *   **텍스트:**
-    *   **메인:** ✨ 40인치 QLED 대화면이 30만원대! 와이드뷰 삼탠바이미
-    *   **서브:** 압도적인 몰입감, 고품격 화질로 우리집 거실 분위기 UP! 💖
+    🔥 대화면 + 스마트 기능 다 잡았다! 프리미엄 가성비
+    "위드라이프 43인치 구글 스마트 이동식 TV"
+    ✅ 43인치 대화면 & 구글 안드로이드 TV
+    ✅ 에너지 소비효율 1등급
+    **MD's PICK: 더 큰 몰입감 & 전기세 걱정 끝!**
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A stylish, spacious living room with large windows and abundant natural light. A family or a couple is comfortably seated on a modern sofa, captivated by a large 40-inch white QLED portable smart TV (Wideview Samtanbyme) on a stand. The TV screen shows a vibrant, high-definition movie scene. Emphasize the clear picture, immersive viewing, and elegant interior. --ar 1:1 --style raw --v 5.2`
+    `A stylish, open-plan living room or kitchen with a large 43-inch mobile smart TV on a sleek, modern stand. The TV screen is prominently displaying a vibrant, high-definition movie scene. A small, clear energy efficiency '1등급' badge is visible on the TV. Elegant, sophisticated, and functional design, bright and spacious. --ar 1:1 --v 5.2`
 
-### 4️⃣ 네 번째 컷: 스탠바이미 대신 '삼탠바이미'로 현명한 소비!
+### 4컷
 *   **텍스트:**
-    *   **메인:** 스탠바이미 대신 '삼탠바이미'로 현명한 소비! 💡
-    *   **서브:** 가성비, 디자인, 기능 모두 잡았다! 지금 바로 확인하세요! (프로필 링크 클릭!)
+    내게 맞는 '삼탠바이미'는?
+    현명한 선택으로 스마트 라이프 시작!
+    (+ 40인치 위드라이프 모델도 있어요!)
+    👉 더 많은 정보는 프로필 링크에서 확인!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A visually striking collage or split screen showcasing two elegant white portable smart TVs (Samtanbyme products, one 32-inch and one 40-inch) in different modern, aspirational home settings. One TV is in a cozy reading nook, the other in a bright living area. Overlay subtle, appealing infographic elements like "Extreme Value," "Sleek Design," and "Smart Functions." Bright, clean, and inviting aesthetic with a strong call to action feel. --ar 1:1 --style raw --v 5.2`
+    `A dynamic collage or split image illustrating different people happily using mobile smart TVs in various modern settings: one person relaxing in a minimalist bedroom, another cooking in a bright kitchen, and a small family enjoying entertainment in a cozy living room. Emphasize versatility, convenience, and a smart, joyful lifestyle. Bright, cheerful, modern illustration style. --ar 1:1 --v 5.2`
