@@ -2,66 +2,88 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 💰스탠바이미 비싸서 포기? 20만원대 '삼탠바이미' 끝판왕 찾았다! (MD's Pick)
+**제목:** LG 스탠바이미 비싸서 포기? 🙅‍♀️ 20만원대 '이동형 스마트TV' 삼탠바이미 실화?! (MD픽)
 
-**[영상 구성 및 대사]**
+**콘셉트:** 빠른 전환, 명확한 장점 제시, MD의 신뢰성 강조. 도파민 폭발하는 가성비 혜택!
 
-**0-3초 (훅)**
-*   **영상:** 침대에 누워 폰 보며 한숨 쉬는 사람 (혹은 쇼핑앱 가격 보고 놀라는 표정) -> 갑자기 화면 전환, "나도 스탠바이미 갖고 싶다..." 텍스트 등장
-*   **대사 (빠르게, 흥분된 톤):** "스탠바이미 갖고 싶어서 검색했는데... 가격보고 헉! 하셨죠?!"
+---
 
-**3-7초 (문제 해결 & 소개)**
-*   **영상:** 10년차 이커머스 MD 복장을 한 사람이 등장, 자신감 넘치는 표정으로 두 개의 제품을 손가락으로 가리킴.
-*   **대사:** "걱정 마세요! 10년차 MD가 찾아낸 '스탠바이미 가성비 끝판왕' 삼탠바이미 2종 소개합니다!"
+**(0-3초) 훅! 시선 강탈!**
+*   **화면:** (빠른 줌인/줌아웃 반복, 가격표/LG 스탠바이미 이미지 교차, '가격'이라는 글자에 빨간 X표시)
+*   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미 사고 싶은데… 가격 보고 좌절? 놉! 더 이상 비싼 돈 주지 마세요!"
 
-**7-11초 (상품 1)**
-*   **영상:** 첫 번째 제품 (티비아울렛 삼탠바이미)이 깔끔한 배경에 등장. 가격 (285,000원)과 스마트TV 아이콘, 이동식 스탠드 이미지 강조.
-*   **대사:** "첫 번째! 20만원대 실화?! 티비아울렛 삼탠바이미! 스마트TV에 이동식 스탠드까지 완벽!"
+**(3-7초) 문제 제기 및 해결책 제시**
+*   **화면:** (스크롤링되는 OTT 앱 화면, 침대/주방/거실 등 다양한 공간에 놓인 이동형 TV 모습)
+*   **내레이션:** "침대, 주방, 거실 어디든! 원하는 곳에서 내 맘대로 즐기는 '이동형 스마트TV', 무려 20만원대부터! 10년차 MD가 직접 찾아온 가성비 끝판왕 '삼탠바이미' BEST 4!"
 
-**11-14초 (상품 2)**
-*   **영상:** 두 번째 제품 (위드라이프 43인치)이 다른 공간(거실)에 등장. 43인치 대화면, OTT 서비스 화면, 1등급 에너지 효율 마크 강조.
-*   **대사:** "두 번째! 43인치 대화면, 구글 스마트TV 위드라이프! 몰입감 UP, 전기세 DOWN!"
+**(7-12초) 핵심 상품 집중 소개 (메인 2개)**
+*   **화면:** (위드라이프 삼탠바이미 제품 이미지와 가격 '279,000원' 크게 띄우기, 구글TV 로고, 에너지 1등급 로고 오버레이) -> (빠른 전환 후 티비아울렛 삼탠바이미 제품 이미지와 가격 '285,000원', Google TV 로고 오버레이)
+*   **내레이션:** "20만원대 위드라이프! 구글TV에 에너지 1등급, 이 스펙 실화?! 다음은 구글TV로 완벽 스마트 환경, 티비아울렛 20만원대! 둘 다 MD 강력 추천!"
 
-**14-15초 (클로징 & CTA)**
-*   **영상:** 두 제품이 함께 등장하며 손가락으로 위 또는 아래를 가리키는 제스처, "자세한 정보는 댓글/프로필 링크 확인!" 텍스트 오버레이.
-*   **대사:** "더 자세한 정보는 댓글 링크 확인!"
+**(12-15초) 마무리 및 CTA**
+*   **화면:** (4개 제품 이미지 콜라주 + "MD픽 BEST 4" 타이틀, 손가락으로 화면 아래/프로필 링크를 가리키는 모션)
+*   **내레이션:** "나머지 추천 제품들은? 지금 바로 댓글과 프로필 링크에서 확인하세요! 놓치면 후회!"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 (4컷)
 
-### 1컷
-*   **텍스트:**
-    스탠바이미 가격에 좌절? 😭
-    10년차 MD가 찾은 '가성비 삼탠바이미' 끝판왕!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A young person looking disappointed at a smartphone screen showing a high price, then a transition to a bright, modern living room with a sleek, affordable mobile smart TV. Concept of 'discovery' and 'solution'. Clean, minimalist aesthetic, soft natural light, vibrant colors. --ar 1:1 --v 5.2`
+---
 
-### 2컷
-*   **텍스트:**
-    ✨ 20만원대 실화?! 진정한 가성비 삼탠바이미
-    "티비아울렛 삼탠바이미"
-    ✅ 스마트 구글TV
-    ✅ 이동식 스탠드 완벽 포함
-    **MD's PICK: 최저가로 스탠바이미 감성 즐기기!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy, modern bedroom scene with a sleek, black or white portable smart TV on a minimalist mobile stand. The TV screen displays a popular streaming service logo (e.g., Netflix). A subtle, clean price tag of "285,000 KRW" is digitally integrated. Warm, inviting atmosphere, soft ambient lighting. --ar 1:1 --v 5.2`
+### 🌟 카드뉴스 1컷
 
-### 3컷
-*   **텍스트:**
-    🔥 대화면 + 스마트 기능 다 잡았다! 프리미엄 가성비
-    "위드라이프 43인치 구글 스마트 이동식 TV"
-    ✅ 43인치 대화면 & 구글 안드로이드 TV
-    ✅ 에너지 소비효율 1등급
-    **MD's PICK: 더 큰 몰입감 & 전기세 걱정 끝!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A stylish, open-plan living room or kitchen with a large 43-inch mobile smart TV on a sleek, modern stand. The TV screen is prominently displaying a vibrant, high-definition movie scene. A small, clear energy efficiency '1등급' badge is visible on the TV. Elegant, sophisticated, and functional design, bright and spacious. --ar 1:1 --v 5.2`
+*   **들어갈 텍스트:**
+    **슬라이드 1/4**
+    **LG 스탠바이미 비싸서 포기? 🙅‍♀️**
+    **10년차 MD가 찾아낸 '가성비 삼탠바이미' BEST 4!**
+    (부제: 똑똑한 소비자를 위한 이동형 스마트TV 추천)
 
-### 4컷
-*   **텍스트:**
-    내게 맞는 '삼탠바이미'는?
-    현명한 선택으로 스마트 라이프 시작!
-    (+ 40인치 위드라이프 모델도 있어요!)
-    👉 더 많은 정보는 프로필 링크에서 확인!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage or split image illustrating different people happily using mobile smart TVs in various modern settings: one person relaxing in a minimalist bedroom, another cooking in a bright kitchen, and a small family enjoying entertainment in a cozy living room. Emphasize versatility, convenience, and a smart, joyful lifestyle. Bright, cheerful, modern illustration style. --ar 1:1 --v 5.2`
+    `A sleek, minimalist home interior with a luxurious LG StandbyME TV on one side, and on the other side, a more affordable, yet stylish, portable smart TV (SamtanbyME) glowing brightly. The mood is modern, elegant, and aspirational, but also practical. Emphasize contrast between expensive and affordable. --ar 1:1 --v 5.2 --s 750`
+
+---
+
+### 🌟 카드뉴스 2컷
+
+*   **들어갈 텍스트:**
+    **슬라이드 2/4**
+    **✨ MD픽 1위: 위드라이프 구글 32인치 삼탠바이미 ✨**
+    **✅ 압도적인 20만원대 (279,000원!)**
+    **✅ 모든 OTT 지원 구글 안드로이드 TV**
+    **✅ 전기료 걱정 NO! 1등급 에너지 효율**
+    (MD 코멘트: 이 가격에 이 스펙은 정말 압도적! '진정한 가성비'의 끝판왕!)
+
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cozy and modern living room. A happy person is comfortably lounging on a sofa, happily watching movies on a sleek 32-inch portable smart TV with Google TV interface visible on screen, mounted on a stylish moving stand. Sunlight streams through a window. The overall atmosphere is warm and inviting. --ar 1:1 --v 5.2 --s 750`
+
+---
+
+### 🌟 카드뉴스 3컷
+
+*   **들어갈 텍스트:**
+    **슬라이드 3/4**
+    **🛋️ MD픽 2위: 티비아울렛 구글 스마트TV 삼탠바이미 🛋️**
+    **✅ 20만원대 후반 (285,000원!)**
+    **✅ 구글 TV 탑재로 완벽한 스마트TV 경험**
+    **✅ 어디든 이동 가능한 무빙 스탠드 포함**
+    (MD 코멘트: 구글 생태계에 익숙하다면 최고의 선택! 편의성까지 만점!)
+
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A bright and clean kitchen or bedroom setup. A person is casually cooking or relaxing in bed, glancing at a portable smart TV on a rolling stand. The TV screen displays a vibrant Google TV interface. The setting emphasizes ease of movement and versatile use of the TV. --ar 1:1 --v 5.2 --s 750`
+
+---
+
+### 🌟 카드뉴스 4컷
+
+*   **들어갈 텍스트:**
+    **슬라이드 4/4**
+    **🔥 놓칠 수 없는 추가 추천 2종! 🔥**
+    **1. 이노스 베이직 32인치 삼탠바이미 (298,000원)**
+    (믿을 수 있는 브랜드의 합리적인 스마트TV!)
+    **2. 와이드뷰 QLED 화이트 40인치 삼탠바이미 (378,970원)**
+    (대화면+QLED+화이트 디자인! 프리미엄 가성비!)
+
+    **👉 MD's Pick 4종 전체 보러가기! 프로필 링크 클릭!**
+
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A vibrant and dynamic collage showcasing four different portable smart TVs (SamtanbyME style) in various stylish home settings (e.g., minimalist living room, cozy bedroom, modern kitchen, serene study). Each TV highlights a unique feature: one with a bright white aesthetic, another with a larger screen, one with a simple design. The overall composition is energetic and informative. --ar 1:1 --v 5.2 --s 750`
