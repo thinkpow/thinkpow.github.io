@@ -1,77 +1,52 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발! 15초 쇼츠 스크립트 🎬
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**콘셉트:** 빠른 전환, 핵심 키워드 반복, 도파민 유발 톤앤매너
-**영상 길이:** 15초
-**음악:** 빠르고 경쾌한 배경음악 (예: 틱톡 트렌드 사운드)
-**화면 전환:** 컷마다 빠르게 전환 (훅 > 문제제기 > 제품 1 > 제품 2 > CTA)
+**(음악: 밝고 경쾌하며 도파민을 자극하는 비트 있는 배경음악)**
 
----
+**[0-3초] 훅! - 시각 자료: LG 스탠바이미 이미지 위로 거대한 '100만원 이상!' 가격표가 번쩍! ⚡️ + '😱' 이모지**
+**내레이션 (빠르게, 놀라움 가득한 목소리):** 스탠바이미 비싸서 엄두도 못 냈다고? 잠깐!
 
-**(0-3초) 훅 - 시선을 강탈하는 문제 제기 및 해결책 제시**
-*   **화면:** 고급스러운 LG 스탠바이미 이미지 → 가격표 (200만원대) → 충격받은 표정 (만화 효과) → "NO!" 크게 뜨고 "삼탠바이미" 텍스트 빵! 터지듯 등장.
-*   **대사 (빠르게, 흥분된 목소리):** "스탠바이미 사고 싶어? 가격보고 헉! 했지? 이제 그 고민 끝! 가성비 끝판왕 '삼탠바이미' 대공개!"
+**[3-7초] 시각 자료: MD 복장의 인물이 엄지척! 👍 + "10년차 MD가 찾은!" 자막**
+**내레이션:** 10년 차 이커머스 MD가 직접 찾아왔다! '가성비 끝판왕 삼탠바이미' 딱 2개만 보세요!
 
-**(3-7초) 첫 번째 추천 - 압도적 가성비**
-*   **화면:** 위드라이프 32인치 삼탠바이미 제품 이미지 등장. 사용자가 침대 옆에서 넷플릭스 보는 모습.
-*   **대사:** "20만원대에 이 모든 게! 32인치 구글TV+무빙 스탠드! 넷플릭스, 유튜브 다 돼! (놀란 표정)"
+**[7-11초] 시각 자료: 32인치 구글TV 삼탠바이미 -> '20만원대!' 자막 + 넷플릭스, 유튜브 앱 아이콘 번쩍! 🤩 -> 40인치 QLED 삼탠바이미 -> '30만원대!' 자막 + 영화 시청 화면 강조! ✨**
+**내레이션:** 구글TV로 넷플릭스 다 되는데 20만원대? 심지어 40인치 QLED 대화면도 30만원대라고?!
 
-**(7-12초) 두 번째 추천 - 프리미엄 업그레이드**
-*   **화면:** 와이드뷰 40인치 QLED 삼탠바이미 제품 이미지 등장. 거실에서 영화 보는 모습. QLED 색감 강조 이펙트.
-*   **대사:** "여기다 QLED 화질? 40인치 대화면으로 영화관을 집에! 30만원대 후반에 이런 퀄리티 실화야?!"
-
-**(12-15초) 마무리 및 CTA**
-*   **화면:** 두 제품이 나란히 비교되는 이미지. "스탠바이미 이제 고민 끝!" 텍스트. 프로필 링크 가리키는 손가락 아이콘.
-*   **대사 (활기차게):** "LG 스탠바이미 비싸게 살 이유 없잖아! 지금 바로 프로필 링크에서 내 인생 삼탠바이미 찾기!"
+**[11-15초] 시각 자료: 두 제품이 나란히 놓여 있고, 추가 추천 상품들이 빠르게 스쳐 지나감. 손가락으로 위(프로필 링크)를 가리키는 화살표와 "지금 바로 클릭!" 자막**
+**내레이션:** 똑똑하게 스마트TV 사는 법! 놓치면 후회할 추가 추천까지, 지금 바로 프로필 링크에서 확인하세요! ➡️
 
 ---
 
-## 인스타그램 카드뉴스 4컷 📸
+## 2. 인스타그램 카드뉴스 4컷
 
-**전체 콘셉트:** 깔끔하고 정보성 높은 디자인, 핵심 문구 강조, 통일된 톤앤매너.
-**타겟:** 스탠바이미 대체품을 찾는 20-40대 소비자.
-
----
-
-### **[1/4] 컷**
-*   **들어갈 텍스트:**
-    ✨ **LG 스탠바이미 가격보고 놀랐죠?**
-    **고민 끝! 2024 가성비 끝판왕 삼탠바이미 TOP 2 대공개!**
-    (하단 작게) #스탠바이미가성비 #삼탠바이미 #이동식TV
+### **[카드뉴스 1/4]**
+*   **카드 텍스트:**
+    스탠바이미, 너무 비싸서 포기했어? 😱
+    현직 MD가 찾은 '가성비 끝판왕' 삼탠바이미 보러가자!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, modern living room with a slightly blurred background, showing a luxurious but expensive-looking portable TV (resembling LG StandbyMe) in the foreground, overlaid with a giant, bright red "X" mark and a question mark icon. Below the "X", a vibrant, glowing text "STANDBY ME?" appears, with a spotlight effect. In the corner, a hand gesture pointing forward. Cinematic, high contrast, clean lines, minimalist, sharp focus on the "X" and text. --ar 4:5 --v 5.2`
+    A stylish, minimalist living room with a modern mobile TV stand. A thought bubble above the TV shows a crossed-out, extremely high price tag (e.g., $1000+), symbolizing "expensive." A person looking slightly disappointed but hopeful is in the foreground, with a curious expression. Clean lines, soft ambient light, high contrast, product photography style, ultra detailed, --ar 1:1
 
----
-
-### **[2/4] 컷**
-*   **들어갈 텍스트:**
-    **💸 20만원대? 실화? 최고의 가성비!**
-    **[위드라이프] 구글 32인치 스마트TV 삼탠바이미 세트**
-    ✔️ **압도적 가성비:** TV+스탠드 27만원대!
-    ✔️ **구글TV 탑재:** 넷플릭스, 유튜브 무제한!
-    ✔️ **32인치 최적 사이즈:** 이동성 & 시원함 동시 만족!
+### **[카드뉴스 2/4]**
+*   **카드 텍스트:**
+    💡 가성비 끝판왕: 32인치 구글TV 삼탠바이미
+    ✔️ 27만원대! 넷플릭스, 유튜브 다 되는 스마트함!
+    ✔️ 에너지 효율 1등급은 덤!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy bedroom interior at dusk, with a 32-inch modern smart TV on a sleek, mobile stand positioned next to a bed. The TV screen displays Google TV interface with Netflix logo prominently. A person is comfortably watching TV from bed. Warm, soft lighting, minimalist design, focus on relaxation and convenience. --ar 4:5 --v 5.2`
+    A sleek 32-inch smart TV on a minimalist white mobile stand in a modern, cozy bedroom. The screen dynamically displays the Google TV interface with prominent Netflix and YouTube app icons clearly visible. A steaming cup of coffee and a book rest on a nearby bedside table. Soft morning light streams through a window, creating a warm, inviting atmosphere. Product photography, clean aesthetic, ultra detailed, photorealistic, --ar 1:1
 
----
-
-### **[3/4] 컷**
-*   **들어갈 텍스트:**
-    **💎 대화면 QLED, 이 가격에? 프리미엄 업그레이드!**
-    **[와이드뷰] 40인치 QLED 스마트 TV 삼탠바이미 세트**
-    ✔️ **QLED 화질:** 생생한 색감, 압도적 몰입감!
-    ✔️ **40인치 대화면:** 우리 집 거실이 미니 영화관!
-    ✔️ **안정적 무빙 스탠드:** 어디든 자유롭게!
+### **[카드뉴스 3/4]**
+*   **카드 텍스트:**
+    💡 대화면 프리미엄: 40인치 QLED 삼탠바이미
+    ✔️ 38만원대! 영화관을 우리 집으로!
+    ✔️ 압도적인 QLED 화질로 몰입감 최고!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A sophisticated living room with a large, bright 40-inch QLED smart TV on a mobile stand, showing a vivid, high-definition movie scene with vibrant colors. The TV is the focal point, reflecting light beautifully. A cozy, modern sofa is in the foreground. Luxurious, cinematic, rich colors, soft ambient lighting. --ar 4:5 --v 5.2`
+    A sophisticated 40-inch QLED smart TV on an elegant black mobile stand in a luxurious living space. The screen showcases a breathtaking, vibrant cinematic scene with deep blacks and rich, vivid colors, creating an immersive experience. A plush sofa with a soft throw blanket and a minimalist floor lamp are in the background. Warm, inviting ambient lighting, high-end product advertisement style, cinematic quality, 8k, --ar 1:1
 
----
-
-### **[4/4] 컷**
-*   **들어갈 텍스트:**
-    **✨ 이제 비싼 스탠바이미 말고 '삼탠바이미' 하세요!**
-    **✅ 당신의 라이프스타일에 맞는 삼탠바이미는?**
-    **👇 더 자세한 비교 & 구매는 프로필 링크에서 확인!**
+### **[카드뉴스 4/4]**
+*   **카드 텍스트:**
+    🤑 지갑은 가볍게, 만족도는 최상으로!
+    MD 추천 삼탠바이미로 스마트 라이프 시작!
+    ➡️ 더 많은 추천은 프로필 링크 클릭!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A split image or collage showing two distinct mobile smart TVs on stands in different settings (one in a cozy bedroom, one in a modern living room), both looking desirable and affordable. A large, inviting "Shop Now" button or a finger pointing to "Link in Bio" is prominently displayed in the center. Bright, energetic, inspiring, comparison graphic. --ar 4:5 --v 5.2`
+    A dynamic split screen showing the two main SamtandyME TVs (32-inch Google TV and 40-inch QLED) side-by-side. One side features a happy person enjoying content on the smaller TV, while the other side shows a family enjoying a movie on the larger TV. Interspersed are glowing review stars, a "best choice" ribbon, and a full, happy-looking wallet icon. Bright, infographic-style, clean design, vector art influence, 3D render, --ar 1:1
