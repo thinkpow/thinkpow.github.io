@@ -1,74 +1,75 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**영상 컨셉:** 스탠바이미를 꿈꾸지만 가격 때문에 좌절하는 사람들의 페인 포인트를 긁어주고, 가성비 대안을 속도감 있는 영상과 함께 제시하여 '도파민 폭발'을 유도합니다.
+**[시작]**
 
----
+**(0-3초) 훅: 현기증 나는 가격표에 좌절하는 모습**
+**나레이션**: "스탠바이미 사고 싶어서 현기증 나는데... 가격 보면 뒷목 잡죠? 😵‍💫"
+**(화면: 스탠바이미 로고 옆에 '200만원대' 가격표가 크게 뜨고, 인물이 놀라며 뒷목을 잡는 코믹한 표정)**
 
-**[영상 스크립트]**
+**(3-6초) 문제 제기 & 해결책 제시**
+**나레이션**: "걱정 마! 가성비 끝판왕 '삼탠바이미'가 있잖아? 이동식 스마트 TV, 가격은 반의 반!"
+**(화면: 비싼 스탠바이미 가격표가 쪼그라들고, 화려하고 저렴한 삼탠바이미들이 등장. '가성비', '이동식', '스마트 TV' 키워드 자막 빠르게 지나감)**
 
-*   **[0-3초] 훅 (Hook): 시선 강탈!**
-    *   **화면:** (슬픈 표정으로 스탠바이미 가격표를 보고 한숨 쉬는 사람 -> "💸100만원?" 자막) (⚡️화면 전환, 밝게 웃으며 이동식 TV 사용하는 사람 -> "NO! 20만원대!" 자막)
-    *   **음성 (빠르고 신나는 톤):** "스탠바이미 갖고 싶어서 현기증 나는데... 가격 보고 뒷목 잡았다구요?! 걱정 마! 내가 3초만에 인생템 찾아줄게!"
+**(6-10초) 제품 1: 와이드뷰 40인치 QLED 스마트 삼탠바이미**
+**나레이션**: "💥 첫 번째! 와이드뷰 40인치 QLED! 40인치 대화면이 30만원대? 내 방이 바로 영화관 변신!"
+**(화면: 와이드뷰 40인치 삼탠바이미 제품샷 → 넷플릭스 영화가 재생되는 대화면 클로즈업. '40인치', 'QLED', '30만원대' 자막 강조)**
 
-*   **[3-7초] 이노스 32인치 삼탠바이미**
-    *   **화면:** (이노스 32인치 TV가 침대 옆, 주방 등 다양한 공간에 놓여있는 모습. 깔끔한 디자인 강조) ("이노스 32인치 ➡️ 20만원대!" 자막)
-    *   **음성:** "첫 번째! 20만원대로 32인치 이동식 스마트 TV? 이노스 삼탠바이미! 넷플릭스, 유튜브 다 돼! 이 가격 실화?!"
+**(10-13초) 제품 2: 위드라이프 32인치 구글 스마트 삼탠바이미**
+**나레이션**: "😱 두 번째! 위드라이프 32인치 구글 스마트 TV! 20만원대에 구글TV, 넷플릭스? 이건 안 사면 손해!"
+**(화면: 위드라이프 32인치 삼탠바이미 제품샷 → 구글 TV 인터페이스와 넷플릭스, 유튜브 아이콘이 선명하게 보임. '20만원대', '구글TV', '에너지 1등급' 자막 강조)**
 
-*   **[7-12초] 와이드뷰 40인치 QLED 삼탠바이미**
-    *   **화면:** (와이드뷰 40인치 QLED TV로 영화나 게임 영상이 선명하게 재생되는 모습. 압도적인 화질 강조) ("와이드뷰 40인치 QLED ➡️ 30만원대!" 자막)
-    *   **음성:** "좀 더 좋은 화질? 40인치 QLED 대화면 와이드뷰! 넷플릭스 영화도 극장처럼! 크고 선명한데 가격까지 미쳤다!"
+**(13-15초) 마무리 & CTA**
+**나레이션**: "스탠바이미 부럽지 않은 가성비 삼탠바이미! 지금 바로 댓글 링크에서 확인해봐!"
+**(화면: 두 제품이 나란히 배치되고, 화면 하단에 '더 자세한 정보는 댓글 링크 확인!' 자막. 신나는 BGM과 함께 마무리)**
 
-*   **[12-15초] 마무리 & CTA**
-    *   **화면:** (두 제품 나란히 비교하며 장점 요약. "내 취향 삼탠바이미는? ➡️ 프로필 링크 확인!" 자막)
-    *   **음성:** "뭘 골라도 후회 없는 스탠바이미 가성비! 더 자세한 비교와 구매는 프로필 링크에서 바로 확인해봐!"
+**[끝]**
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-**카드뉴스 컨셉:** 스탠바이미의 비싼 가격에 대한 공감대를 형성하고, 가성비 삼탠바이미 2종을 명확하게 비교하며 소비자의 구매를 유도합니다. 깔끔하고 직관적인 디자인을 위해 이미지 프롬프트에 'minimalist'를 포함합니다.
-
----
-
-### 컷 1
+### 💡 1컷: 훅 (문제 제기 & 해결책)
 
 *   **카드 텍스트:**
-    스탠바이미 갖고 싶지만 비싸다고? 😱
-    2024 가성비 삼탠바이미 TOP 2!
-    (가격 때문에 망설인 당신을 위한 완벽 대체재!)
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A visually striking image, person looking longingly at a blurred, expensive-looking portable smart TV while holding an empty wallet. On the other side, a bright, glowing thought bubble shows two sleek, modern portable smart TVs with price tags of $200s and $300s. Dynamic contrast, vibrant colors, minimalist design, futuristic aesthetic, hyperrealistic, --ar 1:1`
+    *   **헤드라인:** "스탠바이미 가격보고 현기증 났다면 주목!"
+    *   **서브텍스트:** "똑똑한 당신을 위한 '가성비 삼탠바이미' TOP 2 공개!"
+*   **Midjourney 프롬프트:**
+    `A sleek, modern portable smart TV stand (similar to LG StanbyME) displaying a large red question mark on its screen, placed in a cozy, minimalist living room with warm indirect lighting. A person's hand is holding their head in frustration looking at a blurred price tag in the foreground. Cinematic, high resolution, soft focus background, realistic --ar 9:16 --v 5.2`
 
-### 컷 2
-
-*   **카드 텍스트:**
-    [1] 이노스 32인치 삼탠바이미
-    💸 20만원대! 압도적 가성비!
-    ✨ FHD 스마트TV + 이동식 거치대
-    🎬 넷플릭스, 유튜브 필수 기능 OK!
-    (30만원 미만 최고의 선택!)
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A bright, cozy bedroom interior. A sleek, white Innos 32-inch portable smart TV with a minimalist stand is positioned beside a bed, displaying a Netflix interface. The room is modern and clean, with soft natural light. Focus on portability and ease of use. Photorealistic, high detail, warm lighting, --ar 1:1`
-
-### 컷 3
+### 💡 2컷: 와이드뷰 40인치 QLED 스마트 삼탠바이미
 
 *   **카드 텍스트:**
-    [2] 와이드뷰 40인치 QLED 삼탠바이미
-    💰 30만원대! 대화면 QLED!
-    🌟 40인치 대화면 + QLED 선명함
-    🍿 영화관급 몰입감!
-    (화질과 크기 모두 잡았다!)
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A sophisticated living room interior. A large, elegant Wideview 40-inch QLED portable smart TV on a stylish stand is showcasing a vibrant, high-definition movie scene with rich colors. Emphasize the screen quality and immersive viewing experience. Modern, luxurious, cinematic lighting, sharp focus, --ar 1:1`
+    *   **헤드라인:** "💥40인치 QLED 대화면! 와이드뷰 스마트 삼탠바이미"
+    *   **핵심 장점:**
+        *   ✔30만원대 프리미엄 가성비
+        *   ✔압도적 크기 & QLED 화질
+        *   ✔OTT 바로 시청 스마트 TV
+    *   **가격:** "385,480원"
+*   **Midjourney 프롬프트:**
+    `A 40-inch portable smart TV (resembling a large StanbyME but not StanbyME itself) with a vibrant QLED screen displaying a thrilling movie scene. It is positioned in a modern, luxurious bedroom with a comfortable bed, soft lighting, and elegant minimalist decor. High-resolution, cinematic, elegant, realistic, cozy ambiance --ar 9:16 --v 5.2`
 
-### 컷 4
+### 💡 3컷: 위드라이프 32인치 구글 스마트 삼탠바이미
 
 *   **카드 텍스트:**
-    당신의 스탠바이미는?
-    지금 바로 삶의 질 UP! ⬆️
-    🔗 더 자세한 정보는 프로필 링크 확인!
-    #스탠바이미가성비 #이동식TV #스마트TV
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A vibrant and dynamic split screen or collage. On one side, a person is happily watching content on the Innos TV in a casual setting. On the other side, another person is engrossed in a movie on the Wideview QLED TV in a more premium setting. A bold, upward-pointing arrow with "Life Quality UP!" text in the center. Bright, energetic, modern, --ar 1:1`
+    *   **헤드라인:** "💰20만원대 최강 가성비! 위드라이프 구글 스마트 삼탠바이미"
+    *   **핵심 장점:**
+        *   ✔20만원대 압도적 가성비
+        *   ✔구글 스마트 TV 기능 (넷플릭스, 유튜브)
+        *   ✔에너지 효율 1등급
+    *   **가격:** "279,000원"
+*   **Midjourney 프롬프트:**
+    `A 32-inch portable smart TV with a clean, simple design, displaying the Google TV interface with Netflix and YouTube app icons clearly visible. It is placed in a bright, modern kitchen or a small, functional studio apartment, with a person casually watching content while having breakfast. Daylight, realistic, cozy, smart home technology, clean background --ar 9:16 --v 5.2`
+
+### 💡 4컷: 요약 & CTA
+
+*   **카드 텍스트:**
+    *   **헤드라인:** "스탠바이미 부럽지 않아! 가성비 삼탠바이미로 즐기는 스마트 라이프!"
+    *   **추천:**
+        *   와이드뷰 40인치 (프리미엄 대화면)
+        *   위드라이프 32인치 (가성비 입문용)
+    *   **추가 추천:** 티비아울렛 삼탠바이미 스탠드 (28만원대)
+    *   **CTA:** "더 자세한 정보는 프로필 링크 확인! 👀"
+*   **Midjourney 프롬프트:**
+    `A dynamic split image showing two different portable smart TVs (one larger 40-inch, one smaller 32-inch, both similar to StanbyME but not StanbyME itself) displayed side-by-side. The left side features a spacious, luxurious living room scene, and the right side a compact, functional study or cozy bedroom. Both TVs are ON. High-tech, futuristic yet cozy, with clear overlay text space. Realistic, vibrant, modern interior design --ar 9:16 --v 5.2`
