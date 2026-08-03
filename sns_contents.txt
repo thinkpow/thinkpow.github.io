@@ -1,64 +1,70 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**콘텐츠 제목:** 스탠바이미 비싸? 놉! 20만원대로 스마트 라이프 끝판왕 찍기! 💸 #삼탠바이미
-
----
-
-**[영상 스크립트]**
-
-*   **영상 길이:** 15초
-*   **음악:** 경쾌하고 통통 튀는 배경음악
-
-**(0-3초) 훅: 시선 강탈 & 문제 제기**
-*   **대사:** "스탠바이미 가격 보고 깜짝 놀랐다면? 😱 잠깐! 20만원대로 스마트 라이프 가능해요!"
-*   **영상:** 팝업되는 스탠바이미 비싼 가격표에 놀라는 표정 > 바로 전환되어 활짝 웃으며 손가락으로 화면을 가리키는 모습. '20만원대' 숫자 강조 애니메이션.
-
-**(3-8초) 해결책 제시 & 핵심 기능 강조**
-*   **대사:** "이젠 '삼탠바이미'로 넷플릭스, 유튜브, 이동성까지! 거실, 침실, 주방 어디든 OK!"
-*   **영상:** 삼탠바이미가 다양한 공간(거실, 침실, 주방)으로 부드럽게 이동하며 사용되는 모습. TV 화면에 넷플릭스 로고, 유튜브 로고 빠르게 전환되는 인포그래픽 효과.
-
-**(8-13초) 메인 추천 제품 & 구체적 장점**
-*   **대사:** "특히 이 '위드라이프 32인치'는 구글 안드로이드 TV 기본 탑재! 20만원대 후반에 이 모든 게 내 것!"
-*   **영상:** 위드라이프 제품 클로즈업. TV 화면에 구글 안드로이드 TV UI와 OTT 앱들이 선명하게 보이는 장면. 가격 '279,000원' 강조하는 숫자 애니메이션과 1등급 에너지 효율 마크 잠시 노출.
-
-**(13-15초) 마무리 & CTA**
-*   **대사:** "더 많은 정보는 프로필 링크에서 확인하세요! 지금 바로 겟하세요! #스탠바이미가성비 #삼탠바이미"
-*   **영상:** 화면 하단에 상품 이미지와 "프로필 링크 확인!" 텍스트, 해시태그 오버레이. 손가락으로 위를 가리키는 제스처.
+**제목:** 스탠바이미 로망인데 지갑은? 💸 20만원대 '이것'으로 대동단결! (삼탠바이미 가성비 끝판왕)
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**(영상 길이: 15초)**
 
-**콘텐츠 제목:** 스탠바이미 가성비 끝판왕? 20만원대로 즐기는 스마트 라이프! ✨ #삼탠바이미추천
+**[0-3초] 훅 (시선 강탈!)**
+*   **화면:** (빠른 전환, 인물 등장) 비싼 스탠바이미 가격표 보며 경악하는 표정 (EX: 120만원?) -> 순간 암전 후 'STOP!' 강렬한 텍스트
+*   **대사:** "스탠바이미 로망은 있는데, 지갑은 텅텅 비었니? 😭 잠깐!"
+*   **효과:** 찰칵! 하는 카메라 효과음, 긴장감 있는 배경음악 -> 밝고 경쾌한 음악으로 급 전환
 
----
+**[3-7초] 제품 1 소개**
+*   **화면:** 위드라이프 32인치 삼탠바이미가 침실에서 편안하게 넷플릭스를 재생하는 모습. 제품 이미지와 함께 **'20만원대 초가성비! 위드라이프 32인치'** 텍스트 빠르게 오버레이. 구글 어시스턴트 사용하는 모습 강조.
+*   **대사:** "걱정 마! 현명한 사람들은 이걸로 바꾼다! 20만원대에 구글 스마트TV 32인치! 위드라이프가 가성비 끝판왕!"
 
-**[1컷]**
-*   **들어갈 텍스트:** 💸 스탠바이미 비싸서 망설였다면?
-    ✨ 20만원대 '삼탠바이미'가 답!
-*   **Midjourney 스타일 영문 프롬프트:** A person looking shocked and a bit sad while holding a luxurious, expensive-looking smart TV price tag. In the background, a sleek, modern StandbyMe-like TV is subtly blurred. The scene is clean, minimalist, and uses soft, warm lighting. Humorous and relatable. Midjourney style, cinematic, high resolution.
+**[7-11초] 제품 2 소개**
+*   **화면:** 와이드뷰 40인치 QLED 화이트 에디션이 깔끔한 거실/원룸 인테리어에 어우러져 있는 모습. 고화질 영상 재생 화면 강조. 제품 이미지와 함께 **'40인치 QLED 대화면! 와이드뷰 화이트 에디션!'** 텍스트 빠르게 오버레이.
+*   **대사:** "화질 포기 못 해? 그럼 40인치 QLED 대화면! 와이드뷰 화이트 에디션으로 인테리어까지 한 번에! 이 가격에 이 화질, 실화냐?"
 
----
-
-**[2컷]**
-*   **들어갈 텍스트:** 넷플릭스, 유튜브, 이동성까지!
-    가성비 삼탠바이미로 스마트 라이프 시작!
-*   **Midjourney 스타일 영문 프롬프트:** A cozy and inviting living room. A happy person is casually lounging on a sofa, engrossed in a movie playing on a mobile smart TV (Samtanbyme) on a wheeled stand. The TV screen clearly shows Netflix and YouTube app icons. The atmosphere is relaxed and comfortable, with warm, natural light. Midjourney style, photorealistic, wide shot.
-
----
-
-**[3컷]**
-*   **들어갈 텍스트:** ✨ TOP 1 추천: 위드라이프 32인치 구글TV 삼탠바이미
-    ✔️ **가격:** 279,000원대!
-    ✔️ **장점:** 구글 안드로이드 TV (OTT 무제한), 32인치 대화면, 1등급 에너지 효율!
-*   **Midjourney 스타일 영문 프롬프트:** A clean and elegant product shot of the "WithLife 32-inch Google TV Samtanbyme" on a minimalist, white mobile stand. The TV screen displays the vibrant Google Android TV interface with various OTT apps (Netflix, YouTube, Disney+). The background is a bright, uncluttered modern room. Focus on the product's sleek design and smart capabilities. Studio lighting, high contrast. Midjourney style, product photography, ultra-detailed.
+**[11-15초] 마무리 및 CTA**
+*   **화면:** 세 제품 (위드라이프, 와이드뷰, 티비아울렛)이 차례로 번개처럼 지나가며 비교되는 인포그래픽 효과. 마지막에 세 제품이 한 화면에 모이고 '현명한 소비! 삼탠바이미!' 텍스트.
+*   **대사:** "스탠바이미 대신 '삼탠바이미'로 똑똑하게 즐겨! 더 자세한 정보는 지금 바로 댓글 링크 확인!"
+*   **효과:** 도파민 폭발하는 밝고 신나는 효과음, '링크 클릭!' 강조
 
 ---
 
-**[4컷]**
-*   **들어갈 텍스트:** 나에게 딱 맞는 삼탠바이미는?
-    지금 바로 프로필 링크에서 상세 비교 확인!
-    #스탠바이미가성비 #삼탠바이미 #스마트TV추천 #내돈내산
-*   **Midjourney 스타일 영문 프롬프트:** A dynamic, visually engaging split-screen composition. On one side, a montage of various Samtanbyme TVs (different sizes and and sleek designs) is subtly showcased, implying diverse choices. On the other side, bold, eye-catching text "Click the link in bio!" with an animated arrow pointing downwards. The overall aesthetic is energetic, informative, and action-oriented, using vibrant colors and modern typography. Midjourney style, graphic design, abstract elements, professional.
+## 📸 인스타그램 카드뉴스 4컷
+
+### **카드 1**
+
+*   **들어갈 텍스트:**
+    **스탠바이미? NO! 🙅‍♀️ 요즘 똑똑한 사람들은 '이것' 산다?! 💸**
+    100만원대 스탠바이미는 옛말!
+    **#가성비 #삼탠바이미** 로 나만의 스마트TV 로망 실현!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish, minimalist modern living room with a person happily lounging on a sofa, looking at a sleek, movable smart TV on a stand. The TV screen shows bright, engaging content. Soft, natural lighting. Joyful and relaxed atmosphere. --ar 4:5 --v 5.2`
+
+### **카드 2**
+
+*   **들어갈 텍스트:**
+    **1. 💰 20만원대 끝판왕! 위드라이프 32인치 구글 스마트TV**
+    ✔ 20만원대 후반 최저가!
+    ✔ 32인치 구글 안드로이드 스마트TV (넷플릭스, 유튜브, 구글 어시스턴트)
+    ✔ 1등급 에너지 효율! 이동형 스탠드로 어디든 OK!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cozy bedroom with a 32-inch black smart TV on a minimalist movable stand. The TV screen clearly displays a Netflix series. A person is comfortably watching from bed. Warm, inviting light from a window. Modern, serene, and comfortable. --ar 4:5 --v 5.2`
+
+### **카드 3**
+
+*   **들어갈 텍스트:**
+    **2. ✨ 화질 & 디자인 둘 다 잡은! 와이드뷰 40인치 QLED 화이트 에디션**
+    ✔ 40인치 QLED 대화면으로 압도적 몰입감!
+    ✔ 선명한 화질 & 트렌디한 화이트 디자인!
+    ✔ 인테리어까지 완벽! 스마트TV + 이동형 스탠드!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A bright, sophisticated living space with a large 40-inch QLED smart TV in a sleek white frame on a matching movable stand. The screen shows vibrant, high-definition (QLED quality) content. The room has a clean, minimalist white aesthetic with some plants. Modern, elegant, and immersive. --ar 4:5 --v 5.2`
+
+### **카드 4**
+
+*   **들어갈 텍스트:**
+    **💡 리뷰언니의 추가 추천! 티비아울렛 Google TV 삼탠바이미**
+    ✔ 20만원대 후반! Google TV OS 탑재!
+    ✔ 개인 맞춤형 콘텐츠 추천! 뛰어난 이동성!
+    **✨ 현명한 당신을 위한 '삼탠바이미' 지금 바로 확인! (링크는 프로필)**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A dynamic collage image featuring a movable smart TV (similar to a Standbyme alternative) being used in three different modern settings: a bedroom, a kitchen, and a living room. The TV screens show the Google TV interface with personalized content. Bright, versatile, and energetic feel. Emphasize mobility and smart features. --ar 4:5 --v 5.2`
