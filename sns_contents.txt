@@ -1,64 +1,77 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 스탠바이미 가성비 종결 15초 쇼츠 대본
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-### 🎬 유튜브 쇼츠/틱톡 스크립트 (15초)
-
-**[영상 컨셉]**
-빠른 화면 전환, 제품별 핵심 장점 강조, 자막 및 효과음으로 몰입도 높이기.
+**제목:** LG 스탠바이미? 댓츠 노노! 20만원대 '이것'으로 끝! #삼탠바이미 #가성비TV
 
 ---
 
-**[0-3초] 훅 (Hook)**
-*   **화면:** 스탠바이미 비싼 가격표 클로즈업 ➡️ 실망하는 표정의 사람 ➡️ 갑자기 화면 전환, 눈이 휘둥그레지는 효과음
-*   **대사:** "스탠바이미 갖고 싶은데... 헉! 이 가격 실화?!" (빠르고 강렬하게) "걱정 마! 내가 가성비 끝판왕 '삼탠바이미' 3가지 가져왔어! 첫 3초 시선 강탈 성공!"
+**(영상 시작: 쨍한 효과음과 함께 화면에 LG 스탠바이미 사진이 비추고, 그 위에 비싼 가격표 '100만원대'가 크게 오버랩 된다. 배우는 실망한 표정)**
 
-**[3-10초] 본문 (제품 소개)**
-*   **화면:** (3-6초) 와이드뷰 40인치 QLED 삼탠바이미 등장, 거실에서 영화 보는 장면, 자막: '40인치 QLED! 압도적 화질!'
-*   **대사:** "첫째, 40인치 QLED! 원조보다 더 크고 선명한 프리미엄 화질! 홈시네마 바로 완성!" (빠르게 강조)
-*   **화면:** (6-9초) 이노스 32인치 삼탠바이미 등장, 침실에서 편하게 사용하는 장면, 자막: '30만원대! 나만의 스마트 TV!'
-*   **대사:** "둘째, 30만원대! 침실에 딱! 32인치 스마트 TV로 드라마 정주행 끝!" (가성비 강조)
-*   **화면:** (9-12초) 티비아울렛 구글TV 삼탠바이미 등장, 가장 저렴한 가격표, 자막: '심지어 20만원대 구글TV?!'
-*   **대사:** "심지어 20만원대! 구글TV까지? 삼탠바이미 입문용으로 이만한 게 없지!" (놀라움 강조)
+**👤 배우:** (놀란 표정) 스탠바이미 사고 싶었는데... 헉, 100만원이 넘어?! 💸 (실망한 한숨)
+**(3초 내 전환: 화면이 뿅! 하고 바뀌며 밝고 경쾌한 BGM으로 전환, 위드라이프/와이드뷰 제품이 빠르게 스쳐 지나간다)**
 
-**[12-15초] 클로징 & CTA**
-*   **화면:** 세 제품이 함께 놓여있거나, 각 제품의 장점을 요약한 그래픽. "망설일 시간 없어!" 문구와 함께 손가락이 위를 가리키는 화살표 애니메이션
-*   **대사:** "더 자세한 정보는 지금 바로 프로필 링크 확인! 올 여름, 나만의 스마트 TV로 갓생 살자!"
+**👤 배우:** 잠깐! 🚨 비싼 스탠바이미 말고, 20만원대로 감성+스마트 다 잡는 **'삼탠바이미'** 알아? (손가락으로 콕 찌르며)
+
+**(제품 1 클로즈업: 위드라이프 32인치 제품이 나오고, 옆에 '20만원대 실화?', '32인치 구글TV' 자막)**
+**👤 배우:** 첫째! 20만원대 **위드라이프 32인치!** 🤩 구글TV로 넷플릭스, 유튜브 다 되고, 심지어 에너지 1등급이야!
+
+**(제품 2 클로즈업: 와이드뷰 40인치 제품이 나오고, 옆에 '40인치 QLED 대화면', '압도적 몰입감' 자막)**
+**👤 배우:** 둘째! 화질 욕심 있다면 **와이드뷰 40인치 QLED!** ✨ 30만원대로 대화면에 선명한 화질까지! 영화관이 우리 집으로 쏙!
+
+**(제품들이 침대 옆, 주방 등 다양한 공간으로 쓱쓱 이동하는 모습 빠르게 편집)**
+**👤 배우:** 침대 옆, 주방, 어디든 쓱~ 움직이는 나만의 스마트 TV! 망설이는 순간 품절 각!
+
+**(마지막 2초: 제품 3개(위드라이프, 와이드뷰, 티비아울렛)가 한 화면에 모이고, 아래에 '자세한 정보는 프로필 링크 클릭!' 자막과 함께 배우가 링크를 가리킨다)**
+**👤 배우:** (밝게 웃으며) 스탠바이미 로망, 20만원대로 끝내자! 지금 바로 프로필 링크 확인! 🛒
+**(영상 종료)**
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
-### 📄 카드뉴스 텍스트 및 이미지 프롬프트
+---
+
+### 🖼️ 1컷: 도입 & 문제 제기 (훅)
+
+*   **텍스트:**
+    **LG 스탠바이미, 너무 비싸서 고민? 💸**
+    이젠 20만원대로 로망 실현!
+    #스탠바이미 #가성비TV #삼탠바이미
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish, modern living room interior. A person with a slightly disappointed expression looking at a luxury, expensive movable smart TV (LG StandbyMe style) with a blurred out price tag of '$$$' floating above it. In the foreground, a shimmering, more affordable, sleek black movable smart TV is coming into focus, representing a solution. Bright, aspirational, cinematic lighting, a mix of pastel and warm tones. --ar 1:1 --v 5.2 --style raw`
 
 ---
 
-**[1/4 컷]**
-*   **카드 텍스트:**
-    "스탠바이미 갖고 싶은데... 💸 가격 때문에 망설였다면? #스탠바이미가성비 #삼탠바이미"
-*   **Midjourney 프롬프트:**
-    `A young woman looking longingly at a sleek, modern, movable smart TV (similar to LG StanbyMe), with a thought bubble above her head showing a stack of money with a red "X" over it. She has a slightly sad but hopeful expression. The background is a minimalist, cozy living room. Photorealistic, cinematic lighting, vibrant colors. --ar 1:1`
+### 🖼️ 2컷: 가성비 끝판왕 소개 (위드라이프)
+
+*   **텍스트:**
+    **[가성비 끝판왕] 20만원대 위드라이프 32인치 구글TV 삼탠바이미!**
+    ✅ 32인치 황금 사이즈
+    ✅ 구글TV로 모든 OTT OK!
+    ✅ 에너지 효율 1등급
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cozy and aesthetically pleasing bedroom corner. A sleek, minimalist 32-inch movable smart TV (similar to StandbyMe) displaying a vibrant YouTube video or Netflix content. A person is comfortably watching from a bed or plush armchair. Soft natural morning light streaming through a window, modern Scandinavian interior design with warm textures and potted plants. --ar 1:1 --v 5.2 --style raw`
 
 ---
 
-**[2/4 컷]**
-*   **카드 텍스트:**
-    "🤯 40인치 QLED! 원조보다 크고 선명한 #와이드뷰삼탠바이미 로 홈시네마 끝판왕!"
-*   **Midjourney 프롬프트:**
-    `A luxurious, modern living room at dusk, with a 40-inch QLED portable smart TV (resembling Wideview SamtanbyMe V3) displaying a vibrant, high-definition movie scene. A person is comfortably lounging on a sofa, fully immersed. The TV has a sleek, mobile stand. Cinematic, high detail, rich colors, photorealistic. --ar 1:1`
+### 🖼️ 3컷: 대화면 & 화질 강조 (와이드뷰)
+
+*   **텍스트:**
+    **[화질+대화면] 30만원대 와이드뷰 40인치 QLED 삼탠바이미!**
+    ✅ 40인치 대화면 & QLED 화질
+    ✅ 압도적인 몰입감
+    ✅ 스마트TV 기능 완벽!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A spacious and bright living room or studio apartment. A 40-inch QLED movable smart TV showcasing an immersive, high-definition movie scene with vivid colors and deep blacks. A happy couple or friends are engrossed in the content from a comfortable sofa. Dynamic cinematic lighting, modern industrial chic interior with large windows and subtle decor. --ar 1:1 --v 5.2 --style raw`
 
 ---
 
-**[3/4 컷]**
-*   **카드 텍스트:**
-    "갓성비 실화?! 30만원대 #이노스삼탠바이미 32인치로 나만의 공간 완성!"
-*   **Midjourney 프롬프트:**
-    `A cozy, minimalist bedroom with soft, natural light streaming in. A 32-inch portable smart TV (resembling Innos SamtanbyMe) on a sleek, mobile stand is positioned next to a comfortable bed. The screen shows a popular streaming service UI. The room feels inviting and personal. High resolution, realistic, warm lighting. --ar 1:1`
+### 🖼️ 4컷: 선택 가이드 & CTA
 
----
-
-**[4/4 컷]**
-*   **카드 텍스트:**
-    "심지어 20만원대 구글TV까지? ✨ 프로필 링크에서 #티비아울렛삼탠바이미 포함 BEST 픽 확인!"
-*   **Midjourney 프롬프트:**
-    `A dynamic collage or triptych showing three different portable smart TVs (resembling Wideview, Innos, and TV Outlet SamtanbyMe models) in distinct settings (living room, bedroom, study). Each TV highlights its unique feature (large screen, affordability, Google TV interface). A bright, engaging call to action arrow or icon points upwards, with text overlay "Link in Bio". Modern, energetic, vibrant, flat lay style with depth, photorealistic. --ar 1:1`
+*   **텍스트:**
+    **내 라이프스타일에 딱 맞는 '삼탠바이미'는?**
+    침대 옆, 주방, 거실 어디든 쓱!
+    지금 바로 프로필 링크에서 자세히! 🛒
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A vibrant and engaging collage or split-screen image. On the left, a 32-inch movable smart TV in a cozy bedroom. On the right, a 40-inch movable smart TV in a modern living room. In the center, a third movable smart TV in a minimalist kitchen. A large, prominent "Link in Bio" button or text overlay. Bright, clean, and aspirational with subtle motion blur to convey movement. --ar 1:1 --v 5.2 --style raw`
