@@ -1,64 +1,83 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 💰스탠바이미 가격 실화냐? 20만원대로 똑똑한 이동식 TV 겟! #삼탠바이미 #가성비
-
-**(0-3초) ⚡️훅 (시선 강탈)**
-*   **화면:** (빠른 컷편집) 화려한 정품 스탠바이미 광고 영상 → 갑자기 멈추며 화면 가득 '2,000,000원?!' 같은 엄청난 가격표 등장 (X 표시) → 놀란 표정의 이모티콘과 함께 '헉... 이건 아니잖아!' 텍스트
-*   **나레이션 (빠르고 경쾌하게, 놀란 목소리):** "흐어어... 스탠바이미 가격 실화냐?! 갖고 싶어도 이 가격은... 포기해야 하나요?!"
-
-**(3-7초) 문제 제기 & 솔루션 제시**
-*   **화면:** 슬픈 표정이 밝아지며, 저렴한 '삼탠바이미' 제품(위드라이프)이 침대 옆, 주방 등 다양한 공간에서 편리하게 사용되는 장면 빠르게 전환
-*   **나레이션 (점점 밝고 활기차게):** "잠깐! 노놉! 이제 20만원대로 똑똑한 이동식 TV를 즐길 수 있다구요? 바로 '삼탠바이미'의 시대!"
-
-**(7-11초) 핵심 장점 어필 (제품 2가지 강조)**
-*   **화면:**
-    *   위드라이프 제품에 Google TV 로고, 넷플릭스/유튜브 앱 화면 줌인, 게임 화면 빠르게 전환
-    *   이노스 제품에 FHD 고화질 드라마/영화 장면 줌인, 매끄러운 이동식 스탠드 움직임
-*   **나레이션:** "구글TV로 넷플릭스, 유튜브, 게임까지 만능! (위드라이프) 선명한 FHD 화질로 콘텐츠 몰입감 UP! (이노스) 이동식 거치대로 어디든 쓱!"
-
-**(11-15초) 마무리 & CTA**
-*   **화면:** 메인 상품 2개와 추가 추천 상품 3개(무빙큐빅스, 아이팔콘, 프리토스)가 나란히 놓여있는 깔끔한 인포그래픽 화면. 각 제품 위에 가격 강조 (10만원대~30만원대). 마지막으로 '더 자세한 정보는 프로필 링크 클릭!👆' 텍스트 크게.
-*   **나레이션:** "심지어 10만원대 제품부터 HDR 기능까지! 내 라이프스타일에 딱 맞는 '삼탠바이미'는? 지금 바로 프로필 링크에서 만나보세요!"
+**[영상 컨셉]**
+스탠바이미의 높은 가격에 좌절하던 고객이, 가성비 삼탠바이미를 만나 '이게 되네?' 하는 감동과 함께 스마트한 일상을 누리는 모습. 빠르고 전환이 많은 컷 편집.
 
 ---
 
-## 2. 인스타그램 카드뉴스 (4컷)
+**[0-3초] 훅 (Hook)**
+*   **화면:** (빠른 컷 전환)
+    *   LG 스탠바이미 광고 이미지 (고급스러움 강조) → 바로 다음 컷에 ₩2,000,000+ 같은 높은 가격표가 번개처럼 지나가고 → 좌절하는 사람 (얼굴 대신 손으로 머리를 감싸거나 한숨 쉬는 모습)
+*   **자막:** "스탠바이미... 가격보고 기절할 뻔? 😱"
+*   **내레이션/BGM:** (경쾌한 배경음악 시작, 자막과 동시에) "LG 스탠바이미, 너무 비싸서 포기했어요? 😭"
 
-### 📄 카드 1/4
+**[3-7초] 문제 제기 & 해결사 등장**
+*   **화면:** 한숨 쉬던 사람이 갑자기 눈을 번쩍 뜨고, 화면에 10년차 이커머스 MD 로고 또는 아이콘 등장. 손가락으로 '쉿!' 하는 제스처.
+*   **자막:** "댓츠 노노! 🙅‍♀️ 10년차 MD가 찾아낸 '스탠바이미 가성비' 끝판왕 발견!"
+*   **내레이션:** "걱정 마요! 10년차 MD가 당신의 스마트 라이프를 위해 찾아냈어!"
+
+**[7-11초] 메인 상품 1: 와이드뷰 (프리미엄 가성비)**
+*   **화면:** 와이드뷰 40인치 삼탠바이미 제품 이미지와 함께, 넷플릭스/영화 시청 장면으로 빠르게 전환. 40인치 강조 이펙트.
+*   **자막:** "👉 1번! 40인치 QLED! 30만원대 와이드뷰로 영화관이 내 방에! 🎬"
+*   **내레이션:** "첫째! 40인치 QLED 대화면에 30만원대! 와이드뷰로 영화관을 옮겨와!"
+
+**[11-14초] 메인 상품 2: 위드라이프 (합리적 가성비)**
+*   **화면:** 위드라이프 32인치 삼탠바이미 제품 이미지와 함께, 주방에서 레시피를 보거나 침대에서 유튜브를 보는 장면으로 전환. 구글 TV 로고 부각.
+*   **자막:** "👉 2번! 20만원대 구글TV! 위드라이프로 스마트함+실용성까지! 💡"
+*   **내레이션:** "둘째! 20만원대 구글TV! 위드라이프로 스마트함과 실용성까지 다 잡았어!"
+
+**[14-15초] 클로징 & CTA**
+*   **화면:** 두 제품이 나란히 배치되고, 화면 아래쪽에 '자세한 정보는 프로필 링크 클릭!' 버튼이 강조되어 깜빡임.
+*   **자막:** "스탠바이미 가성비템, 지금 바로 프로필 링크 확인! 👆"
+*   **내레이션:** "스탠바이미 가성비템, 지금 바로 프로필 링크 클릭해봐! 👆" (도파민 터지는 효과음과 함께 마무리)
+
+---
+
+## 📸 인스타그램 카드뉴스 (4컷)
+
+---
+
+### **1. 컷 (Slide 1/4)**
 
 *   **텍스트:**
-    *   **헤더:** "스탠바이미 갖고 싶어서 검색했다가..."
-    *   **바디:** "...가격 보고 심쿵했죠? 💔 이제 '삼탠바이미'로 20만원대에 스마트 이동식 TV 즐기세요!"
-*   **Midjourney 프롬프트 (영문):**
-    `A luxurious, modern portable smart TV resembling LG StandbyMe, displayed elegantly in a stylish, minimalist living room. Overlaid on the image, a large, dramatic "₩2,000,000+" price tag is prominently shown, conveying a sense of shock and inaccessibility. The overall mood is aspirational but with a hint of financial burden. Cinematic, sleek, high-end photography style. --ar 1:1 --v 5.2`
+    LG 스탠바이미, 갖고 싶지만 가격이 망설여진다면? 😨
+    10년차 MD가 찾아낸 '스탠바이미 가성비' 끝판왕! ✨
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A modern, stylish living room with minimalist decor. In the foreground, a shadowy silhouette of a very expensive, luxurious movable TV. In the mid-ground, a glowing, more affordable alternative movable TV solution is subtly revealed by a spotlight. The mood is a transition from initial disappointment (expensive price tag implied) to hopeful discovery. High quality, realistic product photography, bright natural light, clean aesthetic, --ar 1:1`
 
-### 📄 카드 2/4
+---
 
-*   **텍스트:**
-    *   **헤더:** "✨ 압도적 가성비! 구글TV 삼탠바이미"
-    *   **상품명:** 위드라이프 구글 스마트 삼탠바이미 (WLTSTW2)
-    *   **가격:** 279,000원
-    *   **바디:** "20만원대 후반에 구글TV OS 탑재! 넷플릭스, 유튜브, 게임까지 만능 엔터테이너! 에너지 1등급은 덤! 💚"
-*   **Midjourney 프롬프트 (영문):**
-    `A sleek, modern portable smart TV (generic brand) on a moving stand, featuring a vibrant screen displaying the Google TV interface with Netflix and YouTube logos. The TV is positioned in a brightly lit, cozy bedroom, possibly with a person's hand holding a remote control in the foreground. Focus on the screen's interactive display and smart capabilities. Realistic, high-definition, inviting atmosphere. --ar 1:1 --v 5.2`
-
-### 📄 카드 3/4
+### **2. 컷 (Slide 2/4)**
 
 *   **텍스트:**
-    *   **헤더:** "🌟 선명함이 최고! 이노스 FHD 삼탠바이미"
-    *   **상품명:** 이노스 FHD 스마트 삼탠바이미 (FS-20)
-    *   **가격:** 310,550원
-    *   **바디:** "화질을 포기할 수 없다면? FHD 해상도로 생생하게! 믿을 수 있는 이노스 브랜드와 자유로운 이동성까지!"
-*   **Midjourney 프롬프트 (영문):**
-    `A high-definition portable smart TV (generic brand, resembling Innos) on a sleek moving stand, displaying a vibrant, cinematic Full HD movie scene. The TV is located in a modern, well-lit living room or study. The primary focus is on the screen's crispness, detailed imagery, and rich color accuracy. Realistic, cozy, with a clean and contemporary aesthetic. --ar 1:1 --v 5.2`
+    1️⃣ 프리미엄급 시청 경험, 와이드뷰 40인치 QLED 스마트 삼탠바이미!
+    ✅ 40인치 QLED 대화면
+    ✅ 자체 스마트 OTT (넷플릭스, 유튜브 바로!)
+    ✅ 30만원대 후반 가격 혁명
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A luxurious and cozy living space, showcasing a large 40-inch QLED smart movable TV. The screen displays a vibrant, cinematic movie scene with rich colors. Soft, warm ambient lighting fills the room. A comfortable sofa and a stylish coffee table are subtly visible in the background, creating a premium yet attainable home theater experience. Professional product photography, high detail, realistic, --ar 1:1`
 
-### 📄 카드 4/4
+---
+
+### **3. 컷 (Slide 3/4)**
 
 *   **텍스트:**
-    *   **헤더:** "🔥 10만원대부터 HDR 기능까지! 당신의 선택은?"
-    *   **바디:** "최저가 무빙큐빅스(26만원대), HDR 아이팔콘(36만원대), 초가성비 프리토스(16만원대)까지! 지금 바로 나에게 맞는 '삼탠바이미'를 찾아보세요!"
-    *   **CTA:** "더 많은 정보는 프로필 링크 클릭!👆"
-*   **Midjourney 프롬프트 (영문):**
-    `An aesthetic arrangement of three distinct portable smart TVs on moving stands, showcasing a range of price points and features. From left to right: a minimalist, ultra-affordable TV (around $160), a sleek mid-range smart TV (around $260), and a slightly larger, premium black TV with HDR capabilities (around $360). Each TV has a subtle, representative icon (e.g., "$", "Smart", "HDR"). The background is modern, clean, and well-lit, designed for an infographic style. Flat lay or slightly elevated perspective. --ar 1:1 --v 5.2`
+    2️⃣ 스마트함과 실용성 모두! 위드라이프 32인치 구글 스마트 삼탠바이미!
+    ✅ 구글 TV OS (음성 인식 가능!)
+    ✅ 실용적인 32인치 & 뛰어난 이동성
+    ✅ 20만원대 후반 & 1등급 에너지 효율
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A bright, functional interior space that could be a modern kitchen or a cozy bedroom. A sleek 32-inch Google Smart movable TV is positioned perfectly, displaying a clean Google TV interface with a streaming app like YouTube or a recipe. Natural daylight streams in, highlighting its practicality and ease of use in everyday life. A cup of coffee or a cooking utensil might be subtly placed nearby. Realistic product shot, clean aesthetic, --ar 1:1`
+
+---
+
+### **4. 컷 (Slide 4/4)**
+
+*   **텍스트:**
+    💰 스탠바이미 가성비, 더 이상 고민 끝! 💰
+    10년차 MD가 엄선한 BEST 5,
+    지금 프로필 링크에서 만나보세요! 👆
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A dynamic and energetic scene. A person's hand is prominently holding a smartphone, with the thumb pointing towards a "Shop Now" or "Link in Bio" button on the screen. In the blurred background, a collage or cluster of various stylish movable TVs (StandbyME alternatives) with sparkling digital discount tags and price symbols. The overall mood is exciting, vibrant, and suggests a smart, satisfying shopping decision. Minimalist graphic design influence, --ar 1:1`
