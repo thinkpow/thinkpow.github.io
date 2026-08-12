@@ -1,87 +1,68 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 스탠바이미 20만원대? 😱 이동식 TV 가성비 끝판왕 '삼탠바이미' 등장!
+**[영상 컨셉]**
+도파민 폭발! 빠른 전환, 핵심 강조, 유쾌하고 친근한 말투로 시청자의 구매 욕구를 자극합니다.
 
----
+**[스크립트]**
 
-**[영상 시작 0-3초: 시선 강탈 훅]**
-*   **화면:** (화려한 LG 스탠바이미 광고 영상 짧게 재생 후, 바로 'X' 표시 뜨면서 화면 분할) 한쪽은 '스탠바이미 가격 100만원대?' 자막, 다른 한쪽은 '???' 당황한 표정의 인물 클로즈업. 빠르게 전환되며 '이제 NO!' 자막 크게 뜸.
-*   **내레이션 (빠르고 경쾌하게):** "스탠바이미 사고 싶어서 눈물 흘렸던 사람? 지금 당장 집중!"
+*   **훅 (0-3초): 시선 강탈! 비싼 스탠바이미는 이제 그만!**
+    *   **화면:** (충격받은 표정의 인물 클로즈업) 😲 "스탠바이미 가격… 대체 이게 무슨 일이야?!" (화면 전환: 비싼 스탠바이미 가격표가 💥깨지는 효과!) -> (밝게 웃으며 삼탠바이미를 가리키는 손) "NO! 이제 비싸게 사지 마세요!"
+    *   **내레이션:** "스탠바이미 갖고 싶어서 손가락만 빨고 있었다면 주목!"
 
-**[영상 3-15초: 본문 및 클로징]**
-*   **화면:** (활용 장면 전환: 침대 옆, 부엌, 캠핑 등 다양한 공간에서 '삼탠바이미'로 OTT 시청하는 모습 빠르게 스케치) 텍스트 오버레이: "20만원대로 스탠바이미 기능 완벽 재현?!"
-*   **내레이션:** "100만원 넘는 스탠바이미? 이제 그 돈 아껴! 20만원대로 이동식 스마트TV를 가질 수 있는 신박템, 바로 '삼탠바이미'!"
-*   **화면:** (위드라이프 구글 삼탠바이미 제품 사진 등장. 옆에 '27.9만 원' 가격과 '구글 TV 탑재' 강조 자막)
-*   **내레이션:** "구글TV까지 탑재된 위드라이프! 넷플릭스, 유튜브 다~ 기본이지!"
-*   **화면:** (무빙큐빅스 스마트 삼탠바이미 SET 제품 사진 등장. 옆에 '26.2만 원' 가격과 '스마트 기능 최저가' 강조 자막)
-*   **내레이션:** "심지어 20만원대 초반, 역대급 가성비 무빙큐빅스까지!"
-*   **화면:** (두 제품이 나란히 비교되는 화면. 아래로 스크롤해서 다른 제품들도 슬쩍 보임) 텍스트 오버레이: "✅ 스마트TV ✅ 이동식 스탠드 ✅ 가성비 끝판왕!"
-*   **내레이션:** "거실, 침실, 주방 어디든 나만의 영화관! 이 모든 걸 20만원대로 끝내세요!"
-*   **화면:** (마지막 화면: "자세한 정보는 댓글 링크/프로필 링크 확인!" 자막 크게 뜨고, 제품들 멋지게 배치된 이미지)
-*   **내레이션:** "더 자세한 정보는 댓글과 프로필 링크에서 확인하세요! 지금 바로 겟!"
+*   **본문 (3-12초): 가성비 삼탠바이미의 폭발적인 매력!**
+    *   **화면:** (침대에 누워 삼탠바이미로 넷플릭스 보는 장면) -> (주방에서 요리하며 레시피 보는 장면) -> (다양한 OTT 앱 로고 빠르게 지나감) -> (에너지 효율 1등급 로고) -> (위드라이프 32인치, 43인치 삼탠바이미 제품이 스르륵 등장하며 비교되는 장면)
+    *   **내레이션:** "이동식 스마트TV '삼탠바이미' 아세요? 😱 20만원대부터 시작! 넷플릭스, 유튜브는 기본! 32인치부터 43인치 대화면까지! 심지어 전기료 걱정 없는 1등급 효율까지?! 이거 완전 미쳤잖아!"
+
+*   **마무리 & CTA (12-15초): 구매 전환 유도!**
+    *   **화면:** (다섯 가지 삼탠바이미 제품들이 다이나믹하게 한 화면에 모이는 콜라주) -> (프로필 링크를 가리키는 손가락 제스처)
+    *   **내레이션:** "더 이상 비싸게 살 필요 없다고요! 10년 차 MD가 직접 엄선한 '가성비 삼탠바이미 BEST 5' 지금 바로 프로필 링크에서 만나보세요! 고민은 배송만 늦출 뿐!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 및 Midjourney 프롬프트)
+## 2. 인스타그램 카드뉴스 (4컷)
 
 ---
 
-### **[1/4컷] - 훅 & 문제 제기**
-
-*   **카드뉴스 텍스트:**
-    **LG 스탠바이미, 갖고 싶지만...**
-    💸 "100만원 넘는 가격, 너무 비싸!"
-    😫 "가성비 좋은 이동식 TV 어디 없나?"
-    이 고민, 이제 끝!
-    **#스탠바이미_가성비 #이동식TV #지름신주의**
-
-*   **Midjourney 프롬프트:**
-    `A confused young person looking at a digital price tag showing '1,000,000 KRW' with a sad expression, next to a sleek, modern movable TV. The background is a minimalist, slightly futuristic living room. Cinematic lighting, soft shadows, vibrant colors, UHD, high detail. --ar 4:5 --style raw --v 6`
+**[1컷]**
+*   **카드 텍스트:**
+    **스탠바이미 갖고 싶지만...**
+    **가격이 💥💸 부담스럽다면?**
+    이제 비싸게 사지 마세요!
+    **#스탠바이미 #가성비 #삼탠바이미**
+*   **Midjourney 프롬프트 (영문):**
+    A minimalist, modern living room. A person looks stressed and worried, holding an empty wallet. In the background, a luxurious, expensive-looking portable smart TV (resembling LG StandbyME) is displayed with a shattering price tag overlay. Soft, slightly anxious lighting. --ar 1:1 --v 5.2
 
 ---
 
-### **[2/4컷] - 해결책 제시 & 컨셉 소개**
-
-*   **카드뉴스 텍스트:**
-    **그래서 준비했어요! ✨ '삼탠바이미' ✨**
-    스마트 TV + 이동식 스탠드의 환상 조합!
-    ✔️ 넷플릭스, 유튜브 기본
-    ✔️ 거실, 침실, 주방 어디든 내맘대로!
-    ✔️ 놀라운 20만원대 가성비!
-    **#삼탠바이미 #가성비TV #스마트TV #자유로운생활**
-
-*   **Midjourney 프롬프트:**
-    `A stylish, modern living room where a family is happily watching movies on a movable smart TV (similar to a StandbyME but generic) that effortlessly rolls from the couch to the kitchen. The room has soft, inviting lighting and lush houseplants. Cozy, clean aesthetic, vibrant and warm tones. --ar 4:5 --style raw --v 6`
+**[2컷]**
+*   **카드 텍스트:**
+    **20만원대 구글TV?**
+    **위드라이프 32인치 삼탠바이미!**
+    ✔️ 완벽한 스마트 기능
+    ✔️ 침실, 주방 어디든 OK!
+*   **Midjourney 프롬프트 (영문):**
+    A bright and cozy bedroom scene. A happy young woman is comfortably watching a sleek, modern 32-inch portable smart TV on a white rolling stand, placed next to her bed. The TV screen clearly shows the Google TV interface with Netflix playing. Soft, warm morning light streams through the window. Minimalist decor. --ar 1:1 --v 5.2
 
 ---
 
-### **[3/4컷] - 메인 추천 1: 위드라이프 구글 삼탠바이미**
-
-*   **카드뉴스 텍스트:**
-    **👑 가성비 + 스마트함 = 위드라이프!**
-    **위드라이프 구글 32인치 스마트TV 무빙라이프 삼탠바이미 세트**
-    ✔️ **가격:** 279,000원
-    ✔️ **핵심:** 구글 TV 탑재! 넷플릭스, 유튜브 무제한!
-    ✔️ **장점:** 32인치 대화면 + 익숙한 구글 OS!
-    **#위드라이프 #구글TV #안드로이드TV #OTT필수템**
-
-*   **Midjourney 프롬프트:**
-    `A close-up shot of a 32-inch smart TV screen displaying the Google TV interface with Netflix and YouTube icons, mounted on a sleek, minimalist movable stand. In the background, a person is comfortably lounging on a bed, happily watching. Soft, ambient bedroom lighting, modern tech vibe, high clarity. --ar 4:5 --style raw --v 6`
+**[3컷]**
+*   **카드 텍스트:**
+    **더 크게! 43인치 대화면도**
+    **30만원대!**
+    **위드라이프 43인치 삼탠바이미**
+    ✔️ 온 가족이 즐기는 거실 메인 TV로도 충분!
+*   **Midjourney 프롬프트 (영문):**
+    A vibrant and spacious living room scene. A diverse family (parents and two children) is happily gathered, laughing and watching a large 43-inch portable smart TV on a rolling stand. The TV is displaying a colorful, engaging family movie. Modern, comfortable furniture with ample natural light. --ar 1:1 --v 5.2
 
 ---
 
-### **[4/4컷] - 메인 추천 2: 무빙큐빅스 스마트 삼탠바이미 & CTA**
-
-*   **카드뉴스 텍스트:**
-    **💰 가격 파괴! 무빙큐빅스 스마트 삼탠바이미**
-    **무빙큐빅스 스마트 삼탠바이미 SET 이동식 tv 거치대 스탠바이미**
-    ✔️ **가격:** 262,300원
-    ✔️ **핵심:** 스마트 세트 중 단연 최저가!
-    ✔️ **장점:** 추가 지출 없이 바로 사용 가능!
-    **지금 바로 확인하고 나만의 삼탠바이미 득템하세요!**
-    **#무빙큐빅스 #최저가TV #가성비끝판왕 #쇼핑찬스 #프로필링크**
-
-*   **Midjourney 프롬프트:**
-    `A dynamic shot of a movable smart TV (generic SamtanbyME style) being smoothly wheeled across a modern, sunlit room, with a hand gently guiding it. A price tag overlay is subtly visible, showing "262,300 KRW". The image conveys ease of use and affordability. Bright, clean, and inviting atmosphere, high resolution. --ar 4:5 --style raw --v 6`
+**[4컷]**
+*   **카드 텍스트:**
+    **스탠바이미, 이제 가성비로 즐겨요! 🚀**
+    **10년차 MD 추천 BEST 5**
+    **지금 프로필 링크에서 확인!**
+    #스마트TV #이동식TV #갓성비
+*   **Midjourney 프롬프트 (영문):**
+    A dynamic, eye-catching collage image of five different models of sleek, modern portable smart TVs on rolling stands. Each TV screen displays various streaming app logos (Netflix, YouTube, Disney+). The background is a clean, bright, and futuristic minimalist space with energetic light rays emanating from behind the TVs. Optimistic and exciting vibe. --ar 1:1 --v 5.2
