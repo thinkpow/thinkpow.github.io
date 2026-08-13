@@ -1,42 +1,65 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 & 인스타 카드뉴스 ⚡
+## ✨ 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-### 1. 유튜브 쇼츠/틱톡용 15초 스크립트
-
-**제목:** 💸LG 스탠바이미 비싸서 포기했니? 15초 만에 인생템 겟! #삼탠바이미 #가성비TV
-
-**[영상 구성 및 대사]**
-
-*   **0-3초 (훅):**
-    *   **(화면:** LG 스탠바이미 가격표 클로즈업, 돈이 펑펑 터지는 이모티콘, 실망한 표정의 인물 → 눈이 번쩍 뜨이는 효과)
-    *   **(대사):** "LG 스탠바이미 비싸서 포기했니? 💸 딱 15초만 집중! (비장한 음악)
-*   **3-8초 (제품 1):**
-    *   **(화면):** 와이드뷰 40인치 QLED 삼탠바이미 등장, 40인치 대화면 강조, 영화 보는 장면, QLED 색감 표현. "40인치 QLED", "30만원대" 텍스트 오버레이.
-    *   **(대사):** "이제 '삼탠바이미'로 똑똑하게 즐겨봐! 가성비 끝판왕 등장! 첫째, 40인치 QLED 대화면! 영화관 퀄리티가 내 방으로? 심지어 30만원대!"
-*   **8-12초 (제품 2):**
-    *   **(화면):** 위드라이프 32인치 구글 삼탠바이미 등장, 침실/주방 이동하는 모습, 구글 어시스턴트 아이콘, 음성제어 제스처. "20만원대", "구글 스마트 TV" 텍스트 오버레이.
-    *   **(대사):** "둘째, 20만원대 구글 스마트 TV! 침대, 주방, 어디든 쓱! 음성제어까지? 이건 무조건 사야 해!"
-*   **12-15초 (클로징 & CTA):**
-    *   **(화면):** 두 제품 나란히 비교, 놀란 표정으로 환하게 웃는 인물, 프로필 링크/댓글 확인 유도 애니메이션.
-    *   **(대사):** "스탠바이미 고민은 이제 끝! 현명한 쇼핑은 바로 이거야! 지금 바로 프로필 링크 확인하고 인생템 겟하세요! 후회 안 함!"
+**콘셉트:** 스탠바이미 비싼 가격에 좌절하는 모습 ➡️ 삼탠바이미 발견하고 광명 찾는 반전!
 
 ---
 
-### 2. 인스타그램 카드뉴스 4컷
+**[숏폼 스크립트]**
 
-**[카드 1/4]**
-*   **텍스트:** "LG 스탠바이미 비싸서 포기했니? 💸 이젠 '삼탠바이미'로 똑똑하게 즐겨봐!"
-*   **Midjourney 프롬프트:** `A minimalist modern living room. A stylish portable smart TV is on a sleek white stand. A young woman with a slightly disappointed expression looking at a blurry, expensive price tag, then her expression changes to surprised delight as a vibrant "HALF PRICE!" text overlay appears. Dynamic lighting, high contrast, cinematic, --ar 1:1 --v 5.2`
+**(영상 시작: 0-3초) 훅! 시선 강탈!**
+*   **화면:** (좌절한 표정으로 LG 스탠바이미 가격 검색 화면을 보는 사람)
+*   **내레이션/자막:** "스..스탠바이미..? 💸 백만원 넘는다고?! 로망이었는데.. 포기해야 하나..?" (절망적이고 빠른 템포)
 
-**[카드 2/4]**
-*   **텍스트:** "✨ 40인치 QLED 대화면, 압도적 몰입감! ✨ 30만원대 스마트TV, 실화냐?"
-*   **Midjourney 프롬프트:** `A luxurious, spacious bedroom with floor-to-ceiling windows. A large 40-inch QLED smart TV on a contemporary white stand is showcasing a breathtaking, vibrant 4K movie scene. The screen glows with incredible detail and color. A person is relaxing on a large bed, completely engrossed. High-end, clean aesthetic. --ar 1:1 --v 5.2`
+**(영상 전환: 3-8초) 문제 해결의 시작!**
+*   **화면:** (갑자기 눈이 번뜩이며 스마트폰 화면에 "삼탠바이미" 검색 결과들이 쏟아지는 효과, 밝은 분위기 전환)
+*   **내레이션/자막:** "잠깐! ✨이거 몰랐으면 후회할 뻔!✨ 10년차 MD가 찾아낸 가성비 끝판왕 '삼탠바이미'!"
 
-**[카드 3/4]**
-*   **텍스트:** "📱 20만원대 구글 스마트 TV! 침실, 주방 어디든 OK! 음성제어까지!"
-*   **Midjourney 프롬프트:** `A cozy, bright kitchen with a marble countertop and green plants. A compact 32-inch Google Smart TV on a minimalist mobile stand is positioned perfectly on the counter. The screen displays a sleek Google TV interface with app icons. A hand is gesturing towards the screen, implying voice control. Soft morning light, inviting atmosphere. --ar 1:1 --v 5.2`
+**(영상 전환: 8-12초) 핵심 상품 어필!**
+*   **화면:** (첫 번째 상품: 와이드뷰 40인치 QLED가 침실, 거실에 멋지게 놓인 모습 빠르게 보여줌)
+*   **내레이션/자막:** "40인치 QLED 대화면에 화이트 감성 디자인! 이거 완전 프리미엄인데 30만원대라고?!"
+*   **화면:** (두 번째 상품: 위드라이프 32인치 구글TV가 주방, 원룸 등에서 편리하게 사용되는 모습 빠르게 보여줌)
+*   **내레이션/자막:** "20만원대 구글 TV? 심지어 1등급 에너지 효율! 이동식 스탠드까지 기본 포함?!"
 
-**[카드 4/4]**
-*   **텍스트:** "스탠바이미 고민 끝! 가성비 끝판왕 '삼탠바이미' 지금 바로 만나보기! 👆 프로필 링크 클릭!"
-*   **Midjourney 프롬프트:** `A vibrant, energetic collage of smart home technology. On one side, the 40-inch QLED TV showing a movie; on the other side, the 32-inch Google TV displaying an app. Both products are integrated into stylish, modern home settings. Arrows pointing towards a call-to-action button or text area. Bright, optimistic colors, dynamic composition. --ar 1:1 --v 5.2`
+**(영상 전환: 12-15초) 마무리 & CTA**
+*   **화면:** (두 제품이 나란히 놓여있거나, 여러 사람들이 삼탠바이미를 행복하게 사용하는 모습)
+*   **내레이션/자막:** "비싸게 살 필요 없어! 내 로망 실현할 #삼탠바이미 득템 기회! 지금 바로 프로필 링크 확인해봐!" (점점 고조되는 신나는 톤)
+
+---
+
+## 📸 인스타그램 카드뉴스 4컷
+
+---
+
+### **[카드 1]**
+
+*   **들어갈 텍스트:**
+    *   **헤드라인:** 스탠바이미 로망, 가격 때문에 포기? 🙅‍♀️
+    *   **서브텍스트:** 10년차 MD가 엄선한 #삼탠바이미 가성비 끝판왕 등장!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A visually striking split image. Left side: A luxurious, minimalist living room with an expensive, sleek LG StandbyME TV, a single tear rolling down a person's cheek (out of frame, implied frustration over price), slightly desaturated. Right side: A bright, vibrant, modern bedroom with a stylish, more affordable "SamtenByMe" movable smart TV, glowing with content, a happy, smiling person's hand reaching towards it. Focus on clean lines, smart tech, and a sense of discovery. --ar 1:1 --v 5.2`
+
+### **[카드 2]**
+
+*   **들어갈 텍스트:**
+    *   **헤드라인:** ✨압도적 40인치 QLED 대화면! 와이드뷰 삼탠바이미✨
+    *   **서브텍스트:** 화이트 감성 디자인 + 스마트TV 기능까지 완벽! (30만원대)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A luxurious, minimalist bedroom bathed in soft, natural light, featuring a sleek, modern 40-inch white QLED smart TV on a movable stand. The screen displays vibrant, high-definition content like a scenic landscape or a movie scene. The room has light wood accents and white linens, emphasizing a clean, sophisticated aesthetic. High detail, sharp focus, inviting atmosphere. --ar 1:1 --v 5.2`
+
+### **[카드 3]**
+
+*   **들어갈 텍스트:**
+    *   **헤드라인:** 💰20만원대 구글TV 실화? 위드라이프 삼탠바이미💰
+    *   **서브텍스트:** 32인치 최적화 사이즈 + 1등급 에너지 효율!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cozy, compact apartment setting, showing a 32-inch white smart TV on a movable stand in multiple scenarios: first in a small kitchen showing a recipe, then in a compact bedroom displaying a Netflix show, and finally in a living area with Google TV interface visible. Emphasize versatility, portability, and energy efficiency (represented by a subtle green leaf icon or light glow). Modern, practical design. --ar 1:1 --v 5.2`
+
+### **[카드 4]**
+
+*   **들어갈 텍스트:**
+    *   **헤드라인:** 내게 맞는 #삼탠바이미 찾았다면? ➡️ 프로필 링크 클릭!
+    *   **서브텍스트:** 가심비 폭발! 나만의 무빙 스크린 라이프 즐겨봐!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A dynamic collage or montage of diverse people happily using various "SamtenByMe" movable smart TVs in different settings: a student studying, a couple watching a movie in bed, someone cooking with a recipe, a person doing home workouts. All scenes are brightly lit and full of joy and convenience. A clear "Click Link in Bio" call to action integrated subtly. Energetic, modern, inclusive. --ar 1:1 --v 5.2`
