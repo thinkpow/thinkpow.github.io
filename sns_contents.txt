@@ -1,72 +1,74 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**제목:** 😱 스탠바이미 비싸서 못 샀다면? 20만원대 삼탠바이미로 인생 OTT 즐겨!
+**제목:** LG 스탠바이미 가격 실화? 🤯 30만원대 '이거'면 끝! (MD 픽 삼탠바이미)
 
-**[영상 구성]**
+**(화면 전환 빠르고 강렬하게! 시각적 자극 위주)**
 
-*   **화면:** 스탠바이미 고가 논란 짤 / 가격표 줌인 (충격 표정)
-*   **내레이션 (빠르고 경쾌하게):** "스탠바이미 갖고 싶지만, 이 가격 실화냐구요?! 😱" (3초)
+**[0-3초] 훅 (Hook):**
+*   **영상:** LG 스탠바이미 광고 화면 잠시 스쳐 지나가며, 화면 가득 "가격 실화?? 💸" 텍스트 팝업. 놀라는 표정의 사람 클로즈업.
+*   **대사:** "LG 스탠바이미 사고 싶었지? 근데 가격… 실화냐고! 🤯" (빠르고 격앙된 톤)
 
-*   **화면:** 침대, 주방 등 집안 곳곳에서 폰으로 작게 영상 보는 답답한 모습 교차
-*   **내레이션:** "이동식 스마트 TV 로망! 비싸서 포기했다면... 이제 걱정 마세요!" (3초)
+**[3-7초] 문제 제기 & 해결책 제시:**
+*   **영상:** 고급스럽지만 비싸 보이는 스탠바이미 대신, 깔끔하고 세련된 '삼탠바이미' 이미지 전환. 'MD 픽 가성비 삼탠바이미' 텍스트.
+*   **대사:** "걱정 마! 10년차 MD가 찾은 '이거'면 가성비+감성 다 잡을 수 있어! 첫 번째!"
 
-*   **화면:** 세련된 '삼탠바이미' 등장! 다양한 각도에서 이동하며 사용되는 모습 (방, 거실, 베란다)
-*   **내레이션:** "20만원대 '가성비 삼탠바이미'가 있잖아요! ✨" (2초)
+**[7-11초] 메인 상품 1 (와이드뷰 40인치 QLED):**
+*   **영상:** 와이드뷰 40인치 QLED 화이트 삼탠바이미 제품이 거실/침실에서 넷플릭스 화면을 꽉 채우는 모습. '40인치 QLED! 30만원대?' 텍스트.
+*   **대사:** "40인치 QLED 대화면! 와이드뷰 삼탠바이미! 30만원대에 영화관이 내 방으로! 화질 미쳤다…!"
 
-*   **화면:** **[위드라이프 32인치 삼탠바이미 세트]** 제품 실제 사용 영상 (넷플릭스, 유튜브 화면 강조)
-*   **내레이션:** "첫 번째! **위드라이프 32인치!** 구글TV로 넷플릭스, 유튜브 끊김 없이! 32인치 대화면이 27만원대라니!" (4초)
+**[11-14초] 메인 상품 2 (이노스 32인치 FHD):**
+*   **영상:** 이노스 32인치 FHD 스마트 삼탠바이미가 주방이나 서재에서 활용되는 모습. '30만원 초반! 가성비 끝판왕' 텍스트.
+*   **대사:** "두 번째, 30만원 초반대 가성비 끝판왕! 이노스 32인치! 깔끔한 화질에 스마트 기능까지!"
 
-*   **화면:** **[무빙큐빅스 스마트 삼탠바이미 SET]** 제품 실제 사용 영상 (가성비, 이동성 강조)
-*   **내레이션:** "그리고 **20만원 초반 최저가! 무빙큐빅스!** 핵심 기능은 그대로, 가격은 더 착하게! 💸" (2초)
-
-*   **화면:** 두 제품이 함께 등장하며 "프로필 링크에서 자세히 보기!" 텍스트 오버레이
-*   **내레이션:** "이젠 원하는 곳 어디든 나만의 극장을 만들어요! ✨ 프로필 링크 클릭!" (1초)
+**[14-15초] 클로징 & CTA:**
+*   **영상:** 두 제품 나란히 배치 후, '더 많은 MD 픽은 댓글 링크!' 텍스트와 손가락 제스처.
+*   **대사:** "더 많은 가성비템은 댓글 링크 클릭! 빨리 달려가봐! 🏃‍♀️"
 
 ---
 
 ## 📸 인스타그램 카드뉴스 4컷
 
-### **[카드 1]**
-*   **카드 텍스트:**
-    ## 😱 스탠바이미 비싸서 망설였다면?
-    ## 이젠 20만원대 '삼탠바이미'로 후회 없이 즐겨요!
-
-    *갖고 싶은데 가격이 부담스러웠던 이동식 스마트TV!*
-    *현명한 소비자를 위한 완벽한 대안을 찾았어요!*
+### 1컷
+*   **들어갈 텍스트:**
+    **LG 스탠바이미? 가격에 헉했지? 😮**
+    **"꿈의 TV인데… 내 통장은 왜이래?"**
+    비싼 가격 때문에 망설였던 당신을 위해!
+    10년차 MD가 찾아낸 압도적 가성비 삼탠바이미✨
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A person looking frustrated and disappointed while looking at an exaggeratedly high price tag of a sleek, modern mobile smart TV (like LG StandbyME) in a stylish minimalist living room. In the background, a more approachable and affordable alternative (SamtanbyME) is subtly hinted at with a friendly, inviting glow. Cinematic, dramatic lighting, realistic, high detail, 4K. --ar 1:1`
+    `A person looking shocked and a bit disappointed while holding an empty wallet, standing in front of a luxurious, modern mobile TV (like LG StandbyME) with a huge price tag overlayed, in a minimalist, high-end living room. Soft, diffused lighting, cinematic composition, golden hour --ar 1:1 --v 5.2`
 
-### **[카드 2]**
-*   **카드 텍스트:**
-    ## ✨ 압도적 만족감! 메인 추천 1 ✨
-    ## **위드라이프 32인치 삼탠바이미 세트**
+---
 
-    **👉 32인치 대화면 구글 안드로이드 TV!**
-    **👉 넷플릭스/유튜브 끊김 없이! 1등급 에너지 효율!**
-    **💰 279,000원!** (스탠바이미의 모든 것을 이 가격에?!)
+### 2컷
+*   **들어갈 텍스트:**
+    **MD's Pick 1. 👑**
+    **와이드뷰 40인치 QLED 화이트 삼탠바이미**
+    💰 371,070원
+    **✨ 압도적 몰입감, 세련된 디자인, 30만원대 QLED!**
+    (40인치 / QLED / 화이트 디자인 / 스마트TV)
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy modern bedroom scene with a stylish 32-inch mobile smart TV (SamtanbyME, similar to the provided product image) playing Netflix or YouTube. The TV is on a sleek, minimalist stand next to a comfortable bed with soft lighting. A person is happily watching from the bed, enjoying the large screen. Warm, inviting atmosphere, realistic, 4K. --ar 1:1`
+    `A sleek, modern 40-inch white mobile smart TV (StandbyME alternative) with a vibrant QLED screen displaying a dynamic movie scene, placed elegantly in a minimalist, bright white living room. Soft natural light, high-angle shot, luxury product photography, aesthetic composition --ar 1:1 --v 5.2`
 
-### **[카드 3]**
-*   **카드 텍스트:**
-    ## 💰 압도적 만족감! 메인 추천 2 💰
-    ## **무빙큐빅스 스마트 삼탠바이미 SET**
+---
 
-    **👉 20만원 초반대 압도적 최저가!**
-    **👉 이동식 + 스마트TV 핵심 기능 그대로!**
-    **👉 침실, 주방, 베란다 어디든 OK!**
-    **💰 254,430원!** (이 가격에 이동식 스마트TV?!)
+### 3컷
+*   **들어갈 텍스트:**
+    **MD's Pick 2. 💖**
+    **이노스 32인치 FHD 스마트 삼탠바이미**
+    💰 310,550원
+    **👍 가성비의 정석! 필요한 기능만 쏙쏙 담았어!**
+    (32인치 / FHD / 스마트TV / 이동형 거치대)
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A bright and clean minimalist kitchen or living room space. A compact mobile smart TV (SamtanbyME, similar to the provided product image) on a sleek, simple stand is prominently featured, displaying a vibrant cooking show or a music video. The setting emphasizes ease of movement and versatile placement, with someone casually interacting with it. Bright, natural light, realistic, 4K. --ar 1:1`
+    `A cozy and functional 32-inch black mobile smart TV (StandbyME alternative) with a clear FHD screen, standing beside a comfortable bed in a warm, inviting bedroom. A person is casually watching content. Warm ambient lighting, soft focus, lifestyle photography --ar 1:1 --v 5.2`
 
-### **[카드 4]**
-*   **카드 텍스트:**
-    ## 고민은 이제 그만! 똑똑한 소비! 💸
-    ## 당신의 라이프스타일에 딱 맞는
-    ## **'가성비 삼탠바이미'**를 만나보세요!
+---
 
-    **➡️ 더 자세히 보려면 프로필 링크 클릭!**
+### 4컷
+*   **들어갈 텍스트:**
+    **LG 스탠바이미 대신 '이거'!**
+    **가성비+감성 다 잡는 이동식 TV, 지금 바로 만나봐!**
+    **👇 더 많은 MD 추천템은 프로필 링크에서! 👇**
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic and colorful collage or split screen showing various happy individuals using affordable mobile smart TVs (SamtanbyME) in different home settings (a person watching in bed, another cooking in the kitchen, a third enjoying content on a balcony). The overall mood is joyful, smart, and empowering. The design is modern, bright, with clear spaces for overlay text. Realistic, high detail, 4K. --ar 1:1`
+    `A collage or group shot of various stylish, modern mobile smart TVs (StandbyME alternatives) in different sizes and colors, dynamically arranged against a vibrant, energetic background. Text overlay elements in a pop art style, implying 'best deals' or 'smart choice.' Bright, inviting colors, dynamic composition, commercial photography --ar 1:1 --v 5.2`
