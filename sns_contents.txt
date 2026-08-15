@@ -1,28 +1,28 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-네, 도파민 폭발 15초 쇼츠 대본과 인스타그램 카드뉴스 프롬프트, 바로 제작해 드리겠습니다!
+## 🚀 도파민 폭발! 15초 숏폼 스크립트
+
+**제목:** LG 스탠바이미 짝퉁? NO! 가성비 끝판왕 삼탠바이미 BEST2!
+
+**(영상 컨셉: 빠른 화면 전환, 제품 특징 강조 자막, 신나는 배경음악)**
 
 ---
 
-## 🚀 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발 훅 강제 포함)
+**[0-3초] 훅 (Hook)**
+*   **화면:** (LG 스탠바이미 공식 이미지 빠르게 지나가며 가격표에 X 표시, 이어지는 충격받은 표정의 인물)
+*   **대사:** "스탠바이미 가격 보고 깜짝 놀랐다면? 주목! 💥"
 
-**(영상 시작: 빠르고 경쾌한 배경음악, 비트 있는 효과음)**
+**[3-12초] 본문**
+*   **화면:** (이동식 TV를 자유롭게 옮기며 영화를 보는 모습, OTT 화면, 화이트 디자인 강조, 제품 이미지 교차)
+*   **대사:** "이동식 스마트TV, 이제 20만원대로 즐겨! MD가 뽑은 가성비 삼탠바이미 BEST 2! 🤩"
+*   **화면:** (와이드뷰 40인치 QLED 제품 클로즈업, 선명한 화면)
+*   **대사:** "40인치 QLED 대화면 와이드뷰?"
+*   **화면:** (위드라이프 32인치 구글 스마트 제품 클로즈업, 구글 TV 로고)
+*   **대사:** "갓성비 20만원대 구글 스마트 TV까지!"
 
-**[0-3초] 훅! 시선 강탈!**
-*   **화면**: (화면 중앙에 '스탠바이미' 로고가 뜨고, 그 아래에 충격적인 가격표 200만원+ 이 쾅! 박히며 흔들림. 동시에 😥 이모티콘 크게 등장)
-*   **대사 (빠르고 강렬하게, 다그치듯이)**: "스탠바이미? 아직도 비싸서 포기했냐고? 딱 15초만 봐! 이거 모르면 평생 후회한다!"
-
-**[3-7초] 문제 제시 & 메인 솔루션 등장**
-*   **화면**: (200만원 가격표가 깨지듯 사라지고, 30만원대 '와이드뷰' 삼탠바이미 제품 이미지(1번 또는 2번)가 세련되게 등장. 옆에 '37만원대' 가격표가 뜨며 깜빡임)
-*   **대사 (신나는 톤으로)**: "NO! 이제 30만원대로 감성+스마트TV 끝판왕 가능! 와이드뷰 40인치 QLED 화이트 삼탠바이미! 인테리어까지 그냥 미쳤잖아?!"
-
-**[7-11초] 두 번째 메인 솔루션 & 장점 강조**
-*   **화면**: (또 다른 와이드뷰 V3 모델 제품 이미지 등장, 고급스러운 이동성에 초점. 'V3 스탠드' 문구와 함께 부드럽게 이동하는 연출)
-*   **대사 (자신감 있게)**: "더 안정적인 이동성을 원해? V3 스탠드 모델도 38만원대! QLED 화질은 기본, 침대 옆, 주방, 어디든 초간편 이동!"
-
-**[11-15초] 추가 상품 노출 & 강력한 CTA**
-*   **화면**: (20만원대, 10만원대 상품 이미지 3개가 빠르게 플래시처럼 지나감. 마지막에 '지금 바로 구매' 버튼과 함께 프로필 링크 강조)
-*   **대사 (흥분하며)**: "뭐? 20만원대부터 10만원대까지도 있다고? 👀 망설일 시간 없어! 지금 바로 프로필 링크 확인! 품절되면 나도 몰라~!"
+**[12-15초] 클로징 & CTA**
+*   **화면:** (두 제품이 나란히 비교되는 화면, 링크 안내 자막)
+*   **대사:** "궁금하면 지금 바로 프로필 링크 확인!"
 
 ---
 
@@ -30,44 +30,43 @@
 
 ---
 
-### **👉 첫 번째 컷: 훅 (Hook)**
-
-*   **컷 텍스트**:
-    스탠바이미, 갖고 싶지만 너무 비싸서 포기했나요? 😥
-    (진한 빨간색으로) **이제 그 고민, 제가 끝내드립니다!**
-*   **Midjourney 스타일 영문 프롬프트**:
-    A minimalist, elegant living room scene. A high-end, stylish portable smart TV (resembling LG StandbyMe) stands gracefully, but its screen displays a shocked emoji and a large, red "SOLD OUT" or "TOO EXPENSIVE" text. A person is looking at it with a frustrated or wistful expression. Soft, ambient lighting. Modern, clean aesthetic. --ar 1:1 --v 5.2
-
----
-
-### **👉 두 번째 컷: 문제 제기 & 해결책 제시**
-
-*   **컷 텍스트**:
-    **✨ NO! 당신의 지갑을 지켜줄 '가성비 삼탠바이미' BEST 5! ✨**
-    (아래에 작게) 💰 10만원대부터 30만원대까지!
-*   **Midjourney 스타일 영문 프롬프트**:
-    A dynamic, "reveal" image. A stylish, generic portable smart TV (like a StandbyMe alternative) is center-frame, glowing with a bright light. Around it, five distinct smaller icons or miniatures representing different features (e.g., QLED, smart apps, mobility, white design, affordability). The background is vibrant and optimistic, symbolizing smart savings and innovation. --ar 1:1 --v 5.2
+### **▪️ 1컷**
+*   **카드뉴스 텍스트:**
+    LG 스탠바이미 갖고 싶어서 검색하다 가격 보고 헉! 했죠? 😱
+    (LG 스탠바이미 이미지 작게, 가격표에 빨간색 'X' 표시)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A person looking shocked and a bit frustrated while browsing an expensive, sleek, minimalist smart TV (similar to LG StandbyMe) on a tablet, with a huge, daunting price tag displayed on the screen. The background is a modern, clean living room. Vibrant colors, high contrast, cinematic lighting. --ar 1:1 --style raw --v 5.2`
 
 ---
 
-### **👉 세 번째 컷: 핵심 추천 제품 상세 소개**
-
-*   **컷 텍스트**:
-    **💖 메인 추천: 와이드뷰 40인치 QLED 삼탠바이미 (37만원대~) 💖**
-    (좌) 세련된 화이트 디자인으로 인테리어 끝판왕!
-    (우) 압도적 QLED 화질에 안정적인 V3 스탠드까지!
-*   **Midjourney 스타일 영문 프롬프트**:
-    A split image composition. Left side: A pristine white portable smart TV with a sleek, minimalist stand in a bright, modern, Scandinavian-style living room. The focus is on its aesthetic appeal and seamless integration into the decor. Right side: A dark-colored portable smart TV with a robust, advanced-looking V3 stand, positioned in a versatile space like a home office or bedroom, emphasizing its mobility and high-quality QLED display. Both sides feature vibrant, clear screen content (e.g., Netflix logo, YouTube). --ar 1:1 --v 5.2
+### **▪️ 2컷**
+*   **카드뉴스 텍스트:**
+    걱정 마세요! 이동성, 스마트, 디자인 다 잡은
+    '가성비 삼탠바이미'가 있으니까! ✨
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cheerful person effortlessly pushing a modern, white mobile smart TV on a stand across a bright, minimalist apartment living room. The TV screen shows various streaming service logos (Netflix, YouTube). Clean, airy aesthetic with warm, inviting sunlight. --ar 1:1 --style raw --v 5.2`
 
 ---
 
-### **👉 네 번째 컷: 추가 추천 제품 및 CTA**
-
-*   **컷 텍스트**:
-    **💡 10만원대~20만원대 추가 추천템! 💡**
-    (작게) 구글TV 탑재, 최소예산 스마트TV, 초가성비 일반TV까지!
-    **지금 바로 나에게 맞는 삼탠바이미 찾기! 🔗 (프로필 링크 클릭!)**
-*   **Midjourney 스타일 영문 프롬프트**:
-    A collage or grid of three different, slightly more compact and budget-friendly portable smart TVs, each in a unique, cozy home setting (e.g., small kitchen corner, bedside table, compact studio apartment). Subtly incorporate money symbols or price tags ($$$) that blend aesthetically. The overall mood is warm, accessible, and practical. A clear, inviting 'Click Link' button graphic at the bottom. --ar 1:1 --v 5.2
+### **▪️ 3컷**
+*   **카드뉴스 텍스트:**
+    **📍 첫 번째 추천: 와이드뷰 40인치 QLED 화이트 삼탠바이미**
+    (30만원대 후반!) 🤩
+    ✔ 압도적 40인치 QLED 대화면
+    ✔ 감성적인 화이트 디자인
+    ✔ FHD 스마트 TV로 OTT 끝!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stunning 40-inch white QLED mobile smart TV, displaying a vibrant, high-quality movie scene, positioned gracefully in a chic, minimalist bedroom. The room features soft textures, natural light, and elegant, subtle decor. Emphasize the screen's clarity and the TV's aesthetic appeal. --ar 1:1 --style raw --v 5.2`
 
 ---
+
+### **▪️ 4컷**
+*   **카드뉴스 텍스트:**
+    **📍 두 번째 추천: 위드라이프 32인치 구글 스마트 삼탠바이미**
+    (20만원대!) ✨
+    ✔ 20만원대 초가성비 구글 TV
+    ✔ 침실, 주방에 딱! 32인치 화면
+    ✔ 에너지 효율 1등급으로 전기료까지 절약!
+    **더 자세한 내용은 프로필 링크 클릭! 👆**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A 32-inch black mobile smart TV with a subtle Google TV logo, casually positioned in a cozy, bright kitchen or a small, well-organized studio apartment. The screen shows a cooking show or a YouTube video. A person's hand is subtly reaching for a remote. Soft, inviting light, clean and functional aesthetic. --ar 1:1 --style raw --v 5.2`
