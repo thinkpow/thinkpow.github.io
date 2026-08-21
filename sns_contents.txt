@@ -1,86 +1,63 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**콘셉트:** LG 스탠바이미의 높은 가격에 좌절하던 사람들에게 '삼탠바이미'라는 혁신적인 대안을 제시하며, 가성비와 고성능을 동시에 강조하는 스토리. 빠른 전환, 강렬한 메시지, 공감 유발.
+**(영상 길이: 15초)**
 
----
+**[0-3초] 훅 (Hook)**
+*   **영상:** LG 스탠바이미 100만원대 가격 크게 띄우며 '이거? 댓츠 노노!' (X표시), 이후 '이거면 끝!' 문구와 함께 10만원대 삼탠바이미 가격 등장. 빠른 전환 효과.
+*   **대사:** "스탠바이미 100만원? 댓츠 노노! 🤯 10년차 MD가 찾은 '가성비 삼탠바이미' 딱 3초만에 보여줄게!" (흥분된 목소리)
 
-### **[스크립트] 스탠바이미 비싸서 포기했어? (15초)**
+**[3-8초] 메인 상품 1 (프리토스 삼탠바이미)**
+*   **영상:** 프리토스 삼탠바이미 제품 사진, 가격(163,000원) 명확하게 띄우기. 침대 옆, 주방 등 다양한 공간에서 활용하는 모습 빠르게 스케치.
+*   **대사:** "첫째! 10만원대 '프리토스 삼탠바이미'! TV랑 스탠드 한번에 해결! 침대 옆, 주방 어디든 OK! 실속파는 무조건 이거!"
 
-**(0-3초) 훅: 시선 강탈 & 문제 제기 (음악: 강렬하고 빠른 비트의 배경음악)**
-*   **화면**: 고급스러운 LG 스탠바이미 광고 화면 (화려하게 스쳐 지나감) -> 이내 곧 화면에 큼직한 '가격' 글자와 함께 좌절하는 사람 표정 (X 표시) -> 이어서 환하게 웃는 사람과 함께 '삼탠바이미' 제품이 등장 (O 표시)
-*   **대사**: (빠르고 쩌렁쩌렁하게) "LG 스탠바이미 비싸서 포기했어? 잠깐! 이젠 30만원대로 끝내자!"
+**[8-13초] 메인 상품 2 (무빙큐빅스 스마트 삼탠바이미)**
+*   **영상:** 무빙큐빅스 스마트 삼탠바이미 제품 사진, 가격(254,430원) 띄우기. 넷플릭스, 유튜브 등 OTT 앱 아이콘 강조.
+*   **대사:** "둘째! 넷플릭스 필수? 20만원대 '무빙큐빅스 스마트 삼탠바이미'! 스마트 기능까지 완벽 지원! 진짜 합리적인 스마트 경험!"
 
-**(3-7초) 해결책 제시 & 핵심 가치 강조**
-*   **화면**: 침대 옆에서 넷플릭스 보는 모습, 주방에서 요리하며 유튜브 보는 모습, 서재에서 작업하는 모습 등 다양한 공간에서 '삼탠바이미'를 자유롭게 사용하는 장면들이 빠르게 전환.
-*   **대사**: "이동성, 스마트 기능, OTT? 스탠바이미 핵심은 다 가져가면서! '삼탠바이미'로 가성비 제대로 터뜨려봐!"
-
-**(7-12초) 제품의 구체적인 장점 어필 (TOP 2 제품 위주)**
-*   **화면**: '와이드뷰 화이트 QLED' (깔끔한 화이트 인테리어), '와이드뷰 블랙 QLED' (모던한 블랙 인테리어) 제품 클로즈업 및 사용 장면 (선명한 QLED 화질 강조). 리모컨으로 OTT 앱 실행하는 모습.
-*   **대사**: "40인치 QLED 대화면에 넷플릭스, 유튜브 바로! 심지어 화이트, 블랙 디자인까지 완벽! 침실이 영화관 되고, 주방이 스마트 키친으로 변신!"
-
-**(12-15초) 강력한 CTA & 가격 메리트**
-*   **화면**: 두 제품 나란히 놓고 가격 비교 자막 (정품 스탠바이미 vs 삼탠바이미) -> 마지막으로 제품들이 함께 있는 화면과 함께 '프로필 링크 클릭' 유도 문구.
-*   **대사**: "정품 대비 30만원대 후반! 지금 바로 내 공간을 스마트하게 바꿀 기회! 프로필 링크 클릭!"
+**[13-15초] 마무리 & CTA**
+*   **영상:** 4가지 제품 이미지 한 화면에 모아 보여주며 '더 많은 가성비 템은?' 문구. 마지막에 '프로필 링크 클릭!' 강조.
+*   **대사:** "더 놀라운 가성비 템은 댓글이나 프로필 링크에서 확인해! 지금 바로 겟하세요!" (발랄하게)
 
 ---
 
-## 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 (4컷)
 
----
+### 1컷
+*   **들어갈 텍스트:**
+    LG 스탠바이미 100만원? 🤯
+    이제 그만! 🙅‍♀️
+    10년차 MD가 찾아낸
+    ✨ 가성비 '삼탠바이미' BEST 4 ✨
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A frustrated person looking at a high-priced LG StandbyMe TV, with a big "X" mark over the price tag (over $1000). On the side, a vibrant, sparkling arrow points towards a hidden solution. Modern, clean graphic design, pop art style, high contrast, ultra detailed, --ar 1:1 --v 5.2`
 
-### 🖼️ **카드 1**
+### 2컷
+*   **들어갈 텍스트:**
+    🏆 10만원대 압도적 가성비! 🏆
+    **프리토스 삼탠바이미**
+    ✅ TV + 스탠드 한번에!
+    ✅ 163,000원의 기적
+    ✅ 어디든 OK! 실용성 끝판왕!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cozy bedroom scene, a person smiling while watching a movie on a sleek, minimalist portable TV (similar to a StandbyMe alternative, NOT LG branded) by their bed. The TV is on a mobile stand. Focus on comfort, ease of use, and a budget-friendly feel. Soft, warm lighting, modern interior, ultra detailed, --ar 1:1 --v 5.2`
 
-*   **텍스트**:
-    ### 💥 스탠바이미 비싸서 포기? 🙅‍♀️
-    ### 갓성비 '이것' 하나면 끝!
-    가격 때문에 망설였다면 주목!
-    LG 스탠바이미 핵심 기능을 그대로,
-    심지어 디자인, 화질까지 잡은
-    **'삼탠바이미'가 나타났다!**
-*   **Midjourney 프롬프트**:
-    `A frustrated person looking at an expensive, sleek modern portable TV with a cross mark on it, then a vibrant, dynamic, and affordable portable smart TV (SamtanbyME style) appearing with a check mark. The scene is set in a stylish, minimalist modern interior with soft, inviting lighting. Dramatic contrast, high detail, --ar 1:1 --style raw --v 5.2`
+### 3컷
+*   **들어갈 텍스트:**
+    ✨ 스마트 기능까지 싹! ✨
+    **무빙큐빅스 스마트 삼탠바이미 SET**
+    ✅ 넷플릭스, 유튜브 필수!
+    ✅ 20만원대 스마트 TV!
+    ✅ 합리적인 스마트 라이프
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A bright, modern kitchen or living room, a person happily multitasking (e.g., cooking or relaxing) while streaming content (showing Netflix/YouTube icons on screen) on a portable smart TV on a stand. Energetic, high-tech, clean design, bright colors, ultra detailed, --ar 1:1 --v 5.2`
 
----
-
-### 🖼️ **카드 2**
-
-*   **텍스트**:
-    ### ✨ 삼탠바이미, 도대체 뭔데?
-    **✅ 이동성**: 침실, 거실, 주방 어디든!
-    **✅ 스마트 OTT**: 넷플릭스, 유튜브 바로!
-    **✅ 고화질**: QLED 대화면으로 몰입감 UP!
-    **✅ 압도적 가성비**: 수십만원 아끼고 삶의 질 UP!
-    비싼 TV 대신, 똑똑한 삼탠바이미로
-    당신의 공간을 스마트하게 바꿔보세요!
-*   **Midjourney 프롬프트**:
-    `A stylish hand holding a sleek, modern remote control, with multiple floating screens showing various scenarios: a person watching a movie in a cozy bedroom, cooking with TV in a modern kitchen, and working in a minimalist home office. The overall aesthetic is clean, connected, and smart home-inspired, with soft ambient light. Tech aesthetic, high resolution, --ar 1:1 --style raw --v 5.2`
-
----
-
-### 🖼️ **카드 3**
-
-*   **텍스트**:
-    ### 🥇 BEST 1. 와이드뷰 화이트 QLED 삼탠바이미
-    ✔️ **인테리어 끝판왕 화이트 디자인**
-    ✔️ **40인치 QLED 대화면 & 스마트 OTT**
-    ✔️ **완벽한 이동성, 나만의 시네마 완성!**
-    **💰 37만원대!**
-    (정품 스탠바이미 대비 압도적 가성비!)
-*   **Midjourney 프롬프트**:
-    `A sleek white 40-inch portable smart TV (SamtanbyME style) with a mobile stand, displaying a vibrant QLED movie scene. It is harmoniously integrated into a bright, minimalist white bedroom, featuring modern Scandinavian furniture and abundant natural light. Clean, aesthetic, high quality, --ar 1:1 --style raw --v 5.2`
-
----
-
-### 🖼️ **카드 4**
-
-*   **텍스트**:
-    ### 🥈 BEST 2. 와이드뷰 블랙 QLED 삼탠바이미
-    ✔️ **프리미엄 블랙, 어떤 공간에도 찰떡!**
-    ✔️ **압도적 QLED 화질 & 완벽 스마트 기능**
-    ✔️ **견고한 이동형 스탠드, 설치까지 초간편!**
-    **💰 38만원대!**
-    (스마트한 엔터테인먼트, 지금 경험하세요!)
-*   **Midjourney 프롬프트**:
-    `A sophisticated black 40-inch portable smart TV (SamtanbyME style) with a sturdy mobile stand, displaying a dynamic, high-definition game or drama scene. It is positioned in a modern, slightly darker living room with dark wood accents and minimalist decor, emphasizing high contrast and a luxurious feel. Cinematic lighting, detailed, --ar 1:1 --style raw --v 5.2`
+### 4컷
+*   **들어갈 텍스트:**
+    내게 딱 맞는 삼탠바이미는?
+    💡 거치대만 필요해? ➡️ 8만원대 '지트론'
+    👑 구글TV 최고 사양 원해? ➡️ 28만원대 '티비아울렛'
+    ➡️ **더 자세한 정보는 프로필 링크 클릭!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `An infographic-style collage or split screen showing four distinct options for portable TV setups: one panel with just a mobile stand, another with a simple TV on a stand, a third with a smart TV interface, and a fourth with a Google TV interface. Use clean lines, icons, and bold typography to represent choice and value. Modern, informative, ultra detailed, --ar 1:1 --v 5.2`
