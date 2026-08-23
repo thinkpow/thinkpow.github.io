@@ -1,88 +1,46 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+## 도파민 폭발! 15초 스탠바이미 가성비 쇼츠 스크립트
 
-**제목:** LG 스탠바이미 비켜! 🚫 10만원대 '이동식 TV'로 침대가 영화관?! 🍿
+**제목**: 🚨 스탠바이미 가격 실화냐?! 🔥 반값으로 누리는 이동식 스마트 TV!
 
 **[영상 구성]**
 
-*   **시작 효과:** 활기찬 배경 음악 (BGM) 시작, 화면에 "LG 스탠바이미... 비싸서 포기했어?" 텍스트 크게 등장 (빨간색 경고 표시 느낌)
-*   **장면 전환:** 빠르고 경쾌하게 전환되며 상품 이미지 및 사용 장면 교차 삽입
+**(0-3초) 훅 - 시선 강탈 & 문제 제기**
+*   **화면**: 정품 스탠바이미 가격표가 클로즈업 -> 가격에 X표시가 크게 쳐지며 화면이 흔들림 -> 놀란 표정으로 카메라를 응시하는 인물 (혹은 손으로 가격표를 찢는 제스처)
+*   **음악/효과음**: 💰 충격받는 사운드, 전환 효과음
+*   **대사**: "헉! 스탠바이미 가격 실화냐? 😱 포기하긴 일러! 제가 가성비 끝판왕 '삼탠바이미' 찾아왔습니다!"
+
+**(3-10초) 솔루션 제시 & 핵심 제품 소개**
+*   **화면**: (빠르게 전환) 무빙큐빅스 스마트 삼탠바이미가 침대, 주방, 거실 등 다양한 공간에서 활용되는 모습 (넷플릭스 시청, 레시피 확인 등). 강조 텍스트: "스마트 올인원!"
+*   **음악/효과음**: 활기찬 배경 음악
+*   **대사**: "이동성? 스마트 기능? 다 되는데 가격은 반의반값! 첫 번째, **무빙큐빅스 스마트 삼탠바이미!** 넷플릭스, 유튜브 바로 되는 올인원 스마트 TV!"
+*   **화면**: (빠르게 전환) 프리토스 삼탠바이미 일반TV 세트의 깔끔한 디자인, 에너지 효율 1등급 마크 강조. 강조 텍스트: "10만원대! 1등급!"
+*   **대사**: "두 번째, **프리토스 삼탠바이미!** 10만원대 초극강 가성비에 에너지 효율 1등급까지 잡았다구요!"
+
+**(10-15초) 마무리 & CTA**
+*   **화면**: 두 제품이 나란히 놓여있거나, 여러 장소에서 편리하게 활용되는 모습 종합. (밝고 긍정적인 분위기)
+*   **음악/효과음**: 긍정적이고 희망찬 마무리 음악
+*   **대사**: "침실, 주방, 거실! 이제 어디든 나만의 영화관, 나만의 작업실! 부담 없이 즐겨봐!"
+*   **화면**: 텍스트 오버레이: "👇 더 많은 정보는 프로필 링크 확인! #스탠바이미 #가성비스탠바이미 #삼탠바이미"
+*   **대사**: "자세한 정보와 다른 가성비 꿀템들은 프로필 링크를 지금 바로 클릭하세요!"
 
 ---
 
-**[스크립트]**
+## 인스타그램 카드뉴스 (4컷)
 
-**(0-3초) 훅(Hook):**
-**나레이션:** "LG 스탠바이미... 비싸서 포기했어? (좌절하는 표정, 한숨 쉬는 효과음) 놉! 🙅‍♀️ 이제 가성비 삼탠바이미로 침대가 영화관이 됩니다! (해맑게 손가락 튕기며, '도파민 폭발!' 자막)"
+### 1컷
+*   **텍스트**: "스탠바이미 갖고 싶은데… 💸 가격 때문에 망설였다면? 🤯"
+*   **Midjourney 프롬프트**: `A modern, minimalist room with a stylish yet empty space where a high-end portable smart TV should be. A young person holds up a price tag, looking surprised and slightly disappointed. The background is clean with soft, indirect lighting. Emphasize the feeling of longing and cost. Photorealistic, high detail, cinematic, --ar 1:1 --v 5.2`
 
-**(3-12초) 핵심 내용:**
-**나레이션:** "40인치 QLED 대화면에 화이트 감성? 와이드뷰 삼탠바이미가 딱 30만원대! (👉 와이드뷰 제품 등장, QLED 화질 강조)"
-**나레이션:** "아니면, 20만원대로 구글TV OS 탑재한 스마트 끝판왕! 티비아울렛 삼탠바이미! (👉 티비아울렛 제품 등장, 구글 TV 로고 강조)"
-**나레이션:** "방, 주방, 심지어 베란다까지? (다양한 공간에서 TV 사용하는 연출 빠르게 교차) 어디든 이동식 TV로 나만의 OTT 존 완성!"
+### 2컷
+*   **텍스트**: "걱정 끝! 이동성X스마트 기능은 그대로! ✨ '가성비 삼탠바이미'가 나타났다!"
+*   **Midjourney 프롬프트**: `A dynamic scene showing a sleek, modern portable smart TV on wheels effortlessly moving between different cozy home settings: from a bedroom to a kitchen, then to a living room. Bright, inviting atmosphere with natural light. Focus on ease of movement and versatility. Lifestyle photography, vibrant colors, --ar 1:1 --v 5.2`
 
-**(12-15초) 클로징 & CTA:**
-**나레이션:** "더 많은 가성비 삼탠바이미 추천은 프로필 링크 확인! 지금 바로 겟하세요! 🛍️"
-**(마지막 자막):** "프로필 링크 클릭! ✨"
+### 3컷
+*   **텍스트**: "✅ **무빙큐빅스 스마트 삼탠바이미 SET**\n➡️ 넷플릭스, 유튜브 바로! 올인원 스마트 TV 경험!"
+*   **Midjourney 프롬프트**: `A close-up, high-angle shot of the "Moving Cubix Smart SamtanbyMe SET" (a portable smart TV with an integrated stand, minimalist design) placed beside a cozy bed. The screen clearly displays the Netflix logo and a scene from a movie. Soft, warm bedroom lighting, inviting and comfortable atmosphere. Product photography style, --ar 1:1 --v 5.2`
 
----
-
-## 📸 인스타그램 카드뉴스 (4컷)
-
----
-
-### **🖼️ 컷 1: 도입 (훅)**
-
-*   **텍스트:**
-    "LG 스탠바이미? NO! 🙅‍♀️
-    이제 '삼탠바이미'로 가성비 & 감성 모두 잡자! ✨
-    내 방이 바로 영화관, 주방이 바로 OTT 존!
-    10만원대부터 30만원대까지,
-    당신을 위한 완벽한 이동식 TV를 찾으세요!"
-*   **Midjourney 프롬프트 (영문):**
-    `A stylish, cozy bedroom with a modern, minimalist portable smart TV on a stand next to a bed. Soft, warm lighting, minimalistic decor, a cup of coffee on a bedside table. The TV screen displays a vibrant Netflix logo. A person's legs are visible under a blanket. High angle shot, wide lens, golden hour, realistic, cinematic, high detail, cozy aesthetic.`
-
----
-
-### **🖼️ 컷 2: 메인 추천 1 - 와이드뷰 40인치 QLED 삼탠바이미**
-
-*   **텍스트:**
-    "✨ 픽! 리뷰언니 추천 1:
-    **와이드뷰 40인치 QLED 삼탠바이미 (화이트 에디션)**
-
-    ✅ 40인치 QLED 대화면 & 선명한 FHD 화질!
-    ✅ 깔끔하고 세련된 화이트 디자인으로 인테리어 완성
-    ✅ LG 스탠바이미 감성을 합리적 가격(371,070원)에!
-    👉 프리미엄급 가성비를 원한다면? 바로 이거!"
-*   **Midjourney 프롬프트 (영문):**
-    `A sleek, white 40-inch portable smart QLED TV on a matching white stand, positioned in a brightly lit, modern living room with large windows and clean, minimalist furniture. The TV screen shows a high-quality movie scene with vivid, vibrant QLED colors. Minimalist, clean aesthetics, studio lighting, hyperrealistic, high resolution.`
-
----
-
-### **🖼️ 컷 3: 메인 추천 2 - 티비아울렛 구글 스마트 삼탠바이미 TV**
-
-*   **텍스트:**
-    "✨ 픽! 리뷰언니 추천 2:
-    **티비아울렛 구글 스마트 삼탠바이미 TV**
-
-    ✅ 믿고 쓰는 구글 TV OS! 버벅임 없는 스마트 경험
-    ✅ 넷플릭스, 유튜브 등 OTT 서비스 끊김 없이!
-    ✅ 20만원대 후반(285,000원)의 스마트한 가격!
-    👉 편리함과 가성비, 둘 다 놓칠 수 없다면? 정답은 여기!"
-*   **Midjourney 프롬프트 (영문):**
-    `A dark grey or black portable smart TV with the clear Google TV OS interface visible on its screen, standing on a minimalist stand in a cozy, slightly dim room. A person's hand holding a sleek, modern remote is gently blurred in the foreground, pointing towards the TV. Focus on the Google TV interface's usability, comfortable atmosphere, cinematic lighting, realistic, detailed.`
-
----
-
-### **🖼️ 컷 4: 마무리 & CTA (다양한 선택지)**
-
-*   **텍스트:**
-    "내 예산에 딱 맞는 '삼탠바이미'는? 💰
-    👉 10만원대 '초가성비'부터
-    👉 20만원대 '실속 스마트'
-    👉 30만원대 '프리미엄 감성'까지!
-
-    지금 바로 프로필 링크에서 상세 리뷰 확인하고
-    당신의 라이프스타일을 업그레이드할 이동식 TV를 GET하세요! 🛍️"
-*   **Midjourney 프롬프트 (영문):**
-    `A vibrant, dynamic collage or grid of various portable smart TVs on stands, showcasing different designs, sizes, and colors (white, black, grey). Each TV has a subtle price tag overlay (e.g., "$163,000", "$254,000", "$371,000"). In the background, a modern, energetic abstract pattern with gradient colors (blue, pink, yellow). Advertising style, clean layout, eye-catching, high contrast.`
+### 4컷
+*   **텍스트**: "✅ **프리토스 삼탠바이미 일반TV 세트**\n➡️ 10만원대! 극강 가성비에 에너지 효율 1등급까지! 💰\n(더 많은 제품은 프로필 링크!)"
+*   **Midjourney 프롬프트**: `A bright, airy living room with a minimalist aesthetic. The "Fritos SamtanbyMe general TV Set" (a portable TV with a sturdy stand) is the focal point, looking clean and modern. A subtle glow emanates from the screen showing a calm, clear image. Emphasize affordability and good design. Product showcase, soft light, clean lines, --ar 1:1 --v 5.2`
