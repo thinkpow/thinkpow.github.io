@@ -1,77 +1,86 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**(음악: 밝고 경쾌하며 도파민을 자극하는 비트)**
+**제목:** 스탠바이미 비켜! 💸 20만원대 삼탠바이미 끝판왕 등장?! (feat. 10년차 MD 추천)
 
-**[0-3초] 훅 (강렬한 효과음과 함께 화면 전환 빠르게)**
-*   **화면**: (LG 스탠바이미 공식 이미지 빠르게 스쳐 지나감) -> (숫자 '100만원' 크게 띄우며 X표시) -> (번개처럼 '🚨' 이모티콘과 함께 충격받은 표정의 연기자 클로즈업)
-*   **대사**: "LG 스탠바이미? 100만원 넘어서 포기했지? 😱"
-*   **대사**: "잠깐! 반값도 안 되는 '이거'만 알면 인생 TV 찾았다!" (손가락으로 화면 콕 찌르며)
+**(시작 0-3초 훅! - 빠른 전환, 드라마틱한 사운드)**
 
-**[3-7초] 문제 제시 및 솔루션 소개**
-*   **화면**: (깔끔한 화이트 이동식 TV가 거실, 침실 등 다양한 공간에서 자연스럽게 활용되는 모습 빠르게 편집)
-*   **대사**: "요즘 인테리어 필수템 '삼탠바이미' 알아? 똑같이 이쁘고 똑똑한데, 가격은 확 내렸어!"
-
-**[7-12초] 메인 추천 상품 어필 (각 상품 이미지와 핵심 장점 텍스트 오버레이)**
-*   **화면**: (1. 와이드뷰 40인치 화이트 삼탠바이미 클로즈업, 화면에 넷플릭스 재생 장면) -> (가격 '37만원대' 강조) -> (2. 스카이뷰 32인치 화이트 삼탠바이미 클로즈업, 자취방에 놓인 모습) -> (가격 '20만원대' 강조)
-*   **대사**: "무려 40인치 QLED 대화면에 넷플릭스, 유튜브 다 되는 스마트 TV가 30만원대?! 🤯" (깜짝 놀라는 제스처)
-*   **대사**: "심지어 20만원대로 32인치 스마트 이동식 TV도 가능하다고! 대박! ✨"
-
-**[12-15초] 클로징 및 CTA**
-*   **화면**: (다양한 삼탠바이미 제품들이 모여있는 썸네일 이미지 또는 블로그 포스팅 미리보기 화면)
-*   **대사**: "자취생, 신혼부부 모두 주목! 가성비 삼탠바이미 TOP 5, 더 궁금하면 지금 바로 프로필 링크 클릭!" (화면 아래 '프로필 링크 클릭!' 자막)
+**화면:** 스탠바이미 로고 클로즈업 -> 가격표에 '억' 소리 나는 가격 표시 (X 표시) -> 실망한 표정의 사람
+**내레이션:** "스탠바이미 갖고 싶어서 현기증 나? 💸 근데 가격 보고 한숨만?"
+**(0-3초, 짧고 강렬하게!)**
 
 ---
 
-## 2. 인스타그램 카드뉴스 (4컷)
+**화면:** 밝고 경쾌한 배경, "걱정 마!" 텍스트 오버레이, MD 복장을 한 사람이 자신감 있게 등장.
+**내레이션:** "걱정 마! 내가 10년 차 MD 눈으로 찐 가성비 삼탠바이미 딱 두 개 찾아왔거든!"
+**(3-5초)**
 
-### 1컷
-*   **들어갈 텍스트**:
-    ```
-    🚨 스탠바이미 갖고 싶어서 통장 털릴 뻔?
-    MD가 찾은 '가성비 삼탠바이미' BEST 5 대공개! 💸
-    ```
-*   **Midjourney 스타일 영문 프롬프트**:
-    ```
-    A sleek, minimalist white portable smart TV on a stylish stand in a modern, sun-drenched living space. The TV screen displays a large, vibrant question mark and a glowing red "STOP" sign. A blurred background emphasizes luxury and desire, contrasted with a subtle "affordable price" vibe. High-definition photography, soft focus, aspirational. --ar 4:5 --v 5.2
-    ```
+---
 
-### 2컷
-*   **들어갈 텍스트**:
-    ```
-    ✨ 압도적인 존재감! 와이드뷰 40인치 삼탠바이미
-    ✅ 40인치 QLED 대화면
-    ✅ 세련된 화이트 디자인
-    ✅ 넷플릭스, 유튜브 기본!
-    ➡️ 37만원대 프리미엄 가성비!
-    ```
-*   **Midjourney 스타일 영문 프롬프트**:
-    ```
-    A luxurious and cozy bedroom bathed in soft, warm lighting. A large 40-inch white portable smart TV (SamtanbyMe style) on a slender, modern stand is positioned perfectly at the foot of a plush bed. The TV screen shows a high-quality QLED movie scene (e.g., a serene nature landscape). Minimalist white and beige decor. A cup of coffee and a book are on a bedside table. Cinematic, high-resolution photo. --ar 4:5 --v 5.2
-    ```
+**화면:** 침실에서 무빙큐빅스 32인치 스마트 삼탠바이미 (셀프설치)로 넷플릭스 보는 장면. 가격 '20만원대' 강조.
+**내레이션:** "첫 번째! 💥 20만원대 무빙큐빅스 32인치! 셀프 설치지만 스마트 OTT 다 돼! 자취러들 심장 잡으세요!"
+**(5-10초)**
 
-### 3컷
-*   **들어갈 텍스트**:
-    ```
-    🔥 20만원대 실화?! 스카이뷰 32인치 삼탠바이미
-    ✅ LG 스탠바이미보다 큰 32인치
-    ✅ 극강의 가격 가성비
-    ✅ 자취방, 서브 TV로 딱!
-    ➡️ 20만원대 초특가!
-    ```
-*   **Midjourney 스타일 영문 프롬프트**:
-    ```
-    A bright, cheerful studio apartment or a compact, stylish personal space. A 32-inch white portable smart TV (SamtanbyMe style) on a minimalist stand is positioned near a cozy window nook or a desk. The TV screen displays the Netflix logo. A person is casually lounging nearby, enjoying the content. Emphasize a trendy, affordable, and practical lifestyle. Vibrant colors, clean lines. Photography style. --ar 4:5 --v 5.2
-    ```
+---
 
-### 4컷
-*   **들어갈 텍스트**:
-    ```
-    이거 말고 더 있어! 💯 MD's Pick 추가 BEST 3 보러가기!
-    프로필 링크에서 나만의 '스탠바이미' 찾기! 👇
-    ```
-*   **Midjourney 스타일 영문 프롬프트**:
-    ```
-    A visually engaging grid or collage of multiple modern white portable smart TVs (SamtanbyMe style) of different sizes (32-inch, 40-inch). Each TV is on its stand, arranged artfully against a clean, bright, minimalist background. Subtle glowing arrows or lines connect them, leading to a prominent "Click Here" button or a finger pointing gesture, suggesting more options. High-tech, clean, attractive advertisement style. --ar 4:5 --v 5.2
-    ```
+**화면:** 거실에서 전문 기사가 무빙큐빅스 32인치 스마트 삼탠바이미 (방문설치)를 설치해주는 장면. '방문 설치' 강조, 가격 '30만원 초반대' 강조.
+**내레이션:** "두 번째! 이건 설치까지 해줘! ✨ 30만원 초반에 전문가가 알아서 뚝딱! 귀찮음 종결템!"
+**(10-14초)**
+
+---
+
+**화면:** 두 제품 나란히 비교, "이동의 자유 + 스마트함 = 삼탠바이미!" 텍스트.
+**내레이션:** "비싼 원본 살 필요 없어! 더 자세한 정보는 댓글 링크 확인!"
+**(14-15초, 빠른 전환 및 CTA)**
+
+---
+
+## 2. 인스타그램 카드뉴스 4컷
+
+### **[1컷]**
+**텍스트:**
+**스탠바이미, 갖고는 싶지만...**
+**가격이 헉! 소리 난다면? 💸**
+#스탠바이미 #비싼가전 #고민중
+
+**Midjourney 영문 프롬프트:**
+A minimalist, modern living room with a sleek, expensive-looking smart TV on a stand (resembling a StandbyMe). A person is looking at a blurred price tag on the TV with a shocked and disappointed expression, money flying away from their wallet. Soft natural light, high contrast, cinematic feel, --ar 1:1 --v 5.2
+
+### **[2컷]**
+**텍스트:**
+**걱정 마세요! 😉**
+**10년 차 MD가 찾은**
+**'삼탠바이미' 가성비 끝판왕!**
+#삼탠바이미 #가성비TV #MD추천
+
+**Midjourney 영문 프롬프트:**
+A confident female MD (e-commerce merchandise director) in a stylish, smart casual outfit, smiling triumphantly and presenting two sleek, modern mobile TVs (resembling StandbyMe alternatives) in a bright, clean studio setting. The TVs are vibrant and affordable-looking. Futuristic aesthetic, triumphant mood, studio lighting, --ar 1:1 --v 5.2
+
+### **[3컷]**
+**텍스트:**
+**💥 20만원대 실화? 💥**
+**무빙큐빅스 32인치 스마트 삼탠바이미**
+**(셀프설치)**
+
+**✅ 스마트 OTT 기본!**
+**✅ 32인치 최적화 사이즈**
+**✅ 극강의 가성비!**
+#자취템 #갓성비 #20만원대
+
+**Midjourney 영문 프롬프트:**
+A cozy and modern bedroom, a person comfortably watching Netflix on a 32-inch mobile smart TV on a stand (무빙큐빅스 style). The screen shows a vibrant streaming service. A subtle price tag "254,430원" or "20만원대" is visible near the TV. Warm ambient lighting, inviting atmosphere, minimalist design, --ar 1:1 --v 5.2
+
+### **[4컷]**
+**텍스트:**
+**✨ 설치 걱정 끝! ✨**
+**무빙큐빅스 32인치 스마트 삼탠바이미**
+**(방문설치 포함)**
+
+**✅ 전문 기사 방문 설치!**
+**✅ 시간, 노력 절약 효과**
+**✅ 30만원 초반대의 편의성**
+#설치무료 #편의성갑 #워라밸템
+
+**Midjourney 영문 프롬프트:**
+A professional technician with a friendly smile, assembling a 32-inch mobile smart TV on a stand (무빙큐빅스 style) in a stylish, bright living room. A relieved customer is watching in the background, holding a cup of coffee. The TV screen shows a "설치 완료!" message. Clean, organized setting, bright daylight, --ar 1:1 --v 5.2
