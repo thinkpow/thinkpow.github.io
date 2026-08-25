@@ -1,86 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
-
-**제목:** 스탠바이미 비켜! 💸 20만원대 삼탠바이미 끝판왕 등장?! (feat. 10년차 MD 추천)
-
-**(시작 0-3초 훅! - 빠른 전환, 드라마틱한 사운드)**
-
-**화면:** 스탠바이미 로고 클로즈업 -> 가격표에 '억' 소리 나는 가격 표시 (X 표시) -> 실망한 표정의 사람
-**내레이션:** "스탠바이미 갖고 싶어서 현기증 나? 💸 근데 가격 보고 한숨만?"
-**(0-3초, 짧고 강렬하게!)**
+## 🌟 도파민 폭발 15초 쇼츠 대본 & 인스타그램 카드뉴스 (스탠바이미 가성비 편)
 
 ---
 
-**화면:** 밝고 경쾌한 배경, "걱정 마!" 텍스트 오버레이, MD 복장을 한 사람이 자신감 있게 등장.
-**내레이션:** "걱정 마! 내가 10년 차 MD 눈으로 찐 가성비 삼탠바이미 딱 두 개 찾아왔거든!"
-**(3-5초)**
+### 🎬 유튜브 쇼츠/틱톡 15초 스크립트 (대사 위주)
+
+**영상 컨셉**: 빠르고 경쾌한 비트의 BGM과 함께, 핵심 정보가 훅훅 들어오는 다이나믹한 편집
+
+*   **[0-3초] 훅 (Hook)**
+    *   **화면**: (화면 중앙에 '스탠바이미' 비싼 가격표가 크게 보이다가, '포기' 글씨와 함께 X표시. 이어서 '가성비' 글씨가 번개처럼 나타남)
+    *   **내레이션**: "스탠바이미 사고 싶어서 통장 텅장 될 뻔? 놉! 2024년 갓성비 대란템!"
+*   **[3-7초] 문제 제기 & 해결책 제시**
+    *   **화면**: (비싼 스탠바이미 이미지 -> 저렴한 프리토스/지트론 세트 이미지가 번갈아 나타남)
+    *   **내레이션**: "비싼 LG 스탠바이미 대신 '이거'면 충분! 10만원대 이동식 스마트 TV가 떴다!"
+*   **[7-10초] 메인 상품 1 소개 (프리토스)**
+    *   **화면**: (프리토스 삼탠바이미 세트가 침실, 주방 등 다양한 공간으로 스르륵 이동하는 모습. 'TV 포함 16만원대', '올인원' 자막 강조)
+    *   **내레이션**: "TV까지 다 주는 올인원! 16만원대 프리토스 세트? 바로 침실, 주방 어디든 직행!"
+*   **[10-13초] 메인 상품 2 소개 (지트론)**
+    *   **화면**: (지트론 거치대에 기존 TV를 연결하는 모습. '8만원대 거치대', 'DIY' 자막 강조)
+    *   **내레이션**: "집에 TV 있는데? 그럼 거치대만 8만원대 지트론으로! 나만의 DIY 스탠바이미 완성!"
+*   **[13-15초] 클로징 & CTA**
+    *   **화면**: (두 제품이 함께 놓여있고, 화면 하단에 '자세한 정보는 댓글/프로필 링크 클릭!' 자막 크게 뜸)
+    *   **내레이션**: "현명한 당신을 위한 선택! 더 자세한 정보는 지금 바로 댓글/프로필 링크 확인하세요!"
 
 ---
 
-**화면:** 침실에서 무빙큐빅스 32인치 스마트 삼탠바이미 (셀프설치)로 넷플릭스 보는 장면. 가격 '20만원대' 강조.
-**내레이션:** "첫 번째! 💥 20만원대 무빙큐빅스 32인치! 셀프 설치지만 스마트 OTT 다 돼! 자취러들 심장 잡으세요!"
-**(5-10초)**
+### 📸 인스타그램 카드뉴스 4컷
 
----
+#### 1. 첫 번째 카드 (훅 & 도입)
 
-**화면:** 거실에서 전문 기사가 무빙큐빅스 32인치 스마트 삼탠바이미 (방문설치)를 설치해주는 장면. '방문 설치' 강조, 가격 '30만원 초반대' 강조.
-**내레이션:** "두 번째! 이건 설치까지 해줘! ✨ 30만원 초반에 전문가가 알아서 뚝딱! 귀찮음 종결템!"
-**(10-14초)**
+*   **카드 텍스트**:
+    "스탠바이미? 비싸서 포기했어?" 💔
+    "NO! 10만원대로 나만의 이동식 TV 완성!"
+    "2024년 갓성비 스탠바이미 대체템 BEST 2 공개!"
+*   **Midjourney 프롬프트**:
+    `A vibrant, energetic scene contrasting a disappointed person looking at a luxury, expensive movable TV (LG StandbyMe style) with a joyful person pointing at a more affordable, modern mobile TV stand. Bright, dopamine-inducing colors, dynamic composition, clean minimalist background, pop art style, volumetric lighting, high resolution, --ar 1:1`
 
----
+#### 2. 두 번째 카드 (메인 상품 1: 프리토스 삼탠바이미)
 
-**화면:** 두 제품 나란히 비교, "이동의 자유 + 스마트함 = 삼탠바이미!" 텍스트.
-**내레이션:** "비싼 원본 살 필요 없어! 더 자세한 정보는 댓글 링크 확인!"
-**(14-15초, 빠른 전환 및 CTA)**
+*   **카드 텍스트**:
+    "1. 압도적 가성비 끝판왕! #프리토스 삼탠바이미 세트"
+    "✨ 스탠드+TV 세트가 16만원대!"
+    "✨ 별도 구매 NO! 올인원 솔루션!"
+    "✨ 에너지 효율 1등급으로 전기료까지 절약!"
+*   **Midjourney 프롬프트**:
+    `A sleek, modern living space. A person happily watching a TV on a stylish white mobile stand (similar to Freetos SamtanbyMe Set), effortlessly moving it from a cozy bedroom to a bright kitchen. Soft, natural lighting. Clean aesthetic. Focus on product versatility. Minimalist interior design, high resolution, slightly muted color palette, --ar 1:1`
 
----
+#### 3. 세 번째 카드 (메인 상품 2: 지트론 이동형 TV거치대)
 
-## 2. 인스타그램 카드뉴스 4컷
+*   **카드 텍스트**:
+    "2. DIY 가성비의 정점! #지트론 이동형 TV거치대"
+    "💰 10만원 미만! 8만원대로 나만의 스탠바이미 DIY!"
+    "📺 집에 있는 TV/모니터 (32인치까지) 활용 가능!"
+    "🔄 바퀴 달려 어디든 OK! 공간 활용도 UP!"
+*   **Midjourney 프롬프트**:
+    `A creative, DIY-themed room. A person is easily attaching a personal TV onto a black, minimalist mobile TV stand (similar to Zitron stand) with wheels. Different elements suggesting personal customization (e.g., small plant, colorful blanket). Emphasize ease of assembly and movement. Soft, warm lighting, cozy atmosphere, modern casual style, high resolution, --ar 1:1`
 
-### **[1컷]**
-**텍스트:**
-**스탠바이미, 갖고는 싶지만...**
-**가격이 헉! 소리 난다면? 💸**
-#스탠바이미 #비싼가전 #고민중
+#### 4. 네 번째 카드 (클로징 & CTA)
 
-**Midjourney 영문 프롬프트:**
-A minimalist, modern living room with a sleek, expensive-looking smart TV on a stand (resembling a StandbyMe). A person is looking at a blurred price tag on the TV with a shocked and disappointed expression, money flying away from their wallet. Soft natural light, high contrast, cinematic feel, --ar 1:1 --v 5.2
-
-### **[2컷]**
-**텍스트:**
-**걱정 마세요! 😉**
-**10년 차 MD가 찾은**
-**'삼탠바이미' 가성비 끝판왕!**
-#삼탠바이미 #가성비TV #MD추천
-
-**Midjourney 영문 프롬프트:**
-A confident female MD (e-commerce merchandise director) in a stylish, smart casual outfit, smiling triumphantly and presenting two sleek, modern mobile TVs (resembling StandbyMe alternatives) in a bright, clean studio setting. The TVs are vibrant and affordable-looking. Futuristic aesthetic, triumphant mood, studio lighting, --ar 1:1 --v 5.2
-
-### **[3컷]**
-**텍스트:**
-**💥 20만원대 실화? 💥**
-**무빙큐빅스 32인치 스마트 삼탠바이미**
-**(셀프설치)**
-
-**✅ 스마트 OTT 기본!**
-**✅ 32인치 최적화 사이즈**
-**✅ 극강의 가성비!**
-#자취템 #갓성비 #20만원대
-
-**Midjourney 영문 프롬프트:**
-A cozy and modern bedroom, a person comfortably watching Netflix on a 32-inch mobile smart TV on a stand (무빙큐빅스 style). The screen shows a vibrant streaming service. A subtle price tag "254,430원" or "20만원대" is visible near the TV. Warm ambient lighting, inviting atmosphere, minimalist design, --ar 1:1 --v 5.2
-
-### **[4컷]**
-**텍스트:**
-**✨ 설치 걱정 끝! ✨**
-**무빙큐빅스 32인치 스마트 삼탠바이미**
-**(방문설치 포함)**
-
-**✅ 전문 기사 방문 설치!**
-**✅ 시간, 노력 절약 효과**
-**✅ 30만원 초반대의 편의성**
-#설치무료 #편의성갑 #워라밸템
-
-**Midjourney 영문 프롬프트:**
-A professional technician with a friendly smile, assembling a 32-inch mobile smart TV on a stand (무빙큐빅스 style) in a stylish, bright living room. A relieved customer is watching in the background, holding a cup of coffee. The TV screen shows a "설치 완료!" message. Clean, organized setting, bright daylight, --ar 1:1 --v 5.2
+*   **카드 텍스트**:
+    "나에게 딱 맞는 #가성비스탠바이미 찾았다면?"
+    "지금 바로 프로필 링크에서 상세 정보 확인하고 GET!"
+    "#삼탠바이미 #이동식TV #스마트TV #현명한소비"
+*   **Midjourney 프롬프트**:
+    `A vibrant, engaging scene with two distinct mobile TV setups (one resembling Freetos, one resembling Zitron with a TV) prominently displayed. Hands reaching out as if to select one. Bright, inviting atmosphere, dynamic angle, abstract background with subtle tech elements. Text overlay friendly, clear call to action visual. Pop of color, volumetric lighting, high resolution, --ar 1:1`
