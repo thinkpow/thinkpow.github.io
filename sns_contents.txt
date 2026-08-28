@@ -1,72 +1,57 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 📺 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**(음악: 경쾌하고 빠른 비트의 배경음악)**
+**제목:** LG 스탠바이미 비싸서 포기? 🤫 20만원대 '이거'가 인생템이야! #가성비삼탠바이미 #이동식TV
 
----
+**(0-3초) 훅: 시선을 강탈하는 빠른 전환과 놀람 톤**
+**내레이터 (활기차고 빠르게):** "LG 스탠바이미 찜꽁! 가격 보고 '헉!' 했어? 🤯"
+**(화면:** LG 스탠바이미 이미지 빠르게 스쳐 지나가며 가격표가 크게 뜨고, '헉!' 소리와 함께 절망하는 표정의 사람 연출)
+**내레이터:** "잠깐! 반값도 안 되는 '이거' 알면 기절한다!"
+**(화면:** 좌절하던 사람이 환하게 웃으며, 세련된 '삼탠바이미'가 등장하는 극적인 전환)
 
-**[0-3초] ⚡️훅(Hook) / 강렬한 시각적 연출 필요⚡️**
-*   **화면:** 고급스러운 LG 스탠바이미가 등장. (부드러운 카메라 무빙)
-*   **자막:** "LG 스탠바이미... 내 로망인데..."
-*   **화면:** 다음 순간, 스탠바이미 옆에 엄청난 가격표 (예: 120만원!)가 크게 팝업!
-*   **자막:** "...가격 실화?!" (놀란 표정 이모티콘)
-*   **내레이션 (빠르게, 놀란 톤):** "스탠바이미, 갖고 싶다고? 근데 가격 보고 한숨만 푹푹...?"
+**(3-10초) 문제 해결 및 핵심 장점 어필**
+**내레이터:** "침대 옆, 주방, 거실 어디든 자유롭게 이동! 🏃‍♀️💨 넷플릭스, 유튜브는 기본!"
+**(화면:** 삼탠바이미가 침실, 주방, 거실 등 다양한 공간에서 편리하게 사용되는 연출 (빠른 컷 전환))
+**내레이터:** "따로 동글 필요 없이, 구글 OS로 스마트하게 즐기는 미친 가성비! 이 가격 실화?!"
+**(화면:** 삼탠바이미 화면에 넷플릭스/유튜브 UI가 크게 보이고, 리모컨으로 쉽게 조작하는 손 클로즈업. 텍스트 오버레이: '스마트 OS 기본 탑재!')
 
-**[3-8초] 문제 제기 및 솔루션 제시**
-*   **화면:** 가격표가 깨지면서 사라지고, 밝은 분위기로 전환.
-*   **자막:** "걱정 마! MD가 찾았다, 가성비 끝판왕 '삼탠바이미'!"
-*   **내레이션 (활기차게):** "좌절은 그만! 이커머스 MD가 직접 엄선한 '가성비 삼탠바이미'들이 있잖아?"
-
-**[8-13초] 메인 상품 2가지 소개**
-*   **화면:** 첫 번째 제품 '티비아울렛 구글 스마트 삼탠바이미'가 등장하며, 화면에 구글 TV 인터페이스(넷플릭스, 유튜브 아이콘)와 음성 인식 아이콘이 오버레이.
-*   **자막:** "🥇 MD픽 1위: 구글 TV로 완벽 스마트! ➡️ 티비아울렛 삼탠바이미 (20만원대!)"
-*   **내레이션 (설득력 있게):** "첫째! 20만원대에 '구글 TV'까지! 모든 OTT 다 되는 스마트 끝판왕, 티비아울렛!"
-*   **화면:** 두 번째 제품 '이노스 32인치 FHD 스마트 삼탠바이미'가 등장하며, 선명한 화면(고화질 영상)과 이동식 스탠드가 부각됨.
-*   **자막:** "🥈 MD픽 2위: 선명한 FHD+안정성! ➡️ 이노스 32인치 삼탠바이미"
-*   **내레이션 (차분하게):** "둘째! 선명한 FHD 화질에 안정성까지 잡은 밸런스 픽! 이노스 32인치!"
-
-**[13-15초] 클로징 및 CTA**
-*   **화면:** 두 제품이 나란히 놓여있고, 뒤로 다양한 사용 장면(침실, 주방 등)이 빠르게 스쳐 지나감.
-*   **자막:** "비싼 돈 주지 마! 👆지금 바로 프로필 링크 클릭!👆"
-*   **내레이션 (강조하며):** "비싼 돈 주고 살 필요 없어! 이 모든 정보는 프로필 링크에!"
-*   **음악:** 마무리 효과음과 함께 짧게 마무리.
+**(10-15초) 제품군 강조 및 강력한 CTA**
+**내레이터:** "20만원대 압도적 가성비 구글 TV부터, 믿고 쓰는 30만원대 브랜드까지!"
+**(화면:** 주요 제품 이미지 (티비아울렛, 이노스) 빠르게 전환되며 가격대 강조)
+**내레이터:** "더 이상 고민은 사치! 🤫 지금 바로 고정댓글 링크에서 '가성비 삼탠바이미' 인생템 겟하자!"
+**(화면:** 화면 중앙에 '🚀 프로필 링크 클릭! 🚀' 또는 '👇 고정댓글 확인 👇' 텍스트 크게, 엄지척 이모티콘과 함께 마무리)
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 4컷
 
-### 💳 1번째 컷
+### 1️⃣ 첫 번째 컷
+*   **슬라이드 텍스트:**
+    LG 스탠바이미... 비싸서 포기했어? 😥
+    💸 반값도 안 되는 가격에 스탠바이미 감성 그대로!
+*   **Midjourney 이미지 프롬프트 (영문):**
+    `A visually appealing image contrasting an expensive, sleek, white movable smart TV (similar to LG StandbyME) with a much more affordable, equally stylish black movable smart TV. The expensive one looks slightly out of reach, while the affordable one is easily accessible and being enjoyed by a smiling person in a modern, cozy living room. Emphasis on "value" and "accessibility". Bright, inviting lighting, cinematic shot. --ar 1:1 --v 5.2`
 
-*   **텍스트:**
-    ## 🤯 스탠바이미, 너무 비싸다고요?
-    ### #갖고싶은데 #가격실화냐 #이커머스MD추천
-*   **Midjourney 프롬프트:**
-    A sleek, modern portable smart TV (like LG StandbyME) placed in a minimalist, luxurious living room. A huge, bold red "X" or a massive "₩₩₩" price tag is dramatically overlaid on the TV, signifying high cost. Cinematic lighting, soft shadows, expensive feel. --ar 1:1 --v 5.2
+### 2️⃣ 두 번째 컷
+*   **슬라이드 텍스트:**
+    현직 MD가 엄선한 '가성비 삼탠바이미' BEST 5 ✨
+    스마트 기능? 이동의 자유? 걱정 마세요!
+*   **Midjourney 이미지 프롬프트 (영문):**
+    `A vibrant collage or grid of five different models of movable smart TVs (StandbyME alternatives, "삼탠바이미"), each showcased in a distinct modern home setting: a stylish bedroom, a minimalist kitchen, a cozy living room, a home office, and a sunny balcony. Each TV is sleek, functional, and on wheels. Emphasize versatility and modern design. Clean, bright, and airy aesthetic. Professional product photography style. --ar 1:1 --v 5.2`
 
-### 💳 2번째 컷
+### 3️⃣ 세 번째 컷
+*   **슬라이드 텍스트:**
+    👑 1위. 티비아울렛 삼탠바이미
+    20만원대 구글 TV! 압도적인 가성비! 💡
+    (넷플릭스, 유튜브 기본 탑재)
+*   **Midjourney 이미지 프롬프트 (영문):**
+    `A close-up shot of a black movable smart TV (StandbyME alternative) displaying a vibrant Google TV interface with Netflix or YouTube clearly visible. The TV is positioned next to a bed in a modern, softly lit bedroom. A hand holding a remote is casually resting nearby. Focus on the screen clarity and smart features. Realistic, high-detail photography. --ar 1:1 --v 5.2`
 
-*   **텍스트:**
-    ## 스마트+이동성 포기 못 해!
-    ### 갓성비 '삼탠바이미'가 답!
-    ### MD가 직접 엄선한 BEST 2
-*   **Midjourney 프롬프트:**
-    A brightly lit, modern living space where a person happily rolls a stylish, minimalist portable smart TV (similar to SamtanbyME) on a stand. The TV screen shows various app icons (Netflix, YouTube), symbolizing smart features. Focus on ease of mobility and smart functions. Soft, inviting colors, natural daylight. --ar 1:1 --v 5.2
-
-### 💳 3번째 컷
-
-*   **텍스트:**
-    ## 🥇 MD픽 1위: 티비아울렛 스마트 구글 TV 삼탠바이미
-    ### 💰 20만원대 후반에 구글 TV?!
-    ### 모든 OTT, 음성 제어까지! 스마트 끝판왕!
-*   **Midjourney 프롬프트:**
-    Close-up shot of a portable smart TV screen (TVA outlet Google Smart SamtanbyME style) vividly displaying the Google TV interface with Netflix, YouTube, Disney+ app icons clearly visible. A hand is gently holding a sleek remote control in the foreground. Background of a cozy, modern bedroom with warm lighting. Detailed, high-resolution. --ar 1:1 --v 5.2
-
-### 💳 4번째 컷
-
-*   **텍스트:**
-    ## 🥈 MD픽 2위: 이노스 32인치 FHD 스마트 삼탠바이미
-    ### ✨ 선명한 FHD 화질 + 안정적인 브랜드!
-    ### 기본에 충실한 밸런스 픽!
-*   **Midjourney 프롬프트:**
-    A 32-inch portable smart TV (Innos style) on a stable, minimalist stand, positioned in a bright, modern kitchen or dining area. The screen displays a vibrant, high-definition (FHD) cooking show or a beautiful landscape scene. Focus on the clear picture quality and the versatility of a movable TV. Clean lines, natural light. --ar 1:1 --v 5.2
+### 4️⃣ 네 번째 컷
+*   **슬라이드 텍스트:**
+    이동식 TV, 이제 비쌀 필요 없어요! 👆
+    침실/주방/거실 어디든, 당신의 라이프스타일에 맞게!
+    지금 바로 프로필 링크에서 '인생템' 확인! 🛒
+*   **Midjourney 이미지 프롬프트 (영문):**
+    `A dynamic and seamless scene showing a single movable smart TV (StandbyME alternative) being easily transported from a bright, clean kitchen, through a hallway, and into a warm, inviting living room. The TV screen smoothly transitions content (e.g., cooking video to a movie). Emphasize fluidity, convenience, and modern home decor. Soft natural light, realistic photography, --ar 1:1 --v 5.2`
