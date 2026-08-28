@@ -1,57 +1,71 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**제목:** LG 스탠바이미 비싸서 포기? 🤫 20만원대 '이거'가 인생템이야! #가성비삼탠바이미 #이동식TV
+**제목:** 💸 스탠바이미 비싸서 못 샀다고? 20만원대 삼탠바이미가 나타났다! (도파민 폭발!)
 
-**(0-3초) 훅: 시선을 강탈하는 빠른 전환과 놀람 톤**
-**내레이터 (활기차고 빠르게):** "LG 스탠바이미 찜꽁! 가격 보고 '헉!' 했어? 🤯"
-**(화면:** LG 스탠바이미 이미지 빠르게 스쳐 지나가며 가격표가 크게 뜨고, '헉!' 소리와 함께 절망하는 표정의 사람 연출)
-**내레이터:** "잠깐! 반값도 안 되는 '이거' 알면 기절한다!"
-**(화면:** 좌절하던 사람이 환하게 웃으며, 세련된 '삼탠바이미'가 등장하는 극적인 전환)
+**[영상 구성 및 대사]**
 
-**(3-10초) 문제 해결 및 핵심 장점 어필**
-**내레이터:** "침대 옆, 주방, 거실 어디든 자유롭게 이동! 🏃‍♀️💨 넷플릭스, 유튜브는 기본!"
-**(화면:** 삼탠바이미가 침실, 주방, 거실 등 다양한 공간에서 편리하게 사용되는 연출 (빠른 컷 전환))
-**내레이터:** "따로 동글 필요 없이, 구글 OS로 스마트하게 즐기는 미친 가성비! 이 가격 실화?!"
-**(화면:** 삼탠바이미 화면에 넷플릭스/유튜브 UI가 크게 보이고, 리모컨으로 쉽게 조작하는 손 클로즈업. 텍스트 오버레이: '스마트 OS 기본 탑재!')
-
-**(10-15초) 제품군 강조 및 강력한 CTA**
-**내레이터:** "20만원대 압도적 가성비 구글 TV부터, 믿고 쓰는 30만원대 브랜드까지!"
-**(화면:** 주요 제품 이미지 (티비아울렛, 이노스) 빠르게 전환되며 가격대 강조)
-**내레이터:** "더 이상 고민은 사치! 🤫 지금 바로 고정댓글 링크에서 '가성비 삼탠바이미' 인생템 겟하자!"
-**(화면:** 화면 중앙에 '🚀 프로필 링크 클릭! 🚀' 또는 '👇 고정댓글 확인 👇' 텍스트 크게, 엄지척 이모티콘과 함께 마무리)
+*   **0-3초 (훅):**
+    *   **(빠른 템포의 경쾌한 음악 시작, 화면에 LG 스탠바이미 가격표 큼지막하게 띄우며, 좌절하는 표정의 사람 등장)**
+    *   **대사:** "스탠바이미… 갖고 싶지만 이 가격 실화? 😥"
+    *   **(화면 전환! 환호하는 표정, 삼탠바이미 제품 등장)**
+    *   **대사:** "잠깐! 20만원대에 스마트 이동식 TV가 가능하다고? 😲"
+*   **3-8초 (메인 상품 1):**
+    *   **(제품1 '티비아울렛 구글TV 삼탠바이미' 이미지/영상 클로즈업, 옆에 가격 '285,000원' 강조)**
+    *   **대사:** "첫 번째! ✨ 티비아울렛 구글TV 삼탠바이미! 20만원대인데 넷플릭스, 유튜브 다 돼! 진짜 스탠바이미랑 똑같이 편해! 대박!"
+*   **8-13초 (메인 상품 2):**
+    *   **(제품2 '와이드뷰 40인치 QLED 화이트 삼탠바이미' 이미지/영상 클로즈업, 옆에 가격 '371,070원' 강조)**
+    *   **대사:** "두 번째! 🔥 40인치 QLED 대화면에 화이트 디자인으로 인테리어 끝판왕! 이거 하나면 가심비 폭발이야!"
+*   **13-15초 (클로징 & CTA):**
+    *   **(두 제품 나란히 비교하며 등장, 화면 하단에 '더 많은 가성비 삼탠바이미는 프로필 링크!' 문구 강조)**
+    *   **대사:** "더 궁금하다면? 지금 바로 프로필 링크 확인! 👀 당신의 인생템을 찾아봐!"
+    *   **(점프컷 효과, 마무리)**
 
 ---
 
 ## 📸 인스타그램 카드뉴스 4컷
 
-### 1️⃣ 첫 번째 컷
-*   **슬라이드 텍스트:**
-    LG 스탠바이미... 비싸서 포기했어? 😥
-    💸 반값도 안 되는 가격에 스탠바이미 감성 그대로!
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A visually appealing image contrasting an expensive, sleek, white movable smart TV (similar to LG StandbyME) with a much more affordable, equally stylish black movable smart TV. The expensive one looks slightly out of reach, while the affordable one is easily accessible and being enjoyed by a smiling person in a modern, cozy living room. Emphasis on "value" and "accessibility". Bright, inviting lighting, cinematic shot. --ar 1:1 --v 5.2`
+**[1/4 컷]**
 
-### 2️⃣ 두 번째 컷
-*   **슬라이드 텍스트:**
-    현직 MD가 엄선한 '가성비 삼탠바이미' BEST 5 ✨
-    스마트 기능? 이동의 자유? 걱정 마세요!
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A vibrant collage or grid of five different models of movable smart TVs (StandbyME alternatives, "삼탠바이미"), each showcased in a distinct modern home setting: a stylish bedroom, a minimalist kitchen, a cozy living room, a home office, and a sunny balcony. Each TV is sleek, functional, and on wheels. Emphasize versatility and modern design. Clean, bright, and airy aesthetic. Professional product photography style. --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    스탠바이미 갖고 싶지만..
+    가격 때문에 망설였어? 😥
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A person with a slightly sad or disappointed expression, looking at an expensive, sleek LG StandbyMe TV in a modern minimalist living room. A subtle thought bubble above their head contains dollar signs and a question mark. Soft, ambient lighting, cinematic, high resolution, 16:9 aspect ratio, clean aesthetic, interior design magazine style. --ar 16:9 --v 5.2
+    ```
 
-### 3️⃣ 세 번째 컷
-*   **슬라이드 텍스트:**
-    👑 1위. 티비아울렛 삼탠바이미
-    20만원대 구글 TV! 압도적인 가성비! 💡
-    (넷플릭스, 유튜브 기본 탑재)
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A close-up shot of a black movable smart TV (StandbyME alternative) displaying a vibrant Google TV interface with Netflix or YouTube clearly visible. The TV is positioned next to a bed in a modern, softly lit bedroom. A hand holding a remote is casually resting nearby. Focus on the screen clarity and smart features. Realistic, high-detail photography. --ar 1:1 --v 5.2`
+**[2/4 컷]**
 
-### 4️⃣ 네 번째 컷
-*   **슬라이드 텍스트:**
-    이동식 TV, 이제 비쌀 필요 없어요! 👆
-    침실/주방/거실 어디든, 당신의 라이프스타일에 맞게!
-    지금 바로 프로필 링크에서 '인생템' 확인! 🛒
-*   **Midjourney 이미지 프롬프트 (영문):**
-    `A dynamic and seamless scene showing a single movable smart TV (StandbyME alternative) being easily transported from a bright, clean kitchen, through a hallway, and into a warm, inviting living room. The TV screen smoothly transitions content (e.g., cooking video to a movie). Emphasize fluidity, convenience, and modern home decor. Soft natural light, realistic photography, --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    걱정 마! 💸
+    '삼탠바이미' 가성비 끝판왕이 있으니까!
+    ✨ 20만원대 구글 TV OS 탑재! 스마트 기능 완벽!
+    **(티비아울렛 구글TV 삼탠바이미)**
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A person happily watching Netflix on a sleek, portable smart TV (resembling '티비아울렛 구글TV 삼탠바이미') in a cozy, sunlit bedroom. The TV screen clearly shows a streaming service interface. Modern, inviting interior, warm lighting, minimalist decor, high resolution, soft focus, natural light, cinematic. --ar 16:9 --v 5.2
+    ```
+
+**[3/4 컷]**
+
+*   **카드 텍스트:**
+    🔥 40인치 QLED 대화면 + 세련된 화이트 디자인!
+    '가심비' 폭발! 인테리어까지 UP!
+    **(와이드뷰 40인치 QLED 화이트 삼탠바이미)**
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    An elegant, white 40-inch portable QLED TV (resembling '와이드뷰 40인치 QLED 화이트 삼탠바이미') stylishly placed in a bright, spacious living room with large windows. The TV displays a vibrant, high-definition nature scene. Clean, sophisticated interior, abundant natural light, luxurious, modern aesthetic, high resolution, cinematic. --ar 16:9 --v 5.2
+    ```
+
+**[4/4 컷]**
+
+*   **카드 텍스트:**
+    이 외에도 3가지 더!
+    당신의 인생 삼탠바이미는? 💖
+    지금 바로 프로필 링크에서 확인하세요! ➡️
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A dynamic collage or grid displaying five different portable smart TVs (resembling the various '삼탠바이미' products) arranged artistically against a clean, futuristic, and slightly glowing background. A prominent 'swipe left' or 'click here' arrow icon points towards the profile link, vibrant and energetic colors, high resolution, studio lighting, modern tech advertisement style. --ar 16:9 --v 5.2
+    ```
