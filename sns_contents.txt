@@ -1,31 +1,34 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## ✨ 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 📢 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**콘텐츠 제목:** 스탠바이미 비싸다고 포기했어? 😱 100만원 아끼는 삼탠바이미 꿀팁!
+**콘텐츠 제목**: 스탠바이미? 댓츠 노노! 가성비 끝판왕 '삼탠바이미' 등장! 🤯
 
-**[영상 구성]**
+**(영상 콘셉트: 빠른 전환, 강렬한 사운드 효과, 핵심 문구 강조 자막)**
 
-*   **0-3초 (훅):** 고가의 스탠바이미 화면이 빠르게 지나가며 "스탠바이미 비싸다고 포기했어? 😱" 자막과 함께 'X' 표시. "노노! 100만원 아끼는 삼탠바이미 꿀팁!" 자막과 함께 'O' 표시. (빠른 전환, 효과음 필수)
-*   **3-7초:** 침대, 주방 등 다양한 공간에서 삼탠바이미를 자유롭게 사용하는 모습 클립.
-*   **7-12초:** 이노스 삼탠바이미 제품 이미지/클립이 팝업 되며 특징 강조.
-*   **12-15초:** 와이드뷰 삼탠바이미 제품 이미지/클립이 팝업 되며 특징 강조 후 CTA.
+---
 
 **[스크립트]**
 
-(빠른 비트의 배경음악)
+*   **0-3초 (훅):**
+    *   **영상:** 럭셔리한 LG 스탠바이미가 등장하며 '100만원대?' 자막이 크게 뜬다. 동시에 한숨 쉬는 사람의 모습 또는 지갑이 텅 비는 효과.
+    *   **내레이션/대사:** "스탠바이미... 예쁘지만 가격 실화?! 😱"
+    *   **자막:** #스탠바이미_가격_실화냐 #텅장주의
 
-**나레이션:** "스탠바이미 비싸다고 포기했어? 😱 노노! 100만원 아끼는 삼탠바이미 꿀팁!"
-**(0-3초) (자막: 스탠바이미? 🙅‍♀️ 100만원 아끼는 삼탠바이미 꿀팁! 🙆‍♀️)**
+*   **3-8초 (문제 제기 & 솔루션 제시):**
+    *   **영상:** 화면이 전환되며, 다양한 공간(침실, 주방, 거실)에서 '삼탠바이미'를 즐겁게 사용하는 모습이 빠르게 지나간다. '삼탠바이미' 제품샷 강조.
+    *   **내레이션/대사:** "이제 고민 끝! '삼탠바이미'로 가성비 + 감성 다 잡으세요!"
+    *   **자막:** #삼탠바이미 #가성비_끝판왕
 
-**나레이션:** "이동식 TV 로망은 있는데, 가격보고 깜놀했죠? 이제 30만원대로 쌉가능!"
-**(3-7초) (자막: 이동식 TV 로망, 30만원대로 쌉가능! 💸)**
+*   **8-12초 (핵심 장점 어필):**
+    *   **영상:** 프리토스 구글 스마트 삼탠바이미와 이노스 FHD 스마트 삼탠바이미 제품이 나란히 비교되며, 가격(20만원대부터), 구글TV, FHD 화질 등의 키워드가 팝업.
+    *   **내레이션/대사:** "스마트 기능 완벽! 구글TV부터 FHD 고화질까지 20만원대부터! 넷플릭스, 유튜브 어디서든 OK!"
+    *   **자막:** #20만원대 #구글TV #FHD화질 #어디서든_OTT
 
-**나레이션:** "딱 31만원! 이노스 32인치 삼탠바이미로 OTT 몰아보기! 가성비 끝판왕!"
-**(7-12초) (자막: 💰 이노스 32인치 31만원! 가성비 끝판왕! OTT 필수템! ✨)**
-
-**나레이션:** "화질까지 좋다면? 와이드뷰 40인치 QLED는 37만원대! 🤯 더 많은 인생템은 댓글 링크 고정!"
-**(12-15초) (자막: ✨ 와이드뷰 40인치 QLED 37만원대! 💡 더 많은 꿀템은 댓글 링크 고정! )**
+*   **12-15초 (클로징 & CTA):**
+    *   **영상:** 모든 '삼탠바이미' 제품이 한 화면에 모여있고, "당신의 삼탠바이미는?" 문구와 함께 프로필 링크 유도.
+    *   **내레이션/대사:** "내 취향 삼탠바이미, 지금 바로 프로필 링크에서 확인하세요!"
+    *   **자막:** #삼탠바이미추천 #인생템 #프로필링크클릭
 
 ---
 
@@ -33,54 +36,42 @@
 
 ---
 
-### 1. 첫 번째 컷: 훅 & 문제 제기/해결
+### **[1/4컷]**
 
-*   **카드 텍스트:**
-    스탠바이미? NO! 🙅‍♀️
-    100만원 아끼는 삼탠바이미 꿀팁 대방출!
-
-*   **Midjourney 프롬프트:**
-    `A visually striking image depicting a modern living space. On one side, a luxurious, expensive-looking mobile smart TV (like StandbyMe) is shown with a large, bold red 'X' overlay. On the other side, a sleek, more affordable-looking mobile smart TV (like a Samtanbyme) is displayed with a vibrant green checkmark. The overall aesthetic is energetic, pop art style, with dynamic angles and strong contrast, highlighting the value proposition. Minimalist background, bright lighting. --ar 1:1 --v 5.2`
-
----
-
-### 2. 두 번째 컷: 가장 합리적인 가성비 추천
-
-*   **카드 텍스트:**
-    💰 30만원대 최강 가성비!
-    이노스 32인치 삼탠바이미
-
-    ✅ 32인치 FHD 스마트TV
-    ✅ 이동식 스탠드 포함!
-
-*   **Midjourney 프롬프트:**
-    `A cozy, inviting bedroom scene with warm, soft lighting. A minimalist, white 32-inch mobile smart TV on a sleek, integrated stand (resembling the Innos Samtanbyme) is positioned beside a comfortable bed. The screen shows a vibrant, high-definition streaming service interface. Focus on comfort, practicality, and modern simplicity. Subtle reflections on the screen. --ar 1:1 --v 5.2`
+*   **들어갈 텍스트**:
+    스탠바이미? 예쁘지만 너무 비싸! 😥
+    이젠 '삼탠바이미'로 가성비+감성 모두 잡자!
+*   **Midjourney 스타일 영문 프롬프트**:
+    A stylish, modern living room scene. On one side, a luxurious, expensive looking movable smart TV (like an LG StandbyMe) with a huge, shocking price tag overlayed, causing a person in the foreground to look visibly stressed or surprised. On the other side, a more affordable, sleek movable smart TV (representing "Samtanbymy") with a "Smart Choice" or "Affordable Luxury" tag, and a smiling, happy person comfortably using it. The background is clean and minimalist, with soft, inviting light. Cinematic lighting, highly detailed, realistic photography style, --ar 1:1 --v 5.2
 
 ---
 
-### 3. 세 번째 컷: 프리미엄 가성비 추천
+### **[2/4컷]**
 
-*   **카드 텍스트:**
-    ✨ 화질+디자인 다 잡았다!
-    와이드뷰 40인치 QLED 삼탠바이미
-
-    ✅ 40인치 QLED 대화면
-    ✅ 고급스러운 화이트 디자인
-
-*   **Midjourney 프롬프트:**
-    `A stylish, bright, and airy living room or studio apartment. A elegant white 40-inch QLED mobile smart TV on a sophisticated, modern stand (resembling the Wideview White Samtanbyme) stands as a focal point. The screen displays breathtaking, vivid landscape footage, showcasing its QLED quality. Clean lines, contemporary interior design, natural light flooding the space. --ar 1:1 --v 5.2`
+*   **들어갈 텍스트**:
+    📺 20만원대 완벽 스마트 TV?
+    프리토스 구글 스마트 삼탠바이미! (최저가+구글TV)
+*   **Midjourney 스타일 영문 프롬프트**:
+    A cozy, modern bedroom. A person is comfortably lying on the bed, smiling, and watching Netflix on a sleek, black movable smart TV (Freetos Google Smart Samtanbymy). The TV screen displays a vibrant Google TV interface with prominent YouTube and Netflix icons. Warm, inviting lighting from a bedside lamp, minimalist decor, a plush throw blanket. Realistic photography style, soft focus background, high detail. --ar 1:1 --v 5.2
 
 ---
 
-### 4. 네 번째 컷: 추가 추천 & 콜 투 액션
+### **[3/4컷]**
 
-*   **카드 텍스트:**
-    내게 맞는 삼탠바이미는? 📺
-    프로필 링크에서 BEST 5 비교!
+*   **들어갈 텍스트**:
+    ✨ 화질까지 포기 못 해?
+    이노스 FHD 스마트 삼탠바이미! (FHD 고화질)
+*   **Midjourney 스타일 영문 프롬프트**:
+    A bright, airy living space with large windows, or a modern, clean kitchen island. A person is intently watching a documentary or a vibrant movie scene on a white or silver movable smart TV (Innos FHD Smart Samtanbymy). The screen displays crystal-clear, vivid Full HD images, emphasizing the sharp display quality. Focus on the sleek design of the TV and its integration into a stylish interior. Natural lighting, vibrant colors, realistic photography with a touch of cinematic quality. --ar 1:1 --v 5.2
 
-    (➕ 티비아울렛, 프리토스 등 추가 추천!)
+---
 
-*   **Midjourney 프롬프트:**
-    `A dynamic and clean infographic-style collage or grid. Five distinct mobile smart TVs on stands, each with a different design, size, and color, are arranged artfully against a soft, gradient background. Each TV hints at a different feature or price point. A prominent '?' icon or a magnifying glass graphic is subtly integrated, drawing attention to comparison and choice. Modern, informative, and engaging. --ar 1:1 --v 5.2`
+### **[4/4컷]**
+
+*   **들어갈 텍스트**:
+    당신의 삼탠바이미는? (디자인, 극강가성비 등 BEST 5)
+    지금 바로 확인하세요!
+*   **Midjourney 스타일 영문 프롬프트**:
+    A dynamic, multi-panel or split-screen composition showcasing 3-4 different movable smart TVs (Samtanbymy) in diverse, aspirational settings. Panel 1: A white minimalist living room with a white Samtanbymy (Skyview White Edition). Panel 2: A small, organized home office with a compact Samtanbymy (TVAoutlet Google Smart Samtanbymy). Panel 3: A cozy, simple camping tent interior with an ultra-affordable Samtanbymy (Freetos General TV Samtanbymy) showing a movie. Each panel should highlight a unique selling point (e.g., "Sleek Design," "Perfect for WFH," "Adventure Ready"). Modern, aspirational lifestyle photography, bright and dynamic, --ar 1:1 --v 5.2
 
 ---
