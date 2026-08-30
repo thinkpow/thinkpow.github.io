@@ -1,77 +1,68 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🌟 도파민 폭발 15초 숏폼 대본
 
-**제목:** 스탠바이미 비싸서 포기했다면? 💰 30만원대로 '감성+스마트' 다 잡는 법!
+### 🎬 유튜브 쇼츠/틱톡 스크립트 (15초)
 
----
+**(화면: LG 스탠바이미 비싼 가격표가 0.5초 스쳐 지나가며, 비싼 물건 앞에서 좌절하는 표정의 사람 등장)**
 
-**[영상 스크립트]**
+*   **훅 (0-3초):** "스탠바이미 갖고 싶어서 통장 잔고 봤니? 💸"
+    *   *(강렬한 BGM과 함께 화면 전환)*
 
-**[0-3초] 훅 (Hook): 시선 강탈!**
-*   **화면:** (1초) 한 손에 휴대폰을 들고 침대에서 스탠바이미 사진을 보며 한숨 쉬는 사람 → (2초) 화면 전환, "30만원대?!"라는 충격적인 가격표가 뜬 이동식 스마트 TV 등장, 눈이 휘둥그레지는 표정.
-*   **대사:** "스탠바이미 갖고 싶어서 돈 모으다 포기했다구요? 딱 3초만 집중! 이걸 30만원대에?!" (놀라면서 빠르게)
+*   **전개 (3-7초):** "비싸서 포기? NO! 똑똑한 당신을 위한 '삼탠바이미'가 여기 있다!"
+    *   *(삼탠바이미 제품들이 등장하며 '가성비 끝판왕' 자막 강조)*
 
-**[3-7초] 상품 1 소개: 이노스 32인치 삼탠바이미**
-*   **화면:** 이노스 32인치 TV가 침실이나 작은 서재에서 넷플릭스를 재생하는 장면, 자막으로 '✨ 가성비 끝판왕! 이노스 32인치 삼탠바이미' 강조.
-*   **대사:** "32인치 스마트TV가 30만원 초반대! 넷플릭스, 유튜브 다~ 돼! 내 방에 딱이야!" (설명하듯 강조)
+*   **제품 소개 1 (7-10초):** "첫째, 20만원대 '구글TV 삼탠바이미'! 넷플릭스, 유튜브 동글 없이 바로! 폰처럼 편해!"
+    *   *(구글TV 제품 클로즈업, OTT 앱 아이콘들 역동적으로 움직임)*
 
-**[7-11초] 상품 2 소개: 와이드뷰 40인치 QLED 화이트 에디션**
-*   **화면:** 와이드뷰 40인치 QLED 화이트 TV가 거실 또는 주방에서 선명한 영화 화면을 보여주는 장면, 자막으로 '🔥 화질까지 잡았다! 와이드뷰 40인치 QLED' 강조.
-*   **대사:** "화질 포기 못해? 40인치 QLED로 영화관 개장! 흰색이라 인테리어도 대박!" (흥분하며 추천)
+*   **제품 소개 2 (10-13초):** "둘째, 32인치 '이노스 FHD 삼탠바이미'! 선명한 화질로 드라마, 영화 몰입감 폭발!"
+    *   *(FHD 제품 클로즈업, 고화질 영상 재생 화면 강조)*
 
-**[11-15초] 마무리 & CTA**
-*   **화면:** 두 제품의 다양한 활용 장면(요리하며 레시피 보기, 운동하며 영상 시청 등)이 빠르게 전환되고, 마지막에 '더 많은 스탠바이미 가성비템은? 프로필 링크 클릭!' 자막과 함께 손가락 제스처.
-*   **대사:** "이젠 침실, 주방, 어디든 나만의 스마트TV! 이 모든 게 30만원대라고? 지금 바로 프로필 링크 확인하세요!" (빠르게 설득하며 마무리)
+*   **마무리 & CTA (13-15초):** "움직이는 나만의 극장! 이젠 당신 차례! 댓글 링크에서 자세히 봐!"
+    *   *(다양한 공간에 놓인 삼탠바이미 이미지 빠르게 전환되며, '구매 링크는 댓글 확인!' 자막)*
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 📸 인스타그램 카드뉴스 4컷
 
----
+### 🖼️ 카드 1/4
 
-### **[1컷] 후크 & 문제 제기**
+*   **카드 텍스트:**
+    스탠바이미 비싸서 포기? 🙅‍♀️
+    이제 '삼탠바이미'로 가성비+감성 다 잡자!
+    #스탠바이미 #가성비 #삼탠바이미 #이동식TV
 
-*   **텍스트:**
-    스탠바이미 비싸서 포기했다면? 🥺
-    30만원대로 '감성+스마트' 모두 잡는 법!
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A young adult looking slightly disappointed while scrolling through an expensive smart TV on a smartphone, then a sleek, modern mobile smart TV with a vibrant display appears next to them, showing a popular streaming service. The background is a minimalist, cozy home interior with soft natural light. The overall mood is hopeful and surprising. High-resolution, clean aesthetic, warm color palette, --ar 4:5 --v 5.2"
+*   **Midjourney 프롬프트 (영문):**
+    A stylish, minimalist living room with a sleek, modern mobile smart TV (resembling LG StandbyMe but generic brand) positioned prominently. Soft natural light streaming in, creating a cozy and inviting aesthetic. Focus on the sense of freedom and luxury, cinematic shot, hyper-realistic, 4K, high detail. --ar 1:1 --v 5.2
 
----
+### 🖼️ 카드 2/4
 
-### **[2컷] 메인 상품 1 소개: 이노스 32인치 삼탠바이미**
+*   **카드 텍스트:**
+    ✨ (1/2) 구글TV 삼탠바이미!
+    넷플릭스, 유튜브, 티빙..
+    동글 없이 스마트폰처럼 바로 즐겨!
+    (20만원대 압도적 스마트 경험!)
 
-*   **텍스트:**
-    ✨ 가성비 끝판왕! 이노스 32인치 삼탠바이미
-    ✔️ 30만원 초반대에 스마트TV+거치대까지!
-    ✔️ 넷플릭스/유튜브 기본 탑재!
-    ✔️ 개인 공간에 딱 맞는 32인치 FHD!
-    #내돈내산 #자취필수템 #가심비TV
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A sleek, minimalist 32-inch black smart TV on a mobile stand, perfectly positioned in a cozy, modern bedroom. The screen is displaying a Netflix movie. Sunlight streams through a window, illuminating the comfortable bedding and simple, aesthetic decor. The focus is on comfort and smart functionality. High-resolution, warm and inviting atmosphere, --ar 4:5 --v 5.2"
+*   **Midjourney 프롬프트 (영문):**
+    A close-up shot of a modern mobile smart TV screen displaying the Google TV interface with recognizable app icons like Netflix, YouTube, and Disney+. A hand holding a sleek, minimalist remote control is slightly visible in the foreground. Clean, modern interior background, vibrant screen colors, high-tech feel, cinematic, hyper-realistic, 4K. --ar 1:1 --v 5.2
 
----
+### 🖼️ 카드 3/4
 
-### **[3컷] 메인 상품 2 소개: 와이드뷰 40인치 QLED 화이트 에디션 삼탠바이미**
+*   **카드 텍스트:**
+    🎬 (2/2) 이노스 FHD 삼탠바이미!
+    32인치 FHD 화질로 드라마/영화
+    몰입감 UP! TV+스탠드 올인원!
+    (선명함까지 놓칠 수 없다면!)
 
-*   **텍스트:**
-    🔥 대화면+QLED 화질까지! 와이드뷰 40인치 QLED
-    ✔️ 40인치 QLED 대화면으로 영화관 감동!
-    ✔️ 프리미엄 화이트 디자인으로 인테리어 완성!
-    ✔️ 스마트 기능 완벽! 다양한 OTT 앱 지원!
-    #인생템 #감성템 #스마트라이프
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A stunning 40-inch white QLED smart TV on a matching white mobile stand, placed in a bright, modern living room or open-plan kitchen. The screen is showing a vibrant, high-definition cinematic scene. Natural light floods the room, highlighting the clean lines of the TV and the contemporary interior design. Emphasize premium visuals and seamless integration into a stylish home. High-resolution, sophisticated, bright and airy, --ar 4:5 --v 5.2"
+*   **Midjourney 프롬프트 (영문):**
+    A person comfortably watching a vibrant, high-definition movie scene on a 32-inch mobile smart TV. The setting is a cozy bedroom or a warmly lit living room, emphasizing the immersive viewing experience. The screen shows a sharp, full HD image. Soft, warm lighting, comfortable atmosphere, cinematic, hyper-realistic, 4K. --ar 1:1 --v 5.2
 
----
+### 🖼️ 카드 4/4
 
-### **[4컷] 추가 추천 & CTA**
+*   **카드 텍스트:**
+    내 방을 나만의 영화관으로! 🍿
+    이제 당신의 차례!
+    프로필 링크에서 '삼탠바이미' BEST 4 확인하세요!
 
-*   **텍스트:**
-    ✅ 예산별/화질별 추가 추천템은? (10만원대도 있음!)
-    와이드뷰 40인치 QLED V3 (안정성 UP)
-    프리토스 이동식 일반TV (압도적 최저가!)
-    👆 더 자세한 정보는 프로필 링크에서 확인하세요!
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A clean, modern graphic design featuring a collage or grid of four different sleek mobile smart TVs, each with a small icon or text box highlighting its unique feature (e.g., '32 inch', '40 inch QLED', 'White Edition', 'Budget Friendly'). The background is a bright, minimalist digital space with an arrow pointing towards a subtle 'Link in Bio' or 'More Info' call to action. High-resolution, infographic style, vibrant but clean color scheme, --ar 4:5 --v 5.2"
+*   **Midjourney 프롬프트 (영문):**
+    A stylish, versatile mobile smart TV depicted in a split-screen or collage style, showcasing its adaptability in various home settings: a cozy bedroom, a modern living room, a bright kitchen, and a sunny balcony. Each section maintains a cohesive cozy and modern aesthetic. There should be a clear space in the center for text overlay. Cinematic, hyper-realistic, 4K. --ar 1:1 --v 5.2
