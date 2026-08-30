@@ -1,81 +1,49 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+## 🚀 도파민 폭발! 15초 숏폼 스크립트
 
-**콘텐츠 제목:** 스탠바이미 비싸? 이젠 가성비 #삼탠바이미 로 로망 실현! ✨
+### **1. 유튜브 쇼츠/틱톡용 15초 스크립트**
 
----
+**(화면: 고급스러운 LG 스탠바이미가 보이는 듯하지만, 가격표에 엄청난 숫자가 뜬다. 동시에 짤랑거리는 동전 소리/충격 효과음)**
 
-**[0-3초] 시선 강탈 훅(Hook)**
-*   **화면:** 고급스러운 '스탠바이미' 이미지/영상 클로즈업 후, 가격표 `2,000,000원`이 뜨면서 'X' 표시! 실망한 듯한 표정의 인물 클로즈업.
-*   **대사 (빠르고 흥분된 톤):** "스탠바이미 비싸서 포기했니?! 댓츠 노노! 🙅‍♀️ 이제 '가성비 삼탠바이미'가 대세라고!"
+**훅 (0-3초):**
+"스탠바이미 비싸서 포기했어? 😱 헉! 아직도 몰랐어? 100만원 아끼는 꿀팁!"
 
-**[3-7초] 문제 해결 & 첫 번째 솔루션**
-*   **화면:** (빠르게 전환) '프리토스 삼탠바이미 무빙스탠드 + 일반TV 세트' 상품 이미지/영상 등장.
-*   **대사:** "10만원대 풀세트 실화?! 믿기지 않겠지만, 이동식 스탠드+TV가 단돈 16만원대! 😮 침대, 부엌 어디든 나만의 영화관 각!"
+**(화면: '삼탠바이미' 로고 또는 '스탠바이미 가성비' 텍스트가 번개처럼 나타남. 밝고 활기찬 배경음악 시작)**
 
-**[7-11초] 두 번째 솔루션 & 스마트 기능 강조**
-*   **화면:** '티비아울렛 스마트 구글 TV 삼탠바이미' 상품 이미지/영상 등장. 넷플릭스/유튜브 화면이 재생되는 모습.
-*   **대사:** "여기서 끝이 아니지! 스마트 기능까지 원한다고? 20만원대 후반에 구글TV OS 탑재! 넷플릭스, 유튜브 바로 즐겨!"
+**내용 (3-12초):**
+"수백만원짜리 스탠바이미? 이제 그만! '삼탠바이미'가 대세야!"
+"첫 번째, 와이드뷰 40인치 QLED! 🤯 30만원대로 넷플릭스, 유튜브 초고화질 대화면! 스마트TV OS까지 완벽!"
+"두 번째, 프리토스 10만원대 이동식 TV! 찐 가성비 끝판왕! 자취생, 서브 TV로 딱이야!"
+"이 모든 게 스탠바이미 절반 가격도 안 돼!"
 
-**[11-14초] 핵심 메시지 & 기대감 증폭**
-*   **화면:** 다양한 삼탠바이미 제품들이 모여있는 콜라주 또는 사람들이 여러 장소에서 삼탠바이미를 즐기는 모습.
-*   **대사:** "비싼 스탠바이미는 옛말! 이제 똑똑하게 가성비 '삼탠바이미'로 라이프스타일 업그레이드! ✨"
+**(화면: 두 제품의 매력적인 사용 장면이 빠르게 교차. 마지막엔 CTA 문구와 함께 활짝 웃는 얼굴)**
 
-**[14-15초] 강력한 CTA (Call To Action)**
-*   **화면:** 프로필 링크 클릭 유도하는 아이콘 및 텍스트 `지금 바로 확인!`.
-*   **대사:** "자세한 정보는 지금 바로 프로필 링크에서 확인해!"
-*   **음악:** 비트감 있는 신나는 배경 음악.
+**클로징 (12-15초):**
+"지갑은 지키고 삶의 질은 UP! ⬆️ 지금 바로 프로필 링크에서 인생템 득템해! 🏃‍♀️💨"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+## 📸 인스타그램 카드뉴스 (4컷)
 
----
+### **2. 인스타그램 카드뉴스 4컷 기획**
 
-### **카드 1/4**
-*   **텍스트:**
-    스탠바이미, 비싸서 망설였어?
-    이젠 #삼탠바이미 가 대세! ✨
-    내 로망 실현해 줄 가성비 끝판왕
-    이동식 스마트 TV/모니터 총정리!
+#### **1컷**
+*   **카드 텍스트:** "스탠바이미 가격보고 깜놀? 😨 지갑 지키는 '삼탠바이미'로 삶의 질 UP!"
 *   **Midjourney 프롬프트:**
-    A stylish, cozy bedroom with soft, inviting bedding, a person is happily watching a sleek, modern mobile TV (StandbyMe alternative) on a stand next to the bed. Soft, warm natural light coming through a window. Minimalist design, high detail, volumetric lighting, golden hour, --ar 1:1 --v 6.0
+    `A visually striking image comparing a luxurious, expensive LG StandbyMe TV (on one side, slightly blurred or with a red 'X') against a sleek, modern 'Samtanbyme' portable TV setup (on the other side, brightly lit and in focus). The Samtanbyme is in a minimalist, stylish living room. Emphasize "Affordable Luxury" concept. High contrast, cinematic lighting, 8k, photorealistic, ultra-wide angle.`
 
----
-
-### **카드 2/4**
-*   **텍스트:**
-    💥 10만원대 풀세트 실화?! 💥
-    **프리토스 삼탠바이미**
-    이동식 스탠드 + TV를 16만원대로!
-    복잡한 기능은 빼고, 오직 본질에 집중!
-    침실, 주방 어디든 나만의 영화관 🎬
-    (제품 이미지 삽입 권장: 프리토스 삼탠바이미 풀세트)
+#### **2컷**
+*   **카드 텍스트:** "✨ 40인치 QLED 대화면! 와이드뷰 삼탠바이미로 압도적 몰입감!"
 *   **Midjourney 프롬프트:**
-    A clean, modern kitchen with a large window, a person is casually preparing a meal. Next to the counter, a sleek, simple mobile TV (StandbyMe alternative) on a black stand is displaying a vibrant cooking show. Bright, airy, minimalist aesthetic, focus on convenience, --ar 1:1 --v 6.0
+    `A vibrant, photorealistic image of a Wideview 40-inch QLED Samtanbyme Smart TV in a modern, elegant white-themed living room. The TV displays a breathtaking cinematic scene (e.g., a lush nature documentary or a high-action movie trailer) with vivid colors and sharp details. A person is comfortably lounging on a sofa, fully immersed. Soft, natural light fills the room. 8k, ultra detail, cinematic.`
 
----
-
-### **카드 3/4**
-*   **텍스트:**
-    ✨ 스마트함까지 놓칠 수 없다면? ✨
-    **티비아울렛 스마트 구글 TV 삼탠바이미**
-    20만원대 후반으로 구글TV OS 탑재!
-    넷플릭스, 유튜브 등 OTT 바로 재생!
-    별도 셋톱박스 없이 스마트 라이프! 🚀
-    (제품 이미지 삽입 권장: 티비아울렛 스마트 구글 TV 삼탠바이미)
+#### **3컷**
+*   **카드 텍스트:** "💰 10만원대? 실화냐?! 프리토스 삼탠바이미, 가성비 끝판왕 등극!"
 *   **Midjourney 프롬프트:**
-    A comfortable, modern living room with a person relaxing on a plush sofa. A mobile smart TV (StandbyMe alternative) with a vibrant Google TV interface (showing Netflix/YouTube icons) is positioned perfectly for viewing. Cozy and smart home vibe, soft, indirect lighting, --ar 1:1 --v 6.0
+    `A cozy, minimalist studio apartment or bedroom scene, showcasing the Pritos Samtanbyme Portable TV + Moving Stand Set. The TV is on a simple, movable stand next to a bed or a small desk. A young person (e.g., student or single person) is smiling while watching a lighthearted show or video on the TV. Emphasize affordability and practicality. Warm, inviting lighting. Photorealistic, soft focus on the background. 8k.`
 
----
-
-### **카드 4/4**
-*   **텍스트:**
-    내 라이프스타일에 딱 맞는
-    #가성비스탠바이미 찾았다면?
-    지금 바로 프로필 링크 확인! 🔗
-    #삼탠바이미 #이동식TV #스마트모니터
-    #넷플릭스TV #자취템 #혼족필수템
+#### **4컷**
+*   **카드 텍스트:** "내 스타일에 딱 맞는 삼탠바이미는? 지금 바로 프로필 링크에서 만나봐! 👇 #삼탠바이미 #가성비TV #이동식TV #자취템 #신혼템"
 *   **Midjourney 프롬프트:**
-    A vibrant, dynamic collage or split-screen image. One side shows various scenes of people enjoying mobile TVs in different settings (bedroom, kitchen, living room). The other side features graphic icons representing popular streaming services (Netflix, YouTube, Disney+). Pop art style, energetic, colorful, high contrast, --ar 1:1 --v 6.0
+    `A dynamic collage or split-screen image showing various Samtanbyme setups in different home environments: one in a modern living room, another in a cozy bedroom, a third in a compact kitchen. Each section highlights a different aspect (e.g., Google TV interface, DIY stand setup). Bright, inviting atmosphere with call-to-action arrows or text leading to a "shop now" button overlay. High energy, diverse perspectives, photorealistic. 8k.`
