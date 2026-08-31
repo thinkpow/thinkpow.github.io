@@ -1,49 +1,72 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트
+## 💥 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠 / 틱톡)
 
-### **1. 유튜브 쇼츠/틱톡용 15초 스크립트**
-
-**(화면: 고급스러운 LG 스탠바이미가 보이는 듯하지만, 가격표에 엄청난 숫자가 뜬다. 동시에 짤랑거리는 동전 소리/충격 효과음)**
-
-**훅 (0-3초):**
-"스탠바이미 비싸서 포기했어? 😱 헉! 아직도 몰랐어? 100만원 아끼는 꿀팁!"
-
-**(화면: '삼탠바이미' 로고 또는 '스탠바이미 가성비' 텍스트가 번개처럼 나타남. 밝고 활기찬 배경음악 시작)**
-
-**내용 (3-12초):**
-"수백만원짜리 스탠바이미? 이제 그만! '삼탠바이미'가 대세야!"
-"첫 번째, 와이드뷰 40인치 QLED! 🤯 30만원대로 넷플릭스, 유튜브 초고화질 대화면! 스마트TV OS까지 완벽!"
-"두 번째, 프리토스 10만원대 이동식 TV! 찐 가성비 끝판왕! 자취생, 서브 TV로 딱이야!"
-"이 모든 게 스탠바이미 절반 가격도 안 돼!"
-
-**(화면: 두 제품의 매력적인 사용 장면이 빠르게 교차. 마지막엔 CTA 문구와 함께 활짝 웃는 얼굴)**
-
-**클로징 (12-15초):**
-"지갑은 지키고 삶의 질은 UP! ⬆️ 지금 바로 프로필 링크에서 인생템 득템해! 🏃‍♀️💨"
+**제목:** 스탠바이미 가격보고 기절? 😵 10만원대 가성비 이동형 TV 종결템! #스탠바이미 #가성비TV #이동형TV
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**(영상 시작: 0-3초)**
+*   **화면:** (경쾌한 배경음악, 돈 펑펑 쓰는 효과음과 함께) 번쩍이는 '스탠바이미' 가격표가 뜨면서 'X' 표시가 크게 나타남. 이어서 놀란 표정의 이모지.
+*   **내레이션 (빠르게, 흥분된 톤):** "스탠바이미 갖고 싶어서 검색했다가 가격보고 기절할 뻔 했다고요? 잠시만요!"
 
-### **2. 인스타그램 카드뉴스 4컷 기획**
+**(본문: 3-12초)**
+*   **화면:**
+    *   (3-8초) 저렴한 '국민 가성비 삼탠바이미 세트'가 침대 옆, 주방에서 자유롭게 이동하며 사용되는 모습. 자막: "TV+스탠드 16만원대?! 🤯"
+    *   (8-12초) 이어서 '프리미엄 삼탠바이미 스마트TV'가 넷플릭스, 유튜브 등 OTT를 대화면으로 선명하게 보여주는 모습. 화이트 인테리어에 어울리는 세련된 디자인 강조. 자막: "40인치 QLED, 스마트TV까지? ✨"
+*   **내레이션:** "걱정 마세요! 10만원대로 TV랑 스탠드까지 한 번에! 침대 옆, 주방 어디든 옮겨 다니는 나만의 극장! 조작도 완전 쉬워요!"
+*   **내레이션:** "어? 난 화질 포기 못해? 그럼 40인치 QLED 스마트TV는 어때요? 넷플릭스, 유튜브는 기본! 화이트 디자인으로 인테리어까지 UP!"
 
-#### **1컷**
-*   **카드 텍스트:** "스탠바이미 가격보고 깜놀? 😨 지갑 지키는 '삼탠바이미'로 삶의 질 UP!"
-*   **Midjourney 프롬프트:**
-    `A visually striking image comparing a luxurious, expensive LG StandbyMe TV (on one side, slightly blurred or with a red 'X') against a sleek, modern 'Samtanbyme' portable TV setup (on the other side, brightly lit and in focus). The Samtanbyme is in a minimalist, stylish living room. Emphasize "Affordable Luxury" concept. High contrast, cinematic lighting, 8k, photorealistic, ultra-wide angle.`
+**(마무리 & CTA: 12-15초)**
+*   **화면:** 두 제품이 나란히 비교되는 모습. '프로필 링크 확인' 문구가 크게 강조됨.
+*   **내레이션 (다시 흥분된 톤):** "이 가격에 이런 스탠바이미라니! 더 궁금하면 지금 바로 프로필 링크 확인하세요!"
 
-#### **2컷**
-*   **카드 텍스트:** "✨ 40인치 QLED 대화면! 와이드뷰 삼탠바이미로 압도적 몰입감!"
-*   **Midjourney 프롬프트:**
-    `A vibrant, photorealistic image of a Wideview 40-inch QLED Samtanbyme Smart TV in a modern, elegant white-themed living room. The TV displays a breathtaking cinematic scene (e.g., a lush nature documentary or a high-action movie trailer) with vivid colors and sharp details. A person is comfortably lounging on a sofa, fully immersed. Soft, natural light fills the room. 8k, ultra detail, cinematic.`
+---
 
-#### **3컷**
-*   **카드 텍스트:** "💰 10만원대? 실화냐?! 프리토스 삼탠바이미, 가성비 끝판왕 등극!"
-*   **Midjourney 프롬프트:**
-    `A cozy, minimalist studio apartment or bedroom scene, showcasing the Pritos Samtanbyme Portable TV + Moving Stand Set. The TV is on a simple, movable stand next to a bed or a small desk. A young person (e.g., student or single person) is smiling while watching a lighthearted show or video on the TV. Emphasize affordability and practicality. Warm, inviting lighting. Photorealistic, soft focus on the background. 8k.`
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-#### **4컷**
-*   **카드 텍스트:** "내 스타일에 딱 맞는 삼탠바이미는? 지금 바로 프로필 링크에서 만나봐! 👇 #삼탠바이미 #가성비TV #이동식TV #자취템 #신혼템"
-*   **Midjourney 프롬프트:**
-    `A dynamic collage or split-screen image showing various Samtanbyme setups in different home environments: one in a modern living room, another in a cozy bedroom, a third in a compact kitchen. Each section highlights a different aspect (e.g., Google TV interface, DIY stand setup). Bright, inviting atmosphere with call-to-action arrows or text leading to a "shop now" button overlay. High energy, diverse perspectives, photorealistic. 8k.`
+---
+
+### **카드뉴스 1/4**
+
+*   **들어갈 텍스트:**
+    **스탠바이미 갖고 싶어서 검색했다가**
+    **가격보고 깜짝 놀랐다면 주목! 💸**
+    (핵심: 비싼 스탠바이미 대신 가성비 대안을 찾는 분들을 위한 콘텐츠임을 명확히!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `realistic photo, a person looking shocked with wide eyes at a glowing digital price tag on a screen, showing an incredibly high price, in the background a modern, minimalist white portable TV (like StandbyMe), tech aesthetics, neon lights reflecting on the screen, a dollar sign (💸) emoji integrated visually, high contrast, cinematic lighting, dramatic expression, --ar 1:1 --style raw`
+
+---
+
+### **카드뉴스 2/4**
+
+*   **들어갈 텍스트:**
+    **✨ 10만원대! 국민 가성비 삼탠바이미 세트 ✨**
+    **TV+스탠드 올인원! 이동식 TV 입문용 끝판왕!**
+    (핵심: 최저가 가성비 제품 소개, 올인원 구성 강조)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `realistic photo, a cozy modern bedroom, a person relaxing comfortably in bed watching a simple white portable TV on a wheeled stand (like SamtanbyMe) placed next to the bed, the screen displaying a clear, pleasant image, warm ambient lighting, comfortable atmosphere, clean minimalist decor, natural light, soft focus in the background, --ar 1:1 --style raw`
+
+---
+
+### **카드뉴스 3/4**
+
+*   **들어갈 텍스트:**
+    **💖 40인치 QLED 화질 끝판왕!**
+    **프리미엄 삼탠바이미 스마트TV**
+    **대화면 & 스마트TV로 OTT 몰입감 폭발!**
+    (핵심: 고화질, 대화면, 스마트 기능 강조한 프리미엄 가성비 제품 소개)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `realistic photo, a modern and stylish living room, a sleek 40-inch white portable smart TV (like Premium SamtanbyMe) prominently displayed, showing a vibrant, high-definition movie scene with QLED vividness, luxurious and clean aesthetic, comfortable lounge chairs, soft backlighting from a large window, creating an immersive entertainment atmosphere, --ar 1:1 --style raw`
+
+---
+
+### **카드뉴스 4/4**
+
+*   **들어갈 텍스트:**
+    **이동형 TV, 이제 비싸게 사지 마세요!**
+    **당신에게 딱 맞는 '나만의 스탠바이미'를 찾아보세요!**
+    **➡️ 프로필 링크 확인!**
+    (핵심: 최종 CTA, 다양한 선택지 제공 및 정보 확인 유도)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `realistic photo, a visually dynamic collage or split-screen image, one side showing a cozy scene with a budget-friendly portable TV, the other side showing a chic scene with a premium 40-inch white portable smart TV, smooth transitions, comparative visual, a hand pointing gesture towards clear, inviting typography that says "Check Profile Link", bright and optimistic lighting, representing choice and value, --ar 1:1 --style raw`
