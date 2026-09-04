@@ -1,63 +1,73 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
 
-**(영상 시작과 함께 시선을 사로잡는 빠른 화면 전환, 임팩트 있는 BGM)**
+**영상 컨셉:** 빠르고 경쾌한 전환, 시각적 정보와 대사 위주. 초반 훅으로 시선 강탈.
 
-**[훅(Hook) - 0~3초]**
-(화면: 스탠바이미 로고에 X 표시, 가격표에 빨간색 빗금)
-**나레이션:** "스탠바이미? 그거 너무 비싸잖아! (절규하는 듯한 톤) 내 로망은 여기까지인가..."
+**[시작]**
 
-**[내용 전개 - 3~12초]**
-(화면: '가성비 삼탠바이미' 키워드와 함께 이노스, 와이드뷰 제품 빠르게 교차)
-**나레이션:** "잠깐! ✨이걸로 찐 스탠바이미 감성 느낄 수 있어!✨ 바로 **'가성비 삼탠바이미' 대전!**"
-(화면: 이노스 32인치 제품 클로즈업, 깔끔한 인테리어에 배치된 모습)
-**나레이션:** "첫 번째! 💥국민 가성비템!💥 **이노스 32인치 FHD 스마트 TV!** 무려 30만원대 실화?"
-(화면: 와이드뷰 40인치 QLED 화이트 제품 클로즈업, 고급스러운 인테리어에 배치된 모습)
-**나레이션:** "두 번째! 👑프리미엄 감성!👑 **와이드뷰 40인치 QLED 화이트!** 화질+디자인까지? 이건 사야 해!"
+*   **0-3초 (훅):**
+    *   **화면:** LG 스탠바이미의 고급스러운 모습이 잠깐 비친 후, 가격표가 확대되며 'XX만원'이라는 숫자에 'OMG', '후덜덜' 등의 텍스트 이펙트가 빠르게 지나간다. 동시에 실망한 표정의 얼굴 이모티콘.
+    *   **대사:** "스탠바이미 갖고 싶어서 검색했는데... 가격보고 헉! 했어? 😫 (놀란 표정)"
+*   **3-8초 (상품 1 소개):**
+    *   **화면:** 정적인 일반 TV 화면에서 지트론 거치대와 TV가 결합되어 쉽게 이동하는 모습으로 전환. 거실에서 주방으로, 침실로 움직이는 장면을 빠르게 편집. '8만원대!', '내 TV에 자유를!' 텍스트 오버레이.
+    *   **대사:** "하지만 걱정 마! 10년차 MD가 찾아낸 가성비 끝판왕이 여기 있거든! 집에 TV 있는데 이동식이 탐난다면? 8만원대 지트론 거치대로 지금 바로 변신!"
+*   **8-13초 (상품 2 소개):**
+    *   **화면:** 티비아울렛 삼탠바이미의 세련된 모습. 넷플릭스, 유튜브 등 OTT 화면이 빠르게 전환되며, 스탠드째로 쉽게 옮겨지는 모습 (예: 소파 옆에서 침대 옆으로). '20만원대 올인원!', '스마트TV+스탠드' 텍스트 오버레이.
+    *   **대사:** "아예 TV가 없다면? 20만원대 티비아울렛 삼탠바이미! 스마트TV와 이동식 스탠드를 이걸로 한방에 해결해봐!"
+*   **13-15초 (클로징 및 CTA):**
+    *   **화면:** 두 제품이 함께 등장하거나, 다양한 활용 장면을 보여주며 '지금 바로 확인!' 텍스트와 함께 아래를 가리키는 손가락 이모티콘.
+    *   **대사:** "더 자세한 정보는 지금 바로 고정댓글 확인!"
 
-**[클로징 & CTA - 12~15초]**
-(화면: 두 제품이 나란히 비교되는 화면, 가격과 주요 장점 텍스트 오버레이)
-**나레이션:** "내게 딱 맞는 삼탠바이미 찾았다면? 지금 바로 프로필 링크 확인! 클릭 한 번으로 로망 실현! 🚀"
+**[끝]**
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### **카드뉴스 1/4**
+---
 
-*   **들어갈 텍스트:**
-    스탠바이미 로망? 💰 비싸서 포기했나요?
-    이제 '가성비 삼탠바이미'로 로망 실현!
-*   **Midjourney 프롬프트:**
-    A luxurious, minimalist living room with soft, warm ambient lighting. In the center, a shimmering, ghost-like silhouette of a high-end, movable smart TV (like LG StandbyMe) with dollar signs faintly overlaying it, symbolizing its expensive nature. The TV is out of reach. Elegant, clean lines, modern furniture. Cinematic, realistic photo, high contrast. --ar 1:1 --v 5.2
+### 🖼️ 1컷: 훅 & 문제 제기
 
-### **카드뉴스 2/4**
+*   **텍스트:**
+    **LG 스탠바이미 비싸서 망설였다면? 😭**
+    2025년 '가성비 끝판왕'
+    **스탠바이미 대체템 BEST 4! ✨**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A visually striking image with a sleek, minimalist smart mobile TV (like LG StandbyME) on one side, overlaid with a transparent "EXPENSIVE" or "HIGH PRICE" graphic. On the other side, a glowing, inviting arrow pointing towards "AFFORDABLE ALTERNATIVES" with a hopeful, modern aesthetic. Cinematic lighting, ultra-realistic, clean interior background. --ar 1:1`
 
-*   **들어갈 텍스트:**
-    10년차 MD가 엄선! 🏆
-    2024년 '실패 없는' 가성비 삼탠바이미 추천템 TOP 2!
-*   **Midjourney 프롬프트:**
-    A dynamic, slightly exaggerated shot of two distinct, sleek movable smart TVs (SamtanbyMe style) in a modern, brightly lit showroom. One TV is positioned as "National Budget Pick" and the other as "Premium Design Pick." Text overlays with sparkling 'TOP 2' graphic. Focus on vibrancy, excitement, and a sense of selection. --ar 1:1 --v 5.2
+---
 
-### **카드뉴스 3/4**
+### 🖼️ 2컷: 상품 1 소개 - 지트론 이동형 TV 거치대
 
-*   **들어갈 텍스트:**
-    **✨ 국민 가성비 ✨**
-    **이노스 32인치 FHD 스마트 TV**
-    ✅ 30만원대 초반! 압도적 가성비
-    ✅ 스마트TV + 이동식 거치대 기본
-    ✅ 엔트리 모델로 딱!
-*   **Midjourney 프롬프트:**
-    A cozy, minimalist bedroom with natural wood accents and soft, indirect sunlight. A 32-inch black smart TV on a simple, elegant movable stand is positioned near a bed, displaying a bright FHD image. Focus on comfort, practicality, and accessibility. The overall aesthetic is warm, inviting, and budget-friendly. Realistic photo, soft focus. --ar 1:1 --v 5.2
+*   **텍스트:**
+    **1️⃣ 지트론 이동형 TV 거치대**
+    **💰 8만원대로 내 TV에 자유를!**
+    (기존 TV 활용, 극강 가성비 끝판왕)
+    거실/침실/주방 어디든 원하는 곳으로!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A modern flat-screen TV mounted on a sleek, minimalist mobile TV stand with wheels, positioned in a bright, versatile living space. The stand should appear sturdy and elegant. Emphasize the ease of movement and the transformation of a static TV into a mobile entertainment hub. Ultra-realistic, soft natural light, cozy and functional interior. --ar 1:1`
 
-### **카드뉴스 4/4**
+---
 
-*   **들어갈 텍스트:**
-    **🌟 프리미엄 감성 🌟**
-    **와이드뷰 40인치 QLED 화이트**
-    ✅ QLED 화질! 생생한 색감
-    ✅ 40인치 대화면! 몰입감 UP
-    ✅ 스탠바이미 감성 화이트 디자인
-*   **Midjourney 프롬프트:**
-    A luxurious, contemporary living space with large windows overlooking a city view. Abundant natural light. A pristine 40-inch white QLED smart TV on a stylish white movable stand is prominently displayed, showing vibrant, high-quality QLED content. Emphasize elegance, high picture quality, and modern, sophisticated design. Clean, upscale interior. Realistic photo, vibrant colors. --ar 1:1 --v 5.2
+### 🖼️ 3컷: 상품 2 소개 - 티비아울렛 스마트 구글 TV 삼탠바이미
+
+*   **텍스트:**
+    **2️⃣ 티비아울렛 스마트 구글 TV 삼탠바이미**
+    **🤩 20만원대 올인원 스마트 라이프!**
+    (스마트TV+이동식 스탠드 한번에!)
+    넷플릭스, 유튜브 별도 셋톱박스 없이 바로 시청!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish, all-in-one mobile smart TV (like a monitor on a portable stand) displaying popular streaming service logos (Netflix, YouTube, Disney+). The TV is being effortlessly rolled from a modern, clean kitchen to a cozy, minimalist bedroom, showcasing seamless transition and smart functionality. Vibrant screen display, natural lighting, ultra-realistic. --ar 1:1`
+
+---
+
+### 🖼️ 4컷: 추가 상품 소개 & CTA
+
+*   **텍스트:**
+    **더 큰 화면을 원한다면?**
+    **삼성 50인치/65인치 대화면 삼탠바이미도 있어요! 🚀**
+    (사무실/회의실, 프리미엄 선택까지!)
+    **✨ 더 자세한 정보는 프로필 링크 클릭! ✨**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A dynamic, slightly abstract collage or montage showcasing various mobile TV setups. One corner features a large 50-inch mobile TV in a spacious living room, another corner shows a 65-inch mobile TV in a modern meeting room with people collaborating. The overall image conveys versatility, choice, and advanced smart living solutions. Bright, clean, professional yet inviting aesthetic, ultra-realistic. --ar 1:1`
