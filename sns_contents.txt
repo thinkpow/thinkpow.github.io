@@ -1,70 +1,63 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 스탠바이미 비싸서 포기? 🤫 갓성비 삼탠바이미 BEST2! 💰✨
+**(영상 시작과 함께 시선을 사로잡는 빠른 화면 전환, 임팩트 있는 BGM)**
 
-**[영상 시작]**
+**[훅(Hook) - 0~3초]**
+(화면: 스탠바이미 로고에 X 표시, 가격표에 빨간색 빗금)
+**나레이션:** "스탠바이미? 그거 너무 비싸잖아! (절규하는 듯한 톤) 내 로망은 여기까지인가..."
 
-**(0-3초) 훅: 빠르고 경쾌한 배경음악 시작, 화면 가득 '스탠바이미' 로고 → 가격표(500만원?) 띄우며 '헉!' 하는 표정의 인물 클로즈업 또는 텍스트 강조**
-*   **인물:** (놀란 표정) "스탠바이미... 사고 싶다? 근데 가격 보고 '헉' 했죠?"
-*   **자막:** 🚨 스탠바이미 가격 실화? 🚨
+**[내용 전개 - 3~12초]**
+(화면: '가성비 삼탠바이미' 키워드와 함께 이노스, 와이드뷰 제품 빠르게 교차)
+**나레이션:** "잠깐! ✨이걸로 찐 스탠바이미 감성 느낄 수 있어!✨ 바로 **'가성비 삼탠바이미' 대전!**"
+(화면: 이노스 32인치 제품 클로즈업, 깔끔한 인테리어에 배치된 모습)
+**나레이션:** "첫 번째! 💥국민 가성비템!💥 **이노스 32인치 FHD 스마트 TV!** 무려 30만원대 실화?"
+(화면: 와이드뷰 40인치 QLED 화이트 제품 클로즈업, 고급스러운 인테리어에 배치된 모습)
+**나레이션:** "두 번째! 👑프리미엄 감성!👑 **와이드뷰 40인치 QLED 화이트!** 화질+디자인까지? 이건 사야 해!"
 
-**(3-7초) 문제 제기 및 해결책 제시: 훅과 대비되는 저렴한 가격의 삼탠바이미 등장 (애니메이션 효과), 전환되는 장면**
-*   **인물:** "비싼 돈 주고 살 필요 없어! '삼탠바이미'가 있잖아!"
-*   **자막:** 💸 스탠바이미 감성 그대로, 가격은 반의반값!
-
-**(7-12초) 메인 상품 2개 빠르게 소개: 각 상품의 핵심 장점 위주로 간결하게 전달, 상품 이미지/특징 텍스트 함께 노출**
-*   **인물:** "첫 번째! 30만원대 초반, '이노스 32인치'! 침실, 원룸에 딱! 가성비 입문픽이야!"
-*   **자막:** 🥇 이노스 32인치 (30만원대) - 첫 삼탠바이미!
-*   **인물:** "두 번째! 화질 끝판왕! '와이드뷰 40인치 QLED'! 쨍한 색감, 고급 디자인은 덤!"
-*   **자막:** ✨ 와이드뷰 40인치 QLED (40인치 대화면+고급 화질)
-
-**(12-15초) 마무리 & CTA: 빠른 전환 효과, 정보 확인 강조**
-*   **인물:** "더 많은 삼탠바이미는 프로필 링크 확인! 지금 바로 나만의 무빙 TV 겟!"
-*   **자막:** 🚀 지금 바로 프로필 링크 확인! #삼탠바이미 #가성비TV #스마트TV #이동식TV
-
-**[영상 종료]**
+**[클로징 & CTA - 12~15초]**
+(화면: 두 제품이 나란히 비교되는 화면, 가격과 주요 장점 텍스트 오버레이)
+**나레이션:** "내게 딱 맞는 삼탠바이미 찾았다면? 지금 바로 프로필 링크 확인! 클릭 한 번으로 로망 실현! 🚀"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+## 2. 인스타그램 카드뉴스 4컷
 
-### 1️⃣ 첫 번째 컷: 스탠바이미 로망 vs 현실 가격 (훅)
+### **카드뉴스 1/4**
 
-*   **카드뉴스 텍스트:**
-    **[헤드라인]** 😭 스탠바이미 사고 싶죠? 근데 가격이...
-    **[서브텍스트]** 이제 '삼탠바이미'로 로망을 현실로! ✨
-
+*   **들어갈 텍스트:**
+    스탠바이미 로망? 💰 비싸서 포기했나요?
+    이제 '가성비 삼탠바이미'로 로망 실현!
 *   **Midjourney 프롬프트:**
-    `A split image. On the left, a sleek, expensive, high-end movable smart TV in a luxurious, minimalist modern living room, with a transparent overlay showing a high price tag and a frowning face emoji. On the right, a stylish, equally functional but much more affordable alternative movable smart TV ("SamtanbyMe" style) in a cozy, inviting space, with a smiling face emoji and an affordable price tag. Bright, inviting lighting, cinematic, realistic photo. --ar 1:1 --v 5.2`
+    A luxurious, minimalist living room with soft, warm ambient lighting. In the center, a shimmering, ghost-like silhouette of a high-end, movable smart TV (like LG StandbyMe) with dollar signs faintly overlaying it, symbolizing its expensive nature. The TV is out of reach. Elegant, clean lines, modern furniture. Cinematic, realistic photo, high contrast. --ar 1:1 --v 5.2
 
-### 2️⃣ 두 번째 컷: 이노스 32인치 삼탠바이미 (가성비 입문픽)
+### **카드뉴스 2/4**
 
-*   **카드뉴스 텍스트:**
-    **[헤드라인]** 💰 첫 삼탠바이미, 후회 없는 선택!
-    **[상품명]** 이노스 32인치 삼탠바이미
-    **[특징]** 30만원대 초반 / 32인치 FHD 스마트 TV / 침실, 원룸 최적화
-
+*   **들어갈 텍스트:**
+    10년차 MD가 엄선! 🏆
+    2024년 '실패 없는' 가성비 삼탠바이미 추천템 TOP 2!
 *   **Midjourney 프롬프트:**
-    `A cozy bedroom or a small, stylish studio apartment. A 32-inch smart TV on a sleek, minimalist movable stand is positioned perfectly for comfortable viewing from the bed or sofa. The screen displays a relaxing scene. Soft, warm ambient lighting. Emphasize affordability and versatility for a first-time buyer. Realistic photo, inviting atmosphere. --ar 1:1 --v 5.2`
+    A dynamic, slightly exaggerated shot of two distinct, sleek movable smart TVs (SamtanbyMe style) in a modern, brightly lit showroom. One TV is positioned as "National Budget Pick" and the other as "Premium Design Pick." Text overlays with sparkling 'TOP 2' graphic. Focus on vibrancy, excitement, and a sense of selection. --ar 1:1 --v 5.2
 
-### 3️⃣ 세 번째 컷: 와이드뷰 40인치 QLED 삼탠바이미 (화질/디자인 가성비)
+### **카드뉴스 3/4**
 
-*   **카드뉴스 텍스트:**
-    **[헤드라인]** ✨ 화질도, 디자인도 포기 못해?
-    **[상품명]** 와이드뷰 40인치 QLED 삼탠바이미
-    **[특징]** 40인치 대화면 QLED / 쨍한 색감, 고급 화이트 디자인 / 인테리어 끝판왕
-
+*   **들어갈 텍스트:**
+    **✨ 국민 가성비 ✨**
+    **이노스 32인치 FHD 스마트 TV**
+    ✅ 30만원대 초반! 압도적 가성비
+    ✅ 스마트TV + 이동식 거치대 기본
+    ✅ 엔트리 모델로 딱!
 *   **Midjourney 프롬프트:**
-    `A modern, chic living space with abundant natural light. A 40-inch QLED smart TV on a sophisticated white movable stand stands out. The screen displays ultra-vibrant, high-definition content (e.g., a nature documentary with rich colors or a stylish film scene). Focus on brilliant color reproduction and sleek design. Luxurious yet attainable feel. Realistic photo, high contrast. --ar 1:1 --v 5.2`
+    A cozy, minimalist bedroom with natural wood accents and soft, indirect sunlight. A 32-inch black smart TV on a simple, elegant movable stand is positioned near a bed, displaying a bright FHD image. Focus on comfort, practicality, and accessibility. The overall aesthetic is warm, inviting, and budget-friendly. Realistic photo, soft focus. --ar 1:1 --v 5.2
 
-### 4️⃣ 네 번째 컷: CTA (총정리 및 추가 정보 안내)
+### **카드뉴스 4/4**
 
-*   **카드뉴스 텍스트:**
-    **[헤드라인]** 💡 현명한 소비자의 필수템!
-    **[서브텍스트]** 스탠바이미 감성, 가성비로 누리세요!
-    **[CTA]** 더 많은 삼탠바이미 추천은 프로필 링크에서 확인!
-
+*   **들어갈 텍스트:**
+    **🌟 프리미엄 감성 🌟**
+    **와이드뷰 40인치 QLED 화이트**
+    ✅ QLED 화질! 생생한 색감
+    ✅ 40인치 대화면! 몰입감 UP
+    ✅ 스탠바이미 감성 화이트 디자인
 *   **Midjourney 프롬프트:**
-    `A dynamic collage or montage illustrating various people enjoying movable smart TVs in diverse settings: a young professional watching a presentation in a home office, a couple enjoying a movie in bed, a family playing a video game in the living room, a person doing yoga with a fitness video in a dedicated space. All scenes convey joy, convenience, and smart lifestyle choices. Bright, energetic, modern, cinematic photo. --ar 1:1 --v 5.2`
+    A luxurious, contemporary living space with large windows overlooking a city view. Abundant natural light. A pristine 40-inch white QLED smart TV on a stylish white movable stand is prominently displayed, showing vibrant, high-quality QLED content. Emphasize elegance, high picture quality, and modern, sophisticated design. Clean, upscale interior. Realistic photo, vibrant colors. --ar 1:1 --v 5.2
