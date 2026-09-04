@@ -1,48 +1,93 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 📺 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-### 🎬 쇼츠/틱톡 스크립트: 스탠바이미 가성비 끝판왕! 💸
-
-**[0-3초 훅]**
-(화면: 명품처럼 전시된 비싼 스탠바이미 옆에 'N백만원' 가격표가 번쩍! -> '놉!' 하는 X자 표시와 함께 화면 전환)
-**내레이션 (빠르고 경쾌하게):** 스탠바이미 갖고 싶어서 돈 모으는 중? 놉! 더 이상 비싼 돈 주고 사지 마세요!
-
-**[3-8초 문제 제기 & 해결책 제시]**
-(화면: 돈이 펑펑 깨지는 효과음과 함께 고민하는 사람들 모습 -> 저렴하지만 세련된 이동식 TV들이 여러 공간에서 활용되는 모습)
-**내레이션:** 요즘 대세 '스마트 무빙 TV', 왜 비싸게 사? 현명한 당신을 위한 '갓성비' 스탠바이미 대체템, 제가 찾아왔습니다!
-
-**[8-13초 핵심 제품 소개]**
-(화면: 이노스 32인치 TV가 침대 옆에서 넷플릭스 재생, 거실에서 게임하는 모습 -> 와이드뷰 40인치 화이트 TV가 감각적인 인테리어와 어우러지는 모습)
-**내레이션:** 30만원대 꿈의 시작, 이노스 32인치! FHD 화질에 무빙 스탠드까지 완벽! 업그레이드 감성, 와이드뷰 40인치 QLED 화이트! 쨍한 화질에 디자인까지 잡았다!
-
-**[13-15초 클로징]**
-(화면: 소개된 제품들이 함께 진열되며 '쿠팡에서 확인!' 문구 강조)
-**내레이션:** 지금 바로 쿠팡에서 나만의 스마트 TV를 만나보세요! 고민은 배송만 늦출 뿐!
+**콘셉트:** LG 스탠바이미의 높은 가격에 좌절했던 이들을 위한 가성비 삼탠바이미 솔루션 제시! 빠르고 경쾌한 편집과 함께 핵심 장점만 쏙쏙 전달.
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[숏폼 스크립트]**
 
-### 📸 인스타그램 카드뉴스
+**자막:** 각 대사 핵심 키워드 강조 (ex: **비싸?**, **30만원대!**, **이노스**, **와이드뷰**)
+**음악:** 빠르고 경쾌하며 트렌디한 BGM (ex: 틱톡 챌린지 인기 음원)
 
-**[1/4 컷]**
-*   **텍스트:** "스탠바이미, 너무 비싸서 포기했어? 😭"
-*   **Midjourney Prompt:** `A young person looking disappointed while holding an empty wallet, next to a sleek, expensive-looking smart moving TV (like LG StandbyMe) with a huge, flashy price tag (e.g., "$1500+"). Modern minimalist interior background, soft natural light, cinematic, hyperrealistic. --ar 16:9 --v 5.2`
+---
 
-**[2/4 컷]**
-*   **텍스트:** "걱정 마! 갓성비 '삼탠바이미' 떴다! ✨"
-*   **Midjourney Prompt:** `A vibrant and dynamic scene where various people (a student in a dorm, a young professional in a living room, a couple in a bedroom) are happily using affordable, stylish smart moving TVs. The TVs are sleek and modern, providing entertainment. Bright and energetic atmosphere, modern interior design, cinematic, hyperrealistic. --ar 16:9 --v 5.2`
+**[0-3초] ⚡️ 시선 강탈 훅 (Hook)!**
+*   **장면:** 럭셔리한 LG 스탠바이미 광고가 잠깐 스쳐 지나가고, 이어서 가격표가 '000만원'으로 뜨면서 놀라는 표정의 인물 클로즈업.
+*   **대사 (빠르게, 놀라며):** "스탠바이미 사고 싶어서 들어갔는데... **(좌절)** 이거 **너무 비싸잖아?!**"
 
-**[3/4 컷]**
-*   **텍스트:** "30만원대 꿈의 시작! 이노스 32인치 FHD 스마트TV"
-    *   압도적 가성비! 32인치+무빙 거치대!
-    *   OTT 완벽 지원! 나만의 스크린 완성!
-*   **Midjourney Prompt:** `A cozy bedroom interior with an Innos 32-inch FHD smart moving TV next to the bed. The TV displays a popular streaming service. The room is softly lit with warm light, showcasing a comfortable and personal space. Modern, minimalist design, clean lines, cinematic, product photography style. --ar 16:9 --v 5.2`
+**[3-6초] 문제 제기 및 솔루션 제시**
+*   **장면:** 고민하는 인물 위로 'LG 스탠바이미 비싼 가격, 포기하셨나요?' 자막. 이어서 밝은 분위기로 전환되며 삼탠바이미가 등장.
+*   **대사:** "잠깐! 이젠 **30만원대**로 내 옆에 스르륵~ 오는 **이동식 스마트 TV**가 있다는데?!?"
 
-**[4/4 컷]**
-*   **텍스트:** "업그레이드 감성! 와이드뷰 40인치 QLED 화이트 스마트TV"
-    *   40인치 QLED 대화면 + 감각적인 화이트 디자인!
-    *   성능/디자인 다 잡은 완벽한 선택!
-    *   **지금 바로 쿠팡에서 확인! ➡️**
-*   **Midjourney Prompt:** `A modern, stylish living room or studio apartment with a Wideview 40-inch QLED white smart moving TV as a centerpiece. The TV screen shows vibrant, high-quality content. The white design of the TV perfectly complements the clean, elegant interior. Bright, airy, and sophisticated ambiance, architectural digest style, hyperrealistic. --ar 16:9 --v 5.2`
+**[6-10초] 가성비 입문템 소개 (이노스 32인치)**
+*   **장면:** 이노스 32인치 삼탠바이미가 침실, 주방, 거실 등 다양한 공간에서 자유롭게 움직이는 모습. 넷플릭스, 유튜브 화면이 빠르게 지나감.
+*   **대사:** "첫 입문용? **30만원대 초반**! **이노스 32인치 삼탠바이미!** 침실, 주방 어디든! 넷플릭스, 유튜브 기본!"
+
+**[10-14초] 업그레이드템 소개 (와이드뷰 40인치 QLED V3)**
+*   **장면:** 와이드뷰 40인치 QLED V3 삼탠바이미가 선명한 QLED 화질을 자랑하며 부드럽게 이동하는 모습. 세련된 디자인 강조.
+*   **대사:** "화질, 사이즈 모두 UP! **와이드뷰 40인치 QLED V3!** 쨍한 화면에 V3 스탠드로 훨씬 부드러운 움직임까지!"
+
+**[14-15초] 마무리 및 CTA (Call To Action)**
+*   **장면:** 4가지 삼탠바이미 제품 이미지가 빠르게 스쳐 지나가고, "BEST 4 모두 보러가기!" 자막과 프로필 링크 강조.
+*   **대사 (밝게):** "내 라이프에 딱 맞는 삼탠바이미는? **지금 바로 프로필 링크 클릭!**"
+
+---
+
+## 📸 인스타그램 카드뉴스 4컷
+
+**콘셉트:** 'LG 스탠바이미 대체품' 키워드와 '가성비'를 강조하며, 각 제품의 핵심 장점과 매력을 직관적인 비주얼과 텍스트로 전달.
+
+---
+
+### **[카드뉴스 1컷] - HOOK: 비싼 스탠바이미, 가성비로 잡자!**
+
+*   **텍스트:**
+    ## LG 스탠바이미 비싸서 포기? 😩
+    ### ✨ 2024 가성비 삼탠바이미 BEST 4 ✨
+    **이젠 30만원대 이동식 스마트 TV로 스마트 라이프 시작!**
+*   **Midjourney 프롬프트:**
+    `A stylish, minimalist living room with a frustrated person looking at a luxury price tag on a high-end portable smart TV. In the foreground, a glowing, more affordable "Samtanbymy" alternative is subtly appearing. Bright, modern, aspirational, cinematic lighting. --ar 1:1 --v 5.2`
+
+---
+
+### **[카드뉴스 2컷] - 가성비 입문템: 이노스 32인치**
+
+*   **텍스트:**
+    ## 1. 💸 첫 삼탠바이미 입문용 갑!
+    ### 이노스 32인치 가성비 삼탠바이미
+    ✅ **30만원대 초반!** 부담 없는 가격!
+    ✅ **보편적인 32인치 FHD 스마트 TV** (넷플릭스, 유튜브 완벽 지원)
+    ✅ **기본에 충실한 무빙 거치대**로 어디든 OK!
+*   **Midjourney 프롬프트:**
+    `A cozy bedroom scene. A cheerful young adult is watching Netflix on a 32-inch portable smart TV (Samtanbymy) on a simple, sleek moving stand next to their bed. Soft, warm lighting, minimalist decor, comfortable atmosphere. Realistic photo style. --ar 1:1 --v 5.2`
+
+---
+
+### **[카드뉴스 3컷] - 업그레이드템: 와이드뷰 40인치 QLED V3**
+
+*   **텍스트:**
+    ## 2. ✨ 한 단계 업그레이드! 몰입감 끝판왕!
+    ### 와이드뷰 40인치 QLED V3 삼탠바이미
+    ✅ 시원하게 커진 **40인치 QLED 대화면!** (생생한 색감)
+    ✅ **V3 스탠드**로 더 부드럽고 안정적인 이동성!
+    ✅ **모든 OTT 서비스 완벽 지원**으로 즐거움 UP!
+*   **Midjourney 프롬프트:**
+    `A modern, bright living space with a 40-inch QLED portable smart TV (Samtanbymy) on an advanced, sleek moving stand. The screen displays vibrant, high-definition content. Focus on the crisp image quality and the dynamic, smooth movement of the stand. Futuristic, clean aesthetics. --ar 1:1 --v 5.2`
+
+---
+
+### **[카드뉴스 4컷] - 추가 추천 및 CTA**
+
+*   **텍스트:**
+    ## 💡 놓칠 수 없는 추가 추천 2가지!
+    ### ➡️ 와이드뷰 40인치 QLED 클래식
+    (세련된 화이트 에디션 & 고화질 40인치!)
+    ### ➡️ 티비아울렛 스마트 구글 TV
+    (모든 상품 중 **최저가! 20만원대**로 삼탠바이미 경험!)
+    ---
+    **당신의 라이프스타일에 딱 맞는 삼탠바이미는?**
+    ### 👆 프로필 링크에서 BEST 4 모두 확인하세요! 👆
+*   **Midjourney 프롬프트:**
+    `A dynamic split screen or collage showing two distinct portable smart TVs (Samtanbymy). On one side, a white-colored 40-inch Samtanbymy in a chic, elegant setting. On the other side, a budget-friendly Samtanbymy in a practical, accessible setting. A prominent, glowing arrow points upwards, indicating a call to action. Vibrant, energetic, promotional style. --ar 1:1 --v 5.2`
