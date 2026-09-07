@@ -1,84 +1,81 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🔥 도파민 폭발! 15초 숏폼 & 인스타그램 카드뉴스 기획 🔥
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+
+**[영상 컨셉]**
+*   **음악:** 빠르고 경쾌하며 트렌디한 비트 (ex. 틱톡 인기 배경음악)
+*   **편집:** 빠른 화면 전환, 효과음, 핵심 문구 자막 강조
+*   **톤앤매너:** 활기차고 설득력 있는, 정보성 + 재미
 
 ---
 
-### 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+**(0-3초) 훅: 스탠바이미 비싸서 망설였다고? 😱**
+*   **영상:** 정품 스탠바이미 이미지에 ❌표시 (가격표 강조), 이어서 저렴한 이동식 스크린(삼탠바이미)이 화려하게 등장! 빛이 번쩍하며 '나도 이제 스탠바이미!' 텍스트가 뜬다.
+*   **대사:** "스탠바이미 갖고 싶었는데… 가격 때문에 망설였다고? 딱 3초만 집중! 인생이 바뀔 걸!"
 
-**(음악: 빠르고 경쾌한 비트, 훅 부분에 강렬한 사운드 효과)**
+**(3-8초) 이노스 32인치: 나만의 영화관! 🍿**
+*   **영상:** 32인치 이노스 삼탠바이미가 거실-침실-주방 등 다양한 공간으로 스르륵 이동하며 넷플릭스, 유튜브가 재생되는 모습. (빠른 전환)
+*   **대사:** "30만원대 초반! 32인치 '이노스 삼탠바이미'! 침대 옆도, 주방도, 나만의 꿀잼 영화관으로 뚝딱 변신!"
 
-**[0-3초] 훅 (Hook):**
-**배경:** 럭셔리한 스탠바이미를 부러워하는 듯한 표정의 사람. 화면에 "스탠바이미 갖고 싶다... 비싸!" 텍스트 오버레이.
-**나레이션:** "스탠바이미, 비싸서 포기했어? 🙅‍♀️ 그럼 이거 봐!" (동시에 'X' 표시 제스처, 손가락으로 화면 가리키기)
+**(8-12초) 티비아울렛 구글 TV: 스마트함 끝판왕! 🎮**
+*   **영상:** 20만원대 티비아울렛 구글 TV가 등장, 구글 TV OS 화면이 빠르게 전환되며 게임, OTT 앱이 실행되는 시연. 빠른 반응 속도 강조.
+*   **대사:** "20만원대 최저가! '구글TV 티비아울렛'은 앱 실행 속도 미쳤다! 가성비+스마트, 두 마리 토끼 다 잡아!"
 
-**[3-7초] 문제 제기 & 솔루션 소개:**
-**배경:** '삼탠바이미' 검색 결과, 가성비 제품들이 촤르륵 나타나는 화면.
-**나레이션:** "요즘 핫한 '삼탠바이미' 트렌드! 10년차 MD가 가성비 끝판왕만 모아왔어!"
-
-**[7-10초] 메인 추천 상품 1 (이노스 32인치):**
-**배경:** 깔끔한 원룸 침실에 놓인 이노스 32인치 삼탠바이미, 넷플릭스 시청 화면.
-**나레이션:** "첫 번째! 이노스 32인치, 30만원대 실화? 😲 원룸에 딱! 넷플릭스도 팡팡!"
-
-**[10-13초] 메인 추천 상품 2 (와이드뷰 40인치 QLED):**
-**배경:** 화이트 톤 거실에 놓인 와이드뷰 40인치 QLED 삼탠바이미, 선명한 영화 화면.
-**나레이션:** "두 번째! 와이드뷰 40인치 QLED! 대화면+초고화질에 디자인까지 완벽!"
-
-**[13-15초] 클로징 & CTA:**
-**배경:** 4가지 삼탠바이미 제품이 역동적으로 번갈아 나오며 "BEST 4" 텍스트.
-**나레이션:** "이젠 고민 끝! 더 많은 추천템은 댓글 링크에서 확인! 후회 없을 걸? 😉"
+**(12-15초) 마무리 & CTA: 더 큰 화면? 링크 확인! ✨**
+*   **영상:** 와이드뷰 40인치 QLED 제품들이 화려한 영상미를 뽐내며 스쳐 지나감. "40인치 QLED도 가능하다고?!" 자막 강조 후, '지금 바로 확인!'과 함께 프로필 링크 유도 아이콘.
+*   **대사:** "더 큰 화면, QLED 대화면도 가능! 지금 바로 댓글/프로필 링크에서 내 인생템 확인해봐!"
 
 ---
 
-### 2. 인스타그램 카드뉴스 (4컷)
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
 ---
 
-#### **카드뉴스 1/4**
+### **[카드 1] 훅 & 도입: 스탠바이미 비싸서 망설였다면?**
 
-*   **텍스트:**
-    **제목:** 스탠바이미? NO! 🙅‍♀️ 이젠 #삼탠바이미 가 대세!
-    **내용:** 갖고 싶지만 비싸서 망설였던 스탠바이미, 이제 그 고민 끝! 가성비 끝판왕 #스마트TV삼탠바이미 로 똑똑하게 즐기세요!
-*   **배경 이미지 생성 Midjourney 프롬프트:**
-    A sleek, modern living room with a person looking frustrated at an empty, expensive TV stand. On the right, a bright, exciting portal or glow appears, hinting at a better, more affordable solution. High contrast, cinematic lighting, vibrant colors. --ar 1:1 --v 5.2
-
----
-
-#### **카드뉴스 2/4**
-
-*   **텍스트:**
-    **[✨ MD's PICK 1 ✨] 30만원대 기적! 이노스 FHD 32인치 삼탠바이미**
-    -   압도적 가성비: 30만원 초반대에 핵심 기능 모두!
-    -   콤팩트 사이즈: 침실, 원룸 어디든 OK!
-    -   스마트TV: 넷플릭스, 유튜브 바로 즐겨!
-    ➡️ #삼탠바이미입문템 #원룸필수템
-*   **배경 이미지 생성 Midjourney 프롬프트:**
-    A cozy, minimalist bedroom with a 32-inch smart TV on a mobile stand next to a bed. A person is happily watching Netflix on the TV. Soft, warm morning light streams through a window, creating a serene and comfortable atmosphere. Modern interior design. --ar 1:1 --v 5.2
+*   **카드 텍스트:**
+    *   **메인 헤드라인:** 스탠바이미 비싸서 망설였다면? 😱
+    *   **서브 헤드라인:** 💥 가성비 '삼탠바이미' 대안 BEST 4! 💥
+    *   **본문:** 나만의 움직이는 스마트 스크린, 이젠 통장 지키면서 FLEX 하세요! 넷플릭스, 유튜브, 게임을 침대에서, 주방에서, 어디서든!
+*   **이미지 프롬프트 (Midjourney 스타일 영문):**
+    > A stylish, modern living room with a cozy sofa, bathed in warm, soft natural light. In the background, a silhouette of a sleek, movable smart TV stand (similar to StandbyME) is visible, with a vibrant screen displaying popular streaming service logos (Netflix, YouTube, Disney+). The overall atmosphere is inviting and relaxed, hinting at comfort and accessibility. High-angle shot, cinematic, vibrant colors, minimalist decor, 4k, --ar 1:1 --v 5.2
 
 ---
 
-#### **카드뉴스 3/4**
+### **[카드 2] 추천 1: 이노스 삼탠바이미 스마트 TV 32인치**
 
-*   **텍스트:**
-    **[✨ MD's PICK 2 ✨] 화질+디자인 UP! 와이드뷰 FHD QLED 40인치 삼탠바이미**
-    -   선명한 QLED 화질: 풍부한 색감으로 몰입도 극대화!
-    -   시원한 40인치 대화면: OTT, 게임, 운동까지 만능!
-    -   세련된 화이트 디자인: 인테리어 품격까지 높여줘!
-    ➡️ #QLED삼탠바이미 #인테리어TV
-*   **배경 이미지 생성 Midjourney 프롬프트:**
-    A bright, stylish living room with a 40-inch white QLED smart TV on a sleek mobile stand. The TV screen displays vibrant, high-quality movie content, making it look incredibly immersive. Modern, clean aesthetic with subtle natural light. --ar 1:1 --v 5.2
+*   **카드 텍스트:**
+    *   **메인 헤드라인:** 👑 BEST 사이즈 & 가성비 갑! 👑
+    *   **상품명:** 이노스 삼탠바이미 스마트 TV 32인치
+    *   **특징:**
+        *   ✅ 32인치 최적의 화면, 30만원대 초반!
+        *   ✅ 공간 효율성 UP! 침실, 거실 자유롭게 이동
+        *   ✅ 믿을 수 있는 중소기업 이노스!
+*   **이미지 프롬프트 (Midjourney 스타일 영문):**
+    > A bright, modern minimalist bedroom with a large window letting in soft morning light. A sleek 32-inch smart TV on a movable white stand is perfectly positioned in front of a bed, displaying a bright, engaging movie scene. The room feels cozy and functional, emphasizing how technology integrates seamlessly into daily life. The TV is the focal point, with a clean interface showing streaming apps. Wide shot, focus on technology integration in daily life, soft pastel colors, high detail, --ar 1:1 --v 5.2
 
 ---
 
-#### **카드뉴스 4/4**
+### **[카드 3] 추천 2: 티비아울렛 구글 Google TV 삼탠바이미**
 
-*   **텍스트:**
-    **🔥 10년차 MD가 엄선한 삼탠바이미 BEST 4!**
-    당신의 라이프스타일에 꼭 맞는 스마트 TV 삼탠바이미를 찾아보세요!
-    (1) 이노스 32인치 (310,550원)
-    (2) 와이드뷰 40인치 QLED (371,070원)
-    (3) 티비아울렛 구글TV (285,000원) - 최저가!
-    (4) 와이드뷰 V3 거치대 세트 (385,480원) - 안정성 UP!
-    **[링크는 프로필 확인!]**
-*   **배경 이미지 생성 Midjourney 프롬프트:**
-    A vibrant, dynamic collage showcasing four different smart TVs on mobile stands, each in a distinct modern home setting (e.g., minimalist bedroom, spacious living room, stylish studio apartment, cozy reading nook). Text overlay: "BEST 4!" in a bold, eye-catching font. Bright, appealing, energetic. --ar 1:1 --v 5.2
+*   **카드 텍스트:**
+    *   **메인 헤드라인:** 🚀 압도적 최저가 & 구글 TV! 🚀
+    *   **상품명:** 티비아울렛 구글 Google TV 삼탠바이미
+    *   **특징:**
+        *   ✅ 20만원대 최저가! 예산 부담 끝!
+        *   ✅ 구글 TV OS 탑재! 훨씬 빠르고 스마트!
+        *   ✅ 넷플릭스, 유튜브 앱 활용도 최고!
+*   **이미지 프롬프트 (Midjourney 스타일 영문):**
+    > A vibrant and energetic image of a smaller, compact smart TV (around 24-27 inches) on a movable stand in a stylish, compact apartment kitchen or studio space. The screen clearly displays the Google TV interface with various app icons (Netflix, YouTube, gaming). A hand is holding a sleek remote control, suggesting ease of use. Dynamic lighting, modern design, tech-focused, cozy yet smart, --ar 1:1 --v 5.2
+
+---
+
+### **[카드 4] 추가 추천 & CTA: 내 인생템 찾기!**
+
+*   **카드 텍스트:**
+    *   **메인 헤드라인:** ✨ 더 큰 화면? 더 선명한 화질? ✨
+    *   **본문1:** 40인치 QLED 대화면도 가성비로 누려보세요!
+    *   **본문2:** 와이드뷰 40인치 QLED 화이트 / V3 세트 확인!
+    *   **CTA:** 지금 바로 프로필 링크에서 내게 딱 맞는 삼탠바이미 찾기! ➡️
+*   **이미지 프롬프트 (Midjourney 스타일 영문):**
+    > A luxurious, spacious apartment living room with large windows overlooking a city skyline at sunset. In the center, a large 40-inch QLED smart TV on a sophisticated, modern white movable stand (like Wideview V3) is showcasing a breathtaking high-definition nature documentary with vivid colors. The image exudes premium quality, advanced technology, and an expansive viewing experience. Elegant, cinematic, high contrast, warm lighting, --ar 1:1 --v 5.2
