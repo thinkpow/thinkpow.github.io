@@ -1,80 +1,88 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
+## 🚀 도파민 폭발 15초 쇼츠/틱톡 스크립트 (스탠바이미 가성비)
 
-**[영상 컨셉]**
-*   템포 빠르고, 배경음악은 경쾌하고 통통 튀는 느낌.
-*   화면 전환 및 자막(핵심 문구) 빠르게 강조.
-*   MD의 실제 리뷰처럼 신뢰감과 설득력을 동시에 보여줌.
+**콘셉트:** 비싼 스탠바이미 대신, 합리적인 가격으로 스마트 TV+이동성을 잡은 '삼탠바이미' 추천! 10년차 MD의 엄선된 가성비템 소개.
 
----
-
-**[스크립트 시작]**
-
-**1. 훅 (0-3초)**
-*   **화면:** (비싼 스탠바이미 가격표 클로즈업 ➡️ 좌절하는 표정의 인물 ➡️ 갑자기 환한 표정으로 전환)
-*   **대사:** "스탠바이미! 비싸서 망설였다고요? 😡 (자신감 있는 표정으로 전환) 잠깐! 10년차 MD가 찾은 '이것'이라면 얘기가 달라져요!"
-
-**2. 문제 제기 & 해결 (3-8초)**
-*   **화면:** (침실, 거실, 주방 등 다양한 공간에서 이동식 TV를 편리하게 사용하는 모습 몽타주)
-*   **대사:** "거실, 침실, 주방 어디든 내가 원하는 곳으로 움직이는 스마트TV! LG 스탠바이미는 꿈의 TV지만, 수많은 '삼탠바이미' 중 가성비 끝판왕만 제가 엄선했어요!"
-
-**3. 메인 추천 상품 소개 (8-13초)**
-*   **화면:** (상품 1, 2의 실사용 모습 또는 제품 이미지 번갈아 보여주며 핵심 특징 강조 자막)
-*   **대사:** "✨ 31만원대 '이노스 32인치 삼탠바이미' 기본에 충실한 베스트!
-    ✨ 37만원대 '와이드뷰 40인치 QLED'는 6만원 더 내고 8인치 UP! QLED, 화이트 디자인까지 업그레이드!"
-
-**4. 클로징 & CTA (13-15초)**
-*   **화면:** (두 제품의 장점을 비교하는 깔끔한 그래픽 ➡️ 프로필 링크 유도 자막)
-*   **대사:** "어때요? 이 정도면 고민 끝이죠? 더 자세한 정보는 프로필 링크에서 확인하세요! 지금 바로 득템하세요!"
-
-**[스크립트 끝]**
+**영상 길이:** 15초
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+**[영상 시각화 가이드]**
 
-**[공통 디자인 가이드]**
-*   깔끔하고 미니멀한 배경에 상품이 돋보이도록.
-*   정보 전달은 명확하고 간결하게.
-*   전체적으로 트렌디하고 세련된 톤 앤 매너 유지.
+*   **0-3초 (훅):** 고가 스탠바이미 가격 보고 좌절하는 모습 (x), 혹은 통장 잔고 바닥나는 이미지 빠르게 스쳐 지나감 (x) → 화면 깨지는 듯한 효과 후 '진짜' 스탠바이미 등장!
+*   **4-7초:** 침실, 주방, 거실 등 다양한 공간에서 삼탠바이미를 자유롭게 사용하는 모습 빠르게 교차.
+*   **8-11초:** '이노스 32인치 삼탠바이미' 제품 이미지/영상과 주요 장점 텍스트 오버레이. (ex: 30만원대, OTT, 이동성)
+*   **12-15초:** '와이드뷰 40인치 QLED 삼탠바이미 V3' 제품 이미지/영상과 주요 장점 텍스트 오버레이. (ex: 40인치 QLED, 30만원대, 메인TV) 마지막에 "지금 바로 클릭!" 같은 강렬한 CTA.
 
 ---
 
-### **카드뉴스 1/4**
+**[스크립트]**
 
-*   **들어갈 텍스트:**
-    **스탠바이미 비싸서 포기? 🙅‍♀️**
-    **10년차 MD가 찾은 '가성비 삼탠바이미' 끝판왕!**
-    **이동식 스마트TV, 이제는 현명하게 즐기세요!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A stylish, minimalist living room with abundant natural light. In the foreground, a sleek, modern movable smart TV on a stand, similar to LG StandbyMe, displaying a vibrant content. The room features muted tones, a comfortable sofa, and a few carefully placed green plants. Emphasis on clean lines and sophisticated simplicity. --ar 1:1 --style raw --v 5.2`
+**0-3초 (훅!)**
+**내레이션 (빠르고 강렬하게, 다급한 BGM):** 🚨"스탠바이미, 비싸서 맨날 눈팅만? 이제 통장 지켜줄게! 딱 3초 집중!"🚨
 
-### **카드뉴스 2/4**
+**3-7초**
+**내레이션 (밝고 경쾌하게):** "LG 스탠바이미 갖고 싶죠? 하지만 가격이... 흑! 이제 '삼탠바이미'로 침대, 주방 어디든 나만의 스마트TV 존 만들자고요! 10년차 MD가 싹 다 비교해봤어!"
 
-*   **들어갈 텍스트:**
-    **💡 [MD's PICK #1] 이노스 32인치 FHD 삼탠바이미**
-    💰 **310,550원!**
-    ✔️ **필수 기능 다 모은 베스트셀러!**
-    ✔️ **첫 삼탠바이미 경험에 최적!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy, inviting bedroom scene with soft, warm lighting. A young person is comfortably lying in bed, watching a movie on a 32-inch movable smart TV on a sleek stand. The room features minimalist decor with neutral colors, a plush duvet, and a small bedside table. The TV is the focal point, showing clear, crisp visuals. --ar 1:1 --style raw --v 5.2`
+**7-11초**
+**내레이션:** "첫 번째! 30만원 초반, **이노스 32인치!** 넷플릭스, 유튜브 다 되고 이동성까지! 입문용으로 이만한 게 없어!"
 
-### **카드뉴스 3/4**
+**11-15초**
+**내레이션:** "두 번째! 40만원대? 댓츠 노노! 30만원대 **와이드뷰 40인치 QLED!** 화질 끝판왕에 메인 TV로도 완벽! 이건 꼭 사야 해! (속삭이듯) 더 자세한 정보는 링크 클릭!"
 
-*   **들어갈 텍스트:**
-    **🚀 [MD's PICK #2] 와이드뷰 40인치 QLED 화이트 삼탠바이미**
-    💰 **371,070원! (+6만원으로 업그레이드!)**
-    ✨ **8인치 UP! QLED 화질 & 화이트 디자인!**
-    ✔️ **압도적인 시각적 만족감!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A bright, modern kitchen with white and light wood elements. A 40-inch QLED white movable smart TV on an elegant stand is positioned near a kitchen island, displaying a vibrant cooking show or news. Sunlight streams in through a large window. The aesthetic is clean, sophisticated, and functional. --ar 1:1 --style raw --v 5.2`
+---
 
-### **카드뉴스 4/4**
+## 📸 인스타그램 카드뉴스 4컷 (스탠바이미 가성비)
 
-*   **들어갈 텍스트:**
-    **내 라이프스타일에 딱 맞는 삼탠바이미는? 🤔**
-    **지금 바로 프로필 링크 클릭!**
-    **(LG 브랜드, 초저가 모델도 있어요!)**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage showcasing four distinct interior scenes: a cozy bedroom, a modern living room, a functional kitchen, and a vibrant home office. Each scene features a different style of movable smart TV (StandbyMe alternative). The overall feel is versatile and customizable, with a subtle overlay text "Shop Now" or "Find Your Perfect TV" in a modern font. --ar 1:1 --style raw --v 5.2`
+---
+
+### **[카드뉴스 1컷]**
+
+*   **카드 텍스트:**
+    **💸 스탠바이미? NO!
+    이제 '삼탠바이미'로
+    가성비+스마트함 다 잡아! 💸**
+    (부제: LG 스탠바이미 가격보고 좌절한 당신을 위한 MD의 특급 처방!)
+*   **Midjourney 프롬프트:**
+    A stylish modern living room, a person looking at their empty wallet with a slightly frustrated but hopeful expression, an outline of a luxurious, expensive portable TV ghosting in the background, dramatic lighting, cinematic, high contrast, soft focus, --ar 1:1 --style raw --v 5.2
+
+---
+
+### **[카드뉴스 2컷]**
+
+*   **카드 텍스트:**
+    **📺 10년차 MD가 엄선!
+    2024년 9월 BEST 삼탠바이미 4!**
+    ✅ 이동성! ✅ 스마트 기능! ✅ 합리적 가격!
+    (부제: 당신의 라이프스타일을 바꿀 단 하나의 선택!)
+*   **Midjourney 프롬프트:**
+    A sleek, minimalist portable smart TV on a stand in a cozy, bright bedroom, displaying popular streaming app logos (Netflix, YouTube, Disney+), soft natural light coming through a window, a cup of coffee on a bedside table, modern interior design, high detail, --ar 1:1 --style raw --v 5.2
+
+---
+
+### **[카드뉴스 3컷]**
+
+*   **카드 텍스트:**
+    **✨ 입문용 가성비 끝판왕! ✨
+    이노스 32인치 삼탠바이미 스마트 TV**
+    ✅ **30만원대 초반!**
+    ✅ **32인치 FHD & OTT 완벽!**
+    ✅ **침실, 주방 어디든 OK!**
+    (추천: 첫 삼탠바이미를 부담 없이 경험하고 싶은 분!)
+*   **Midjourney 프롬프트:**
+    A bright and clean kitchen with a compact portable smart TV on a sleek stand, displaying a vibrant cooking show. A happy young woman is smiling and preparing food in the background, minimalist design, warm lighting, high resolution, --ar 1:1 --style raw --v 5.2
+
+---
+
+### **[카드뉴스 4컷]**
+
+*   **카드 텍스트:**
+    **🔥 화질 & 성능 끝판왕! 🔥
+    와이드뷰 40인치 QLED 삼탠바이미 V3**
+    ✅ **40인치 QLED 압도적 화질!**
+    ✅ **30만원대! 메인 TV로도 완벽!**
+    ✅ **업그레이드 스탠드로 더 안정적!**
+    (추천: 최고의 시청 경험을 원하는 분!)
+*   **Midjourney 프롬프트:**
+    A cozy and modern living room with a large, vibrant 40-inch portable QLED smart TV on a stand, displaying a stunning movie scene with rich colors. A happy couple is relaxing on a sofa, enjoying the film, comfortable, cinematic, soft lighting, --ar 1:1 --style raw --v 5.2
