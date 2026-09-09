@@ -1,66 +1,63 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발 15초 숏폼 대본 & 인스타그램 카드뉴스 프롬프트
+## 🎬 유튜브 쇼츠/틱톡 15초 스크립트
+
+**(음악: 경쾌하고 트렌디한 BGM, 빠른 템포)**
+
+**[영상 시작: 0-3초]**
+*   **화면**: LG 스탠바이미 비싼 가격표(100만원 이상)가 깜짝 등장! → 가격 보고 놀란 표정의 사람 → 바로 다음 컷에 30만원대 제품 이미지 전환
+*   **대사**: "스탠바이미 갖고 싶어서 돈 모으는 중? **멈춰!** 😱 100만원대 TV 말고, 30만원대 '이거' 보세요!"
+
+**[전개: 3-12초]**
+*   **화면**: 'MD PICK' 강조 텍스트와 함께 다양한 삼탠바이미 썸네일이 빠르게 지나감
+*   **대사**: "10년차 MD가 엄선한 **'스탠바이미 가성비'** 끝판왕! 지금 바로 공개!"
+*   **화면**: 이노스 삼탠바이미 32인치 제품 이미지, 넷플릭스 재생 화면, 거실/침실 이동하는 모습 몽타주
+*   **대사**: "**첫째, 이노스 32인치!** 30만원 초반대에 32인치 스마트TV가 자유롭게 이동! 넷플릭스, 유튜브 다 돼!"
+*   **화면**: 와이드뷰 삼탠바이미 40인치 QLED 화이트 에디션 제품 이미지, 고화질 영상 재생, 세련된 인테리어와 어울리는 모습
+*   **대사**: "**둘째, 와이드뷰 40인치 QLED!** 40인치 QLED 대화면으로 선명함 폭발! 화이트 디자인은 덤!"
+
+**[마무리/CTA: 12-15초]**
+*   **화면**: 두 제품 나란히 비교, "최저가는 프로필 링크 클릭!" 텍스트 강조
+*   **대사**: "더 자세한 비교, 최저가는 프로필 링크 클릭! 고민은 배송만 늦출 뿐!"
 
 ---
 
-### 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 📸 인스타그램 카드뉴스 (4컷)
 
-**제목:** 😲 LG 스탠바이미 대신 이거 사세요! 2024 가성비 삼탠바이미 BEST 4!
+### **1. 첫 번째 카드**
+*   **텍스트**:
+    "스탠바이미.. 갖고싶지만 비싸서 포기했다면? 😫
+    10년차 MD가 엄선한 '가성비 삼탠바이미' 지금 바로 확인!"
+*   **Midjourney 프롬프트**:
+    `A stylish, modern minimalist living room, a young woman looking disappointed at a blurred, expensive price tag of a sleek mobile TV in the background. Suddenly, a bright lightbulb appears above her head, showing multiple glowing, affordable mobile TVs with vibrant screens floating. Cinematic lighting, soft shadows, warm tones, aspirational, high contrast. --ar 1:1 --v 5.2`
 
-**(시작: 0-3초 - 시선 강탈 훅)**
-*   **화면:** 고급스러운 LG 스탠바이미 제품과 함께 '200만원대?' 라는 문구가 뜨고, 이어서 가격표가 확대되며 '💸 비현실적 가격?!' 문구가 나타난다. (놀란 표정 이모지 필수!)
-*   **대사 (빠르게, 흥분된 톤):** "헉! LG 스탠바이미 가격 보고 깜놀? 😱 이제 비싸게 사지 마세요!"
+### **2. 두 번째 카드**
+*   **텍스트**:
+    "**MD's PICK #1: 이노스 삼탠바이미 32인치**
+    ✨ 30만원 초반대 가성비 끝판왕
+    📺 원조보다 큰 32인치 FHD 대화면
+    🍿 넷플릭스/유튜브 스마트 기능
+    🛏️ 거실, 침실 어디든 자유롭게!"
+*   **Midjourney 프롬프트**:
+    `A cozy and bright modern bedroom, sunlight streaming through a window. A person is comfortably lying in bed, happily watching Netflix on an 'Innos SamtanbyME 32-inch' style mobile smart TV. The TV is sleek, black, and positioned on a minimalist white stand. The screen displays a colorful movie scene. Soft, inviting atmosphere, realistic, high detail. --ar 1:1 --v 5.2`
 
-**(3-10초 - 문제 제기 & 솔루션 제시)**
-*   **화면:** 손가락으로 'X' 표시 후, 다양한 공간(침실, 주방, 베란다)에서 사람들이 '삼탠바이미'를 자유롭게 사용하는 활기찬 장면들로 빠르게 전환된다.
-*   **대사:** "LG 스탠바이미 로망은 그대로! 가격은 1/n으로! 가성비 '삼탠바이미'가 대세입니다!"
-*   **화면:** 메인 제품 2개(이노스 32인치, 와이드뷰 40인치 QLED V3)의 깔끔한 제품 컷이 비교하듯 좌우로 등장하며 핵심 가격 강조.
-*   **대사:** "30만원대 초가성비 입문템! 이노스 32인치!" (화면: 이노스 제품 강조) "40만원도 안 되는 40인치 QLED! 와이드뷰 V3!" (화면: 와이드뷰 제품 강조)
+### **3. 세 번째 카드**
+*   **텍스트**:
+    "**MD's PICK #2: 와이드뷰 40인치 QLED 화이트 에디션**
+    🔥 40인치 QLED 압도적 화질!
+    🎨 생생한 컬러, 깊은 명암비
+    💖 화이트 에디션, 인테리어 오브제
+    🎮 드라마/영화/게임 몰입감 UP!"
+*   **Midjourney 프롬프트**:
+    `A chic and minimalist living room with a pristine white aesthetic. A 'Wideview 40-inch QLED White Edition' style mobile smart TV, elegant and white, stands in the center. The QLED screen displays an incredibly vibrant, high-resolution landscape with rich colors and deep contrasts. Natural light, sophisticated, luxurious, modern design. --ar 1:1 --v 5.2`
 
-**(10-15초 - 추가 정보 & CTA)**
-*   **화면:** 침대 위에서 편안하게 영화를 보거나, 홈트레이닝을 하는 등 삼탠바이미를 라이프스타일에 맞게 활용하는 모습이 짧게 지나간다. 추가 추천 제품 썸네일 2개가 작게 보임.
-*   **대사:** "화이트 감성, 초가성비 구글TV까지! 내 취향 삼탠바이미는? 지금 바로 고정댓글 링크 확인하고, 움직이는 나만의 TV GET하세요! 🏃‍♀️💨"
-*   **자막:** #스탠바이미 #삼탠바이미 #가성비TV #이동형TV #스마트TV #혼족템
+### **4. 네 번째 카드**
+*   **텍스트**:
+    "**🌟 놓치기 아쉬운 추가 추천템**
+    - 와이드뷰 40인치 QLED V3 (업그레이드 스탠드)
+    - 티비아울렛 스마트 구글 삼탠바이미 (초저가!)
 
----
-
-### 2. 인스타그램 카드뉴스 4컷
-
-**✨ 공통 스타일 프롬프트 톤:** cinematic lighting, vibrant colors, cozy yet modern aesthetic, high resolution, soft focus on background, --ar 1:1
-
----
-
-**[첫 번째 카드]**
-*   **카드 텍스트:**
-    LG 스탠바이미 사고 싶지만 비싸다고? 💸
-    ✨ 가성비 '삼탠바이미'로 로망 실현!
-*   **Midjourney 프롬프트:**
-    A stylish, portable smart TV on a moving stand, in a cozy yet modern living room, soft morning light streaming through a window, a person relaxing on a sofa in the background, feeling of luxury and affordability, cinematic lighting, vibrant colors, high resolution, --ar 1:1
-
----
-
-**[두 번째 카드]**
-*   **카드 텍스트:**
-    👑 가성비 끝판왕! 이노스 32인치 삼탠바이미
-    30만원 초반대에 이동형 스마트TV 입문! 📺
-*   **Midjourney 프롬프트:**
-    A close-up shot of a 32-inch portable smart TV (representing Innos) on a sleek moving stand, placed beside a comfortable bed in a minimalist bedroom, displaying a vibrant movie scene, warm and inviting atmosphere, person's hand casually reaching for a remote, soft natural light, cinematic lighting, high resolution, --ar 1:1
-
----
-
-**[세 번째 카드]**
-*   **카드 텍스트:**
-    ✨ 화질/크기 UP! 와이드뷰 40인치 QLED 삼탠바이미 V3
-    40인치 QLED 대화면으로 몰입감 최강! 🎬
-*   **Midjourney 프롬프트:**
-    A dynamic shot of a 40-inch QLED portable smart TV (representing Wideview V3) on an advanced moving stand, showing breathtakingly clear and colorful visuals from a movie, in a modern, spacious studio apartment with large windows, a silhouette of a person enjoying the view from a distance, premium feel, vibrant color saturation, cinematic lighting, high resolution, --ar 1:1
-
----
-
-**[네 번째 카드]**
-*   **카드 텍스트:**
-    내 취향 저격 삼탠바이미는? 💘
-    지금 바로 링크에서 자세히 비교하고 GET! 🛍️
-*   **Midjourney 프롬프트:**
-    A collage or split-screen image showcasing four different portable smart TV models (representing the variety of SamtanbyME options), each subtly different in style (one white, one large, one compact), arranged attractively on a modern, clean background, with a prominent call-to-action button or text like "SHOP NOW" or "COMPARE ALL", vibrant and engaging, high resolution, --ar 1:1
+    👉 더 자세한 비교/최저가는 프로필 링크에서!
+    #스탠바이미가성비 #삼탠바이미 #이동형TV #스마트TV추천"
+*   **Midjourney 프롬프트**:
+    `A clean and modern infographic-style background. Multiple sleek mobile smart TVs (various sizes and colors like black, white) are neatly arranged, showcasing different features. A spotlight illuminates a 'link in bio' icon. The overall feeling is informative, trustworthy, and modern, with a slight digital glow. Soft, professional lighting. --ar 1:1 --v 5.2`
