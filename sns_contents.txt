@@ -1,78 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+## 📺 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-**[영상 컨셉]**
-빠른 전환, 텍스트 오버레이, 경쾌한 배경음악. 고급스러운 스탠바이미 이미지 → 좌절하는 표정 → 반짝이는 가성비 제품 이미지들로 전환.
-
----
-
-**[숏폼 대본]**
-
-**[0-3초] 훅 (Hook)**
-*   **화면:** (고급스러운 LG 스탠바이미 광고 영상 스틸컷 빠르게 스쳐 지나감, 가격 자막 크게 '100만원대?!') → (절망하는 표정의 인물 클로즈업)
-*   **내레이션:** "스탠바이미? 솔직히 비싸잖아! 💸 이젠 걱정 마세요!"
-*   **자막:** #비싼스탠바이미 #이제그만 #가성비폭발
-
-**[3-9초] 문제 제기 및 첫 번째 솔루션**
-*   **화면:** (책상 위 모니터에 지트론 거치대를 결합하는 DIY 장면 빠르게 편집) → (침대 옆에서 영화 보는 장면, 주방에서 레시피 보는 장면)
-*   **내레이션:** "집에 굴러다니는 TV, 모니터 있나요? 8만원대로 '이동성'만 추가하세요!"
-*   **자막:** 📺 **지트론 거치대** | ✅ 8만원대 ✅ DIY ✅ 최대 32인치
-
-**[9-13초] 두 번째 솔루션**
-*   **화면:** (티비아울렛 스마트TV가 바로 넷플릭스 실행되는 장면) → (깔끔한 디자인, 거실/침실 등 다양한 공간에서 활용)
-*   **내레이션:** "아예 스마트TV 일체형을 원한다면? 20만원대로 '구글TV'가 통째로! 전원만 꽂으면 끝!"
-*   **자막:** ✨ **티비아울렛 삼탠바이미** | ✅ 구글TV 일체형 ✅ 올인원 ✅ 20만원대
-
-**[13-15초] 클로징 & CTA**
-*   **화면:** (두 제품이 나란히 놓여있는 장면, 비교하는 손짓) → (썸네일 클릭 유도 화면)
-*   **내레이션:** "나에게 딱 맞는 '가성비 스탠바이미', 지금 바로 댓글 링크에서 확인하세요!"
-*   **자막:** 👇 링크 확인! #스탠바이미가성비 #삼탠바이미 #무빙TV
+**콘텐츠 제목:** 스탠바이미 가격보고 현기증? 놉! 이걸로 끝내 (feat. 삼탠바이미)
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**[영상 시작: 강렬한 훅!]**
 
-**[공통 디자인 키워드]**
-*   스타일: Minimalist, Modern, Clean, Aesthetic, Cozy, Home decor, Soft natural light, High resolution, Photography, Product photography
-*   색상: Warm neutrals, Pastel tones, Soft blues/greens
+*   **0-3초 (장면 전환 빠르게):**
+    *   (화면: "스탠바이미" 검색창, 비싼 가격표 등장 → 놀란 표정의 인물 클로즈업)
+    *   **인물:** "스탠바이미 갖고 싶은데.. 💸 가격보고 현기증 나? 잠깐! 돈 아끼는 꿀팁 줄게!"
+*   **3-8초 (템포 빠르게, 핵심 정보 전달):**
+    *   (화면: 이노스 32인치 삼탠바이미가 원룸 침실에 놓여진 모습)
+    *   **인물:** "30만원대 초반! 이노스 32인치는 침대 옆 필수템! 넷플릭스, 유튜브 다 돼!"
+*   **8-12초 (프리미엄 옵션 제시):**
+    *   (화면: 와이드뷰 40인치 QLED 삼탠바이미가 거실에서 영화를 재생하는 모습)
+    *   **인물:** "난 좀 더 큰 거? 40인치 QLED 대화면! 와이드뷰로 거실이 바로 영화관!"
+*   **12-15초 (마무리 및 CTA):**
+    *   (화면: 두 제품이 나란히 비교되는 모습 + "가성비 끝판왕" 자막)
+    *   **인물:** "가격은 내리고 만족도는 확! 올린 삼탠바이미! 지금 바로 프로필 링크 확인해봐! 후회 안 해!"
 
 ---
 
-### **[카드뉴스 1컷] - 훅 (Hook)**
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-*   **들어갈 텍스트:**
-    **비싼 스탠바이미? 이제 NO! 🙅‍♀️**
-    **✨ 가성비 스탠바이미, 완벽 비교 가이드 ✨**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A visually striking split image. Left side: A luxurious, minimalist living room with a real LG StandbyMe, looking exclusive and expensive, bathed in warm, soft morning light. Right side: A hand making a clear 'stop' gesture over a blurred price tag, symbolizing rejecting high costs. The overall mood is modern, clean, and aspirational, with a hint of empowerment. --ar 1:1 --v 5.2`
+---
 
-### **[카드뉴스 2컷] - 솔루션 1: 지트론 이동형 TV 거치대**
+### **첫 번째 컷**
 
-*   **들어갈 텍스트:**
-    **1. 💸 8만원대로 내 TV를 무빙TV로!**
-    **지트론 스탠바이미 이동형 TV거치대**
-    *   ✅ 압도적 가성비로 비용 절감
-    *   ✅ 기존 TV/모니터 활용 (최대 32인치)
-    *   ✅ DIY로 만드는 나만의 스탠바이미
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A bright, cozy bedroom interior. A sleek, minimalist black TV stand on wheels is shown with a regular flat-screen monitor attached, being effortlessly moved from bedside to a desk. Soft natural light streams through a window. The focus is on the stand's mobility and clean design, blending seamlessly into the modern home decor. Product photography style, high resolution. --ar 1:1 --v 5.2`
+*   **카드뉴스 텍스트:**
+    **📺 스탠바이미 갖고 싶은데... 가격보고 멈칫?**
+    이제 '삼탠바이미'로 당신의 로망을 실현하세요!
+*   **Midjourney 이미지 프롬프트:**
+    `A stylish, modern living room with a blurred, expensive-looking portable smart TV in the background. In the foreground, a person's hand holding a smartphone displaying a "price tag shock" emoji. The person's face shows a hint of disappointment but also curiosity. Soft, warm lighting, minimalist aesthetic, high contrast. --ar 1:1`
 
-### **[카드뉴스 3컷] - 솔루션 2: 티비아울렛 스마트 구글 TV**
+---
 
-*   **들어갈 텍스트:**
-    **2. ✨ 스마트TV + 이동성 = 완벽!**
-    **티비아울렛 구글TV 삼탠바이미**
-    *   ✅ 구글TV 일체형! 넷플릭스, 유튜브 바로!
-    *   ✅ 복잡한 조립 NO, 전원만 꽂으면 끝!
-    *   ✅ 완성형 스탠바이미를 합리적인 가격에
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A modern, inviting living room. A sleek, white smart TV on a stylish mobile stand is placed in the center, displaying the Netflix interface. A cozy blanket and a cup of coffee are on a nearby sofa. The scene emphasizes seamless entertainment and convenience, with warm, soft lighting and a clean aesthetic. Product photography style, high resolution. --ar 1:1 --v 5.2`
+### **두 번째 컷**
 
-### **[카드뉴스 4컷] - 클로징 & CTA**
+*   **카드뉴스 텍스트:**
+    **✨ 30만원대 입문 끝판왕! 이노스 32인치 삼탠바이미**
+    원룸, 침실 어디든 쏙! 스마트 기능 기본 장착!
+*   **Midjourney 이미지 프롬프트:**
+    `A cozy, minimalist studio apartment bedroom. A sleek, 32-inch portable smart TV (SamtanbyMe style) on a slender white stand is positioned next to a comfortable bed. A person is happily watching a streaming service on the screen, a cup of coffee nearby. Soft morning light streams through a window. Scandinavian interior design elements. --ar 1:1`
 
-*   **들어갈 텍스트:**
-    **당신에게 딱 맞는 '가성비 스탠바이미'는?**
-    **👇 댓글 링크에서 지금 바로 확인하세요! 👇**
-*   **Midjourney 스타일 영문 프rompt:**
-    `A split screen showing two different mobile TV setups side-by-side in a modern home environment. On the left, a minimalist TV stand with a separate monitor (representing DIY solution). On the right, a sleek, integrated smart TV on a mobile stand (representing all-in-one solution). A question mark hovers above, and a glowing arrow points downwards, indicating a choice. The background is a blurred, inviting home interior with soft lighting. Comparative, decision-making visual. --ar 1:1 --v 5.2`
+---
+
+### **세 번째 컷**
+
+*   **카드뉴스 텍스트:**
+    **🎬 40인치 QLED 대화면! 와이드뷰로 거실을 영화관으로!**
+    선명한 화질로 압도적인 몰입감을 경험하세요.
+*   **Midjourney 이미지 프롬프트:**
+    `A luxurious, modern living room with a large 40-inch QLED portable smart TV (SamtanbyMe style) displaying a vibrant, high-definition movie scene. A happy couple is comfortably seated on a plush sofa, sharing popcorn and enjoying the immersive cinematic experience. Atmospheric, cinematic lighting, rich colors, high-contrast. --ar 1:1`
+
+---
+
+### **네 번째 컷**
+
+*   **카드뉴스 텍스트:**
+    **💖 가격은 내리고 만족도는 UP!**
+    **나에게 딱 맞는 '삼탠바이미'는?**
+    (👉 프로필 링크에서 자세히 확인하세요!)
+*   **Midjourney 이미지 프롬프트:**
+    `A bright, energetic split-screen image or collage. On one side, a person relaxing in bed watching a portable smart TV (SamtanbyMe). On the other side, another person in a modern kitchen or living room enjoying content on a similar portable smart TV. Emphasize a convenient, flexible, and happy lifestyle. Vibrant, inviting colors. Isometric view, clean lines. --ar 1:1`
