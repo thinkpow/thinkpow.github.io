@@ -1,70 +1,72 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발!)
+## 도파민 폭발! 15초 스탠바이미 가성비 쇼츠/틱톡 대본
 
-**콘텐츠 제목:** "LG 스탠바이미 비싸서 포기했어? 💸 30만원대 '가성비 삼탠바이미' TOP 2 공개!"
+**[영상 컨셉]**
+빠른 전환, 강조되는 텍스트, 흥겨운 배경 음악, 역동적인 효과음. "비싸!"를 외치며 좌절하는 표정 → "놉!" 외치며 자신감 있는 표정 전환. 제품별 핵심 장점 빠르게 보여주기.
 
-**[0초 ~ 3초] - ⚡️ 시선 강탈 훅(Hook)!**
-*   **화면:** LG 스탠바이미의 멋진 모습 → 이내 가격표(높은 가격) 등장과 함께 좌절하는 표정의 사람 (BGM: 틱톡 유행하는 '돈 없어' 밈 같은 빠른 비트)
-*   **대사 (내레이션):** "스탠바이미 비싸서 포기했어? 🤬 잠깐! 이 영상 끝까지 보면 절대 후회 안 해!"
+**[시작 훅 (0~3초)]**
+*   **화면:** 비싼 스탠바이미 앞에서 좌절하는 표정 클로즈업 -> "스탠바이미 너무 비싸?!" 자막 팡! -> "🤯" 이모티콘 팡!
+*   **내레이션:** "스탠바이미 비싸서 못 샀지? 🤬"
+*   **배경음:** 둠칫둠칫 빠른 비트 시작, 효과음 '뾱!', '파바박!'
+*   **화면:** 빠르게 화면 전환, 자신감 있는 표정 -> "놉! 10년차 MD가 찾아왔다!" 자막 팡!
+*   **내레이션:** "10년차 MD가 알려주는 20만원대 삼탠바이미! 🤯 가성비 끝판왕 찐 추천템 지금 바로 공개!"
 
-**[3초 ~ 8초] - 💡 문제 해결 & 핵심 상품 1 소개**
-*   **화면:** 깔끔한 화이트 인테리어 속 '와이드뷰 삼탠바이미 화이트 에디션' 40인치 QLED 화면으로 넷플릭스 드라마 시청 모습 (가격: 371,070원 텍스트 강조)
-*   **대사 (내레이션):** "10년 차 MD가 엄선한 '가성비 삼탠바이미' 등장! 🤫 40인치 QLED 대화면인데 무려 30만원대? 이게 진짜라고?"
+**[본문 (3~13초)]**
+*   **화면 (3~7초):** '티비아울렛 구글 스마트 삼탠바이미' 제품 이미지/영상 빠르게 등장. 가격 "285,000원" 강조 텍스트. 넷플릭스, 유튜브 로고 아이콘 오버레이. 이동식 스탠드 사용 모습 연출.
+*   **내레이션:** "첫째, 💥20만원대 가성비 끝판왕! 티비아울렛 구글TV! 넷플릭스, 유튜브 다~ 된다고! 이동도 완전 자유!"
+*   **화면 (7~11초):** '와이드뷰 40인치 화이트 QLED 삼탠바이미' 제품 이미지/영상 등장. "40인치 대화면", "QLED", "화이트 디자인" 텍스트 강조. 인테리어에 어울리는 세련된 공간 연출.
+*   **내레이션:** "둘째, 💖 40인치 대화면 QLED! 와이드뷰 화이트 에디션! 화면은 크게, 인테리어는 예쁘게! 30만원대 후반에 이 퀄리티 실화?!"
+*   **화면 (11~13초):** LG 32인치, 와이드뷰 V3 40인치 제품 이미지 빠르게 스쳐 지나감. "믿고 쓰는 LG", "업그레이드 스탠드" 텍스트.
+*   **내레이션:** "LG 브랜드픽, 안정적인 V3 스탠드까지! 다양한 옵션은 블로그에서 확인해!"
 
-**[8초 ~ 13초] - ✨ 핵심 상품 2 및 추가 장점 어필**
-*   **화면:** '와이드뷰 삼탠바이미 V3'가 침실에서 거실로, 주방으로 부드럽게 이동하는 모습 (강화된 스탠드 강조), 넷플릭스/유튜브 로고
-*   **대사 (내레이션):** "넷플릭스, 유튜브 기본! 📺 어떤 공간이든 슥- 이동하는 스마트함까지! 오리지널보다 더 완벽한 가성비, 지금 바로 확인하세요!"
-
-**[13초 ~ 15초] - 🚀 강력한 Call to Action**
-*   **화면:** 두 제품 비교 이미지 또는 상세 정보 확인 페이지로 넘어가는 듯한 전환 효과 (프로필 링크 확인 유도 텍스트)
-*   **대사 (내레이션):** "자세한 정보는 프로필 링크에서 만나보세요! 🏃‍♀️💨"
+**[마무리 & CTA (13~15초)]**
+*   **화면:** '더 자세한 정보는 댓글/프로필 링크 클릭!' 자막 크게 띄우기. 엄지척, 하트 이모티콘.
+*   **내레이션:** "지갑은 지키고, 스마트한 라이프는 즐겨봐! ✨ 댓글 링크 클릭하고 지금 바로 GET!"
+*   **배경음:** 음악 점점 고조되며 '짠!' 하고 마무리.
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 인스타그램 카드뉴스 4컷 (텍스트 & 미드저니 프롬프트)
 
----
-
-### **[1/4컷] - 문제 제기 & 공감 형성**
+### 컷 1: 인트로 (훅)
 
 *   **카드 텍스트:**
-    "💸 LG 스탠바이미, 너무 비싸서 포기하셨나요?
-    갖고 싶지만 가격 때문에 망설였던 당신에게! 😥"
+    스탠바이미 비싸서 포기했어? 😭
+    ✨ 10년차 이커머스 MD가 엄선한 ✨
+    **가성비 끝판왕 '삼탠바이미' BEST 4**
+    지금 바로 공개! #스탠바이미 #가성비TV
+*   **미드저니 프롬프트:**
+    `A visually striking, high-energy image. A modern, minimalist living space with a large, stylized question mark icon floating above an expensive-looking movable smart TV. Dynamic typography for "Too expensive?" and "Affordable StandbyMe alternatives!" with bright, energetic colors like neon blue and pink against a clean white and grey background. Focus on luxury vs. affordability contrast, a sense of discovery and excitement. --ar 1:1 --v 5.2`
 
-*   **Midjourney 프롬프트 (영문):**
-    `A minimalistic modern living room with a sleek, expensive-looking portable smart TV on a stand. A disappointed person is looking at a blurred price tag in the foreground. Soft, warm lighting, elegant interior design, focused on expressing the feeling of "expensive and desired", --ar 1:1 --style raw --v 5.2`
-
----
-
-### **[2/4컷] - 해결책 제시 & 전문성 강조**
-
-*   **카드 텍스트:**
-    "걱정 마세요! 10년 차 MD가 직접 찾아낸
-    ✨압도적 '가성비 삼탠바이미'가 여기 있습니다! ✨"
-
-*   **Midjourney 프롬프트 (영문):**
-    `A professional female MD (Merchandise Director) with a confident smile, holding a clipboard with "TOP 2 Picks" written on it. Behind her, blurred images of various affordable portable smart TVs are visible. Bright, clean, professional office setting, digital product review vibe, --ar 1:1 --style raw --v 5.2`
-
----
-
-### **[3/4컷] - 메인 추천 상품 1 강조**
+### 컷 2: 메인 추천 1 (티비아울렛 구글 스마트 삼탠바이미)
 
 *   **카드 텍스트:**
-    "🏆 1위. 와이드뷰 삼탠바이미 화이트 에디션 (40인치 QLED)
-    ➡️ 30만원대에 40인치 대화면 + 스마트 OS + 세련된 화이트 디자인! 말.잇.못. 가성비!"
+    **💰 20만원대 가성비 끝판왕!**
+    **티비아울렛 구글 스마트 삼탠바이미**
+    ✅ 넷플릭스, 유튜브 구글TV OS 기본 탑재!
+    ✅ 어디든 OK! 이동형 스탠드 포함!
+    #티비아울렛 #구글TV #20만원대TV #이동식TV
+*   **미드저니 프롬프트:**
+    `A cozy and modern bedroom interior scene. A sleek, minimalist white movable smart TV stand with a 32-inch screen displaying the Google TV interface, prominently showing Netflix and YouTube logos. The TV is positioned near a comfortable bed with soft textiles. Soft, inviting warm light, emphasizing comfort and smart functionality. Clean, Scandinavian-style decor. --ar 1:1 --v 5.2`
 
-*   **Midjourney 프롬프트 (영문):**
-    `A pristine, modern white portable smart TV (40 inch QLED) with a very thin bezel, displaying a vibrant, high-definition movie scene. It is positioned in a chic, minimalist bedroom with soft, natural light. "BEST VALUE" and "40-inch QLED" text bubbles floating around, clean product photography style, --ar 1:1 --style raw --v 5.2`
-
----
-
-### **[4/4컷] - 메인 추천 상품 2 강조 & CTA**
+### 컷 3: 메인 추천 2 (와이드뷰 40인치 화이트 QLED 삼탠바이미)
 
 *   **카드 텍스트:**
-    "🏆 2위. 와이드뷰 삼탠바이미 V3 (40인치 QLED)
-    ➡️ 더 안정적인 V3 스탠드 + 압도적 40인치! 어느 공간이든 영화관으로!
-    💖 더 자세한 정보는 프로필 링크 클릭! 💖"
+    **💖 40인치 대화면 & 화이트 디자인!**
+    **와이드뷰 QLED 화이트 에디션 삼탠바이미**
+    ✅ 선명한 QLED 대화면으로 압도적 몰입감!
+    ✅ 인테리어 완성! 세련된 화이트 디자인!
+    #와이드뷰 #40인치TV #QLED #화이트TV #인테리어TV
+*   **미드저니 프롬프트:**
+    `A stylish, bright living room with large windows, featuring a prominent 40-inch white QLED smart movable TV. The screen displays vibrant, high-definition art or a beautiful landscape. The TV stand is elegant and white, seamlessly blending into a clean, modern interior with light wood accents and minimalist furniture. Abundant natural light, creating a serene and aesthetic atmosphere. --ar 1:1 --v 5.2`
 
-*   **Midjourney 프롬프트 (영문):**
-    `A dynamic scene showing a sleek, modern black portable smart TV (40 inch QLED) on an upgraded, sturdy movable stand. The TV is smoothly being wheeled from a contemporary living room into a stylish kitchen, with a slight motion blur to emphasize mobility. Focus on the improved stand design, sophisticated home interior, --ar 1:1 --style raw --v 5.2`
+### 컷 4: 추가 추천 & CTA
+
+*   **카드 텍스트:**
+    **[추가 추천] 당신의 니즈를 더 만족시킬!**
+    🔹 믿고 쓰는 LG 32인치 스마트 모니터
+    🔸 안정성 UP! 와이드뷰 V3 스탠드 40인치
+    **✨ 더 자세한 정보는 프로필 링크 클릭! ✨**
+*   **미드저니 프롬프트:**
+    `A clean, abstract graphic with subtle, elegant lines representing connectivity and movement in a tech-inspired style. On the left, a minimalist icon representing "LG brand trust" (e.g., stylized 'L' and 'G'). On the right, a stylized "V3 stand" icon suggesting stability and upgrade. In the center, a bold, inviting call to action: "Find Your Perfect Smart TV!" with a prominent arrow pointing towards a "Link in Bio" button. Modern, clean, and inviting design with a soft color palette. --ar 1:1 --v 5.2`
