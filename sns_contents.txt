@@ -1,84 +1,76 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
-
-### 🎬 도파민 폭발! 15초 숏폼 대본
+## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
 **[영상 컨셉]**
-빠른 화면 전환과 효과음으로 시선을 사로잡고, LG 스탠바이미의 가격 부담을 직접적으로 언급하며 공감대를 형성한 뒤, 가성비 대안들을 핵심 장점 위주로 빠르게 소개합니다.
-
-**[시각 효과 및 자막 가이드]**
-*   템포 빠른 배경 음악 (신나는 비트)
-*   중요 키워드 강조 자막 필수
-*   제품 등장 시 제품명 및 가격, 핵심 장점 자막으로 표기
+빠르게 전환되는 화면, 통통 튀는 배경음악. 스탠바이미의 높은 가격표와 좌절하는 모습 ➡️ 가성비 삼탠바이미를 발견하고 환호하는 모습으로 전환. 각 제품의 핵심 장점이 자막으로 짧게 지나감.
 
 ---
 
-**[0-3초] ⚡️ 훅 (Hook)**
-*   **화면:** (LG 스탠바이미 이미지에 큰 X표. 좌절하는 듯한 사람 이모티콘.)
-*   **대사:** "LG 스탠바이미 비싸서 포기하셨다고요? 놉! 이제 현실로 만들어 드릴게요!"
-*   **자막:** "💰스탠바이미 비싸?! ➡️ 현실 가능!"
+**[스크립트]**
 
-**[3-7초] 💡 티비아울렛 스마트 삼탠바이미 소개**
-*   **화면:** (티비아울렛 삼탠바이미 제품 이미지 등장. 넷플릭스/유튜브 화면 합성)
-*   **대사:** "20만원대 실화? 티비아울렛 삼탠바이미! Google TV로 넷플릭스, 유튜브 다~ 돼!"
-*   **자막:** "✅20만원대 최저가 ✅Google TV!"
+**(0-3초) 훅! (화면: 고급스러운 스탠바이미 가격표가 나오고, "헉!" 하며 좌절하는 표정의 사람 클로즈업)**
+**나레이션 (빠르고 경쾌하게):** "스탠바이미 비싸서 포기했어? 🙅‍♀️ 그럼 딱 3초만 집중!"
 
-**[7-11초] 🛋️ 무빙큐빅스 32인치 방문설치 소개**
-*   **화면:** (무빙큐빅스 32인치 삼탠바이미 제품 이미지 등장. 설치 기사가 조립하는 모습 연출)
-*   **대사:** "32인치 대화면에, 전문가 방문 설치까지? 조립 걱정 끝! 무빙큐빅스!"
-*   **자막:** "✨32인치 대화면 ✨방문설치!"
+**(3-7초) 문제 제기 및 솔루션 제시 (화면: 스탠바이미 로망을 꿈꾸는 사람의 다양한 모습 (침대, 주방 등)과 함께 '가성비 삼탠바이미'라는 글자 등장)**
+**나레이션:** "이거 하나면 20만원대로 내 로망 무빙 TV 현실로! 진짜 '가성비 끝판왕' 삼탠바이미를 소개할게!"
 
-**[11-15초] 🚀 클로징 및 CTA**
-*   **화면:** (다양한 삼탠바이미 제품 4개가 빠르게 전환되며 등장, '가성비 끝판왕' 문구)
-*   **대사:** "LG 스탠바이미 대안 TOP 4! 더 자세한 정보는 프로필 링크에서 지금 바로 확인하세요!"
-*   **자막:** "👀가성비 삼탠바이미 TOP 4 비교! ➡️ 프로필 링크 GO!"
+**(7-12초) 핵심 제품 2가지 소개 (화면: 각 제품 이미지 빠르게 전환, 핵심 장점 자막으로 강조)**
+**나레이션:** "첫째, 20만원대 '티비아울렛 삼탠바이미'! 구글 TV에 이동 스탠드까지 완벽!"
+**나레이션:** "둘째, 40인치 QLED 대화면에 화이트 감성 '와이드뷰 삼탠바이미'도 30만원대 후반이야!"
+
+**(12-15초) 마무리 및 CTA (화면: 행복하게 삼탠바이미를 즐기는 사람의 모습, "프로필 링크" 강조)**
+**나레이션:** "이제 더 이상 망설이지 마! 내 로망 TV, 지금 바로 프로필 링크에서 만나봐! 🔗"
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
-
-### 🎨 인스타그램 카드뉴스 (4컷) 및 Midjourney 프롬프트
+## 📸 인스타그램 카드뉴스 (4컷)
 
 ---
 
-**[1/4컷]**
-*   **텍스트:** "LG 스탠바이미, 비싸서 망설였다면? 😥"
-*   **설명:** 스탠바이미를 갖고 싶지만 가격 때문에 고민하는 사용자들의 공감을 얻는 훅.
-*   **Midjourney 프롬프트:**
-    ```
-    A person sitting on a modern sofa in a cozy living room, looking wistfully at a blurred, stylish portable smart TV in the distance. A thought bubble above their head shows dollar signs and a question mark. The atmosphere is warm and inviting but with a hint of longing. Cinematic, soft focus, depth of field, --ar 1:1 --v 5.2
-    ```
+### **[1컷]**
+
+**텍스트:**
+스탠바이미 💰 비싸서 망설였다면?
+20만원대부터 만나는 #가성비삼탠바이미 ✨
+
+**Midjourney 프롬프트:**
+"A luxurious and sleek portable smart TV on a stylish stand, with a blurred background showing a modern, cozy apartment. The TV screen is glowing with vibrant, appealing content, but a subtle question mark or price tag icon hovers near it. Emphasize aspirational lifestyle and a smart, affordable choice. Cinematic lighting, soft shadows, highly detailed, photorealistic. --ar 1:1 --style raw --v 5.2"
 
 ---
 
-**[2/4컷]**
-*   **텍스트:** "💰 20만원대 실화? 티비아울렛 구글TV 삼탠바이미!"
-*   **서브 텍스트:** "최저가 & 구글TV로 모든 OTT OK! 가성비 끝판왕!"
-*   **설명:** 압도적인 가격 경쟁력과 스마트 기능을 강조한 첫 번째 추천 제품.
-*   **Midjourney 프롬프트:**
-    ```
-    A sleek, minimalist portable smart TV displaying the Netflix logo prominently, surrounded by a shower of sparkling coins and a big "SALE" tag. A happy, surprised person's hand reaches out towards it. The background is a clean, modern interior. Vibrant colors, clean design, concept art, high detail, --ar 1:1 --v 5.2
-    ```
+### **[2컷]**
+
+**텍스트:**
+**✨ 가성비 끝판왕! 20만원대 '티비아울렛 삼탠바이미'**
+✅ 20만원대 파격가!
+✅ 압도적 구글TV OS 탑재
+✅ 완벽한 이동 무빙 스탠드
+
+**Midjourney 프롬프트:**
+"A modern, black-colored portable smart TV with a clear Google TV interface displayed on its screen, showing app icons like YouTube and Netflix. A young person is comfortably using the TV in a cozy bedroom setting, perhaps on a bed or beanbag, with the TV easily moved close to them on its stand. Emphasize ease of use and smart features. Warm, inviting lighting, soft focus on background. Photorealistic, detailed. --ar 1:1 --style raw --v 5.2"
 
 ---
 
-**[3/4컷]**
-*   **텍스트:** "✨ 32인치 대화면에 방문설치까지! 무빙큐빅스 32인치 삼탠바이미"
-*   **서브 텍스트:** "조립 걱정 NO! 전문가가 직접 설치해주니 바로 즐겨요!"
-*   **설명:** 넉넉한 화면 크기와 편리한 방문 설치 서비스를 강조한 두 번째 추천 제품.
-*   **Midjourney 프롬프트:**
-    ```
-    A professional technician wearing a clean uniform, smiling while expertly setting up a large 32-inch portable smart TV on a stand in a bright, stylish bedroom. A delighted customer watches from the side, looking relieved. Focus on convenience and seamless setup. Clean aesthetic, warm lighting, --ar 1:1 --v 5.2
-    ```
+### **[3컷]**
+
+**텍스트:**
+**🎨 대화면 + 화질 + 디자인! 40인치 QLED '와이드뷰 삼탠바이미'**
+✅ 40인치 QLED 대화면
+✅ 세련된 화이트 에디션 디자인
+✅ 압도적인 몰입감 (OTT 최적화)
+
+**Midjourney 프롬프트:**
+"A large 40-inch portable smart TV with a vibrant QLED display showcasing breathtaking, high-definition natural scenery or a cinematic movie scene. The TV itself is a stylish white edition, fitting seamlessly into a minimalist, modern living room with bright, natural light. Emphasize stunning visual quality and elegant design. Photorealistic, rich colors, intricate details. --ar 1:1 --style raw --v 5.2"
 
 ---
 
-**[4/4컷]**
-*   **텍스트:** "나에게 딱 맞는 스탠바이미 대안은? 🤔 (TOP 4 전체 비교)"
-*   **서브 텍스트:** "가격, 크기, 설치 방식까지! 프로필 링크에서 지금 바로 확인!"
-*   **설명:** 모든 추천 제품을 아우르며, 더 자세한 정보는 링크를 통해 확인하라는 CTA.
-*   **Midjourney 프롬프트:**
-    ```
-    A vibrant collage of different scenes showing people enjoying portable smart TVs (SamtanbyME) in various settings: one person relaxing in bed, another cooking in a modern kitchen, another on a cozy balcony, and one in a stylish living room. Each TV shows different content. The overall feeling is one of versatility, choice, and convenience. Bright, inviting, dynamic composition, --ar 1:1 --v 5.2
-    ```
+### **[4컷]**
+
+**텍스트:**
+**내 로망 무빙 TV, 이젠 현실로!**
+내게 딱 맞는 가성비 삼탠바이미,
+지금 바로 프로필 링크에서 만나보세요! ➡️
+
+**Midjourney 프롬프트:**
+"A dynamic montage or split-screen image showing a happy person enjoying a portable smart TV in three different, cozy home settings: watching a comedy in bed, following a cooking tutorial in a modern kitchen, and doing a workout in a bright living room. The TV is subtly present in each scene, symbolizing freedom and versatility. Happy, relaxed expressions. Bright, inviting colors, soft focus. Photorealistic, editorial style. --ar 1:1 --style raw --v 5.2"
