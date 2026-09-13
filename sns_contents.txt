@@ -1,97 +1,64 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발 훅!)
+## 🚀 도파민 폭발 15초 스탠바이미 가성비 쇼츠/틱톡 대본
 
-**[영상 컨셉]**
-스탠바이미의 로망은 있지만 가격 때문에 망설였던 시청자에게 "가성비 삼탠바이미"라는 해결책을 제시하며, 핵심 제품 2가지의 매력을 짧고 강력하게 어필합니다. 빠르게 전환되는 화면과 텍스트 오버레이로 시선 집중!
+**[제목]:** 😡 LG 스탠바이미 비싸서 못 샀다고? 20만원대 '이거'면 끝!
 
----
-
-**[스크립트]**
-
-**(0-3초) ⚡️훅!⚡️ 시선 강탈 구간**
-*   **화면:** (빠른 전환) 화려하고 비싸 보이는 '스탠바이미' 앞에서 가격표 보고 절망하는 표정 ➡️ 갑자기 눈이 휘둥그레지는 표정!
-*   **대사:** "스탠바이미? 😲 갖고는 싶은데 가격이 미쳤다고? (한숨) 놉! 🙅‍♀️"
-*   **BGM:** 쿵! 하는 효과음과 함께 반전 분위기 전환
-
-**(3-8초) 문제 제기 & 솔루션 제시**
-*   **화면:** (빠르게 전환) 침실, 거실, 주방 등 다양한 공간에서 자유롭게 이동식 TV를 사용하는 모습 (만족스러운 표정)
-*   **대사:** "이제 '가성비 삼탠바이미'로 침실, 거실, 주방 어디든 나만의 영화관 만들자!"
-*   **텍스트 오버레이:** ✨ 가성비 삼탠바이미 떴다! ✨
-
-**(8-12초) 1번 상품 강조 (가격 경쟁력)**
-*   **화면:** '티비아울렛 구글 스마트 삼탠바이미' 제품 컷 + 구글TV UI (넷플릭스, 유튜브 로고 강조)
-*   **대사:** "20만원대? 😱 구글TV까지? '티비아울렛'은 가격깡패! OTT 무한 시청 가넝~"
-*   **텍스트 오버레이:** 💰20만원대! 💰구글TV 기본!
-
-**(12-15초) 2번 상품 강조 (화질/이동성) & CTA**
-*   **화면:** '무빙큐빅스 24인치 삼탠바이미' 제품 컷 (배터리로 전원선 없이 이동하는 모습) + QLED 선명한 화면 강조
-*   **대사:** "조금 더? QLED+무선 배터리 '무빙큐빅스 24인치'는 진짜배기! 🛒 지금 바로 프로필 링크 클릭!"
-*   **텍스트 오버레이:** 🔋QLED+무선! 🛒프로필 링크 클릭!
-*   **BGM:** 경쾌하고 신나는 마무리
+**[영상 시작 효과음]:** ✨반짝이는 효과음 또는 ⚡️번개 치는 효과음
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+**[0-3초] 훅! 시선 강탈!**
+*   **화면:** 슬픈 표정의 사람이 LG 스탠바이미 비싼 가격표를 바라보고 한숨 쉬는 모습 → 갑자기 화면 전환! 밝고 경쾌한 음악 시작!
+*   **대사:** "LG 스탠바이미... 비싸서 망설였다고? 😡"
+*   **대사:** "그럼 이거 봐! 💥 20만원대 '삼탠바이미'가 나타났다!" (자막: #삼탠바이미 #가성비스탠바이미)
 
-**[공통사항]**
-*   **타겟:** 스탠바이미 구매를 고려하지만 가격에 부담을 느끼는 2030세대
-*   **톤앤매너:** 친근하고 정보성 높지만 트렌디한 느낌, 빠른 이해를 돕는 간결한 메시지
-*   **CTA:** 마지막 컷에 명확한 구매 유도 문구와 링크 안내
+**[3-7초] 1번 상품 집중!**
+*   **화면:** 티비아울렛 삼탠바이미 제품 클로즈업, 넷플릭스/유튜브 화면 전환. 침대 옆, 주방에서 편하게 보는 모습.
+*   **대사:** "넷플릭스, 유튜브 바로 되는 스마트 구글TV가 20만원대? 😲"
+*   **대사:** "압도적 가성비! 티비아울렛 스마트 구글TV 삼탠바이미!"
+
+**[7-11초] 2번 상품 집중!**
+*   **화면:** 무빙큐빅스 삼탠바이미 제품, 전문가가 집에서 설치해주는 모습. 깔끔하게 세팅된 방에서 편리하게 사용하는 모습.
+*   **대사:** "난 설치 귀찮아! 기계치라고? 🛠️"
+*   **대사:** "그럼 전문가가 직접 방문 설치 해주는 무빙큐빅스 삼탠바이미가 딱!"
+
+**[11-13초] 핵심 장점 요약!**
+*   **화면:** 거실, 주방, 베란다 등 다양한 공간에서 삼탠바이미 활용하는 모습 빠르게 전환. 즐거워하는 사람들.
+*   **대사:** "어디든 옮겨 다니면서 즐기는 나만의 스마트 TV! ✨"
+
+**[13-15초] 강력한 마무리 & CTA!**
+*   **화면:** 두 제품 나란히 비교하며 '가성비 끝판왕' 자막 강조. 화면 하단에 '링크 확인' 화살표.
+*   **대사:** "LG 스탠바이미 이젠 안 부러워! 가성비 삼탠바이미, 지금 바로 GET 해봐! ➡️ (프로필 링크) 확인!"
 
 ---
 
-### **▪️ 1컷**
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-*   **텍스트:**
-    스탠바이미 사고 싶었지만
-    가격에 좌절했다면? 😫
-    ⠀
-    걱정 마세요!
-    '가성비 삼탠바이미'로
-    당신의 로망을 이뤄줄게요! ✨
-*   **Midjourney 프롬프트:**
-    A stylish, modern living room with a blurred, expensive-looking mobile TV in the background. In the foreground, a young person looks at a phone with a slightly disappointed expression, then a hopeful, excited smile appears on their face as they look towards the camera. Soft natural light, cozy atmosphere, cinematic, 4k, --ar 4:5
+---
 
-### **▪️ 2컷**
+### **카드뉴스 1컷**
 
-*   **텍스트:**
-    ✨ 압도적 가성비 끝판왕! ✨
-    티비아울렛 구글 스마트 삼탠바이미
-    ⠀
-    ✅ 20만원대 가격
-    ✅ 최신 구글 스마트TV 탑재
-    ✅ 침실/거실/주방 어디든 이동!
-    ⠀
-    (쿠팡 최저가 285,000원)
-*   **Midjourney 프롬프트:**
-    A bright, minimalist bedroom with a large window. On a sleek, white mobile TV stand, a smart TV displays a vibrant Google TV interface with Netflix and YouTube logos clearly visible. The TV is positioned next to a comfortable, neatly made bed. Modern, clean aesthetic, emphasizing affordability and smart features, soft light, 4k, --ar 4:5
+*   **텍스트:** 😥 스탠바이미 비싸서 포기했어? 이제 20만원대 '삼탠바이미'로 스마트 라이프 시작!
+*   **Midjourney Prompt:** `A young person looking disappointed and frustrated while looking at an expensive price tag of a popular portable TV, then a sudden, dynamic shift to a bright, cheerful scene with a stylish, affordable portable smart TV in a cozy modern living room. The mood transitions from sadness to joy and excitement. Vibrant, high contrast, cinematic lighting, --ar 1:1`
 
-### **▪️ 3컷**
+---
 
-*   **텍스트:**
-    🔋 화질과 이동성을 동시에! 🎨
-    무빙큐빅스 삼탠바이미 24인치
-    (배터리/QLED)
-    ⠀
-    ✅ QLED 선명한 화질
-    ✅ 에어 배터리 내장 (무선 이동!)
-    ✅ 세련된 화이트 디자인
-    ⠀
-    (쿠팡 최저가 399,000원)
-*   **Midjourney 프롬프트:**
-    A cozy, sunlit living room corner with a stylish armchair and a small side table. A 24-inch white mobile TV with a vibrant QLED screen is showing a high-quality, colorful movie scene. The TV is wirelessly positioned without visible cables, highlighting its battery mobility. Modern, sophisticated, inviting, 4k, --ar 4:5
+### **카드뉴스 2컷**
 
-### **▪️ 4컷**
+*   **텍스트:** 💰 20만원대! 티비아울렛 스마트 구글TV 삼탠바이미. 넷플릭스, 유튜브 바로! 침대 옆, 주방 어디든 OK!
+*   **Midjourney Prompt:** `A sleek, modern portable smart Google TV (similar to LG StandbyMe but an alternative brand) showing Netflix, placed next to a bed in a cozy, minimalist bedroom with warm, soft lighting. A person is comfortably watching on the bed, smiling. The TV is the focal point, emphasizing its smart features and portability. Bright, clean aesthetic, product photography style, --ar 1:1`
 
-*   **텍스트:**
-    나만의 스마트 이동식 TV로
-    삶의 질 UP! 📈
-    ⠀
-    당신의 라이프스타일에 딱 맞는
-    '가성비 삼탠바이미'는?
-    ⠀
-    지금 바로 프로필 링크에서
-    자세히 확인하세요! 🛒
-*   **Midjourney 프롬프트:**
-    A person (gender ambiguous) with a happy, relaxed expression, comfortably lounging on a stylish sofa, enjoying content on a sleek, mobile smart TV in a modern, well-decorated home. The atmosphere is warm, joyful, and conveys improved quality of life. Subtle e-commerce elements like a small shopping cart icon in the corner, soft natural light, high-end feel, 4k, --ar 4:5
+---
+
+### **카드뉴스 3컷**
+
+*   **텍스트:** 🛠️ 설치는 전문가에게! 무빙큐빅스 스마트 삼탠바이미. 기계치도 걱정 끝! 32인치 스마트TV를 편하게!
+*   **Midjourney Prompt:** `A professional technician (wearing a neat uniform) carefully installing a 32-inch portable smart TV (SamtenbyMe style) in a bright, modern living room. The user, looking relaxed and satisfied, is observing the installation from a comfortable sofa. Emphasize convenience, ease of use, and professional service. Clean, minimalist, and professional aesthetic, --ar 1:1`
+
+---
+
+### **카드뉴스 4컷**
+
+*   **텍스트:** 💡 LG 스탠바이미 부럽지 않아! 가성비 삼탠바이미로 나만의 스마트 공간을 만들어요! ✨ 더 많은 정보는 프로필 링크에서!
+*   **Midjourney Prompt:** `A happy person actively using a portable smart TV (SamtenbyMe style) in a bright, versatile space, such as a stylish home office or a sunlit balcony. The TV screen displays vibrant, engaging content. The overall mood is joyful, empowered, and modern. A subtle, elegant graphic element indicating "Link in Bio" is integrated into the scene. Modern, minimalist, cinematic, --ar 1:1`
