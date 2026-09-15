@@ -1,43 +1,84 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🎥 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 💥 스탠바이미 비싸서 포기했니? 20만원대 '갓성비 삼탠바이미'로 로망 실현! 💥
+**제목:** 💥 LG 스탠바이미 너무 비싸다고? 20만원대 '가성비 삼탠바이미' MD 추천템!
 
-**(0-3초) 훅 - 시선 강탈!**
-*   **화면:** (빠르게 전환) LG 스탠바이미 광고 영상 → 이어서 비싼 가격표 클로즈업 → 'X'표시 나타나며 실망한 표정의 사람
-*   **나레이션:** "스탠바이미 사고 싶어? 근데 가격보고 심장이 쿵 내려앉았지?" (빠르게, 공감 유발)
+**영상 컨셉:** 빠르고 경쾌한 배경음악, 자막과 이모티콘 적극 활용. MD가 직접 설명하는 듯한 톤앤매너.
 
-**(3-7초) 문제 제기 및 솔루션 제시**
-*   **화면:** 'X'표시 사라지고 '삼탠바이미' 로고 등장. 침실, 주방, 거실 등 다양한 공간에서 자유롭게 이동하며 사용되는 '삼탠바이미' 모습 빠르게 편집.
-*   **나레이션:** "이제 한숨 그만! MD가 찾아낸 '갓성비 삼탠바이미'로 당신의 로망을 현실로 만들어 줄게!"
+---
 
-**(7-12초) 핵심 상품 2가지 강력 어필**
-*   **화면:**
-    *   (7-9초) 첫 번째 상품 '티비아울렛 스마트 구글 TV' 이미지/활용 영상. 넷플릭스 로고, 유튜브 로고 빠르게 지나감.
-    *   (9-12초) 두 번째 상품 '와이드뷰 화이트 QLED 삼탠바이미' 이미지/활용 영상. 세련된 화이트 인테리어 배경.
-*   **나레이션:** "20만원대 구글TV 삼탠바이미? 넷플릭스 유튜브 다 돼! (놀란 표정) / 아니면, 40인치 화이트 QLED는? 화질 끝판왕에 인테리어까지 예뻐져!" (흥분된 목소리)
+**[시작 0-3초] 훅(Hook) - 시선 강탈!**
+*   **화면:** (깜짝 놀란 표정, 손으로 입 가리는 제스처) "LG 스탠바이미? 너무 비싸서 고민만 한다고?!" 💸
+*   **음향:** 과장된 '헉!' 소리 또는 동전 떨어지는 소리 효과
 
-**(12-15초) 마무리 & 강력 CTA**
-*   **화면:** 모든 추천 상품 썸네일이 한 화면에 모이고, "지금 바로 확인!" 문구와 함께 프로필 링크 강조.
-*   **나레이션:** "더 이상 망설이지 마! 지금 바로 프로필 링크에서 이 놀라운 혜택들을 확인해봐! 품절 임박!"
+**[3-7초] 문제 제시 & 해결책 암시**
+*   **화면:** (결의에 찬 표정) "걱정 마! 현직 MD가 스탠바이미 감성은 그대로, 가격은 반값인 '삼탠바이미' 딱 2개 가져왔어!" 💪
+*   **대사:** "걱정 마! 현직 MD가 스탠바이미 감성은 그대로, 가격은 반값인 '삼탠바이미' 딱 2개 가져왔어!"
+
+**[7-11초] 메인 추천 1 - 가성비 끝판왕**
+*   **화면:** (제품 이미지 전환: '티비아울렛 스마트 구글 TV 삼탠바이미') ➡️ 가격 '285,000원' 강조! ➡️ 구글 TV 인터페이스(넷플릭스, 유튜브 아이콘) 크게 보여주기.
+*   **대사:** "첫 번째! 💥 20만원대 실화? 구글 TV까지 되는 가성비 끝판왕! 넷플릭스, 유튜브 다 돼!"
+
+**[11-14초] 메인 추천 2 - 프리미엄 가성비**
+*   **화면:** (제품 이미지 전환: '와이드뷰 40인치 QLED 화이트에디션 삼탠바이미') ➡️ 40인치 화면 크기, QLED 화질 강조 ➡️ 깔끔한 화이트 디자인 보여주기.
+*   **대사:** "두 번째! ✨ 40인치 대화면 QLED 고화질에 깔끔한 화이트 디자인까지! 이거 완전 프리미엄 가성비잖아?"
+
+**[14-15초] 클로징 & CTA**
+*   **화면:** (MD가 손가락으로 위/오른쪽 등 링크 방향 가리키며) "고민은 배송만 늦출 뿐! 자세한 정보는 프로필 링크 클릭! 지금 바로 확인해봐!" 👆
+*   **음향:** 효과음 (반짝이거나 전환되는)
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
-### **✨ 1컷**
-*   **텍스트:** 😱 스탠바이미 가격보고 놀랐다면? '갓성비 삼탠바이미'가 정답! ✨ 이동식 스마트TV, 이젠 부담없이 즐기세요!
-*   **Midjourney 프롬프트:** `A dazzling, futuristic living room with a glowing "X" mark over an expensive-looking premium movable TV on the left. On the right, a more accessible, sleek, modern movable smart TV concept (named "Samtanby Me") is showcased, emitting a warm, inviting glow. Soft ambient lighting, high contrast, cinematic, volumetric light, side-by-side comparison. --ar 1:1 --v 5.2`
+---
 
-### **✨ 2컷**
-*   **텍스트:** 📺 MD's Pick 1. 20만원대 구글TV 삼탠바이미! 넷플릭스, 유튜브 다 되는 스마트함에 가격까지 미쳤다! 🤯 (티비아울렛 스마트 구글 TV)
-*   **Midjourney 프롬프트:** `A cozy, modern bedroom scene with a person comfortably lounging on a bed. A minimalist, sleek movable smart TV on a stand (named "Google TV Samtanby Me") is showing Netflix content, glowing softly. A remote control is on the bedside table. Warm, inviting lighting, soft focus, hygge style, ultra wide shot. --ar 1:1 --v 5.2`
+**⚡️ 1컷: 도입 (문제 제기 & 솔루션)**
 
-### **✨ 3컷**
-*   **텍스트:** 💖 MD's Pick 2. 40인치 화이트 QLED 삼탠바이미! 선명한 QLED 화질에 화이트 디자인으로 인테리어까지 UP! 🎨 (와이드뷰 FHD QLED 화이트에디션)
-*   **Midjourney 프롬프트:** `A bright, elegant Scandinavian-style living room or kitchen. A beautiful, pristine white 40-inch movable smart TV with a vibrant QLED screen displaying high-definition art or a serene landscape. The TV seamlessly blends into the chic, minimalist interior design. Natural light, clean lines, aesthetically pleasing. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    LG 스탠바이미 갖고 싶지만…
+    비싼 가격에 고민만 한다고? 😥
+    ✨ 현직 MD가 찾은
+    '가성비 삼탠바이미' BEST 4!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish, minimalist living room with a person looking longingly at an expensive LG StandbyMe, while a shimmering, more affordable "SamtanbyMe" alternative appears next to them. The room is modern and clean, with soft, natural light. Cinematic, photo-realistic, high resolution. --ar 1:1`
 
-### **✨ 4컷**
-*   **텍스트:** 스탠바이미 로망, 삼탠바이미로 현실이 된다! ✨ 현명한 당신을 위한 최고의 선택. 지금 바로 프로필 링크에서 혜택을 확인하세요! (추가 추천 상품도 있어요!)
-*   **Midjourney 프롬프트:** `A dynamic collage or mosaic of three separate scenes: a person watching a movable TV in bed, another person cooking while watching TV in a modern kitchen, and a family enjoying a movie night with a movable TV in a cozy living room. The overall composition should be bright, optimistic, and emphasize versatility and joy. --ar 1:1 --v 5.2`
+---
+
+**💰 2컷: MD 추천 1 (가성비 끝판왕)**
+
+*   **텍스트:**
+    **1. 티비아울렛 구글TV 삼탠바이미**
+    💥 20만원대 실화? 가성비 끝판왕!
+    ✅ **압도적인 최저가** 28.5만원!
+    ✅ **Google TV OS** 넷플릭스, 유튜브 기본!
+    ✅ **스마트폰처럼 편리한** 사용성!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A modern, cozy room with a "TV Outlet Smart Google TV SamtanbyMe" in the foreground. The TV screen clearly displays the Google TV interface with Netflix and YouTube icons. A hand holds a remote control, with a happy, relaxed person blurred in the background on a sofa. Bright, clean aesthetic, emphasizing smart features and value. Photo realistic, highly detailed. --ar 1:1`
+
+---
+
+**✨ 3컷: MD 추천 2 (프리미엄 가성비)**
+
+*   **텍스트:**
+    **2. 와이드뷰 40인치 QLED 화이트 삼탠바이미**
+    ✨ 40인치 대화면 QLED 고화질!
+    ✅ **40인치 대화면 + QLED** 압도적인 몰입감!
+    ✅ **인테리어 완성!** 깔끔한 화이트 에디션
+    ✅ **30만원대** 프리미엄 가성비!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A beautifully designed, minimalist bedroom with a 40-inch "Wideview FHD QLED White Edition Classic SamtanbyMe" on a sleek white stand. The screen shows a vibrant, high-definition nature scene. The room has a bright, airy atmosphere with aesthetic white and natural wood elements. Focus on the large screen, QLED quality, and elegant white design. Cinematic, high resolution. --ar 1:1`
+
+---
+
+**🛒 4컷: 클로징 (추천 & CTA)**
+
+*   **텍스트:**
+    더 이상의 고민은 끝!
+    현명한 당신의 선택은?
+    지금 바로 프로필 링크에서
+    MD 추천 '삼탠바이미' 보러가기!
+    #가성비삼탠바이미 #이동식TV #스탠바이미대안
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A vibrant and energetic collage-style image showing various modern home settings (e.g., a person cooking with the TV in the kitchen, someone working out with the TV, a couple watching a movie in the living room) with different "SamtanbyMe" TVs seamlessly integrated. Dynamic, inspiring, clean graphic design with space for text overlay. Bright, inviting colors, highly detailed. --ar 1:1`
