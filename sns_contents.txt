@@ -1,91 +1,54 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## ✨ 도파민 폭발! 스탠바이미 가성비 끝판왕 15초 숏폼 대본
+## 🚀 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-**[제목]:** 스탠바이미 비싸서 못 샀지? 😩 20만원대에 이동식 스마트TV가 있다고?!
+**(영상 시작: 밝고 경쾌한 배경음악, 시계 초침 빠르게 돌리는 소리, 화면에 100만원대 스탠바이미 가격표가 잠시 보이다가 큰 X표로 지워지고 '20만원대' 문구가 깜빡임)**
 
-**[영상 길이]:** 15초
-**[타겟 플랫폼]:** 유튜브 쇼츠, 틱톡
-
----
-
-**[스크립트]**
-
-*   **0-3초 (훅! 시선 강탈!)**
-    *   **화면:** (빠른 템포) 고급스러운 스탠바이미 광고 영상이 잠시 스쳐 지나가고, 이내 화면이 전환되며 한숨 쉬는 듯한 표정의 인물 클로즈업. 텍스트 오버레이: "스탠바이미... 비싸서 망설였다고? 😩"
-    *   **나레이션 (경쾌하고 놀란 톤):** "스탠바이미 비싸서 못 샀지? 😩"
-    *   (화면 급 전환: 핑크&화이트의 감각적인 이동식 TV가 거실, 침실, 주방 등 다양한 공간에서 자유롭게 움직이는 모습. 배경 음악 전환 - 신나고 트렌디한 비트)
-    *   **나레이션:** "근데 20만원대에 이동식 스마트TV가 있다고?! 실화냐?!"
-
-*   **3-8초 (가성비 끝판왕 소개 - 프리토스)**
-    *   **화면:** 프리토스 43인치 핑크&화이트 삼탠바이미가 침대 옆에 놓여있고, 화면에서는 넷플릭스 영화가 재생 중. 사용자가 리모컨으로 조작하며 편안하게 시청하는 모습.
-    *   **나레이션:** "영화관이 내 방으로! 10년차 MD가 찾아낸 가성비 끝판왕! #프리토스 삼탠바이미!"
-    *   **자막:** "✨ 43인치 대화면 20만원대! / 구글 OS / 핑크&화이트 디자인 / 완벽 이동성!"
-    *   **나레이션:** "43인치 대화면에 구글OS까지! 감각적인 핑크&화이트 디자인은 덤!"
-
-*   **8-13초 (화질 끝판왕 소개 - 와이드뷰)**
-    *   **화면:** 와이드뷰 40인치 QLED 화이트 에디션이 주방이나 모던한 거실에 세팅되어 있고, 화면에는 선명하고 다채로운 색감의 자연 다큐멘터리나 게임 영상이 재생 중. QLED 화질이 돋보이는 연출.
-    *   **나레이션:** "더 선명한 화질을 원하면? #와이드뷰 QLED 40인치! 화이트 디자인까지 완벽!"
-    *   **자막:** "💎 QLED 선명한 화질! / 40인치 화면 / 세련된 화이트 / 이동형 스탠드!"
-
-*   **13-15초 (클로징 및 CTA)**
-    *   **화면:** 프리토스와 와이드뷰 두 제품이 나란히 놓여있거나, 다양한 활용 장면이 빠르게 교차하며 프로필 링크를 강조하는 화면.
-    *   **나레이션:** "나도 이제 누워서 넷플릭스 본다! 더 많은 정보는 프로필 링크에서!"
-    *   **자막:** "지금 바로 프로필 링크 클릭! 👆 #스탠바이미대체 #가성비TV"
+*   **내레이션 (밝고 빠르게, 에너지를 담아)**
+    *   **0-3초 (훅):** "스탠바이미, 비싸서 맨날 눈팅만 했다고요? 💥 잠깐! 100만원 넘게 주고 사는 사람 손? 제가 20만원대로 해결해 드릴게요!"
+    *   **3-6초:** "10년차 MD가 발품 팔아 찾은 '가성비 삼탠바이미' 끝판왕! 지금 바로 공개합니다!"
+    *   **6-9초 (프리토스 비주얼: 핑크&화이트 43인치 TV가 침실이나 거실에서 활짝 켜져있는 모습):** "첫 번째! ✨ 압도적 가성비 '프리토스 43인치 구글TV'! 20만원대에 43인치 대화면? 게다가 핑크&화이트로 인테리어까지 완벽!"
+    *   **9-12초 (와이드뷰 비주얼: 화이트 QLED TV가 선명한 화질을 뽐내며 깔끔한 공간에 있는 모습):** "두 번째! 💎 화질 끝판왕 '와이드뷰 40인치 QLED'! 선명한 QLED 화질에 고급스러운 화이트 디자인까지 놓칠 수 없죠?"
+    *   **12-15초 (CTA 비주얼: 두 제품의 장점을 보여주는 짧은 몽타주 후 '더 자세한 정보는 프로필 링크 클릭!' 문구):** "침실, 주방, 어디든 이동하며 즐기는 스마트TV! 더 자세한 정보는 댓글/프로필 링크 확인하세요! 놓치지 마세요!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+## 📸 인스타그램 카드뉴스 4컷
 
----
+**[카드뉴스 1/4]**
 
-### **[카드 1/4] - 훅! 스탠바이미 고민? 이젠 가성비로 즐겨!**
-
-*   **카드 텍스트:**
-    **스탠바이미... 비싸서 망설였다고? 😩**
-    **10년차 MD가 찾은 '가성비 끝판왕' 이동식 스마트TV 4가지!**
-    내 방 영화관, 주방 레시피 보조, 캠핑까지!
-    #스탠바이미가성비 #이동식TV #스마트TV추천
+*   **텍스트:**
+    스탠바이미, 너무 비싸서 포기했다고? 🤯
+    ✨ 100만원대 VS 20만원대 ✨
+    MD가 찾은 '가성비 삼탠바이미' 끝판왕!
 *   **Midjourney 프롬프트:**
-    `A modern, minimalist interior setting with a person looking slightly frustrated, holding a phone displaying a high price tag. Behind them, a blurred vision of a sleek, portable smart TV. The overall mood is hopeful and solution-oriented, with soft lighting and clean lines. --ar 1:1 --v 5.2`
+    `A stylish, minimalist portable smart TV (resembling a popular movable TV brand) with a price tag of "1,200,000 KRW" boldly crossed out. In the foreground, a glowing, more affordable portable smart TV with a vibrant "284,000 KRW" price tag. The scene is set in a modern, aspirational living space. Dynamic, contrasting lighting, inviting atmosphere, sharp focus. --ar 1:1 --v 5.2`
 
----
+**[카드뉴스 2/4]**
 
-### **[카드 2/4] - 20만원대 43인치! 가성비 혁명, 프리토스 삼탠바이미**
-
-*   **카드 텍스트:**
-    **✨ 20만원대 43인치! 가성비 끝판왕 #프리토스 삼탠바이미**
-    ✔️ **압도적 가성비:** 43인치 대화면을 20만원대 후반에!
-    ✔️ **스마트한 구글 OS:** 넷플릭스, 유튜브 바로 즐겨!
-    ✔️ **감각적인 핑크&화이트:** 인테리어 포인트까지!
-    **(자세히 보기는 프로필 링크 클릭!)**
+*   **텍스트:**
+    10년차 이커머스 MD가 🔍 발품 팔아 엄선!
+    기능, 디자인, 가격까지 완벽!
+    이동식 스마트TV, 이제 '가성비'로 즐기세요!
 *   **Midjourney 프롬프트:**
-    `A cozy, modern bedroom with a 43-inch portable smart TV on a sleek, moving stand. The TV has a unique pink and white color scheme and displays a vibrant movie scene. A person is comfortably watching from bed, with soft, ambient lighting creating a relaxing atmosphere. --ar 1:1 --v 5.2`
+    `A professional female e-commerce MD, wearing smart casual attire, meticulously reviewing tablet screens and product boxes in a modern, clean office or studio filled with various sleek smart home gadgets. Her expression is focused and trustworthy. Soft, professional lighting. Minimalist background with subtle tech elements. --ar 1:1 --v 5.2`
 
----
+**[카드뉴스 3/4]**
 
-### **[카드 3/4] - 선명함이 압도적! 와이드뷰 QLED 삼탠바이미**
-
-*   **카드 텍스트:**
-    **💎 눈이 즐거운 선명함! #와이드뷰 QLED 40인치 삼탠바이미**
-    ✔️ **QLED 화질:** 생생한 색감, 뛰어난 명암비로 몰입감 UP!
-    ✔️ **넉넉한 40인치 화면:** 답답함 없이 시원하게!
-    ✔️ **세련된 화이트 디자인:** 어떤 공간에도 완벽 조화!
-    **(자세히 보기는 프로필 링크 클릭!)**
+*   **텍스트:**
+    **BEST 1. 프리토스 43인치 구글 스마트TV**
+    💖 20만원대 43인치 대화면!
+    🌈 핑크&화이트로 인테리어까지 완벽!
+    (링크는 프로필 확인!)
 *   **Midjourney 프롬프트:**
-    `A bright, clean, contemporary living space or kitchen with a 40-inch white QLED portable smart TV on a minimalist stand. The TV screen showcases a stunning, high-definition image of a nature landscape with vivid colors and deep contrasts. Natural light streams in, highlighting the TV's sleek design. --ar 1:1 --v 5.2`
+    `A stylish, modern bedroom featuring soft pink and white color palette. A large 43-inch portable smart TV, distinctively designed with pink and white elements, stands elegantly near a minimalist bed. The TV screen clearly displays the Google TV interface with Netflix or YouTube. Gentle, diffused daylight from a window, cozy and inviting ambiance. --ar 1:1 --v 5.2`
 
----
+**[카드뉴스 4/4]**
 
-### **[카드 4/4] - 더 이상 망설이지 마세요! 당신의 선택은?**
-
-*   **카드 텍스트:**
-    **이제 더 이상 망설이지 마세요! ✨**
-    **10년차 MD가 고른 가성비 이동식 스마트TV로 라이프스타일을 업그레이드하세요!**
-    **✔️ 내 방 영화관 🎬**
-    **✔️ 주방 레시피 보조 🍳**
-    **✔️ 캠핑/야외 활용까지! ⛺**
-    **지금 바로 프로필 링크 클릭! 👆**
-    #이동식스마트TV #구글TV #QLEDTV #가성비템
+*   **텍스트:**
+    **BEST 2. 와이드뷰 40인치 QLED 화이트에디션**
+    ✨ QLED로 선명한 화질!
+    🤍 고급스러운 화이트 디자인으로 공간 품격 UP!
+    (자세한 정보는 프로필 링크 클릭!)
 *   **Midjourney 프롬프트:**
-    `A vibrant and dynamic split-screen collage. One panel shows a person happily watching a movie on a portable TV in a cozy bed. Another panel shows someone following a recipe on a portable TV in a modern kitchen. A third panel features a portable TV set up during a glamping experience outdoors. The overall image is bright, inviting, and emphasizes versatility. --ar 1:1 --v 5.2`
+    `An elegant, minimalist living space dominated by white and light wood tones. A sophisticated 40-inch portable smart TV, entirely in a pristine white edition, stands with its QLED screen displaying a breathtakingly vibrant and sharp high-definition image (e.g., a landscape or artistic shot). Emphasize crystal clear display, luxurious ambiance, soft daylight. --ar 1:1 --v 5.2`
