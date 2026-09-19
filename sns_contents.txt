@@ -1,74 +1,72 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
+## 🚀 도파민 폭발! 15초 스탠바이미 가성비 끝판왕 쇼츠 스크립트
 
-(빠른 템포의 경쾌한 배경 음악, 효과음 적절히 활용)
+### 🎬 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
 
-**[0-3초: 시선 강탈 훅!]**
-*   **화면:** (0.5초) LG 스탠바이미 이미지와 함께 "200만원? ❌" 큰 글씨 팝업 -> (1.5초) 직후 핑크색 '프리토스 삼탠바이미' 이미지와 "20만원대? ✅" 큰 글씨 팝업. 전환 매우 빠르게.
-*   **대사:** "🚨잠깐! 스탠바이미 비싸서 포기했니? (1.5초) 이젠 20만원대로 끝내자!" (1.5초)
-
-**[3-6초: 문제 제기 & 솔루션 도입]**
-*   **화면:** 침대, 소파, 주방 등 다양한 공간에서 자유롭게 이동하며 TV를 즐기는 모습의 몽타주.
-*   **대사:** "큰맘 먹고 스탠바이미 살까 했는데 가격이.. 후덜덜했지? (2초) MD가 찾은 '삼탠바이미'가 답!" (1초)
-
-**[6-10초: 메인 상품 1 어필]**
-*   **화면:** '프리토스 43인치 삼탠바이미' (핑크색 위주) 제품 클로즈업, 구글 OS로 넷플릭스/유튜브 실행 화면 강조.
-*   **대사:** "43인치 대화면에 구글OS 기본 탑재! (2초) 넷플릭스, 유튜브 다 되는 스마트TV가 20만원대?! (2초) 핑크 컬러까지 있다고?"
-
-**[10-13초: 메인 상품 2 어필]**
-*   **화면:** '티비아울렛 스마트 구글 삼탠바이미' (심플한 디자인) 제품 클로즈업, 바퀴로 이동하는 모습 강조.
-*   **대사:** "설치 걱정 없이 원하는 곳 어디든! (1.5초) 나만의 무빙 씨어터가 바로 여기!" (1.5초)
-
-**[13-15초: 강력한 CTA]**
-*   **화면:** 두 메인 제품이 나란히 배치된 최종 화면. 가격 다시 한번 강조. 하단에 "프로필 링크 클릭" 문구.
-*   **대사:** "고민은 배송만 늦출 뿐! (1초) 지금 바로 프로필 링크 확인해!" (1초)
+**콘셉트:** 스탠바이미의 높은 가격에 실망한 시청자에게 "가성비 삼탠바이미"의 매력을 단 15초 만에 강력하게 어필! 도파민 폭발하는 빠른 전개와 핵심 정보 전달.
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[영상 시작] (빠른 비트의 경쾌한 배경 음악)**
 
-### 1️⃣ 첫 번째 컷: 훅 & 문제/솔루션 제시
-*   **들어갈 텍스트:**
-    *   **제목:** 🚨 스탠바이미 사고 싶지만 비싸다고?
-    *   **본문:** ❌ 비싼 가격에 망설였던 당신!
-        ✨ 감성과 편리함은 그대로, 가격은 1/10로 낮춘
-        **20만원대 '삼탠바이미' 가성비 끝판왕**을 소개합니다!
-        👉 옆으로 넘겨 MD 추천템을 확인하세요!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A modern, cozy living room bathed in warm, soft natural light, featuring a stylish, minimalist portable smart TV on a stand in the center. The TV screen displays a vibrant "price tag" with "200만원" crossed out and "20만원대!" highlighted in a dopamine-inducing aesthetic. A subtle, blurred silhouette of a person happily watching TV on a comfortable sofa in the background. High contrast, cinematic, photorealistic, --ar 1:1 --v 5.2`
+*   **0-3초 (훅! 시선 강탈):**
+    *   **화면:** (슬픈 표정으로 LG 스탠바이미 가격을 보며 한숨 쉬는 인물 클로즈업 -> 화면이 갑자기 전환되며 "헉! 비싸서 포기? 🙅‍♀️" 강렬한 자막과 함께 충격받은 표정!)
+    *   **내레이션 (빠르게, 흥분한 톤):** "스탠바이미 사고 싶어? 근데 가격보고 헉! 😱 잠깐! 딱 3초면 가성비 '삼탠바이미' 끝판왕 찾을 수 있어!"
 
-### 2️⃣ 두 번째 컷: MD 강력 추천 1 - 프리토스 43인치
-*   **들어갈 텍스트:**
-    *   **제목:** 💖 압도적 가성비 끝판왕!
-    *   **상품명:** **프리토스 43인치 삼탠바이미 세트**
-    *   **가격:** 💰 284,000원 (20만원대!)
-    *   **핵심 장점:**
-        *   ✅ 43인치 대화면 스마트TV + 이동식 스탠드
-        *   ✅ 구글OS로 넷플릭스/유튜브 무제한!
-        *   ✅ 핑크/화이트 감각적인 컬러로 인테리어 완성!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A chic and aesthetically pleasing bedroom interior with soft pastel pink and white color tones. A sleek, modern 43-inch portable smart TV on a matching pink stand is positioned next to a comfortable bed. The TV screen displays a vibrant streaming service interface (like Netflix or YouTube). Stylish, minimalist decor, warm ambient lighting, cozy and inviting atmosphere, photorealistic, high detail, --ar 1:1 --v 5.2`
+*   **3-8초 (메인 추천 1 - 화질 끝판왕):**
+    *   **화면:** (무빙큐빅스 X PRO의 QLED 화면이 역동적인 영상(영화, 게임)을 선명하게 보여주는 클로즈업 -> TV가 침실, 거실로 스르륵 이동하는 모습 -> 가격 자막 '30만원대?!')
+    *   **내레이션:** "첫째, 화질 포기 못해? 무빙큐빅스 X PRO! 32인치 QLED 패널! 생생한 색감에 이동성은 기본! 이게 30만원대라고? 미쳤다!"
 
-### 3️⃣ 세 번째 컷: MD 강력 추천 2 - 티비아울렛 스마트 구글
-*   **들어갈 텍스트:**
-    *   **제목:** 💡 실속형 스마트 이동TV!
-    *   **상품명:** **티비아울렛 스마트 구글 삼탠바이미**
-    *   **가격:** 💰 285,000원 (20만원대!)
-    *   **핵심 장점:**
-        *   ✅ 20만원대 합리적 가격! 구글 스마트TV & 스탠드
-        *   ✅ 거실/침실/주방 어디든 OK! 높은 공간 활용도
-        *   ✅ 복잡한 설치 없이 바로 즐기는 나만의 무빙 씨어터!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A bright and clean modern kitchen space with minimalist design. A sleek, portable smart TV on a simple white stand is strategically placed near a kitchen island, subtly showing a cooking show or music video. The setting emphasizes ease of movement and versatile placement. Natural light, subtle green plant accents, warm and inviting, photorealistic, --ar 1:1 --v 5.2`
+*   **8-13초 (메인 추천 2 - 스마트 끝판왕):**
+    *   **화면:** (티비아울렛 삼탠바이미 구글 TV 인터페이스(넷플릭스, 유튜브 아이콘)가 빠릿하게 전환되는 모습 -> TV 앞에서 편안하게 OTT 시청하는 모습 -> 가격 자막 '20만원대 구글TV!')
+    *   **내레이션:** "둘째, 20만원대 구글TV? 티비아울렛 삼탠바이미! 넷플릭스, 유튜브 바로! OTT 덕후들 환장할 '진짜 스마트' TV! 가성비 폭발!"
 
-### 4️⃣ 네 번째 컷: 최종 요약 & CTA
-*   **들어갈 텍스트:**
-    *   **제목:** 당신의 스마트한 홈라이프, 지금 시작하세요!
-    *   **본문:** 스탠바이미의 로망, 이젠 가격 걱정 없이 현실로!
-        MD가 엄선한 20만원대 가성비 삼탠바이미로
-        언제 어디서든 나만의 무빙 씨어터를 즐겨보세요!
-    *   **강력 CTA:** 💖 **MD 추천템 보러 가기!**
-        👉 **프로필 링크를 클릭하세요!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage showcasing two different portable smart TVs (similar to Freeteos 43-inch and TV Outlet models) in various modern, cozy home environments (one in a bedroom, one in a living room, one in a studio apartment). The TVs are the central focus, highlighting their sleek design, mobility, and the joy of watching content. Bright, inviting, lifestyle-focused, warm color palette, soft lighting, photorealistic, --ar 1:1 --v 5.2`
+*   **13-15초 (클로징 및 CTA):**
+    *   **화면:** (두 제품의 장점이 교차 편집되며 빠르게 지나감 -> "🔥 내 취향은? 지금 바로 확인!" 자막 -> 댓글창/프로필 링크 강조)
+    *   **내레이션:** "더 자세한 비교는 댓글 링크에서! 지금 바로 확인해봐! 🏃‍♀️💨"
+
+---
+
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+
+### 📊 1컷: 스탠바이미, 비싸다고 포기하지 마!
+
+*   **카드 텍스트:**
+    스탠바이미 비싸서 망설여? 😱
+    가성비 끝판왕 '삼탠바이미'가 나타났다!
+    10년차 MD가 엄선한 BEST 4 전격 공개!
+*   **Midjourney 프롬프트:**
+    `A vibrant, dopamine-inducing image. A person looking disappointed at a high price tag of a high-end portable TV, then their face lights up with joy and excitement as they see a sleek, modern, more affordable portable smart TV (SamtanbyMe) appearing in a burst of light. Dynamic lighting, shallow depth of field, bright neon colors, cinematic. --ar 1:1 --v 5.2`
+
+### 📊 2컷: ✨ 화질 덕후 모여라! 32인치 QLED!
+
+*   **카드 텍스트:**
+    **무빙큐빅스 삼탠바이미 X PRO**
+    -   32인치 QLED, 압도적 색감! 🎨
+    -   이동식 스탠드 일체형! 🏠➡️🛌
+    -   30만원대 착한 가격! 👍
+*   **Midjourney 프롬프트:**
+    `A close-up of a stunning 32-inch QLED screen displaying incredibly vibrant and hyperrealistic colors, showing a dynamic, high-energy movie scene or game. The screen is seamlessly attached to a modern, minimalist movable stand in a stylish, bright living room. High definition, cinematic, saturated colors, trending on tech blogs. --ar 1:1 --v 5.2`
+
+### 📊 3컷: 💰 20만원대 구글TV? OTT 덕후는 여기!
+
+*   **카드 텍스트:**
+    **티비아울렛 구글TV 삼탠바이미**
+    -   20만원대 파격 가격! 💸
+    -   넷플릭스, 유튜브 바로! 🎬
+    -   '진정한 스마트' 이동식 TV! 📱
+*   **Midjourney 프롬프트:**
+    `A cozy, inviting bedroom scene bathed in soft, warm lighting. A happy young person is comfortably lounging and watching Netflix on a sleek, mobile TV with a Google TV interface clearly visible on the screen. The TV is on a movable stand next to the bed. Modern aesthetic, vibrant screen content, feeling of relaxation and convenience. --ar 1:1 --v 5.2`
+
+### 📊 4컷: 내 인생 삼탠바이미는? 지금 바로 비교!
+
+*   **카드 텍스트:**
+    내 취향은 어디? 🤔
+    **화질 vs 가격 vs 편리함**
+    *   무빙큐빅스 X PRO (QLED)
+    *   티비아울렛 구글TV (20만원대)
+    *   무빙큐빅스 (방문설치)
+    **더 많은 정보는 프로필 링크에서! 🔗**
+*   **Midjourney 프롬프트:**
+    `A dynamic and clean comparative visual. Two distinct portable smart TVs (SamtanbyMe) are showcased side-by-side or in a creative split composition. One TV is highlighting vibrant, high-fidelity colors (representing QLED), and the other is showing a user-friendly Google TV interface with various app icons. A subtle question mark or thought bubbles integrated to suggest choice. Bright, modern, engaging comparison. --ar 1:1 --v 5.2`
