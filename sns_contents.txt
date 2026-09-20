@@ -1,79 +1,83 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 📺 도파민 폭발 15초 쇼츠 스크립트 (유튜브/틱톡)
 
-*(배경음악: 밝고 경쾌하며 속도감 있는 BGM)*
-
-**[0-3초] 훅 (Hook)**
-*   **화면:** 'LG 스탠바이미' 로고 → 빠르게 '가격 😨' 자막 등장, 고민하는 표정의 인물 클로즈업
-*   **나레이션:** "아니, LG 스탠바이미! 예쁘지만... 가격 때문에 포기하셨죠? ㅠㅠ"
-
-**[3-7초] 문제 해결 제시**
-*   **화면:** '걱정 마세요! 🤫' 자막 → '10년차 MD가 찾아낸' 자막 → '✨ 스탠바이미 가성비 끝판왕! ✨' 자막과 함께 '와이드뷰 40인치 삼탠바이미 (화이트 에디션)' 제품 이미지 매력적으로 등장
-*   **나레이션:** "걱정 마세요! 10년차 MD가 찾아낸 '스탠바이미 가성비' 끝판왕! 무려 30만원대에 40인치 스마트TV가?!"
-
-**[7-12초] 제품 장점 어필**
-*   **화면:** '와이드뷰 화이트 에디션' 제품이 거실, 침실 등 다양한 공간에 배치된 모습 빠르게 전환 → '와이드뷰 V3 스탠드' 제품의 안정적인 이동성 강조 (움직이는 장면) → 핵심 장점(QLED 화질, 이동성, OTT 시청) 자막으로 짧게 강조
-*   **나레이션:** "깔끔한 화이트 디자인에 QLED 선명한 화질! 더 안정적인 V3 스탠드까지! 넷플릭스, 유튜브는 기본! 원하는 곳 어디든 OK!"
-
-**[12-15초] 마무리 & CTA**
-*   **화면:** '와이드뷰' 두 제품과 '티비아울렛' 제품이 함께 배치된 이미지 → 블로그 포스트 썸네일 → '✨ 프로필 링크 클릭! ✨' 자막 크게 등장
-*   **나레이션:** "20만원대 초저가 모델까지! 나만의 스마트 라이프, 지금 바로 프로필 링크에서 확인하세요! 득템 각! 놓치지 마세요!"
+**콘셉트:** 비싼 스탠바이미 대신, 가성비 끝판왕 '삼탠바이미'를 찾아 헤맨 사람들을 위한 속 시원한 해결책 제시!
 
 ---
 
-## 2. 인스타그램 카드뉴스 (4컷)
+**[영상 시작] (3초 훅!)**
+*   **영상:** (화려하고 비싸 보이는 LG 스탠바이미가 잠깐 비춰지다, 가격표에 커다란 빨간 X표시가 쳐진다. 동시에 절규하는 듯한 표정의 인물 얼굴 클로즈업)
+*   **자막:** 😡 비싼 스탠바이미.. 이 가격 실화??
+*   **음성:** "스탠바이미 갖고 싶어 검색했는데... 가격 실화?! 내 월급 다 털어가네!!"
 
-### 컷 1/4
+**[본론] (10초)**
+*   **영상:** (X표시가 사라지고, "삼탠바이미"라는 글자가 팝업! 화면이 전환되며 가성비 제품 2개가 빠르게 등장, 핵심 장점들이 텍스트로 강조된다.)
+*   **자막:** 💸 노노! 똑똑한 당신은 '삼탠바이미'를 만나야죠!
+*   **음성:** "놉! 똑똑한 당신은 '삼탠바이미'를 만나야죠! 10년차 MD가 찾아낸 가성비 끝판왕!"
+*   **영상:** (프리토스 43인치 제품 이미지와 함께 주요 특징이 팝업)
+*   **자막:** 👑 1. 프리토스 43인치 (20만원대!)
+    *   💖 핑크&화이트 디자인!
+    *   📺 구글 스마트TV OS!
+*   **음성:** "첫째, 20만원대 43인치! 프리토스! 핑크&화이트 디자인에 구글 스마트TV까지? 이건 미쳤다!"
+*   **영상:** (와이드뷰 QLED 40인치 제품 이미지와 함께 주요 특징이 팝업)
+*   **자막:** ✨ 2. 와이드뷰 QLED 40인치
+    *   🖼️ QLED 압도적 화질!
+    *   🤍 클래식 화이트 갬성!
+*   **음성:** "둘째, 화질&감성 끝판왕! 와이드뷰 QLED 40인치! 화이트 디자인에 QLED 선명함까지! 방 분위기 확 바뀐다!"
 
-*   **텍스트:**
-    *   **제목:** 💸 LG 스탠바이미 비싸서 고민? 🤦‍♀️
-    *   **내용:**
-        *   예쁜 건 인정! 근데 가격이 너무 부담스럽다면?
-        *   10년차 MD가 발품 팔아 찾은 #스탠바이미가성비
-        *   일명 #삼탠바이미 끝판왕들을 공개합니다! ✨
-*   **Midjourney 프롬프트:**
-    ```
-    A person with a slightly stressed but hopeful expression, looking at a blurred, sleek mobile TV in a modern, minimalist living room. A giant, sparkling question mark hovers above the TV. The color palette is soft pastels with a touch of luxury. Ultra-realistic, high detail. --ar 1:1 --v 5.2
-    ```
+**[마무리 & CTA] (2초)**
+*   **영상:** (다양한 삼탠바이미 제품들이 모여있는 모습, 프로필 링크를 가리키는 손가락 애니메이션)
+*   **자막:** 🚀 더 많은 추천은? 프로필 링크 클릭!
+*   **음성:** "더 자세한 정보는 프로필 링크 클릭! 지금 바로 스마트한 가성비 챙기세요!"
 
-### 컷 2/4
+---
 
-*   **텍스트:**
-    *   **제목:** MD's PICK 1️⃣: 40인치 QLED 스마트TV가 30만원대? 🤯
-    *   **내용:**
-        *   **#와이드뷰 40인치 삼탠바이미 (화이트 에디션)**
-        *   ✅ 압도적 가성비: 37만원대에 40인치 FHD QLED 화질
-        *   ✅ 스마트TV 기능 풀옵션! 넷플릭스, 유튜브 기본!
-        *   ✅ 세련된 화이트 디자인으로 어떤 인테리어에도 찰떡!
-*   **Midjourney 프롬프트:**
-    ```
-    A bright, clean modern apartment living room with sunlight streaming in. A sleek white mobile smart TV (like a SamtanbyMe) with a thin bezel is positioned elegantly. The screen displays a vibrant, high-definition movie scene. The room has minimalist decor with subtle wooden accents. Photorealistic. --ar 1:1 --v 5.2
-    ```
+## 📸 인스타그램 카드뉴스 4컷
 
-### 컷 3/4
+---
 
-*   **텍스트:**
-    *   **제목:** MD's PICK 2️⃣: 더 안정적이고 유려한 이동성을 원한다면?
-    *   **내용:**
-        *   **#와이드뷰 40인치 삼탠바이미 (V3 스탠드)**
-        *   ✅ 업그레이드된 V3 스탠드로 흔들림 없이 부드럽게!
-        *   ✅ 40인치 FHD QLED 디스플레이로 생생한 몰입감
-        *   ✅ 메인 픽 1과 거의 동일한 가격으로 스탠드 UP!
-*   **Midjourney 프롬프트:**
-    ```
-    A cozy, softly lit bedroom with a comfortable bed and warm textures. A person gently and effortlessly pushes a black mobile smart TV (with a sturdy, elegant V-shaped stand) across the wooden floor. The TV screen shows a tranquil nature scene. Focus on smooth motion and stability. Cinematic, soft focus. --ar 1:1 --v 5.2
-    ```
-
-### 컷 4/4
+### **1. 첫 번째 컷: 문제 제기 & 훅**
 
 *   **텍스트:**
-    *   **제목:** 내게 딱 맞는 '스탠바이미'는? 🤫 (초저가 vs 홈시어터 끝판왕)
-    *   **내용:**
-        *   **💰 극강의 가성비!:** 20만원대 #티비아울렛 스마트 구글 TV 삼탠바이미
-        *   **👑 홈시어터 끝판왕!:** 98인치 #TCL 4K UHD Mini LED 구글TV (궁극의 경험!)
-        *   👉 더 자세한 비교 및 구매 정보는 프로필 링크에서 확인하세요!
-*   **Midjourney 프롬프트:**
-    ```
-    A dynamic split-screen image, clearly divided vertically. Left side: A small, simple mobile TV in a minimalist, slightly cramped studio apartment, showing a casual streaming service. Right side: A luxurious, spacious home theater with a gigantic, wall-filling 98-inch TV displaying an epic, dramatic movie scene. Elements indicating "Budget-Friendly" and "Premium Experience." Vibrant and contrasting styles. --ar 1:1 --v 5.2
-    ```
+    **비싼 스탠바이미? 이제 그만! 🙅‍♀️**
+    **"삼탠바이미" 시대가 왔다! ✨**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A visually striking image depicting a luxurious, expensive LG StandbyMe TV in a chic minimalist living room. A large, transparent red 'X' mark is superimposed over the TV, symbolizing its unaffordable price. In the foreground, a young adult looks exasperated. The overall mood is stylish but frustrated. Cinematic lighting, soft shadows, high resolution, --ar 1:1 --v 5.2`
+
+---
+
+### **2. 두 번째 컷: 메인 추천 1 (프리토스 43인치)**
+
+*   **텍스트:**
+    **🚀 압도적 가성비!**
+    **프리토스 43인치 스탠드 TV (20만원대!)**
+    *   **43인치 대화면 + 구글 스마트TV OS**
+    *   **트렌디 핑크&화이트 디자인 💖**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A modern and stylish bedroom scene featuring the Freesync 43-inch Stand TV. The TV is prominent with its pink and white stand, displaying a vibrant Netflix movie. A smiling person is comfortably relaxing on a bed in the background, enjoying the show. Soft, inviting natural light, cozy aesthetic, high detail, --ar 1:1 --v 5.2`
+
+---
+
+### **3. 세 번째 컷: 메인 추천 2 (와이드뷰 QLED 40인치)**
+
+*   **텍스트:**
+    **✨ 고품격 갬성!**
+    **와이드뷰 QLED 화이트 삼탠바이미**
+    *   **QLED 압도적 화질 (선명함 끝판왕!)**
+    *   **모던 화이트 디자인으로 인테리어 완성 🤍**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `An elegant and clean living space, possibly a minimalist studio apartment, showcasing the Wideview QLED 40-inch Stand TV. The TV has a sleek white stand and displays incredibly vivid colors from a high-quality video. The room feels serene and sophisticated with abundant soft, diffused light, emphasizing the premium aesthetic. High resolution, sharp focus, --ar 1:1 --v 5.2`
+
+---
+
+### **4. 네 번째 컷: 추가 추천 & CTA**
+
+*   **텍스트:**
+    **당신의 "스탠바이미 가성비"는?**
+    **10년차 MD가 엄선한 BEST 4가지! 🛍️**
+    **지금 바로 프로필 링크에서 만나보세요!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A dynamic and inviting collage of four different stand TVs (including the two main ones and two additional options) arranged artfully in a bright, modern display. Each TV has a subtle glow, highlighting its features. The background is a clean, contemporary gallery-like space with soft ambient lighting, implying choice and discovery. High resolution, attractive product photography style. --ar 1:1 --v 5.2`
+
+---
