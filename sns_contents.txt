@@ -1,89 +1,64 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**콘셉트:** 스탠바이미의 높은 가격에 좌절한 시청자들에게 압도적인 가성비의 '삼탠바이미'를 소개해, "이거였잖아!" 하고 무릎을 탁 치게 만드는 템포 빠르고 시원한 리뷰 영상.
+**(음악: 밝고 경쾌하며 도파민 폭발하는 숏폼 배경 음악)**
 
-**[시선을 강탈하는 훅 (0-3초)]**
+*   **0-3초 (훅):**
+    **(화면: LG 스탠바이미 이미지 or 로고가 나오며 가격표가 크게 뜨고, 손으로 엑스(X) 표시를 하며 좌절하는 표정)**
+    **내레이션 (빠르고 강렬하게):** "LG 스탠바이미... 비싸서 또 포기했어요? 💸"
+    **(화면: 좌절하던 표정이 환하게 바뀌며, 뒤에서 빛이 쏟아지는 듯한 효과와 함께 매력적인 삼탠바이미 이미지가 등장)**
+    **내레이션:** "NO! 10년차 MD가 찾은 '가성비 삼탠바이미' 끝판왕 등장!"
 
-*   **영상:** 스탠바이미 비싼 가격표에 놀라는 표정의 인물 (혹은 비싼 스탠바이미 실루엣과 물음표), "스탠바이미 갖고 싶다고? 🤯" 텍스트 팍!
-*   **대사:** "스탠바이미 갖고 싶어서 검색했는데... 가격 보고 좌절했어?! 🤯 멈춰! 똑똑한 당신을 위한 '삼탠바이미'가 있잖아!"
+*   **3-8초 (티비아울렛 구글TV 삼탠바이미):**
+    **(화면: 티비아울렛 구글TV 삼탠바이미가 침대 옆에서 넷플릭스를 재생하는 모습. 가격 '20만원대' 강조)**
+    **내레이션:** "첫 번째! ✨ '티비아울렛 삼탠바이미'! 무려 20만원대! 구글TV로 넷플릭스 바로 직진! 침대, 주방, 거실 어디든 끌고 다니세요!"
 
-**[본문 (3-12초)]**
+*   **8-13초 (와이드뷰 삼탠바이미 QLED 화이트 에디션):**
+    **(화면: 와이드뷰 QLED 화이트 에디션이 깔끔한 인테리어 공간에 놓여있고, 선명한 QLED 화면을 강조. 'QLED', '화이트' 강조)**
+    **내레이션:** "두 번째! 🎨 '와이드뷰 QLED 화이트 에디션'! 쨍한 QLED 화질에 ✨ 화이트 감성 디자인까지! 내 방이 스튜디오로 변신!"
 
-*   **영상:** '티비아울렛 삼탠바이미' 제품컷 등장, 집 안 곳곳에서 편리하게 사용하는 모습 (주방에서 요리, 침대에서 넷플릭스 등)
-*   **대사:** "첫 번째! 20만원대 '티비아울렛 삼탠바이미'! 🤫 구글TV 기본 탑재에 원하는 곳 어디든 OK! 가성비 끝판왕! 진짜야!"
-
-*   **영상:** '무빙큐빅스 QLED 삼탠바이미' 제품컷 등장, 화려한 영상미를 강조하는 화면, 32인치 대화면 강조.
-*   **대사:** "하지만 난 화질까지 포기 못 해! 그럼 '무빙큐빅스 QLED 삼탠바이미' 주목! 32인치 대화면에 QLED로 선명함 끝판왕!"
-
-**[클로징 & CTA (12-15초)]**
-
-*   **영상:** 두 제품이 나란히 비교되는 모습, 최종 선택을 유도하는 텍스트 ("당신의 선택은?")
-*   **대사:** "내 라이프스타일에 딱 맞는 삼탠바이미, 더 자세한 정보는 지금 바로 프로필 링크에서 확인하세요! 현명한 쇼핑, 지금 시작!"
-
----
-
-## 📸 인스타그램 카드뉴스 (4컷)
-
-**콘셉트:** 스탠바이미의 대체재인 '삼탠바이미'의 매력을 효과적으로 전달하며, 두 가지 메인 제품의 핵심 장점을 비교하여 현명한 선택을 돕는 정보성 카드뉴스.
+*   **13-15초 (클로징 및 CTA):**
+    **(화면: 두 제품이 나란히 배치되거나, 여러 삼탠바이미 제품이 빠르게 스쳐 지나가고, 마지막엔 '더 많은 가성비템' 문구와 함께 댓글/프로필 링크를 가리키는 손 제스처)**
+    **내레이션:** "더 자세한 정보는 고정 댓글 링크에서 확인하세요! 지금 바로 겟!"
 
 ---
 
-### **카드 1**
+## 2. 인스타그램 카드뉴스 4컷
 
-*   **들어갈 텍스트:**
-    **스탠바이미, 너무 비싸서 고민이라면? 🤯**
-    똑똑한 당신을 위한
-    **'삼탠바이미' 가성비 끝판왕 전격 공개!**
-    (핵심: 이동성, 스마트 기능, 저렴한 가격)
+### 🔹 1컷: 도입 (훅)
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A young adult in a stylish, minimalist living room, looking at a silhouette of a modern, portable smart TV with a thoughtful, slightly hesitant expression. There's a subtle question mark over the TV's price tag in the background. Soft, warm ambient lighting, clean lines, photorealistic, 8k, --ar 1:1 --v 5.2
-    ```
+*   **텍스트:**
+    LG 스탠바이미, 비싸서 포기했어요? 💸
+    걱정 마세요!
+    10년차 MD가 찾은 '가성비 삼탠바이미' BEST 3!
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    A person with a surprised, slightly frustrated expression looking at a high price tag on a sleek, expensive portable smart TV. In the next moment, their expression transforms into a hopeful, excited smile as they look towards a more affordable, equally stylish alternative. The background is a bright, modern room with minimalist decor. Dramatic lighting, vibrant colors, cinematic shot. Midjourney style, highly detailed.
 
----
+### 🔹 2컷: 메인 리뷰 1 (티비아울렛 구글TV 삼탠바이미)
 
-### **카드 2**
+*   **텍스트:**
+    **1. 💥 20만원대 '티비아울렛 구글TV 삼탠바이미'**
+    ✅ 구글TV로 넷플릭스, 유튜브 바로! (OTT 감상)
+    ✅ 침실, 거실, 주방! 어디든 자유롭게!
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    A cozy, modern bedroom scene. A sleek, minimalist portable smart TV on a moving stand is positioned perfectly beside the bed, displaying a vibrant Google TV interface with the Netflix logo clearly visible. A person is comfortably lounging in bed, smiling and engrossed in the content. The room has warm, inviting lighting, soft textiles, and a tidy, contemporary aesthetic. Midjourney style, cinematic, high detail, warm atmosphere.
 
-*   **들어갈 텍스트:**
-    **✨ 가성비 끝판왕! 티비아울렛 삼탠바이미 ✨**
-    *   **20만원대! 압도적인 최저가!**
-    *   **구글TV 기본 탑재 & 자유로운 이동성!**
-    *   최소 투자로 스탠바이미 핵심 기능 ALL!
+### 🔹 3컷: 메인 리뷰 2 (와이드뷰 삼탠바이미 QLED 화이트 에디션)
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A sleek, minimalist portable smart TV with a Google TV interface displaying streaming content (e.g., Netflix logo), set on a modern mobile stand. The TV is being easily pushed from a clean, white bedroom to a bright, cozy living room. Emphasis on affordability and smart features. Photorealistic, bright natural light, --ar 1:1 --v 5.2
-    ```
+*   **텍스트:**
+    **2. ✨ QLED 화질 & 화이트 감성 '와이드뷰 삼탠바이미'**
+    ✅ 쨍하고 선명한 QLED 화면!
+    ✅ 인테리어까지 완벽한 화이트 디자인!
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    A stylish, minimalist living room or study. A modern, all-white portable smart TV on a clean, matching stand is the focal point. The screen displays a high-resolution, vibrant QLED image (e.g., a breathtaking nature scene or abstract art), showcasing its superior color depth. The room is bright, with natural light, clean lines, and a contemporary aesthetic, emphasizing the TV's design as a seamless part of the elegant decor. Midjourney style, elegant, pristine, sophisticated, bright.
 
----
+### 🔹 4컷: 추가 추천 및 CTA (와이드뷰 QLED V3 세트)
 
-### **카드 3**
-
-*   **들어갈 텍스트:**
-    **💎 화질까지 놓칠 수 없다면? 무빙큐빅스 QLED 삼탠바이미 💎**
-    *   **QLED 디스플레이로 선명한 색감!**
-    *   **32인치 대화면으로 몰입감 UP!**
-    *   프리미엄 가성비로 업그레이드된 시청 경험!
-
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A close-up shot of a 32-inch QLED screen (portable smart TV) displaying a vibrant, high-definition movie scene with rich, accurate colors and sharp details. The TV is subtly integrated into a luxurious, modern home cinema setup or a cozy, dim-lit bedroom. Cinematic lighting, deep shadows and highlights. Photorealistic, 8k, --ar 1:1 --v 5.2
-    ```
-
----
-
-### **카드 4**
-
-*   **들어갈 텍스트:**
-    **당신의 라이프스타일에 딱 맞는 삼탠바이미는? 🛒**
-    **최저가 vs 프리미엄 화질, 당신의 선택은?**
-    더 자세한 비교 & 구매 링크는
-    **프로필 링크에서 확인하세요!**
-
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A split-screen or dual-panel image: on the left, a vibrant, modern portable smart TV (like the 티비아울렛) in a casual home setting. On the right, a more premium-looking portable smart TV with a QLED screen displaying vivid content (like the 무빙큐빅스) in a slightly more sophisticated setting. A clean, inviting "Swipe Up" or "Link in Bio" graphic in the center. Bright, energetic, comparison concept. Photorealistic, 8k, --ar 1:1 --v 5.2
-    ```
+*   **텍스트:**
+    **3. 🖤 블랙 컬러 올라운더 '와이드뷰 QLED V3 세트'**
+    ✅ QLED 화질+스마트TV 기능 그대로!
+    ✅ 화이트 품절? 블랙으로 스타일 UP!
+    **👉 더 많은 '가성비 삼탠바이미'는 프로필 링크 확인!**
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    A modern, slightly moody and sophisticated living room. A sleek, black portable smart TV on a matching dark stand is prominently featured, displaying a dynamic, high-contrast movie scene. The room has clean architectural lines, minimalist furniture, and subtle, strategic lighting that highlights the TV's premium, immersive feel. A graphic overlay of "Link in Bio" is subtly integrated into the overall design. Midjourney style, atmospheric, high contrast, cinematic, luxurious feel.
