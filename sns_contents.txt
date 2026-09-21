@@ -1,83 +1,89 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발 15초 쇼츠 스크립트 (유튜브/틱톡)
+## 🚀 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-**콘셉트:** 비싼 스탠바이미 대신, 가성비 끝판왕 '삼탠바이미'를 찾아 헤맨 사람들을 위한 속 시원한 해결책 제시!
+**콘셉트:** 스탠바이미의 높은 가격에 좌절한 시청자들에게 압도적인 가성비의 '삼탠바이미'를 소개해, "이거였잖아!" 하고 무릎을 탁 치게 만드는 템포 빠르고 시원한 리뷰 영상.
 
----
+**[시선을 강탈하는 훅 (0-3초)]**
 
-**[영상 시작] (3초 훅!)**
-*   **영상:** (화려하고 비싸 보이는 LG 스탠바이미가 잠깐 비춰지다, 가격표에 커다란 빨간 X표시가 쳐진다. 동시에 절규하는 듯한 표정의 인물 얼굴 클로즈업)
-*   **자막:** 😡 비싼 스탠바이미.. 이 가격 실화??
-*   **음성:** "스탠바이미 갖고 싶어 검색했는데... 가격 실화?! 내 월급 다 털어가네!!"
+*   **영상:** 스탠바이미 비싼 가격표에 놀라는 표정의 인물 (혹은 비싼 스탠바이미 실루엣과 물음표), "스탠바이미 갖고 싶다고? 🤯" 텍스트 팍!
+*   **대사:** "스탠바이미 갖고 싶어서 검색했는데... 가격 보고 좌절했어?! 🤯 멈춰! 똑똑한 당신을 위한 '삼탠바이미'가 있잖아!"
 
-**[본론] (10초)**
-*   **영상:** (X표시가 사라지고, "삼탠바이미"라는 글자가 팝업! 화면이 전환되며 가성비 제품 2개가 빠르게 등장, 핵심 장점들이 텍스트로 강조된다.)
-*   **자막:** 💸 노노! 똑똑한 당신은 '삼탠바이미'를 만나야죠!
-*   **음성:** "놉! 똑똑한 당신은 '삼탠바이미'를 만나야죠! 10년차 MD가 찾아낸 가성비 끝판왕!"
-*   **영상:** (프리토스 43인치 제품 이미지와 함께 주요 특징이 팝업)
-*   **자막:** 👑 1. 프리토스 43인치 (20만원대!)
-    *   💖 핑크&화이트 디자인!
-    *   📺 구글 스마트TV OS!
-*   **음성:** "첫째, 20만원대 43인치! 프리토스! 핑크&화이트 디자인에 구글 스마트TV까지? 이건 미쳤다!"
-*   **영상:** (와이드뷰 QLED 40인치 제품 이미지와 함께 주요 특징이 팝업)
-*   **자막:** ✨ 2. 와이드뷰 QLED 40인치
-    *   🖼️ QLED 압도적 화질!
-    *   🤍 클래식 화이트 갬성!
-*   **음성:** "둘째, 화질&감성 끝판왕! 와이드뷰 QLED 40인치! 화이트 디자인에 QLED 선명함까지! 방 분위기 확 바뀐다!"
+**[본문 (3-12초)]**
 
-**[마무리 & CTA] (2초)**
-*   **영상:** (다양한 삼탠바이미 제품들이 모여있는 모습, 프로필 링크를 가리키는 손가락 애니메이션)
-*   **자막:** 🚀 더 많은 추천은? 프로필 링크 클릭!
-*   **음성:** "더 자세한 정보는 프로필 링크 클릭! 지금 바로 스마트한 가성비 챙기세요!"
+*   **영상:** '티비아울렛 삼탠바이미' 제품컷 등장, 집 안 곳곳에서 편리하게 사용하는 모습 (주방에서 요리, 침대에서 넷플릭스 등)
+*   **대사:** "첫 번째! 20만원대 '티비아울렛 삼탠바이미'! 🤫 구글TV 기본 탑재에 원하는 곳 어디든 OK! 가성비 끝판왕! 진짜야!"
+
+*   **영상:** '무빙큐빅스 QLED 삼탠바이미' 제품컷 등장, 화려한 영상미를 강조하는 화면, 32인치 대화면 강조.
+*   **대사:** "하지만 난 화질까지 포기 못 해! 그럼 '무빙큐빅스 QLED 삼탠바이미' 주목! 32인치 대화면에 QLED로 선명함 끝판왕!"
+
+**[클로징 & CTA (12-15초)]**
+
+*   **영상:** 두 제품이 나란히 비교되는 모습, 최종 선택을 유도하는 텍스트 ("당신의 선택은?")
+*   **대사:** "내 라이프스타일에 딱 맞는 삼탠바이미, 더 자세한 정보는 지금 바로 프로필 링크에서 확인하세요! 현명한 쇼핑, 지금 시작!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 (4컷)
+
+**콘셉트:** 스탠바이미의 대체재인 '삼탠바이미'의 매력을 효과적으로 전달하며, 두 가지 메인 제품의 핵심 장점을 비교하여 현명한 선택을 돕는 정보성 카드뉴스.
 
 ---
 
-### **1. 첫 번째 컷: 문제 제기 & 훅**
+### **카드 1**
 
-*   **텍스트:**
-    **비싼 스탠바이미? 이제 그만! 🙅‍♀️**
-    **"삼탠바이미" 시대가 왔다! ✨**
+*   **들어갈 텍스트:**
+    **스탠바이미, 너무 비싸서 고민이라면? 🤯**
+    똑똑한 당신을 위한
+    **'삼탠바이미' 가성비 끝판왕 전격 공개!**
+    (핵심: 이동성, 스마트 기능, 저렴한 가격)
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A visually striking image depicting a luxurious, expensive LG StandbyMe TV in a chic minimalist living room. A large, transparent red 'X' mark is superimposed over the TV, symbolizing its unaffordable price. In the foreground, a young adult looks exasperated. The overall mood is stylish but frustrated. Cinematic lighting, soft shadows, high resolution, --ar 1:1 --v 5.2`
+    ```
+    A young adult in a stylish, minimalist living room, looking at a silhouette of a modern, portable smart TV with a thoughtful, slightly hesitant expression. There's a subtle question mark over the TV's price tag in the background. Soft, warm ambient lighting, clean lines, photorealistic, 8k, --ar 1:1 --v 5.2
+    ```
 
 ---
 
-### **2. 두 번째 컷: 메인 추천 1 (프리토스 43인치)**
+### **카드 2**
 
-*   **텍스트:**
-    **🚀 압도적 가성비!**
-    **프리토스 43인치 스탠드 TV (20만원대!)**
-    *   **43인치 대화면 + 구글 스마트TV OS**
-    *   **트렌디 핑크&화이트 디자인 💖**
+*   **들어갈 텍스트:**
+    **✨ 가성비 끝판왕! 티비아울렛 삼탠바이미 ✨**
+    *   **20만원대! 압도적인 최저가!**
+    *   **구글TV 기본 탑재 & 자유로운 이동성!**
+    *   최소 투자로 스탠바이미 핵심 기능 ALL!
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A modern and stylish bedroom scene featuring the Freesync 43-inch Stand TV. The TV is prominent with its pink and white stand, displaying a vibrant Netflix movie. A smiling person is comfortably relaxing on a bed in the background, enjoying the show. Soft, inviting natural light, cozy aesthetic, high detail, --ar 1:1 --v 5.2`
+    ```
+    A sleek, minimalist portable smart TV with a Google TV interface displaying streaming content (e.g., Netflix logo), set on a modern mobile stand. The TV is being easily pushed from a clean, white bedroom to a bright, cozy living room. Emphasis on affordability and smart features. Photorealistic, bright natural light, --ar 1:1 --v 5.2
+    ```
 
 ---
 
-### **3. 세 번째 컷: 메인 추천 2 (와이드뷰 QLED 40인치)**
+### **카드 3**
 
-*   **텍스트:**
-    **✨ 고품격 갬성!**
-    **와이드뷰 QLED 화이트 삼탠바이미**
-    *   **QLED 압도적 화질 (선명함 끝판왕!)**
-    *   **모던 화이트 디자인으로 인테리어 완성 🤍**
+*   **들어갈 텍스트:**
+    **💎 화질까지 놓칠 수 없다면? 무빙큐빅스 QLED 삼탠바이미 💎**
+    *   **QLED 디스플레이로 선명한 색감!**
+    *   **32인치 대화면으로 몰입감 UP!**
+    *   프리미엄 가성비로 업그레이드된 시청 경험!
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `An elegant and clean living space, possibly a minimalist studio apartment, showcasing the Wideview QLED 40-inch Stand TV. The TV has a sleek white stand and displays incredibly vivid colors from a high-quality video. The room feels serene and sophisticated with abundant soft, diffused light, emphasizing the premium aesthetic. High resolution, sharp focus, --ar 1:1 --v 5.2`
+    ```
+    A close-up shot of a 32-inch QLED screen (portable smart TV) displaying a vibrant, high-definition movie scene with rich, accurate colors and sharp details. The TV is subtly integrated into a luxurious, modern home cinema setup or a cozy, dim-lit bedroom. Cinematic lighting, deep shadows and highlights. Photorealistic, 8k, --ar 1:1 --v 5.2
+    ```
 
 ---
 
-### **4. 네 번째 컷: 추가 추천 & CTA**
+### **카드 4**
 
-*   **텍스트:**
-    **당신의 "스탠바이미 가성비"는?**
-    **10년차 MD가 엄선한 BEST 4가지! 🛍️**
-    **지금 바로 프로필 링크에서 만나보세요!**
+*   **들어갈 텍스트:**
+    **당신의 라이프스타일에 딱 맞는 삼탠바이미는? 🛒**
+    **최저가 vs 프리미엄 화질, 당신의 선택은?**
+    더 자세한 비교 & 구매 링크는
+    **프로필 링크에서 확인하세요!**
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic and inviting collage of four different stand TVs (including the two main ones and two additional options) arranged artfully in a bright, modern display. Each TV has a subtle glow, highlighting its features. The background is a clean, contemporary gallery-like space with soft ambient lighting, implying choice and discovery. High resolution, attractive product photography style. --ar 1:1 --v 5.2`
-
----
+    ```
+    A split-screen or dual-panel image: on the left, a vibrant, modern portable smart TV (like the 티비아울렛) in a casual home setting. On the right, a more premium-looking portable smart TV with a QLED screen displaying vivid content (like the 무빙큐빅스) in a slightly more sophisticated setting. A clean, inviting "Swipe Up" or "Link in Bio" graphic in the center. Bright, energetic, comparison concept. Photorealistic, 8k, --ar 1:1 --v 5.2
+    ```
