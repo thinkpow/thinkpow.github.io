@@ -1,64 +1,45 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
-
-**(음악: 밝고 경쾌하며 도파민 폭발하는 숏폼 배경 음악)**
-
-*   **0-3초 (훅):**
-    **(화면: LG 스탠바이미 이미지 or 로고가 나오며 가격표가 크게 뜨고, 손으로 엑스(X) 표시를 하며 좌절하는 표정)**
-    **내레이션 (빠르고 강렬하게):** "LG 스탠바이미... 비싸서 또 포기했어요? 💸"
-    **(화면: 좌절하던 표정이 환하게 바뀌며, 뒤에서 빛이 쏟아지는 듯한 효과와 함께 매력적인 삼탠바이미 이미지가 등장)**
-    **내레이션:** "NO! 10년차 MD가 찾은 '가성비 삼탠바이미' 끝판왕 등장!"
-
-*   **3-8초 (티비아울렛 구글TV 삼탠바이미):**
-    **(화면: 티비아울렛 구글TV 삼탠바이미가 침대 옆에서 넷플릭스를 재생하는 모습. 가격 '20만원대' 강조)**
-    **내레이션:** "첫 번째! ✨ '티비아울렛 삼탠바이미'! 무려 20만원대! 구글TV로 넷플릭스 바로 직진! 침대, 주방, 거실 어디든 끌고 다니세요!"
-
-*   **8-13초 (와이드뷰 삼탠바이미 QLED 화이트 에디션):**
-    **(화면: 와이드뷰 QLED 화이트 에디션이 깔끔한 인테리어 공간에 놓여있고, 선명한 QLED 화면을 강조. 'QLED', '화이트' 강조)**
-    **내레이션:** "두 번째! 🎨 '와이드뷰 QLED 화이트 에디션'! 쨍한 QLED 화질에 ✨ 화이트 감성 디자인까지! 내 방이 스튜디오로 변신!"
-
-*   **13-15초 (클로징 및 CTA):**
-    **(화면: 두 제품이 나란히 배치되거나, 여러 삼탠바이미 제품이 빠르게 스쳐 지나가고, 마지막엔 '더 많은 가성비템' 문구와 함께 댓글/프로필 링크를 가리키는 손 제스처)**
-    **내레이션:** "더 자세한 정보는 고정 댓글 링크에서 확인하세요! 지금 바로 겟!"
+## 🚀 도파민 폭발! 15초 숏폼 대본 & 인스타그램 카드뉴스 기획 (이동식 스마트TV / 삼탠바이미)
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+### 1. 📺 유튜브 쇼츠/틱톡용 15초 스크립트
 
-### 🔹 1컷: 도입 (훅)
+**[영상 구성 및 대사]**
 
-*   **텍스트:**
-    LG 스탠바이미, 비싸서 포기했어요? 💸
-    걱정 마세요!
-    10년차 MD가 찾은 '가성비 삼탠바이미' BEST 3!
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A person with a surprised, slightly frustrated expression looking at a high price tag on a sleek, expensive portable smart TV. In the next moment, their expression transforms into a hopeful, excited smile as they look towards a more affordable, equally stylish alternative. The background is a bright, modern room with minimalist decor. Dramatic lighting, vibrant colors, cinematic shot. Midjourney style, highly detailed.
+**[0-3초] ⚡️ 시선 강탈 훅(Hook)!**
+*   **영상:** 답답하게 거실 소파에만 앉아 TV를 보는 사람의 모습 (지루함, 한숨) -> "지루해!" 자막과 함께 화면 분할! 침실 침대 옆, 주방 식탁 옆, 베란다에서 이동식 스마트TV를 자유롭게 보는 역동적인 모습 빠르게 교차.
+*   **대사:** "아직도 TV를 거실에서만 본다고? 놉! 이젠 '이동식 스마트TV'가 대세!"
 
-### 🔹 2컷: 메인 리뷰 1 (티비아울렛 구글TV 삼탠바이미)
+**[4-8초] 🌟 프리토스 43인치 대화면의 매력**
+*   **영상:** `프리토스 43인치 이동식 스마트TV` 제품 클로즈업. 43인치 대화면으로 넷플릭스 로고, 유튜브 재생 화면이 역동적으로 전환. 카키+화이트 스탠드의 세련된 디자인 강조.
+*   **대사:** "43인치 대화면 삼탠바이미? 구글 스마트TV로 넷플릭스, 유튜브 다~ 돼! 이 감성 디자인 뭐야?"
 
-*   **텍스트:**
-    **1. 💥 20만원대 '티비아울렛 구글TV 삼탠바이미'**
-    ✅ 구글TV로 넷플릭스, 유튜브 바로! (OTT 감상)
-    ✅ 침실, 거실, 주방! 어디든 자유롭게!
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A cozy, modern bedroom scene. A sleek, minimalist portable smart TV on a moving stand is positioned perfectly beside the bed, displaying a vibrant Google TV interface with the Netflix logo clearly visible. A person is comfortably lounging in bed, smiling and engrossed in the content. The room has warm, inviting lighting, soft textiles, and a tidy, contemporary aesthetic. Midjourney style, cinematic, high detail, warm atmosphere.
+**[9-12초] ✨ 스카이뷰 QLED의 압도적 화질**
+*   **영상:** `스카이뷰 QLED 삼탠바이미 (화이트 에디션)` 제품 클로즈업. QLED 디스플레이의 선명한 색감(자연 풍경, 고화질 액션 장면) 강조. 깔끔한 화이트 디자인을 부각하며 인테리어와 조화되는 모습.
+*   **대사:** "여기 화질 끝판왕! QLED 선명함이 다르잖아? 깔끔한 화이트로 인테리어까지 완벽!"
 
-### 🔹 3컷: 메인 리뷰 2 (와이드뷰 삼탠바이미 QLED 화이트 에디션)
+**[13-15초] 🎬 클로징 & 강력한 CTA**
+*   **영상:** 두 제품(프리토스, 스카이뷰)이 나란히 놓여있거나, 다양한 공간(침실, 주방, 베란다)에서 사람들이 자유롭게 TV를 즐기는 몽타주. 마지막에 "내 라이프스타일에 맞는 TV 찾기!" 텍스트 오버레이와 프로필 링크 유도 그래픽.
+*   **대사:** "내 공간을 갤러리로! 이동식 스마트TV로 도파민 폭발 라이프 시작해볼까? 지금 바로 프로필 링크 확인!"
 
-*   **텍스트:**
-    **2. ✨ QLED 화질 & 화이트 감성 '와이드뷰 삼탠바이미'**
-    ✅ 쨍하고 선명한 QLED 화면!
-    ✅ 인테리어까지 완벽한 화이트 디자인!
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A stylish, minimalist living room or study. A modern, all-white portable smart TV on a clean, matching stand is the focal point. The screen displays a high-resolution, vibrant QLED image (e.g., a breathtaking nature scene or abstract art), showcasing its superior color depth. The room is bright, with natural light, clean lines, and a contemporary aesthetic, emphasizing the TV's design as a seamless part of the elegant decor. Midjourney style, elegant, pristine, sophisticated, bright.
+---
 
-### 🔹 4컷: 추가 추천 및 CTA (와이드뷰 QLED V3 세트)
+### 2. 📸 인스타그램 카드뉴스 4컷
 
-*   **텍스트:**
-    **3. 🖤 블랙 컬러 올라운더 '와이드뷰 QLED V3 세트'**
-    ✅ QLED 화질+스마트TV 기능 그대로!
-    ✅ 화이트 품절? 블랙으로 스타일 UP!
-    **👉 더 많은 '가성비 삼탠바이미'는 프로필 링크 확인!**
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A modern, slightly moody and sophisticated living room. A sleek, black portable smart TV on a matching dark stand is prominently featured, displaying a dynamic, high-contrast movie scene. The room has clean architectural lines, minimalist furniture, and subtle, strategic lighting that highlights the TV's premium, immersive feel. A graphic overlay of "Link in Bio" is subtly integrated into the overall design. Midjourney style, atmospheric, high contrast, cinematic, luxurious feel.
+**[Card 1]**
+*   **텍스트:** "TV, 거실에만 놔둔다고? 📺 NO! 이젠 '이동식 스마트TV' 시대!"
+*   **Midjourney Prompt:** "A highly aesthetic, minimalist living room with a sleek, modern mobile smart TV on a stylish white rolling stand, displaying a vibrant, abstract art piece. The TV is positioned elegantly. Soft, warm natural light coming from a large window. Scandinavian interior design elements, cozy atmosphere, wide shot, cinematic, realistic, 8k --ar 4:5 --v 5.2"
+
+**[Card 2]**
+*   **텍스트:** "43인치 대화면 + 감성 디자인✨ 프리토스 삼탠바이미"
+*   **Midjourney Prompt:** "A Freetos 43-inch mobile smart TV with a distinctive khaki and white moving stand, placed beside a bed in a modern, sunlit bedroom. The TV is displaying a high-quality, cinematic movie scene. A person's hand is visible, holding a remote control. Cozy and aesthetic interior, soft cinematic lighting, shallow depth of field, realistic, 8k --ar 4:5 --v 5.2"
+
+**[Card 3]**
+*   **텍스트:** "QLED 화질 끝판왕!💎 스카이뷰 화이트 에디션"
+*   **Midjourney Prompt:** "A sleek, white Skyview QLED mobile smart TV displaying an incredibly vibrant and sharp image of a colorful, exotic nature landscape. The TV is positioned in a bright, minimalist kitchen or dining area with clean lines and white furniture. Emphasize the crispness of the QLED screen. Elegant design, realistic, bright and airy, 8k --ar 4:5 --v 5.2"
+
+**[Card 4]**
+*   **텍스트:** "내 라이프스타일에 딱! 원하는 곳 어디든 나만의 극장 🎬"
+*   **Midjourney Prompt:** "A dynamic collage or triptych showing a mobile smart TV being enjoyed in three different, aesthetically pleasing settings: 1) on a cozy, modern balcony with city views at sunset, 2) in a stylish home office with green plants, and 3) in a spacious, bright living room. Each scene shows a person relaxing and watching content. Emphasize freedom, versatility, and comfortable lifestyle. Cinematic, warm and inviting lighting, realistic, 8k --ar 4:5 --v 5.2"
