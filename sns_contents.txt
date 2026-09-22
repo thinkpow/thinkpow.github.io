@@ -1,45 +1,68 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 숏폼 대본 & 인스타그램 카드뉴스 기획 (이동식 스마트TV / 삼탠바이미)
+## 🎥 15초 유튜브 쇼츠/틱톡 스크립트 (도파민 폭발 훅 포함)
+
+**[영상 컨셉]**
+빠르게 전환되는 화면과 경쾌한 배경음악. LG 스탠바이미를 꿈꾸지만 가격 때문에 망설였던 사람들의 공감을 얻고, 가성비 대안 제품의 놀라운 기능을 시각적으로 보여주며 구매욕을 자극.
 
 ---
 
-### 1. 📺 유튜브 쇼츠/틱톡용 15초 스크립트
+**[스크립트]**
 
-**[영상 구성 및 대사]**
+**[0-3초] 훅 (Hook):**
+*   **화면:** (빠른 줌인/줌아웃, 화면 흔들림 효과) 비싼 LG 스탠바이미 사진이 번개처럼 스쳐 지나간 뒤, 곧바로 깔끔한 '위드라이프 43인치 삼탠바이미'가 등장하며 "엇? 스탠바이미인데?" 하는 반응 유도. 가격표 (348,000원)가 크게 떴다가 사라진다.
+*   **자막:** 💥 "이거 LG 스탠바이미 아니야?!" 💥
+*   **내레이션 (빠르게, 흥분한 목소리):** "헉! LG 스탠바이미 비싸서 못 샀다고요? 이제 통장 텅장 될 일 없어!"
 
-**[0-3초] ⚡️ 시선 강탈 훅(Hook)!**
-*   **영상:** 답답하게 거실 소파에만 앉아 TV를 보는 사람의 모습 (지루함, 한숨) -> "지루해!" 자막과 함께 화면 분할! 침실 침대 옆, 주방 식탁 옆, 베란다에서 이동식 스마트TV를 자유롭게 보는 역동적인 모습 빠르게 교차.
-*   **대사:** "아직도 TV를 거실에서만 본다고? 놉! 이젠 '이동식 스마트TV'가 대세!"
+**[3-8초] 문제 제기 & 해결책 제시:**
+*   **화면:** '티비아울렛 삼탠바이미' (285,000원) 등장. 넷플릭스/유튜브 앱 아이콘이 TV 화면에서 빠르게 움직이는 모습. 침대, 거실 등 다양한 공간에서 자유롭게 이동하는 모습 연출.
+*   **자막:** 😱 20만원대 삼탠바이미 등장! 😱
+*   **내레이션:** "비싼 스탠바이미 대신! 20만원대로 이동식 구글 스마트 TV를 내 품에!"
 
-**[4-8초] 🌟 프리토스 43인치 대화면의 매력**
-*   **영상:** `프리토스 43인치 이동식 스마트TV` 제품 클로즈업. 43인치 대화면으로 넷플릭스 로고, 유튜브 재생 화면이 역동적으로 전환. 카키+화이트 스탠드의 세련된 디자인 강조.
-*   **대사:** "43인치 대화면 삼탠바이미? 구글 스마트TV로 넷플릭스, 유튜브 다~ 돼! 이 감성 디자인 뭐야?"
+**[8-12초] 핵심 기능 & 장점 강조:**
+*   **화면:** 43인치 대화면으로 몰입감 있게 드라마나 영화를 보는 장면. 에너지 효율 1등급 로고 강조.
+*   **자막:** 🤩 43인치 대화면 + 구글TV + 이동식 스탠드 = 완벽!
+*   **내레이션:** "43인치 대화면에 넷플릭스, 유튜브가 기본! 전기세까지 아껴주는 에너지 1등급!"
 
-**[9-12초] ✨ 스카이뷰 QLED의 압도적 화질**
-*   **영상:** `스카이뷰 QLED 삼탠바이미 (화이트 에디션)` 제품 클로즈업. QLED 디스플레이의 선명한 색감(자연 풍경, 고화질 액션 장면) 강조. 깔끔한 화이트 디자인을 부각하며 인테리어와 조화되는 모습.
-*   **대사:** "여기 화질 끝판왕! QLED 선명함이 다르잖아? 깔끔한 화이트로 인테리어까지 완벽!"
-
-**[13-15초] 🎬 클로징 & 강력한 CTA**
-*   **영상:** 두 제품(프리토스, 스카이뷰)이 나란히 놓여있거나, 다양한 공간(침실, 주방, 베란다)에서 사람들이 자유롭게 TV를 즐기는 몽타주. 마지막에 "내 라이프스타일에 맞는 TV 찾기!" 텍스트 오버레이와 프로필 링크 유도 그래픽.
-*   **대사:** "내 공간을 갤러리로! 이동식 스마트TV로 도파민 폭발 라이프 시작해볼까? 지금 바로 프로필 링크 확인!"
+**[12-15초] 구매 유도 (Call to Action):**
+*   **화면:** 다양한 삼탠바이미 제품들이 한자리에 모여있거나, 클릭을 유도하는 화살표가 프로필 링크를 가리키는 모습.
+*   **자막:** ✨ MD가 엄선한 BEST 4, 지금 확인! ✨
+*   **내레이션:** "똑똑한 당신의 선택! 더 자세한 정보는 지금 바로 프로필 링크에서 확인하세요!"
 
 ---
 
-### 2. 📸 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-**[Card 1]**
-*   **텍스트:** "TV, 거실에만 놔둔다고? 📺 NO! 이젠 '이동식 스마트TV' 시대!"
-*   **Midjourney Prompt:** "A highly aesthetic, minimalist living room with a sleek, modern mobile smart TV on a stylish white rolling stand, displaying a vibrant, abstract art piece. The TV is positioned elegantly. Soft, warm natural light coming from a large window. Scandinavian interior design elements, cozy atmosphere, wide shot, cinematic, realistic, 8k --ar 4:5 --v 5.2"
+**[카드뉴스 전체 컨셉]**
+LG 스탠바이미의 감성은 유지하되, 합리적인 가격으로 더 나은 선택이 가능함을 보여주는 트렌디하고 실용적인 정보성 콘텐츠. MD의 추천으로 신뢰도 UP!
 
-**[Card 2]**
-*   **텍스트:** "43인치 대화면 + 감성 디자인✨ 프리토스 삼탠바이미"
-*   **Midjourney Prompt:** "A Freetos 43-inch mobile smart TV with a distinctive khaki and white moving stand, placed beside a bed in a modern, sunlit bedroom. The TV is displaying a high-quality, cinematic movie scene. A person's hand is visible, holding a remote control. Cozy and aesthetic interior, soft cinematic lighting, shallow depth of field, realistic, 8k --ar 4:5 --v 5.2"
+---
 
-**[Card 3]**
-*   **텍스트:** "QLED 화질 끝판왕!💎 스카이뷰 화이트 에디션"
-*   **Midjourney Prompt:** "A sleek, white Skyview QLED mobile smart TV displaying an incredibly vibrant and sharp image of a colorful, exotic nature landscape. The TV is positioned in a bright, minimalist kitchen or dining area with clean lines and white furniture. Emphasize the crispness of the QLED screen. Elegant design, realistic, bright and airy, 8k --ar 4:5 --v 5.2"
+**[카드 1]**
+*   **카드 텍스트:**
+    LG 스탠바이미, 너무 비싸서 고민? 😫\
+    10년차 MD가 추천하는 20만원대 스마트 TV 대안! #스탠바이미 #가성비
+*   **Midjourney 프롬프트:**
+    `A young woman looking longingly at a sleek, expensive-looking portable smart TV in a minimalist, modern living room. Her expression is a mix of desire and slight financial concern. Soft, natural lighting, aspirational lifestyle shot. High resolution, photorealistic, --ar 1:1`
 
-**[Card 4]**
-*   **텍스트:** "내 라이프스타일에 딱! 원하는 곳 어디든 나만의 극장 🎬"
-*   **Midjourney Prompt:** "A dynamic collage or triptych showing a mobile smart TV being enjoyed in three different, aesthetically pleasing settings: 1) on a cozy, modern balcony with city views at sunset, 2) in a stylish home office with green plants, and 3) in a spacious, bright living room. Each scene shows a person relaxing and watching content. Emphasize freedom, versatility, and comfortable lifestyle. Cinematic, warm and inviting lighting, realistic, 8k --ar 4:5 --v 5.2"
+**[카드 2]**
+*   **카드 텍스트:**
+    🎬 43인치 대화면에 구글TV까지?\
+    위드라이프 삼탠바이미 34만원대! 넷플릭스? 유튜브? OK!
+*   **Midjourney 프롬프트:**
+    `A cozy bedroom scene with a large 43-inch portable Google Smart TV prominently displayed. A person is comfortably watching a streaming service (Netflix logo subtly visible on screen), enjoying the immersive experience. Modern, warm aesthetic, cinematic lighting, ultra detail, --ar 1:1`
+
+**[카드 3]**
+*   **카드 텍스트:**
+    💰 20만원대로 이동식 스마트 TV?!\
+    티비아울렛 삼탠바이미, 가성비 끝판왕 등장!
+*   **Midjourney 프롬프트:**
+    `A bright, uncluttered kitchen, a person easily rolling a compact 200,000 KRW-range portable smart TV. Emphasize ease of movement and modern functionality. Clean lines, minimalist design, product photography style, --ar 1:1`
+
+**[카드 4]**
+*   **카드 텍스트:**
+    내 취향따라 PICK! ✨\
+    32인치 단품도, 프리미엄 43인치도!\
+    지금 바로 프로필 링크 확인!
+*   **Midjourney 프롬프트:**
+    `A split image or collage showing different sizes of portable smart TVs (32-inch standalone, 43-inch mobile) in various stylish home environments like a living room, a bedroom, and a small office. Focus on versatility and smart integration. Modern, appealing, diverse settings, --ar 1:1`
