@@ -1,101 +1,63 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**제목:** LG 스탠바이미? 이제 '이것' 하나면 충분! 💥 10년차 MD 추천 가성비 삼탠바이미 BEST
+**(영상 시작: 0-3초 - 시선을 강탈하는 훅)**
+*   **[장면 1: 럭셔리한 스탠바이미 광고 영상 짧게 스쳐 지나감 → 좌절한 표정의 인물 클로즈업 → 화면에 '가격 실화?' 문구 크게 뜸]**
+*   **내레이션 (흥분된 목소리):** 스탠바이미 드림? 가격보고 포기했어요? 💥 잠깐! 이 영상 안 보면 후회합니다!
 
-**(화면 전환 효과: 빠르고 트렌디한 컷 편집, 밝고 감각적인 배경 음악)**
+**(4-7초 - 문제 제기 및 솔루션 제시)**
+*   **[장면 2: "스탠바이미 가성비" 검색창 화면 → 다양한 이동식 TV 제품들이 번개처럼 스쳐 지나감]**
+*   **내레이션:** 이젠 반값으로 삼탠바이미! 💸 10년차 MD가 찾아낸 가성비 끝판왕 2개, 딱 알려줄게요!
 
----
+**(8-11초 - 상품 1 소개)**
+*   **[장면 3: '위드라이프 43인치 구글TV 삼탠바이미' 제품 영상/이미지. 침대 옆에 놓여 영화 보는 모습]**
+*   **내레이션:** 첫째, **위드라이프 43인치!** 30만원대에 43인치 대화면 + 구글TV까지! 영화관이 내 방으로!
 
-**[0-3초] 훅 (Hook): 시선 강탈!**
-*   **자막:** 😱 스탠바이미 사고 싶은데... 가격이 후덜덜?
-*   **대사 (빠르게, 텐션 높게):** "LG 스탠바이미! 넘 예쁜데... 가격 때문에 매번 포기하셨죠?!"
-*   **(영상: LG 스탠바이미 이미지가 잠시 등장했다가 X 표시와 함께 사라지고, 밝은 분위기로 전환)**
+**(12-14초 - 상품 2 소개)**
+*   **[장면 4: '스카이뷰 32인치 QLED 삼탠바이미' 제품 영상/이미지. 깔끔한 거실에 놓여있고, 화면에 선명한 색감의 풍경]**
+*   **내레이션:** 둘째, **스카이뷰 32인치 QLED!** 20만원대에 이 선명한 QLED 화질 실화? 인테리어까지 갓벽!
 
-**[3-7초] 문제 제기 & 솔루션 제시**
-*   **자막:** 걱정 마세요! 🙅‍♀️ 10년차 MD가 찾아왔습니다!
-*   **대사:** "걱정 마! 제가 10년 경험 살려 진짜 '가성비 삼탠바이미' 딱 2개만 뽑아왔어요! 이건 무조건 봐야 해!"
-*   **(영상: MD의 모습(혹은 MD를 상징하는 아이콘)이 등장하며 자신감 있는 제스처)**
-
-**[7-11초] 메인 상품 1: 스카이뷰 QLED 삼탠바이미**
-*   **자막:** 🌟 첫 번째! 30만원대 QLED 화질? (29.9만)
-*   **대사:** "첫 번째! 30만원대에서 QLED 화질이 가능하다고?! 스카이뷰 QLED 삼탠바이미! 32인치 스탠바이미 핏에 화질까지 미쳤다!"
-*   **(영상: 스카이뷰 QLED 삼탠바이미의 화려한 QLED 화면과 세련된 화이트 디자인 강조, 가격 자막 크게 노출)**
-
-**[11-14초] 메인 상품 2: 위드라이프 구글 43인치 삼탠바이미**
-*   **자막:** 🎬 두 번째! 43인치 대화면에 구글TV까지! (34.8만)
-*   **대사:** "두 번째! 43인치 대화면에 구글TV까지 탑재! 위드라이프 삼탠바이미! 영화관 갈 필요 없어! 이것도 40만원이 안 돼!"
-*   **(영상: 위드라이프 43인치 삼탠바이미의 넓은 화면으로 넷플릭스 등 OTT 콘텐츠 재생 장면, 가격 자막 크게 노출)**
-
-**[14-15초] 마무리 & CTA**
-*   **자막:** 💖 지갑은 지키고! 만족감은 UP! 지금 바로 확인!
-*   **대사:** "지갑은 지키고! 만족감은 폭발하는 삼탠바이미, 지금 바로 프로필 링크에서 확인하세요!"
-*   **(영상: 두 제품이 나란히 있는 모습 or 프로필 링크를 가리키는 손 제스처)**
+**(14-15초 - 마무리 및 CTA)**
+*   **[장면 5: 두 제품이 나란히 비교되는 화면. '지금 바로 가성비 겟또!' 문구 오버레이]**
+*   **내레이션:** 더 자세한 정보는 댓글 링크 확인! ✨
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 (4컷)
 
----
-
-### **[1/4컷] - 훅 & 문제 제기**
-
+### 1컷
 *   **카드 텍스트:**
-    "LG 스탠바이미, 너무 비싸서 포기했어요? 🙅‍♀️"
-    "이제 '삼탠바이미' 시대! 10년차 MD가 엄선한 가성비 끝판왕 등장!"
-    #스탠바이미 #삼탠바이미 #가성비TV #이동식TV
+    *   **헤드라인:** 스탠바이미 가격보고 놀랐죠? 💥
+    *   **본문:** 내 방 감성 가득한 이동식 TV, LG 스탠바이미! 너무 비싸서 포기했다면? 이제 그 고민 끝! 😮
+    *   **본문 2:** 10년차 MD가 발굴한 **'스탠바이미 가성비 끝판왕' 삼탠바이미 2종**을 소개합니다!
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A minimalistic modern living room with a large, sleek, mobile smart TV on a stand, casting vibrant colorful light, cozy atmosphere, golden hour, digital art, high detail, warm tones, --ar 1:1`
 
-*   **Midjourney 프롬프트:**
-    ```
-    A sleek, modern living room with a luxurious, expensive-looking portable TV (resembling LG StandbyMe) in the background, slightly out of focus. In the foreground, a vibrant, attention-grabbing graphic element with a red 'X' mark over the expensive TV. Overlay text space in a trendy, minimalist style. --ar 1:1 --v 5.2
-    ```
-
----
-
-### **[2/4컷] - 메인 상품 1 소개**
-
+### 2컷
 *   **카드 텍스트:**
-    "📺 화질 포기 못 해? 30만원대 QLED의 기적!"
-    "✨ 스카이뷰 QLED 삼탠바이미 (32인치)"
-    "- 생생하고 선명한 QLED 화질"
-    "- 오리지널 스탠바이미 핏! 화이트 디자인"
-    "💰 299,000원!"
-    #QLEDTV #스카이뷰 #인테리어TV #내돈내산
+    *   **헤드라인:** 🚀 압도적 몰입감! 위드라이프 43인치 구글TV 삼탠바이미
+    *   **핵심:** 30만원대 중반에 만나는 **43인치 대화면 + 구글TV**! (32인치 대비 40% 더 넓음!)
+    *   **장점:** 넷플릭스, 유튜브는 기본! 음성 제어까지 완벽! 1등급 에너지 효율은 덤! 🎬
+    *   **가격:** 359,000원
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A close-up of a stylish 43-inch mobile smart TV screen displaying a vibrant movie scene (e.g., sci-fi, fantasy), in a cozy bedroom, immersive viewing experience, advanced Google TV interface visible, soft ambient lighting, cinematic, high resolution, --ar 1:1`
 
-*   **Midjourney 프롬프트:**
-    ```
-    A cozy, modern bedroom with soft natural light, featuring a sleek, white 32-inch portable smart TV (resembling the Skyview QLED SamtanbyMe) on a stand. The TV screen displays vibrant, high-definition QLED content, showcasing rich colors. Minimalist aesthetic, clean lines, warm tones. --ar 1:1 --v 5.2
-    ```
-
----
-
-### **[3/4컷] - 메인 상품 2 소개**
-
+### 3컷
 *   **카드 텍스트:**
-    "🎬 화면은 무조건 커야지! 43인치 구글TV 삼탠바이미!"
-    "🍿 위드라이프 구글 43인치 삼탠바이미"
-    "- 압도적인 43인치 대화면 몰입감"
-    "- 넷플릭스, 유튜브 다 되는 구글 TV OS"
-    "💰 348,000원!"
-    #구글TV #대화면TV #넷플릭스TV #스마트TV
+    *   **헤드라인:** ✨ 20만원대 프리미엄! 스카이뷰 32인치 QLED 삼탠바이미
+    *   **핵심:** **20만원대 후반** 가격에 경험하는 **QLED 화질**의 감동! 🌈
+    *   **장점:** 선명하고 생생한 컬러감! 스마트TV 기능 & 인테리어 갓벽 화이트 에디션! 🤍
+    *   **가격:** 299,000원
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A sleek, white 32-inch mobile smart TV on a minimalist stand in a bright, modern living space. The screen displays a vivid QLED landscape scene with rich colors. Natural light, clean aesthetic, high fidelity, --ar 1:1`
 
-*   **Midjourney 프롬프트:**
-    ```
-    A stylish, dimly lit living room or home cinema setup, focused on a large 43-inch portable smart TV (resembling the Withlife Google 43-inch SamtanbyMe) displaying a movie scene with dynamic colors. Popcorn or a cozy blanket nearby. Modern, comfortable, immersive atmosphere. --ar 1:1 --v 5.2
-    ```
-
----
-
-### **[4/4컷] - 비교 & CTA**
-
+### 4컷
 *   **카드 텍스트:**
-    "✨ 화질 vs 대화면, 당신의 선택은?"
-    "똑똑한 소비자를 위한 '가성비 삼탠바이미' 비교 끝!"
-    "자세한 리뷰와 구매 링크는 프로필에서 확인하세요! 👆"
-    #삼탠바이미추천 #MD추천 #가심비 #득템찬스
-
-*   **Midjourney 프롬프트:**
-    ```
-    A split-screen or side-by-side comparison shot of the two portable smart TVs (Skyview QLED 32-inch and Withlife Google 43-inch SamtanbyMe), both looking modern and sleek. One side emphasizes vibrant colors, the other emphasizes screen size. A bright, inviting call-to-action graphic element with a finger pointing up. --ar 1:1 --v 5.2
-    ```
+    *   **헤드라인:** 당신의 스탠바이미 드림, 이제 현실로! ✨
+    *   **본문:** 대화면 몰입감? 🚀 위드라이프 43인치!
+    *   **본문:** 프리미엄 화질? 🌈 스카이뷰 32인치 QLED!
+    *   **본문:** 선택은 당신의 몫! 지금 바로 당신만의 이동식 스마트 TV를 만나보세요!
+    *   **CTA:** 프로필 링크에서 자세한 정보 확인! #스탠바이미 #삼탠바이미 #가성비TV #이동식TV #스마트TV
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A dynamic collage or split screen showing both the Withlife 43-inch Google TV SamtanbyME and the Skyview 32-inch QLED SamtanbyME side-by-side in appealing home settings, illustrating versatility and modernity. Energetic, persuasive, modern design, --ar 1:1`
