@@ -1,60 +1,70 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**제목:** 💥스탠바이미 비싸? 이젠 20만원대로 43인치 삼탠바이미! (MD 추천 BEST)💥
+**[영상 컨셉]**
+도파민 폭발! 빠르고 경쾌한 BGM과 함께, 스탠바이미의 비싼 가격에 좌절하다가 '삼탠바이미'를 발견하고 환호하는 스토리텔링. 제품의 핵심 장점을 직관적으로 보여주며 마지막에 CTA를 강력하게 전달.
 
----
+**[타임라인 & 대사]**
 
-**(0-3초) 훅: 강렬한 시각 효과와 함께 시선 강탈!**
-*   **화면:** LG 스탠바이미 가격표(100만원대)와 작은 27인치 화면에 X표시가 크게 쳐지고, 옆에 43인치 대화면 삼탠바이미가 등장하며 O표시! '💸STOP!' '이젠 이걸로 갈아타!' 등 텍스트 오버레이.
-*   **대사 (빠르고 흥분된 톤):** "스탠바이미 비싸고 화면 작아서 고민? 아직도 사치품이라 생각하세요? (정적) NO! 이젠 20만원대로 43인치 스마트TV를 만나는 시대!"
+*   **0-3초 (훅):**
+    *   **화면:** (불만 가득한 표정, LG 스탠바이미 가격표를 보고 충격받은 듯한 모습. '400만원대 스탠바이미..?' 자막)
+    *   **대사:** "스탠바이미, 너무 비싸서 포기하셨나요? 🤯" (드라마틱한 효과음)
+    *   **화면:** (눈이 번쩍 뜨이며 '해결책 발견!' 제스처. '잠깐! 저렴한데 더 좋은 '삼탠바이미'가 있다던데?!' 자막)
+    *   **대사:** "잠깐! 똑똑한 당신을 위한 '가성비 끝판왕' 여기 있어요!"
 
-**(3-12초) 핵심 정보 전달: 제품 소개 및 장점 강조**
-*   **화면:** 첫 번째 추천 상품 '위드라이프 43인치 구글 삼탠바이미' 이미지/영상 클립 등장. 43인치 강조 텍스트, 가격 강조.
-*   **대사:** "10년 차 MD가 엄선한 '스탠바이미 가성비' 끝판왕! 첫 번째, **위드라이프 43인치 삼탠바이미!** 30만원대 압도적 대화면! 넷플릭스, 유튜브? 구글TV로 바로 OK! 에너지 1등급은 덤! 이 가격에 43인치? 미쳤다!"
-*   **화면:** 두 번째 추천 상품 '티비아울렛 초특가 구글 삼탠바이미' 이미지/영상 클립 등장. 20만원대 강조 텍스트.
-*   **대사:** "두 번째는 20만원대 **티비아울렛 최저가 삼탠바이미!** 가격이 깡패! 구글TV 기능은 그대로! 스마트 이동식 TV, 이제 예산 걱정 마세요!"
+*   **3-8초 (제품 1):**
+    *   **화면:** (스카이뷰 화이트에디션 삼탠바이미 등장, 제품명과 27만원대 가격 자막 크게 표시. QLED 강조 애니메이션)
+    *   **대사:** "첫째, 20만원대 QLED 화질! 스카이뷰 삼탠바이미! 선명함에 이동성까지 완벽!"
 
-**(12-15초) 마무리 및 CTA**
-*   **화면:** 다양한 공간(침실, 주방, 캠핑)에서 삼탠바이미가 활용되는 장면 빠르게 교차. 마지막에 "더 많은 정보는 프로필 링크 클릭!" 텍스트 오버레이.
-*   **대사:** "침실, 주방, 캠핑! 어디든 OK! 더 자세한 비교는 지금 바로 프로필 링크 확인하세요! 놓치면 후회!"
+*   **8-13초 (제품 2):**
+    *   **화면:** (티비아울렛 스마트 구글 TV 삼탠바이미 등장, 제품명과 28만원대 가격 자막 크게 표시. 넷플릭스/유튜브 아이콘 강조)
+    *   **대사:** "둘째, 20만원대 구글TV 탑재! 티비아울렛 삼탠바이미! 넷플릭스, 유튜브가 내 손안에!"
+
+*   **13-15초 (클로징 & CTA):**
+    *   **화면:** (두 제품이 나란히 비교되는 모습. '내 지갑 사수! 가성비 삼탠바이미!' 자막. 프로필 링크 방향으로 손가락 가리키기)
+    *   **대사:** "내 방에 스탠바이미 들이고 싶다면? 지금 바로 프로필 링크 확인하세요!" (활기찬 톤)
 
 ---
 
 ## 📸 인스타그램 카드뉴스 4컷
 
-### **📌 1컷**
-*   **텍스트:**
-    LG 스탠바이미 비싸고 작아서 포기? 🙅‍♀️
-    이젠 20만원대로 43인치 스마트TV를! ✨
-    (10년차 MD의 초특급 가성비 추천!)
-*   **Midjourney 프롬프트:**
-    A vibrant, futuristic living room with a person looking disappointed at a small, expensive, modern movable TV, while a larger, more affordable-looking smart movable TV is highlighted with a shimmering golden glow in the background. Dynamic lighting, high contrast, minimalist design. --ar 1:1 --v 5.2
+**[공통 디자인 컨셉]**
+미니멀하고 세련된 인테리어 배경에 화이트 톤의 이동식 스마트 TV가 강조되는 디자인. 가독성 높은 폰트 사용.
 
-### **📌 2컷**
-*   **텍스트:**
-    👀 압도적! 위드라이프 43인치 구글 삼탠바이미
-    ✅ 30만원대 중반 가격!
-    ✅ 스탠바이미의 두 배, 43인치 대화면!
-    ✅ 넷플릭스, 유튜브? 구글TV 기본 탑재!
-*   **Midjourney 프롬프트:**
-    A cozy, modern bedroom with a large (43-inch) portable smart TV showing a vibrant movie scene. The TV is on a sleek stand, positioned perfectly for viewing from a comfortable bed. Warm, ambient lighting, high quality display. --ar 1:1 --v 5.2
+---
 
-### **📌 3컷**
-*   **텍스트:**
-    💸 역대급 가성비! 티비아울렛 초특가 구글 삼탠바이미
-    ✅ 모든 스마트 삼탠바이미 중 20만원대 최저가!
-    ✅ 가격은 저렴해도 구글TV는 기본 제공!
-    ✅ '가격이 깡패'라는 극찬 후기 폭발!
-*   **Midjourney 프롬프트:**
-    A sleek, minimalist portable smart TV prominently displaying various streaming app icons (Netflix, YouTube, Disney+). Dollar signs and '200,000 KRW' text are subtly floating around the screen, emphasizing its affordability. Clean background, bright and inviting. --ar 1:1 --v 5.2
+### 🖼️ 1컷: 도입 & 문제 제기/해결
 
-### **📌 4컷**
-*   **텍스트:**
-    침실, 주방, 캠핑 어디든 OK! ⛺️
-    비교하고 현명하게 삼탠바이미 GET!
-    더 자세한 추천 상품과 구매 링크는
-    👆프로필 링크를 확인하세요!
-*   **Midjourney 프롬프트:**
-    A dynamic split image showing a portable smart TV being used in three different environments: a modern bedroom, a minimalist kitchen island, and an outdoor glamping tent. Seamless transitions between scenes, evoking freedom and versatility. Lifestyle photography, warm and inviting. --ar 1:1 --v 5.2
+*   **카드 텍스트:**
+    스탠바이미? NO! 🙅‍♀️ 비싼 가격에 망설였다면?
+    '가성비 삼탠바이미'로 똑똑하게 해결! ✨
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A minimalist, bright and cozy living room with soft natural light, featuring a sleek, modern portable smart TV on a stylish white mobile stand. The TV screen displays a vibrant, aesthetic abstract wallpaper. Clean design, scandinavian style, warm neutral tones, high resolution, soft focus, depth of field. --ar 4:5 --v 6.0`
+
+### 🖼️ 2컷: 메인 추천 상품 1 (스카이뷰 삼탠바이미)
+
+*   **카드 텍스트:**
+    👑 1. 스카이뷰 화이트에디션 삼탠바이미 (32인치)
+    🔥 27만원대 압도적 최저가!
+    ✨ QLED 화질로 생생함 UP!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `Close-up shot of a 32-inch portable smart TV (Skyview White Edition style) with a sleek white mobile stand. The QLED screen displays a high-resolution, vibrant, colorful scene of a cinematic movie. The TV is placed in a bright, modern bedroom next to a window. Soft, diffused natural lighting, realistic, high detail, sharp focus on the screen, elegant white aesthetics. --ar 4:5 --v 6.0`
+
+### 🖼️ 3컷: 메인 추천 상품 2 (티비아울렛 구글 TV 삼탠바이미)
+
+*   **카드 텍스트:**
+    🚀 2. 티비아울렛 스마트 구글 Google TV 삼탠바이미 (32인치)
+    💰 28만원대 합리적 가격!
+    🎮 구글 TV OS로 넷플릭스, 유튜브 바로!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A 32-inch portable smart TV (TV Outlet Google TV style) on a black mobile stand in a chic, contemporary living space. The TV screen clearly shows the Google TV interface with prominent Netflix and YouTube app icons. A hand holding a minimalist remote control is subtly visible near the TV. Modern, functional design, warm ambient interior lighting, high resolution, product photography style, clean background. --ar 4:5 --v 6.0`
+
+### 🖼️ 4컷: 요약 & 구매 유도
+
+*   **카드 텍스트:**
+    당신의 라이프스타일에 딱 맞는
+    '나만의 스탠바이미'를 지금 만나보세요! 🛋️
+    **링크는 프로필에!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A composite image or multi-panel scene showing different individuals happily using portable smart TVs (Samtanbaimi style) in various cozy and stylish home settings: one person relaxing on a sofa in a living room, another in a bed in a minimalist bedroom, and a third in a modern kitchen while cooking. The focus is on convenience, comfort, and entertainment. Bright, inviting atmosphere, lifestyle photography, soft warm lighting, vibrant colors. --ar 4:5 --v 6.0`
