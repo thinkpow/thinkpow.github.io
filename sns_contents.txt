@@ -1,83 +1,49 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**[영상 컨셉]**
-빠른 전환, 강조되는 자막, 신나는 배경 음악과 함께 활기찬 목소리로 진행. 시청자의 통장을 지켜주겠다는 유머러스하고 친근한 톤.
+**(시작 전 효과음: LG 스탠바이미 광고 BGM 짧게 -> 갑자기 가격표 쾅! 찍히는 효과음 "띠로리~ 🚨")**
 
----
+**[0-3초 훅]**
+**화자:** 스탠바이미? 💥 **(카메라에 삿대질하며 비장한 표정)** 잠깐! 이거 사려다 **돈 폭탄** 맞을 뻔했지?!
 
-**[숏폼 대본]**
+**[3-8초]**
+**화자:** LG 스탠바이미.. 솔직히 비싸잖아! 이동성? 스마트 기능? 디자인? 다 좋은데.. 주머니 사정 누가 알아주냐고!
 
-**[0-3초] ⚡️훅 (Hook) - 시선강탈!**
-*   **화면:** (놀란 표정으로 화면을 응시하며) 😱 "스탠바이미, 갖고 싶어서 통장 텅장 됐다고? 🚨" (손가락으로 '잠깐!' 제스처)
-*   **자막:** 😱 스탠바이미 갖고 싶어? 텅장 조심! 🚨
-*   **대사:** "스탠바이미, 갖고 싶어서 통장 텅장 됐다고? 🚨잠깐!"
+**[8-13초]**
+**화자:** 걱정 마! 내가 20만원대로 **스탠바이미 핵심 기능 ALL** 가져올 '가성비 끝판왕' 찾았어! ✨ **(손으로 제품 이미지 가리키며 활짝 웃음)** 구글TV 탑재에 이동식 완제품! 받으면 바로 넷플릭스 직행!
 
-**[3-7초] ✨ 가성비 끝판왕 1 - 위드라이프**
-*   **화면:** (자신감 있는 표정으로 바뀌며) "스탠바이미 살 돈으로 해외여행 갈 수 있다?!" (화면 빠르게 전환, '위드라이프 43인치' 제품 영상/사진)
-*   **자막:** 스탠바이미 대신 '이것'! ✈️
-*   **대사:** "스탠바이미 살 돈으로 해외여행 갈 수 있다?! 30만원대 43인치 대화면 스마트TV 세트? '위드라이프 삼탠바이미' 대화면으로 넷플릭스 영화관 ON!"
-
-**[7-11초] ✨ 가성비 끝판왕 2 - 무빙큐빅스**
-*   **화면:** (다시 화면 전환, '무빙큐빅스 40인치 QLED' 제품 영상/사진, 선명한 QLED 화질 강조)
-*   **자막:** 💖 QLED 화질 끝판왕! 방문 설치까지!
-*   **대사:** "난 화질이 중요하다면? 40만원대 QLED '무빙큐빅스'! 선명한 화질에 기사님 방문 설치까지 완벽해!"
-
-**[11-13초] 🛋️ 자유로운 활용성**
-*   **화면:** (거실, 침실, 주방 등 다양한 공간에서 이동식 TV를 사용하는 모습 몽타주)
-*   **자막:** 거실? 침실? 주방? 어디든! 🏠
-*   **대사:** "이동식 TV로 거실, 침실, 주방 어디든 나만의 극장 만들 수 있어!"
-
-**[13-15초] 🗣️ 클로징 & CTA**
-*   **화면:** (다시 진행자 화면으로 돌아오거나, 제품 전체를 보여주며) 손가락으로 아래를 가리키거나 화면을 톡톡 치는 제스처.
-*   **자막:** 🎁 더 많은 가성비 제품은? ➡️ 댓글 링크 Click!
-*   **대사:** "더 많은 가성비 삼탠바이미는 댓글 링크 확인!"
+**[13-15초]**
+**화자:** 현명한 소비? 바로 이거지! **(손가락으로 화면 톡톡! 혹은 아래 댓글/링크 제스처)** 더 자세한 정보는 지금 바로 확인해봐!
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
----
+### 1. 첫 번째 컷
+*   **들어갈 텍스트:**
+    LG 스탠바이미 비싸서 망설였다면? 😩 주목!
+    **#스탠바이미대체 #가성비TV #이동식TV**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A modern, minimalist living room. On one side, a luxurious, expensive-looking white portable smart TV (like LG StandbyMe) stands elegantly. On the other side, a question mark icon and a sad face emoji are subtly integrated, hinting at its high price. The room has soft, natural lighting. High contrast, clean lines, 1:1 aspect ratio. --ar 1:1 --v 5.2`
 
-### **[카드 1/4] - 훅 (Hook)**
+### 2. 두 번째 컷
+*   **들어갈 텍스트:**
+    압도적 가성비! 💖 구글TV 이동식 삼탠바이미
+    **20만원대로 스탠바이미 핵심 기능 ALL! 😱**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A sleek, white, modern portable smart TV (similar to StandbyMe but with a distinct, minimalist design) in a contemporary, bright room. The screen shows a vibrant Google TV interface with app icons. A bold, modern graphic element highlighting "Under $300" or "200,000 KRW range" is subtly integrated, emphasizing extreme affordability. Clean background, soft shadows, 1:1 aspect ratio. --ar 1:1 --v 5.2`
 
-*   **카드 텍스트:**
-    **스탠바이미 예쁘지만 비싸다고? 😱**
-    **똑똑한 당신을 위한 '가성비 삼탠바이미' BEST 4!**
-    (핵심 키워드 #스탠바이미 #가성비 #삼탠바이미 #이동식TV)
-*   **Midjourney 프롬프트:**
-    `A visually striking, minimalist, and modern living room with soft, natural daylight. In the center, there's a sleek, empty mobile TV stand, with a transparent thought bubble above it. Inside the thought bubble, a luxurious, expensive smart TV is shown with a red "X" over it. The overall atmosphere is aspirational, smart, and budget-conscious. Clean lines, neutral color palette (whites, light grays, warm wood tones). Photorealistic, high detail, interior design magazine style. --ar 1:1`
+### 3. 세 번째 컷
+*   **들어갈 텍스트:**
+    구글TV 탑재 📺 넷플릭스, 유튜브 바로!
+    **완제품이라 설치 걱정 NO! 🙅‍♀️**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A joyful young woman watching Netflix on a portable smart TV with a Google TV interface, comfortably lounging in her stylish, cozy bedroom. The TV is on a movable stand, subtly indicating ease of movement and ready-to-use functionality. The room is modern, clean, and filled with warm, inviting light. Cinematic, 1:1 aspect ratio. --ar 1:1 --v 5.2`
 
----
-
-### **[카드 2/4] - 메인 추천 1: 위드라이프 43인치 삼탠바이미 스마트TV 세트**
-
-*   **카드 텍스트:**
-    **✨ 30만원대, 43인치 대화면 스마트TV?! ✨**
-    **이동식 스탠드 기본! 넷플릭스/유튜브 다 돼!**
-    (서브 텍스트: 위드라이프 43인치 삼탠바이미 스마트TV 세트 (359,000원))
-*   **Midjourney 프롬프트:**
-    `A cozy yet modern bedroom with a large window letting in soft morning light. A dark-colored, sleek 43-inch smart TV on a mobile stand is positioned casually next to the bed, displaying a vibrant, high-definition Netflix movie scene. The room has warm, inviting tones (soft blues, grays, light wood). Emphasize the TV's large screen size and mobility. Photorealistic, cozycore aesthetic, high detail, cinematic lighting. --ar 1:1`
-
----
-
-### **[카드 3/4] - 메인 추천 2: 무빙큐빅스 40인치 QLED 화이트 삼탠바이미 세트**
-
-*   **카드 텍스트:**
-    **💖 프리미엄 QLED 화질에 화이트 디자인까지! 💖**
-    **전문 기사 방문 설치로 완벽 세팅!**
-    (서브 텍스트: 무빙큐빅스 40인치 QLED 화이트 삼탠바이미 세트 (469,000원))
-*   **Midjourney 프롬프트:**
-    `A highly stylish, bright, and clean living space with minimalist white walls and light oak accents. A pristine white 40-inch QLED smart TV on a matching white mobile stand is the luxurious centerpiece, showcasing incredibly vivid, sharp content. The setting radiates sophistication and high-end interior design. Photorealistic, clean aesthetic, luxurious, high contrast, studio lighting. --ar 1:1`
-
----
-
-### **[카드 4/4] - 추가 추천 & CTA**
-
-*   **카드 텍스트:**
-    **더 저렴한 20만원대 초가성비는? 💸**
-    **댓글 링크에서 모든 제품 보러가기! 🎁**
-    (서브 텍스트: 티비아울렛 28만원대, 위드라이프 22만원대! 지금 바로 확인!)
-*   **Midjourney 프롬프트:**
-    `A dynamic, energetic collage-style image. Various glimpses of modern smart TVs on mobile stands are shown in different, inviting home settings (a minimalist kitchen, a cozy balcony, a bright home office). Overlay elements like sparkling effects, small dollar signs, and arrows pointing downwards. The overall tone is exciting, vibrant, and strongly emphasizes affordability and choice. Bright, energetic, modern graphic design style. --ar 1:1`
+### 4. 네 번째 컷
+*   **들어갈 텍스트:**
+    이동성, 스마트, 디자인까지 완벽! ✨
+    **현명한 선택, 지금 바로 경험하세요! (링크는 프로필에!)**
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A triptych or collage of three vignettes, each showcasing the same sleek portable smart TV in different modern home environments: a minimalist living room, a bright kitchen island, and a cozy bedroom. The TV is positioned differently in each scene to emphasize versatility and mobility. Clean, bright, and inviting aesthetics with soft lighting. 1:1 aspect ratio. --ar 1:1 --v 5.2`
