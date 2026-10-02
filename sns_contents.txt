@@ -2,48 +2,72 @@
 
 ## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**(시작 전 효과음: LG 스탠바이미 광고 BGM 짧게 -> 갑자기 가격표 쾅! 찍히는 효과음 "띠로리~ 🚨")**
+**제목:** 스탠바이미 비싸서 포기? 🙅‍♀️ 2024 가성비 끝판왕 BEST 2 대공개!
 
-**[0-3초 훅]**
-**화자:** 스탠바이미? 💥 **(카메라에 삿대질하며 비장한 표정)** 잠깐! 이거 사려다 **돈 폭탄** 맞을 뻔했지?!
+**[영상 시작: 0-1초]**
+*   **화면:** LG 스탠바이미 제품 이미지와 함께 '₩3,000,000+' (가상 가격) 같은 비현실적인 가격표가 번쩍!
+*   **내레이션:** (빠르고 경쾌하게) "스탠바이미 갖고 싶다? 근데 가격 보고 기절할 뻔 했다면?!"
 
-**[3-8초]**
-**화자:** LG 스탠바이미.. 솔직히 비싸잖아! 이동성? 스마트 기능? 디자인? 다 좋은데.. 주머니 사정 누가 알아주냐고!
+**[0-3초: 훅]**
+*   **화면:** 스탠바이미 가격표에 큰 빨간색 X 표시가 쳐지고, '돈 낭비 그만!' 문구와 함께 현금을 던지는 듯한 효과.
+*   **내레이션:** "헉! 멈춰! 이 영상 보면 돈 아낄 수 있어!"
 
-**[8-13초]**
-**화자:** 걱정 마! 내가 20만원대로 **스탠바이미 핵심 기능 ALL** 가져올 '가성비 끝판왕' 찾았어! ✨ **(손으로 제품 이미지 가리키며 활짝 웃음)** 구글TV 탑재에 이동식 완제품! 받으면 바로 넷플릭스 직행!
+**[3-6초]**
+*   **화면:** 고민하는 표정의 사람 (또는 이모티콘), '비싸서 망설였다면' 자막. 뒤로 갈수록 영상 톤이 밝아짐.
+*   **내레이션:** "걱정 마세요! 10년차 MD가 엄선한 '가성비 스탠바이미' 딱 2개만 보세요!"
 
-**[13-15초]**
-**화자:** 현명한 소비? 바로 이거지! **(손가락으로 화면 톡톡! 혹은 아래 댓글/링크 제스처)** 더 자세한 정보는 지금 바로 확인해봐!
+**[6-9초]**
+*   **화면:** **위드라이프 43인치 TV**가 스타일리시한 거실에서 영화를 재생하는 모습. '43인치 대화면!' '35만원대!' 자막 강조.
+*   **내레이션:** "첫 번째! 43인치 대화면으로 몰입감 폭발! 구글TV까지 되는 위드라이프가 30만원대!"
+
+**[9-12초]**
+*   **화면:** **무빙큐빅스 24인치 TV**가 침실이나 캠핑장에서 선 없이 자유롭게 이동하며 콘텐츠를 보여주는 모습. '진정한 무선!' 'QLED 화질!' '39만원대!' 자막 강조.
+*   **내레이션:** "두 번째! 선 없는 자유! QLED 화질의 무빙큐빅스도 30만원대 후반!"
+
+**[12-14초]**
+*   **화면:** 두 제품의 특징(대화면/무선)을 비교하는 간결한 인포그래픽, '어떤 게 내 스탈?' 질문 자막.
+*   **내레이션:** "대화면이냐! 진정한 무선이냐! 여러분의 선택은?"
+
+**[14-15초: CTA]**
+*   **화면:** '더 자세한 정보는 링크에서!' '지금 바로 득템!' 자막과 함께 프로필 링크 아이콘.
+*   **내레이션:** "더 많은 정보와 최저가는 프로필 링크에서 확인하세요! 😉"
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 📸 인스타그램 카드뉴스 4컷
 
-### 1. 첫 번째 컷
-*   **들어갈 텍스트:**
-    LG 스탠바이미 비싸서 망설였다면? 😩 주목!
-    **#스탠바이미대체 #가성비TV #이동식TV**
+### 1. 컷 1
+*   **텍스트:**
+    > 스탠바이미, 비싸서 포기했어? 😥
+    > 놉! 이제 '가성비 스탠바이미' 시대!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A modern, minimalist living room. On one side, a luxurious, expensive-looking white portable smart TV (like LG StandbyMe) stands elegantly. On the other side, a question mark icon and a sad face emoji are subtly integrated, hinting at its high price. The room has soft, natural lighting. High contrast, clean lines, 1:1 aspect ratio. --ar 1:1 --v 5.2`
+    > A frustrated young person looking at a luxurious, modern portable TV (resembling LG StandbyMe) with a huge, expensive price tag (e.g., "$2,000+") floating above it. The person has a disappointed or shocked expression. The background is a stylish, minimalist living room with soft, warm lighting. --ar 1:1 --v 6.0 --style raw --q 2 --s 750
 
-### 2. 두 번째 컷
-*   **들어갈 텍스트:**
-    압도적 가성비! 💖 구글TV 이동식 삼탠바이미
-    **20만원대로 스탠바이미 핵심 기능 ALL! 😱**
+### 2. 컷 2
+*   **텍스트:**
+    > ✨ 압도적 대화면! ✨
+    > **위드라이프 43인치 구글 스마트 이동식 TV**
+    > 💰 30만원대로 만나는 초대형 스크린!
+    > 영화, 드라마, 스포츠! 몰입감 끝판왕!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, white, modern portable smart TV (similar to StandbyMe but with a distinct, minimalist design) in a contemporary, bright room. The screen shows a vibrant Google TV interface with app icons. A bold, modern graphic element highlighting "Under $300" or "200,000 KRW range" is subtly integrated, emphasizing extreme affordability. Clean background, soft shadows, 1:1 aspect ratio. --ar 1:1 --v 5.2`
+    > A visually stunning shot of a sleek, black 43-inch portable smart TV (like Withlife) positioned in a modern, cozy living room. The screen displays a vibrant, high-quality movie scene. A person is comfortably lounging on a sofa in the background, fully immersed. Cinematic lighting with a focus on the large screen. --ar 1:1 --v 6.0 --style raw --q 2 --s 750
 
-### 3. 세 번째 컷
-*   **들어갈 텍스트:**
-    구글TV 탑재 📺 넷플릭스, 유튜브 바로!
-    **완제품이라 설치 걱정 NO! 🙅‍♀️**
+### 3. 컷 3
+*   **텍스트:**
+    > 🔌 선 없는 자유! 🔌
+    > **무빙큐빅스 24인치 무선 배터리 삼탠바이미 (QLED)**
+    > 🔋 진짜 무선! QLED 선명한 화질!
+    > 침대 맡, 캠핑장, 욕실까지! 어디든 나만의 영화관!
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A joyful young woman watching Netflix on a portable smart TV with a Google TV interface, comfortably lounging in her stylish, cozy bedroom. The TV is on a movable stand, subtly indicating ease of movement and ready-to-use functionality. The room is modern, clean, and filled with warm, inviting light. Cinematic, 1:1 aspect ratio. --ar 1:1 --v 5.2`
+    > A minimalist, elegant white 24-inch portable smart TV (like Moving Cubics) with no visible wires, placed in two distinct settings: one side showing it by a bed in a bright, modern bedroom, and the other side showing it inside a chic glamping tent or a luxurious bathroom. The screen displays high-definition QLED content. Emphasize wireless freedom and versatile use. --ar 1:1 --v 6.0 --style raw --q 2 --s 750
 
-### 4. 네 번째 컷
-*   **들어갈 텍스트:**
-    이동성, 스마트, 디자인까지 완벽! ✨
-    **현명한 선택, 지금 바로 경험하세요! (링크는 프로필에!)**
+### 4. 컷 4
+*   **텍스트:**
+    > 당신의 '가성비 스탠바이미'는?
+    > ✅ 대화면 위드라이프 43인치 (35만원대)
+    > ✅ 무선 이동성 무빙큐빅스 24인치 (39만원대)
+    > ✅ 초저가 티비아울렛 (28만원대)
+    > ✅ LG 브랜드 LG 32인치 (44만원대)
+    > 🛒 더 자세히 보러가기 👉 [프로필 링크 클릭!]
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A triptych or collage of three vignettes, each showcasing the same sleek portable smart TV in different modern home environments: a minimalist living room, a bright kitchen island, and a cozy bedroom. The TV is positioned differently in each scene to emphasize versatility and mobility. Clean, bright, and inviting aesthetics with soft lighting. 1:1 aspect ratio. --ar 1:1 --v 5.2`
+    > A clean, modern infographic or comparison chart design. Four distinct sections, each showcasing a minimalist silhouette or icon representing a portable smart TV. Each section should have a clear label: 'Large Screen', 'Wireless Mobility', 'Ultra-low Price', 'LG Brand Trust'. Below each, list key features and a price range. Use a vibrant yet sophisticated color palette. The overall composition should be inviting and easy to read. --ar 1:1 --v 6.0 --style raw --q 2 --s 750
