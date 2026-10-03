@@ -1,58 +1,77 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 쇼츠 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** LG 스탠바이미? NO! 20만원대 '갓성비 삼탠바이미'로 인생 역전!
+**(음악: 밝고 경쾌하며 속도감 있는 배경 음악)**
 
-**타겟:** LG 스탠바이미를 갖고 싶지만 가격 때문에 망설이는 사람
+**[0-3초] 훅 (Hook)**
+*   **화면:** 스탠바이미 광고 화면이 잠시 스쳐 지나가고, 이어서 좌절한 듯한 얼굴이 클로즈업. '가격'이라는 텍스트가 크게 뜨고 X표시. 이내 활짝 웃는 얼굴로 전환되며 '30만원대?' 텍스트가 뜸.
+*   **대사:** "스탠바이미? 갖고 싶어? 근데 텅장 각? 놉! 🔥 30만원대로 스탠바이미 로망 실현하는 법, 지금 바로 알려줄게!"
 
-**콘셉트:** 압도적인 가성비로 LG 스탠바이미의 모든 기능을 누릴 수 있는 '삼탠바이미'를 강렬하게 소개. 돈 낭비를 멈추고 현명한 소비를 유도!
+**[3-7초] 문제 제기 & 솔루션 제시**
+*   **화면:** 다양한 삼탠바이미 제품들이 빠르게 교차 편집되며, '가성비 삼탠바이미'라는 자막이 강조됨.
+*   **대사:** "비싸게 살 필요 없어! '대륙의 실수' 아니, '갓성비 삼탠바이미'가 여기 있다구!"
 
----
+**[7-10초] 메인 상품 1 소개**
+*   **화면:** '와이드뷰 QLED 스마트 삼탠바이미' 제품 영상/사진에 'QLED 화질', '30만원대' 강조 자막.
+*   **대사:** "첫 번째! ✨ 와이드뷰 QLED 삼탠바이미! 30만원대 초반에 QLED 화질이 미쳤어! 내 방이 영화관으로 변신!"
 
-**[숏폼 스크립트]**
+**[10-13초] 메인 상품 2 소개**
+*   **화면:** 'LG 이동식 스마트TV 모니터' 제품 영상/사진에 'LG 브랜드', '신뢰성' 강조 자막.
+*   **대사:** "두 번째! 🛡️ LG 이동식 스마트TV 모니터! 40만원대로 LG의 신뢰와 안정성까지! 믿고 쓰는 브랜드는 역시 달라!"
 
-**(0-3초) ⚡️훅! 시선강탈!**
-*   **화면:** (빠른 템포의 경쾌한 비트 시작) 100만원대 LG 스탠바이미 가격표가 화면을 가득 채우고, 강렬하게 'X'자 표시 후 산산조각 난다. 그 자리에 20만원대 '삼탠바이미' 제품 이미지와 함께 "이제 돈낭비 그만!" 문구가 터치 이펙트와 함께 터져 나온다.
-*   **내레이션/자막:** "100만원대 스탠바이미? 이제 돈낭비 그만!" (놀란 표정)
-
-**(3-8초) 🚨문제 제기 & 솔루션 제시!**
-*   **화면:** 침대, 소파에서 폰/태블릿으로 영상 보는 사람들. 불편해 보이는 모습 ➡️ 다음 장면, '삼탠바이미'가 등장하며 화면 전환 이펙트.
-*   **내레이션/자막:** "스탠바이미 갖고 싶죠? 근데 비싸서 망설였죠? 여기! 기적의 가성비, '삼탠바이미'가 나타났다!"
-
-**(8-12초) ✨핵심 기능 어필!**
-*   **화면:**
-    *   '20만원대!' 큼지막한 숫자 이펙트.
-    *   화면 속 삼탠바이미에 넷플릭스, 유튜브, 디즈니+ 등 OTT 앱 로고들이 휙휙 지나가는 모습. (Google TV 로고 강조)
-    *   바퀴 달린 삼탠바이미가 거실에서 침실, 주방으로 스르륵 이동하는 빠른 컷 편집.
-*   **내레이션/자막:** "놀랍게도 20만원대! 넷플릭스, 유튜브, 웹서핑까지! 스마트 구글TV 탑재!" "바퀴로 거실-침실-주방 어디든 OK! 이게 진짜 이동형 TV의 끝판왕!"
-
-**(12-15초) 🔥강력한 CTA!**
-*   **화면:** '삼탠바이미' 제품 풀샷. "왜 이제 알았지?" "지금 바로 GO!" 문구가 화면을 채우고, 손가락으로 화면 쓱- 긋는 제스처.
-*   **내레이션/자막:** "비싼 돈 주고 살 필요 없어요! 가성비 삼탠바이미, 지금 바로 경험하세요! (프로필 링크 클릭!)" (점점 빨라지는 비트와 함께 마무리)
+**[13-15초] 추가 상품 언급 및 CTA**
+*   **화면:** 앞선 두 제품 외에 20만원대 초저가 제품 썸네일들이 잠시 보이며, 프로필 링크로 손가락이 가리키는 모션.
+*   **대사:** "더 저렴한 20만원대 초가성비 모델도 궁금해? 지금 바로 프로필 링크 확인하고, 방구석 라이프 업그레이드 해봐!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 (4컷)
+
+### **1. 첫 번째 컷**
+
+*   **텍스트:**
+    **스탠바이미, 꿈만 꾸지 마! 🙅‍♀️**
+    **30만원대로 '가성비 삼탠바이미' 로망 실현하는 법!**
+    (부제: 비싼 원조 말고, 현명하게 스마트 TV 즐기기!)
+*   **배경 이미지 프롬프트 (Midjourney):**
+    A stylish, minimalist room interior with a modern, elegant portable smart TV on a stand, illuminated by soft natural light streaming through a window. The TV screen displays a vibrant, inviting streaming service menu. Emphasize clean lines, a sophisticated color palette of whites, grays, and natural wood, creating a sense of luxury combined with accessibility. A subtle "No" symbol over an expensive price tag in the corner. --ar 1:1 --v 5.2
 
 ---
 
-### **[카드뉴스 1컷] - 훅! 가격 역전극**
+### **2. 두 번째 컷**
 
-*   **텍스트:** ⚡️100만원대 스탠바이미 OUT! 20만원대 '삼탠바이미'의 기적!
-*   **Midjourney 프롬프트:** A visually striking split image. On the left, a luxurious, expensive-looking LG StandbyME TV with a crossed-out price tag of "₩1,200,000" in red, shattered glass effect. On the right, a sleek, modern, but clearly more affordable "삼탠바이미" portable smart Google TV (티비아울렛 삼탠바이미 스마트 Google TV) with a prominent price tag of "₩285,000" in bold green, surrounded by a subtle golden glow and sparkling effects. The background is a minimalist, stylish living room. High contrast, vibrant colors, clean typography. --ar 1:1 --v 5.2
+*   **텍스트:**
+    **✨ 압도적 화질 가성비 끝판왕!**
+    **#와이드뷰 QLED 스마트 삼탠바이미 (32인치)**
+    ✅ 30만원대 초반에 **QLED 패널** 탑재!
+    ✅ 생생하고 깊이 있는 컬러감으로 **영화관이 내 방으로!**
+    ✅ 스마트TV 기능, 깔끔한 **화이트 디자인**까지!
+*   **배경 이미지 프롬프트 (Midjourney):**
+    A sleek, modern 32-inch white portable smart TV with a QLED screen displaying a high-resolution, vibrant movie scene (e.g., a lush nature landscape or an action-packed film). It stands on an elegant, minimalist mobile stand in a cozy, bright living room. The room has soft white and light grey tones, with a touch of greenery and warm light, highlighting the premium feel of the TV. --ar 1:1 --v 5.2
 
-### **[카드뉴스 2컷] - 압도적 가성비**
+---
 
-*   **텍스트:** 💸압도적인 가성비! 20만원대로 누리는 스마트 라이프!
-*   **Midjourney 프롬프트:** A cozy, modern bedroom scene. A young, smiling person (20s-30s) is comfortably watching the "삼탠바이미" portable smart Google TV, which is prominently displayed with its mobile stand next to the bed. A subtle visual overlay of "20만원대" in a stylish font and scattered golden coin illustrations around the TV. The person looks relaxed and satisfied. Warm, inviting natural light filtering through a window. --ar 1:1 --v 5.2
+### **3. 세 번째 컷**
 
-### **[카드뉴스 3컷] - 스마트 Google TV**
+*   **텍스트:**
+    **🛡️ 믿고 쓰는 LG의 안정성과 합리적 가성비!**
+    **#LG 이동식 스마트TV 모니터 (32인치)**
+    ✅ 40만원대로 **LG 브랜드 파워**를 그대로!
+    ✅ 오랜 시간 안심하고 사용하는 **신뢰도 높은 품질!**
+    ✅ 스마트 모니터 기능으로 **업무/학습 활용도 200%!**
+*   **배경 이미지 프롬프트 (Midjourney):**
+    A sophisticated 32-inch LG branded portable smart TV monitor on a sturdy, clean-designed mobile stand. The screen initially shows a modern, clean smart TV interface, then subtly shifts to a productive workspace with charts or documents. It is placed in a stylish, minimalist home office setting with warm wooden accents and natural light, emphasizing reliability and versatility. --ar 1:1 --v 5.2
 
-*   **텍스트:** 🎬 넷플릭스, 유튜브 다 돼! 스마트 Google TV로 무한 콘텐츠!
-*   **Midjourney 프롬프트:** A close-up, dynamic shot of the "삼탠바이미" portable smart Google TV screen. The screen displays a vibrant, modern collage of popular OTT service logos (Netflix, YouTube, Disney+, Coupang Play, Tving, Wavve) integrated into a sleek Google TV interface. A hand holding a minimalist, modern remote control is subtly visible in the foreground, pointing towards the screen. The background is softly blurred to keep focus on the screen. Bright, clear, high-definition display, smart home aesthetic. --ar 1:1 --v 5.2
+---
 
-### **[카드뉴스 4컷] - 자유로운 이동성 & CTA**
+### **4. 네 번째 컷**
 
-*   **텍스트:** 💡 거실-침실-주방 자유롭게! 올인원 이동형 TV! (지금 바로 경험하세요!)
-*   **Midjourney 프롬프트:** A dynamic, multi-panel (3 panels) composition showing the "삼탠바이미" portable smart Google TV seamlessly transitioning between different home environments. Panel 1: TV in a bright, minimalist living room with someone relaxing on a sofa. Panel 2: TV in a modern kitchen with someone casually cooking. Panel 3: TV in a cozy bedroom next to a bed. The TV is on its wheeled stand, clearly implying easy movement. A vibrant call-to-action button or text "지금 바로 경험하세요!" is subtly integrated at the bottom. Bright, airy, modern home aesthetic. --ar 1:1 --v 5.2
+*   **텍스트:**
+    **💰 20만원대 초가성비 모델까지!**
+    **프로필 링크에서 나만의 삼탠바이미를 찾아봐!**
+    ✔️ #티비아울렛 구글TV 삼탠바이미 (Google TV OS)
+    ✔️ #익스프레스럭 HD 화이트에디션 (가장 저렴한 28만원대!)
+    (CTA: 지금 바로 클릭! ➡️ 프로필 링크 확인!)
+*   **배경 이미지 프롬프트 (Midjourney):**
+    A dynamic collage or split screen image showcasing two distinct, modern portable smart TVs on mobile stands. One screen clearly displays the Google TV interface with apps, and the other features a clean, simple white smart TV UI. They are artfully arranged against a backdrop of diverse stylish home settings (e.g., a cozy reading nook and a vibrant modern bedroom), emphasizing their versatility and affordability. In the foreground, a prominent graphic element like a glowing arrow or a hand points towards a call-to-action button or a smartphone icon with "Link in Bio" text. --ar 1:1 --v 5.2
