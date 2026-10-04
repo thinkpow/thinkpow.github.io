@@ -1,77 +1,69 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
+## 🚀 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-**[영상 컨셉]**
-빠른 전환, 강조되는 텍스트 자막, 신나는 BGM. 다양한 공간(침대 옆, 주방, 거실 등)에서 삼탠바이미를 활용하는 모습이 빠르게 지나감.
-
----
-
-**[스크립트]**
-
-**(0-3초) 훅 - 빠르고 강렬한 어조, 고뇌하는 표정으로 시작 후 반전)**
-"스탠바이미... 비싸서 맨날 고민만 했죠? 🤦‍♀️ 제가 딱 15초 만에 해결해 드릴게요! ✨"
-
-**(3-7초) 삼탠바이미 소개 및 장점 - 밝고 활기찬 어조)**
-"이게 바로 요즘 핫한 '삼탠바이미'! 스마트TV에 이동식 스탠드를 더해서, 스탠바이미 감성 그대로~ 가격은 무려 1/3!"
-"방, 주방, 거실 어디든 내 맘대로 옮겨 다니면서 넷플릭스, 유튜브 다 봐요!"
-
-**(7-13초) 핵심 제품 소개 - 빠른 템포로 장점 강조)**
-"첫째! 🚨20만원대 실화? 구글TV까지! **'티비아울렛'**은 최저가 가성비 끝판왕!"
-"둘째! 🤩심지어 40인치 대화면도 30만원대! **'위드라이프'**로 압도적인 몰입감 느껴봐요!"
-
-**(13-15초) 마무리 & CTA - 친근하고 유혹적인 어조)**
-"화질/디자인 특화, 방문설치까지! 더 자세한 추천템은 댓글 링크 확인하세요! ➡️"
+**콘텐츠 제목:** LG 스탠바이미 비싸서 포기? 😭 10년차 MD가 찾은 '이동식 스마트TV' 가성비 끝판왕! #스탠바이미 #가성비TV
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[영상 스크립트]**
 
-**[카드뉴스 전체 컨셉]**
-모던하고 깔끔한 디자인, 핵심 정보 위주의 텍스트 구성, 감각적인 배경 이미지로 시선 사로잡기.
+**(0-3초: 훅! 시선 강탈)**
+*   **화면:** (빠른 비트의 경쾌한 음악 시작) 침대 옆, 거실 한가운데, 주방 식탁 위에 덩그러니 놓인 일반 TV들. 사람이 무거운 TV를 옮기려다 쩔쩔매는 코믹한 모습. 답답한 표정 클로즈업! (띠용? 하는 효과음)
+*   **대사 (내레이션/텍스트 오버레이):** "헉! LG 스탠바이미 비싸서 포기했어? 🤯"
+
+**(3-7초: 문제 제기 & 솔루션 도입)**
+*   **화면:** 빠르게 전환! 슬림하고 세련된 이동식 스마트 TV가 거실에서 침실로, 주방으로 스르륵 움직이는 모습. 다양한 OTT 앱(넷플릭스, 유튜브 등) 로고들이 번개처럼 지나감. (✨반짝이는 효과음)
+*   **대사 (내레이션/텍스트 오버레이):** "고민 끝! 10년차 MD가 찾아낸 '이동식 스마트TV' 가성비 끝판왕 등장!"
+
+**(7-12초: 핵심 상품 소개 & 가치 제안)**
+*   **화면:** '위드라이프 40인치 삼탠바이미TV'와 '티비아울렛 삼탠바이미 무빙TV' 제품 이미지/사용 영상이 교차하며 주요 특징 강조.
+    *   40인치 대화면 드라마 시청 (위드라이프)
+    *   20만원대 가격 자막 크게 강조 (티비아울렛)
+    *   구글 TV/안드로이드 OS 로고 (두 제품 모두 해당)
+*   **대사 (내레이션/텍스트 오버레이):** "40인치 대화면에 구글 OS까지! 심지어 스탠바이미 1/10 가격부터? 💰" (돈 세는 소리 효과음)
+
+**(12-15초: 강력한 Call to Action)**
+*   **화면:** 두 제품이 나란히 놓여있고, 주변에 하트, 별 이모티콘이 터짐. "지금 바로 확인!" 자막과 함께 손가락 아래 가리키는 이모지.
+*   **대사 (내레이션/텍스트 오버레이):** "거실, 침실, 주방! 어디든 OK! 놓치지 마세요! 👇 (링크는 프로필)"
+*   **음악:** 빠르고 신나는 비트 클라이맥스 후 톡톡 튀는 마무리!
 
 ---
 
-### **카드 1/4**
+## 📸 인스타그램 카드뉴스 (4컷)
 
-*   **텍스트:**
-    *   **헤드라인:** 스탠바이미 비싸서 포기했니? 💰
-    *   **본문:** 걱정 마! 20만원대로 감성 + 편리함 다 잡는 '삼탠바이미' 등장!
-    *   **서브:** 스마트TV + 이동식 스탠드의 완벽 조합! 침대, 주방 어디든 나만의 영화관 완성!
-*   **Midjourney 프롬프트 (영문):**
-    `A stylish, cozy living room with soft natural light, featuring a sleek, modern movable TV stand with a smart TV on it. The screen shows a vibrant streaming service interface. Soft focus background, warm inviting tones, minimalist aesthetic, no people. --ar 1:1 --v 5.2`
+---
 
-### **카드 2/4**
+### **카드 1: 훅 & 문제 제기**
 
-*   **텍스트:**
-    *   **헤드라인:** 💸 20만원대 실화? 구글TV까지!
-    *   **본문:** **티비아울렛 구글TV 삼탠바이미**
-    *   **특징:**
-        *   ✅ 압도적인 최저가 (28만원대)
-        *   ✅ 구글TV OS 탑재 (OTT 무제한)
-        *   ✅ 이동식 스탠드 기본 포함
-*   **Midjourney 프롬프트 (영문):**
-    `A bright, minimalist bedroom. A person is casually watching a smart TV on a movable stand. The TV screen displays a Netflix-like interface. Modern, affordable aesthetic. Focus on the movable TV in a cozy setting. --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    "LG 스탠바이미? 😲 헉 소리나는 가격 때문에 망설였지? 이제 '가성비' 끝판왕으로 즐겨봐! 💸"
+*   **Midjourney 프롬프트 (배경 이미지):**
+    `A vibrant, modern living room with a sleek, minimalist aesthetic. A young woman with a frustrated expression, standing next to a very expensive, high-end mobile TV (like LG Standby Me) with a giant price tag symbol. On the opposite side, a bright, inviting graphic of a significantly cheaper, but equally stylish, mobile smart TV with a prominent 'Affordable Alternative' banner and a 'SAVE MONEY' icon. Emphasize affordability and smart features. Bright, clean, modern photography style, focus on contrasting emotions and products. --ar 1:1 --v 5.2`
 
-### **카드 3/4**
+---
 
-*   **텍스트:**
-    *   **헤드라인:** ✨ 40인치 대화면도 30만원대!
-    *   **본문:** **위드라이프 40인치 삼탠바이미**
-    *   **특징:**
-        *   ✅ 압도적 40인치 대화면
-        *   ✅ 구글 1등급 안드로이드 OS
-        *   ✅ 30만원대 초반의 합리적 가격
-*   **Midjourney 프롬프트 (영문):**
-    `A spacious, modern kitchen with an island. A large 40-inch smart TV on a movable stand is positioned near the island, displaying a cooking tutorial or a vibrant movie scene. Clean, bright, functional aesthetic. --ar 1:1 --v 5.2`
+### **카드 2: 메인 상품 1 소개**
 
-### **카드 4/4**
+*   **카드 텍스트:**
+    "1. 위드라이프 40인치 삼탠바이미TV 🤩: 40인치 대화면 + 구글 안드로이드 OS! 스탠바이미 1/10 가격으로 프리미엄 OTT를 맘껏!"
+*   **Midjourney 프롬프트 (배경 이미지):**
+    `A modern, cozy bedroom with natural sunlight streaming in. A smiling person comfortably lounging on a bed, watching a vibrant movie on a sleek, white 40-inch mobile smart TV (like Withlife 40-inch Samtenbaimi TV) on wheels. The TV is perfectly positioned at the foot of the bed, displaying a high-quality streaming service interface. The room feels inviting, relaxed, and tech-savvy. High-end product photography, warm lighting. --ar 1:1 --v 5.2`
 
-*   **텍스트:**
-    *   **헤드라인:** 당신에게 딱 맞는 삼탠바이미는?
-    *   **본문:**
-        *   ✔️ 화질/디자인 중시? ➡️ 와이드뷰 QLED 화이트 에디션
-        *   ✔️ 설치 걱정 NO? ➡️ 무빙큐빅스 방문설치 서비스
-    *   **CTA:** 더 많은 삼탠바이미 추천템은 프로필 링크에서 확인하세요! ➡️
-*   **Midjourney 프롬프트 (영문):**
-    `A split image showcasing two distinct modern interior spaces. On the left, a sleek white QLED TV on a minimalist movable stand in a bright, design-focused living room. On the right, a smart TV on a stand in a cozy space, with a subtle, blurred background of a technician (or installation tools) implying setup service. Clean, modern, comparative visual. --ar 1:1 --v 5.2`
+---
+
+### **카드 3: 메인 상품 2 소개**
+
+*   **카드 텍스트:**
+    "2. 티비아울렛 삼탠바이미 무빙TV 🥳: 20만원대 실화?! 이동성 + 스마트 기능 + 구글TV 기본 탑재! 원룸, 서브TV 딱이야!"
+*   **Midjourney 프롬프트 (배경 이미지):**
+    `A stylish, minimalist studio apartment with a compact, modern kitchen area. A person is casually cooking at a chic kitchen island, glancing at a mobile smart TV (like TV Outlet Samtenbaimi Moving TV) on wheels that is conveniently placed nearby. The TV screen shows a cooking recipe video or a YouTube content. The overall vibe is practical, smart living for a single person or couple. Clean lines, soft focus on the TV, bright interior. --ar 1:1 --v 5.2`
+
+---
+
+### **카드 4: 요약 & CTA**
+
+*   **카드 텍스트:**
+    "최대 100만원 이상 절약! 💰 MD가 엄선한 '스탠바이미 가성비'템으로 스마트한 라이프 시작! ✨ 지금 바로 링크 클릭! 👇"
+*   **Midjourney 프롬프트 (배경 이미지):**
+    `An engaging, commercial advertising style image. On the left side, a hand holding a significant stack of money with a surprised, happy expression, indicating huge savings. On the right side, two different sleek, modern mobile smart TVs (like Withlife 40-inch and TV Outlet Moving TV) are displayed side-by-side on a clean, light background, with their affordable price tags clearly visible. An overlayed graphic with an arrow pointing down and text like "Click Here!" or "Shop Now!". Bright, dynamic, and persuasive composition. --ar 1:1 --v 5.2`
