@@ -1,75 +1,58 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 📺 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-**[영상 컨셉]**
-빠른 템포의 배경 음악과 함께 시선을 사로잡는 컷 전환, 이모지 및 핵심 키워드 자막 활용.
+### 🚀 **훅 (첫 3초)**
+**(화면: 비싼 스탠바이미 가격표가 순간적으로 클로즈업되며 빠르게 X표시, 이어서 다양한 삼탠바이미 사용 장면들이 빠르게 교차 편집됨)**
+**내레이션 (신나고 빠르게):** 비싼 스탠바이미, 화면 작아서 아쉬웠죠? 🤫 이제 그 고민 끝!
 
-**[시작 3초 훅]**
-*   **화면:** 슬픈 표정으로 LG 스탠바이미 비싼 가격표를 바라보는 사람 → 번개처럼 전환되며 화려한 '삼탠바이미' 등장! (💰💥 이모지)
-*   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미... 아직도 가격 때문에 망설여? 댓츠 노노! 이제 '삼탠바이미'로 바꿀 시간!"
-
-**[전체 스크립트 (15초)]**
-
-*   **0-3초 (훅):**
-    *   **화면:** 슬픈 표정으로 LG 스탠바이미 비싼 가격표를 바라보는 사람 → 번개처럼 전환되며 화려한 '삼탠바이미' 등장! (💰💥 이모지)
-    *   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미... 아직도 가격 때문에 망설여? 댓츠 노노! 이제 '삼탠바이미'로 바꿀 시간!"
-    *   **자막:** #스탠바이미 #비싸 #대안은?
-*   **3-7초 (가성비 강조):**
-    *   **화면:** 스카이뷰 삼탠바이미 (화이트 에디션)의 세련된 디자인을 부각. 가격 자막 '27만원대부터!'
-    *   **내레이션:** "20만원대부터! 스탠바이미 감성은 그대로~ 가격은 뚝! 떨어졌어요!"
-    *   **자막:** #가성비 #삼탠바이미 #화이트에디션
-*   **7-12초 (핵심 기능 어필):**
-    *   **화면:** 스카이뷰의 화이트 디자인 (QLED 강조) → 티비아울렛 구글TV 삼탠바이미 (구글TV OS 화면) 빠르게 전환.
-    *   **내레이션:** "화이트 디자인부터 구글TV OS 탑재까지! 원하는 기능, 고화질도 다 골라봐!"
-    *   **자막:** #QLED #구글TV #스마트TV
-*   **12-15초 (CTA):**
-    *   **화면:** 4가지 추천 제품들이 빠르게 스쳐 지나가며 최종적으로 모든 제품을 모아 보여주는 화면. (링크 안내 자막)
-    *   **내레이션:** "더 자세한 정보는 댓글이나 프로필 링크에서 확인하세요! 지금 바로 당신의 로망을 겟!"
-    *   **자막:** 🚀지금 바로 겟! #댓글확인 #프로필링크
+### 🎬 **본편 (15초 스크립트)**
+**내레이션 (발랄하고 명쾌하게):**
+(0-3초) 비싼 스탠바이미, 화면 작아서 아쉬웠죠? 🤫 이제 그 고민 끝!
+(3-6초) ✨ **압도적 가성비 '삼탠바이미'**가 나타났다! 스탠바이미 대체품 찾던 당신, 주목!
+(6-9초) 첫 번째! **위드라이프 40인치 삼탠바이미!** 이 가격에 40인치? 영화관이 내 방으로!
+(9-12초) 두 번째! **와이드뷰 QLED 32인치!** 선명한 QLED 화질에 세련된 화이트 디자인까지 완벽!
+(12-15초) 더 이상 비싼 돈 낼 필요 없죠? 지금 바로 프로필 링크 클릭해서 현명한 선택하세요! 후회 없을 걸요? 🔥
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
----
-
-### **1. 컷 (인트로 - 문제 제기 및 솔루션 제시)**
-
-*   **카드뉴스 텍스트:**
-    *   **헤드라인:** "LG 스탠바이미, 아직도 꿈만 꾸셨나요?"
-    *   **본문:** "비싼 가격 때문에 망설였다면? ❌ 이젠 '삼탠바이미'로 당신의 로망을 현실로!"
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, modern living room interior with soft, warm lighting. A person is looking longingly at a blurred, expensive-looking movable smart screen (resembling LG StandbyMe) in the background, with a red "X" sign overlay. In the foreground, a vibrant, accessible, and stylish alternative (SamtanbyMe) appears clearly, symbolizing an affordable solution. Cinematic, high detail, inviting atmosphere, --ar 1:1`
+### 🖼️ 1컷: 스탠바이미? 이제 그만!
+*   **텍스트:**
+    ## 스탠바이미? 🙅‍♀️ 이제 그만!
+    **비싼 가격, 작은 화면에 아쉬웠다면?**
+    ✨ **'삼탠바이미'**가 정답!
+*   **Midjourney Prompt:** `A stylish, minimalist living room with soft natural light. A blurred, expensive smart TV with a high price tag crossed out with a red X. In the foreground, a sleek, modern, more affordable portable smart TV on a stand is in sharp focus, glowing with vibrant content. High contrast, photorealistic, cinematic lighting, ultra-detailed.`
 
 ---
 
-### **2. 컷 (메인 추천 1 - 스카이뷰 삼탠바이미)**
-
-*   **카드뉴스 텍스트:**
-    *   **헤드라인:** "✨디자인+가성비 끝판왕✨ 스카이뷰 삼탠바이미"
-    *   **본문:** "💰 27만원대! LG 스탠바이미 감성 '화이트 에디션'에 'QLED' 화질 마케팅까지! 어떤 인테리어에도 찰떡!"
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A minimalist, clean white bedroom interior with abundant natural light. A stylish, portable smart screen (like a white LG StandbyMe alternative) with a slender, white stand is elegantly positioned. The screen displays vibrant, high-contrast visuals, emphasizing 'QLED' quality. Modern, serene, elegant, high aesthetic, --ar 1:1`
-
----
-
-### **3. 컷 (메인 추천 2 - 티비아울렛 구글TV 삼탠바이미)**
-
-*   **카드뉴스 텍스트:**
-    *   **헤드라인:** "🤖스마트함의 신세계🤖 티비아울렛 구글TV 삼탠바이미"
-    *   **본문:** "✨ 28만원대! '구글 TV OS' 탑재로 넷플릭스, 유튜브 등 OTT 앱 완벽 지원! 스마트 라이프 완성!"
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy, modern living space, perhaps a home office or a lounge area. A movable smart screen (similar to an LG StandbyMe alternative) displays a clear Google TV interface with recognizable app icons (Netflix, YouTube, Disney+). A hand is holding a sleek remote, interacting with the screen. Warm, inviting, tech-savvy, --ar 1:1`
+### 🖼️ 2컷: 40인치 대화면? 이 가격에? (위드라이프)
+*   **텍스트:**
+    ## 🤯 40인치 대화면이 30만원대?
+    **위드라이프 스마트 40인치 삼탠바이미**
+    ✅ **압도적 40인치** 초대형 몰입감
+    ✅ **구글 1등급 안드로이드 TV** 완비!
+    (가격: 336,000원)
+*   **Midjourney Prompt:** `A cozy, modern bedroom with a large window. A sleek, black 40-inch portable smart TV on a minimalist stand is playing a vibrant movie scene. The screen glows brightly, casting a warm light on the room. A person is comfortably watching from a bed or sofa in the background, out of focus. Photorealistic, warm ambient lighting, highly detailed.`
 
 ---
 
-### **4. 컷 (추가 추천 2가지 - 와이드뷰 & 무빙큐빅스)**
+### 🖼️ 3컷: 화질과 디자인, 둘 다 놓치지 마! (와이드뷰)
+*   **텍스트:**
+    ## 🎨 QLED 화질 + 화이트 디자인?
+    **와이드뷰 FHD QLED 32인치 삼탠바이미**
+    ✅ **선명한 QLED 디스플레이**로 생생하게!
+    ✅ **세련된 화이트 디자인**으로 인테리어 완성!
+    (가격: 329,000원)
+*   **Midjourney Prompt:** `A bright, Scandinavian-style living space with a white 32-inch portable smart TV on a clean, modern stand. The TV screen displays incredibly vivid, high-resolution QLED colors. The overall aesthetic is clean, bright, and harmonious. Natural daylight, elegant, detailed textures.`
 
-*   **카드뉴스 텍스트:**
-    *   **헤드라인:** "내 취향저격 추가 PICK! 🎯"
-    *   **본문:**
-        *   "✅ **와이드뷰 (32만원대):** 'FHD QLED' 고화질! 화질 최강자!"
-        *   "✅ **무빙큐빅스 (34만원대):** '전문가 방문설치' 서비스! 편리함까지 완벽!"
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A split-frame or diptych image. On the left: A movable smart screen (similar to an LG StandbyMe alternative) displaying extremely vivid, high-definition (FHD QLED) cinematic content in a bright, modern living room. On the right: The same type of smart screen being effortlessly installed or set up by a uniformed professional in a clean home environment, emphasizing ease and convenience. Modern, functional, feature-focused, --ar 1:1`
+---
+
+### 🖼️ 4컷: 현명한 당신의 선택은?
+*   **텍스트:**
+    ## 비싼 스탠바이미 이제 그만!
+    **가성비, 화면, 화질, 디자인까지!**
+    **현명한 당신의 선택은?**
+    👇 **지금 바로 프로필 링크에서 만나보세요!** 👇
+*   **Midjourney Prompt:** `A split image showing two scenarios: on the left, a frustrated person looking at a small, expensive, generic smart TV. On the right, a happy, relaxed person enjoying a vibrant, larger screen portable smart TV on a stand. The mood on the right is bright and satisfying. The portable TV on the right is glowing with content. Modern infographic style, clear distinction, positive contrast, vibrant colors, detailed.`
