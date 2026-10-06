@@ -1,74 +1,72 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트
 
-**(음악: 경쾌하고 트렌디한 배경 음악)**
+**제목:** 💥 20만원대 스탠바이미? 가성비 삼탠바이미 BEST! (내 방을 영화관으로!) 💥
 
-*   **0-3초 (HOOK):**
-    *   **영상:** 오리지널 스탠바이미 비싼 가격표(예: 120만원)에 큰 X표시가 빠르게 나타나고, 돈 세는 소리(촤르륵)가 짧게 들리다 뚝 멈춤. 화면 전환되며 화사하고 세련된 '삼탠바이미' 여러 대가 등장.
-    *   **대사:** "스탠바이미? 갖고 싶은데... 가격이 너무 사악하다고? 💸 잠시만요!"
-    *   **자막:** `#가성비스탠바이미 #삼탠바이미`
+**콘텐츠 목표:** 시청자의 "비싼 스탠바이미"에 대한 고민을 해결하고, 20만원대 '삼탠바이미'의 압도적인 가성비와 스마트 기능, 이동성을 강조하여 구매 욕구를 자극한다.
 
-*   **3-8초 (제품 1: LG 삼탠바이미):**
-    *   **영상:** LG 32인치 스마트TV가 침대 옆에서 영화를 보여주고, 이어서 책상 위에서 모니터로 활용되는 모습이 빠르게 교차. LG 로고 강조.
-    *   **대사:** "✨ 첫 번째! 'LG' 딱지 달고 나온 32인치 스마트 모니터! 무려 40만원대! AS 걱정 없이 즐기는 프리미엄 가성비!"
-    *   **자막:** `LG 32인치 스마트TV (41만원대) | AS 걱정 끝! TV+모니터`
+---
 
-*   **8-12초 (제품 2: 와이드뷰 QLED):**
-    *   **영상:** 와이드뷰 QLED 화이트 에디션이 선명하고 다채로운 화면(예: 풍경 영상)을 보여주며 깔끔한 인테리어에 어우러지는 모습.
-    *   **대사:** "🌟 두 번째! 30만원대 QLED 화이트 에디션! 선명한 화질에 인테리어까지 완벽! 올인원 이동식 TV!"
-    *   **자막:** `와이드뷰 QLED 화이트 (32만원대) | QLED 화질+인테리어템`
+**(0-3초) 훅: 시선 강탈 & 문제 제기**
+*   **영상:** (화면 중앙에 '스탠바이미' 이미지와 함께 큼지막하게 '200만원대?' 텍스트가 번쩍!)
+*   **대사:** "스탠바이미 사고 싶어? 근데 200만원? 😱 No! 딱 15초면 20만원대로 내 방을 영화관으로 만드는 법 알려줄게!" (빠르고 역동적인 템포)
 
-*   **12-15초 (제품 3: 추가 언급 & CTA):**
-    *   **영상:** 20만원대 구글TV 제품(예: 위드라이프)이 가볍게 이동하는 모습과 함께 3가지 제품이 한 화면에 정리된 인포그래픽 등장.
-    *   **대사:** "💰 20만원대 초가성비 구글TV 세트까지? 상세 정보는 프로필 링크에서 확인하세요!"
-    *   **자막:** `20만원대 구글TV 세트도! | 더 많은 정보는 프로필 링크 클릭!`
+**(3-7초) 솔루션 제시 & 핵심 상품 강조**
+*   **영상:** (티비아울렛 구글 삼탠바이미가 침대 옆에서 넷플릭스를 재생하는 모습, 화면에 '20만원대 후반!' 텍스트 오버랩)
+*   **대사:** "이게 바로 '삼탠바이미' 매직! 넷플릭스, 유튜브 다 되는 구글 스마트 TV에 이동식 거치대까지! 이 풀세트가 무려 20만원대 후반이라고?!"
+
+**(7-11초) 추가 선택지 & 편리함 강조**
+*   **영상:** (무빙큐빅스 삼탠바이미 전문가 방문설치 장면 + 깔끔한 화이트 삼탠바이미가 주방에서 요리 레시피를 보여주는 모습 교차 편집)
+*   **대사:** "설치까지 다 해주는 프리미엄 가성비? 깔끔한 화이트 디자인? 취향에 맞춰 고를 수 있어! 원하는 곳 어디든 내 마음대로!"
+
+**(11-15초) 강력한 CTA & 마무리**
+*   **영상:** (다양한 삼탠바이미 제품들이 각기 다른 공간에서 활용되는 하이라이트 영상, 화면 하단에 '지금 바로 링크 클릭!' 텍스트)
+*   **대사:** "더 이상 비싸게 사지 마! ✨ 가성비 끝판왕 삼탠바이미! 내돈내산 찐템 보러 지금 바로 링크 클릭!" (생기 넘치는 목소리)
 
 ---
 
 ## 📸 인스타그램 카드뉴스 (4컷)
 
-### 1. 첫 번째 컷 (도입)
+---
 
-*   **들어갈 텍스트:**
-    **스탠바이미, 갖고 싶지만 너무 비싸다고? 💸**
-    **통장은 살리고 감성은 살리는**
-    **'가성비 삼탠바이미' 추천 BEST 5!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A stylish, modern minimalist living room scene. In the center, an empty space or a silhouette of a sleek mobile TV, with a large, glowing red "X" mark over a dollar sign ($) floating above it, representing high cost. The mood is initially a bit frustrated but quickly shifts to hopeful. Soft, warm natural light coming from a window. Clean lines, minimalist aesthetic. --ar 1:1 --v 5.2 --style raw
-    ```
+### **💡 1컷: 훅 (문제 제기)**
 
-### 2. 두 번째 컷 (LG 32인치 이동식 스마트TV)
+*   **텍스트:**
+    **스탠바이미 사고 싶다...**
+    **근데 200만원? 😱 포기해야 하나...**
+*   **Midjourney 프롬프트 (영문):**
+    `A young woman with a disappointed expression, looking at a reflection of a sleek, expensive LG StandbyMe smart screen in a modern, minimalist room. The room feels aspirational but currently empty. Soft, natural light. High quality, cinematic, realistic photography style.`
 
-*   **들어갈 텍스트:**
-    **1. LG 32인치 이동식 스마트TV (41만원대)**
-    **✨ 'LG' 이름값! AS 걱정 없는 프리미엄 가성비!**
-    **TV, 모니터 올인원! 압도적 브랜드 신뢰도**
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A sleek 32-inch white smart TV with a subtle "LG" logo on a modern mobile stand. The TV screen is dynamically split, showing a movie playing on one side and a work document on the other, illustrating its versatility. It's positioned in a bright, cozy multi-functional space (e.g., half bedroom, half home office). Focus on premium quality and brand trust. Soft, diffused lighting, clean, modern decor. --ar 1:1 --v 5.2 --style raw
-    ```
+---
 
-### 3. 세 번째 컷 (와이드뷰 FHD QLED 화이트에디션 스마트 TV)
+### **💡 2컷: 솔루션 제시 (삼탠바이미 등장)**
 
-*   **들어갈 텍스트:**
-    **2. 와이드뷰 QLED 화이트 에디션 (32만원대)**
-    **🌟 30만원대 QLED 패널! 압도적 화질, 세련된 화이트 디자인!**
-    **인테리어까지 살리는 올인원 이동식 TV**
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A beautiful 32-inch white smart TV (Wideview brand, if possible, or generic modern design) with a vibrant, colorful QLED screen displaying a high-resolution nature scene (e.g., lush forest or ocean sunset). The TV is on a matching white mobile stand, placed in a bright, Scandinavian-style living room with white walls and natural wood accents. Emphasize the sleek white design and vivid screen quality. Natural daylight, clean and aesthetic. --ar 1:1 --v 5.2 --style raw
-    ```
+*   **텍스트:**
+    **놉! 🙅‍♀️**
+    **20만원대 '삼탠바이미'로**
+    **내 방을 영화관으로!**
+*   **Midjourney 프롬프트 (영문):**
+    `A vibrant, energetic scene in a cozy, modern bedroom. A stylish 32-inch portable smart TV (SamtanbyMe) on a sleek, mobile stand is positioned perfectly at the foot of the bed, displaying a thrilling movie scene from Netflix. A person is happily watching from under a duvet. Warm, inviting atmosphere with accent lighting. High quality, realistic photo, dynamic composition.`
 
-### 4. 네 번째 컷 (마무리 & CTA)
+---
 
-*   **들어갈 텍스트:**
-    **💰 20만원대 초가성비 구글TV 세트까지!**
-    **내 라이프스타일에 딱 맞는 삼탠바이미,**
-    **지금 바로 만나보세요!**
-    **🔗 프로필 링크에서 자세히 보기!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A dynamic collage or split-screen image showcasing three different mobile smart TVs (one minimalist white, one sleek black, one with a prominent Google TV interface), each representing different price points with subtle "$200s," "$300s," "$400s" text bubbles floating near them. A bold, modern call-to-action button or a smartphone icon with a link symbol is clearly visible. Bright, inviting, and modern graphic design feel. --ar 1:1 --v 5.2 --style raw
-    ```
+### **💡 3컷: 핵심 장점 강조 (가성비 & 스마트 기능)**
+
+*   **텍스트:**
+    **✨ 구글 스마트 TV + 이동식 거치대**
+    **이 모든 게 20만원대부터?!**
+    **(넷플릭스, 유튜브 기본!)**
+*   **Midjourney 프롬프트 (영문):**
+    `Close-up shot of a modern smart TV screen showing the Google TV interface, with prominent icons for Netflix, YouTube, and other streaming apps. The screen is vibrant and clear. In the background, subtly blurred, a sleek, minimalist mobile stand with smooth wheels is visible, suggesting easy movement. Focus on cutting-edge technology and affordability. High resolution, clear, modern tech product photography.`
+
+---
+
+### **💡 4컷: 선택지 & CTA**
+
+*   **텍스트:**
+    **설치까지 OK vs. 초가성비 TV 단품!**
+    **당신의 취향은?**
+    **➡️ 더 많은 가성비템은 프로필 링크에서!**
+*   **Midjourney 프롬프트 (영문):**
+    `A visually balanced split image. On the left side, a professional technician is shown smiling while neatly installing a 32-inch smart TV onto a white mobile stand in a bright, tidy living room, emphasizing ease of setup. On the right side, the same sleek, white 32-inch smart TV (without a stand) is elegantly placed on a stylish, low-profile TV cabinet in a minimalist, modern room. Both sides are well-lit, high-quality, realistic photography, clean and inviting.`
