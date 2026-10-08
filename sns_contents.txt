@@ -1,59 +1,75 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🎥 도파민 폭발 15초 쇼츠 스크립트
 
-**제목:** 스탠바이미 비싸서 망설였다면? 30만원대 '이것' 보세요! 😱 #가성비 #삼탠바이미 #스마트TV
-
-**(시작: ⚡️ 시선을 강탈하는 훅! - 0~3초)**
-
-**나레이션:** 스탠바이미 갖고 싶죠? 근데 200만원 넘는 가격에 망설였다면... **이거 보세요!** ⚡️ **30만원대로 스탠바이미 뺨치는 삼탠바이미가 있다고?!**
-
-**(본문: 제품 장점 어필 - 3~12초)**
-
-**나레이션:**
-(화면: 무빙큐빅스 32인치 제품 이미지와 설치 장면 빠르게 전환)
-첫 번째! **설치 걱정은 이제 그만!** '무빙큐빅스'는 기사님이 직접 와서 다~ 설치해줘요! 복잡함 없이 바로 ON!
-
-(화면: 위드라이프 43인치 제품 이미지와 대화면으로 영화 보는 장면 빠르게 전환)
-두 번째! **대화면 덕후들 모여라!** '위드라이프 43인치'는 30만원대에 압도적인 43인치! 심지어 구글TV에 1등급 에너지 효율까지! 영화, 드라마, 게임! 다 최고!
-
-**(마무리: 행동 유도 - 12~15초)**
-
-**나레이션:** 스탠바이미 가성비 끝판왕 삼탠바이미! 더 많은 정보는 **댓글 링크에서 확인하세요! 🏃‍♀️💨**
+**제목:** 💸 100만원 스탠바이미? NO! 20만원대 '이거'면 끝! #스탠바이미가성비 #삼탠바이미 #스마트TV
 
 ---
 
-## 2. 인스타그램 카드뉴스 (4컷)
+**[영상 시작]**
 
-### 1컷
-*   **들어갈 텍스트:**
-    **스탠바이미, 비싸서 망설였다면?**
-    30만원대로 즐기는 **'삼탠바이미'**가 답! 💡
-*   **배경 이미지 생성 Midjourney 프롬프트:**
-    A minimalist living room with soft, warm lighting. A person is looking thoughtfully at an empty space where a stylish, mobile smart TV could be, reflecting a desire for convenience and entertainment. The mood is hopeful and aspirational. Modern, clean aesthetic. --ar 1:1 --v 5.2
+**[0-3초] 훅 (Hook):**
+*   **화면:** 슬픈 표정의 사람이 LG 스탠바이미 광고를 보며 한숨 쉬는 모습 → 갑자기 눈이 휘둥그레지며 손가락으로 화면 밖 어딘가를 가리키는 모습 (빠르게 전환)
+*   **대사 (활기차고 빠르게):** "스탠바이미 100만원? 이제 고민 그만! 🤯 이거 하나면 인생이 달라져!"
 
-### 2컷
-*   **들어갈 텍스트:**
-    **1. 설치 걱정 끝! '무빙큐빅스 32인치'**
-    **🌟 전문 기사 방문 설치!**
-    복잡한 조립 없이 바로 즐기는 편리함!
-    바쁜 당신을 위한 최적의 선택. 🛋️
-*   **배경 이미지 생성 Midjourney 프롬프트:**
-    A cozy, modern bedroom. A professional technician is smiling while setting up a sleek 32-inch mobile smart TV (Samtanbyme) on its stand. A happy, relaxed person is watching them from a comfortable bed. The atmosphere is bright and stress-free. --ar 1:1 --v 5.2
+**[3-9초] 문제점 & 해결책 제시:**
+*   **화면:** 기존 TV를 삼탠바이미 거치대에 장착하는 모습 → 침실에서 편안하게 넷플릭스 보는 모습
+*   **대사 (속도감 있게):** "LG 스탠바이미 가격보고 좌절했어? NO! 이 '삼탠바이미'가 정답이야!"
+*   **대사:** "무려 20만원대! 기존 TV에 꽂기만 하면 이동식 스마트 TV 완성!"
 
-### 3컷
-*   **들어갈 텍스트:**
-    **2. 압도적 대화면! '위드라이프 43인치'**
-    **🎬 동급 최저가 43인치!**
-    구글TV, 1등급 에너지 효율까지!
-    거실 메인 TV로도 완벽한 몰입감. ✨
-*   **배경 이미지 생성 Midjourney 프롬프트:**
-    A vibrant, modern living room. A family or couple is excitedly watching a movie on a large, bright 43-inch mobile smart TV. The screen shows a dynamic scene, creating an immersive, cinematic experience. Colors are rich and lively. --ar 1:1 --v 5.2
+**[9-13초] 핵심 장점 어필:**
+*   **화면:** 주방에서 요리하며 유튜브 보는 모습 → 거실에서 자유롭게 TV 위치 바꾸는 모습 (빠르게 전환)
+*   **대사:** "넷플릭스, 유튜브? 스마트 구글 TV로 어디든 OK! 🎬"
+*   **대사:** "거실, 침실, 주방 어디든 맘대로! 공간 활용 끝판왕이야!"
 
-### 4컷
+**[13-15초] 강력한 클로징 & CTA:**
+*   **화면:** 제품 전체샷과 함께 "100만원 아끼는 꿀팁!" 문구 오버레이 → 구매 링크 띄우는 제스처
+*   **대사 (단호하게):** "고민은 배송만 늦출 뿐! 지금 바로 프로필 링크 확인해! 😉"
+
+---
+
+## 📸 인스타그램 카드뉴스 (4컷)
+
+---
+
+### **1. 첫 번째 카드**
+
 *   **들어갈 텍스트:**
-    **당신의 라이프스타일에 맞는**
-    **최고의 가성비 삼탠바이미를 찾으세요!**
-    **더 많은 추천 상품은 프로필 링크에서! 👆**
-*   **배경 이미지 생성 Midjourney 프롬프트:**
-    A dynamic, infographic-style image. Various lifestyle vignettes (e.g., person relaxing on a sofa, person working at a desk, person exercising, person cooking) are radiating outwards from a central, stylish mobile smart TV icon. Bright, energetic, and modern, with connectivity lines and subtle text overlays. --ar 1:1 --v 5.2
+    **스탠바이미 100만원? 🙅‍♀️ 이제 포기하지 마세요!**
+    20만원대 '삼탠바이미'로 꿈을 실현할 시간!
+    #스탠바이미가성비 #삼탠바이미 #스마트TV
+*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
+    `A modern, minimalist living room with a sleek, empty space where an expensive TV stand should be, symbolizing a desire for luxury but an empty wallet. A shimmering, ethereal portal opens on the right, hinting at an affordable, smart solution. Cinematic lighting, deep blues and soft greens, 8k, photorealistic, ultra detailed, --ar 1:1`
+
+---
+
+### **2. 두 번째 카드**
+
+*   **들어갈 텍스트:**
+    **💰 압도적 가성비! 100만원 이상 절약하는 비법!**
+    LG 스탠바이미 대신 20만원대 '이동식 스마트 TV' 경험!
+*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
+    `A luxurious, high-end living room in the background, out of focus. In the foreground, a stack of crisp 100,000 Korean Won bills transforming into a modern, mobile TV stand with a sleek monitor attached. A sense of smart financial decision. Bright, optimistic lighting, 8k, photorealistic, detailed, --ar 1:1`
+
+---
+
+### **3. 세 번째 카드**
+
+*   **들어갈 텍스트:**
+    **📺 기존 TV/모니터 완벽 활용! 스마트 기능 강화!**
+    집에 있는 디스플레이에 스마트 구글 TV 기능까지! 넷플릭스, 유튜브 무제한!
+*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
+    `A person effortlessly attaching an existing, standard TV monitor to a modern, minimalist mobile stand. The screen then glows with vibrant Netflix and YouTube logos, surrounded by subtle digital overlay effects indicating smart TV functionality. Cozy, warm lighting, 8k, photorealistic, technology integration, --ar 1:1`
+
+---
+
+### **4. 네 번째 카드**
+
+*   **들어갈 텍스트:**
+    **✨ 거실, 침실, 주방 어디든 OK! 공간 활용 & 인테리어 효과까지!**
+    당신의 라이프스타일을 업그레이드하세요!
+    **(자세한 정보는 프로필 링크 클릭!)**
+*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
+    `A seamless transition of a mobile smart TV moving through different aesthetically pleasing rooms: a cozy bedroom, a bright modern kitchen, and a stylish living room. Each scene shows a person enjoying content on the TV. Minimalist interior design, soft natural light, dynamic movement implied, 8k, photorealistic, lifestyle, --ar 1:1`
+
+---
