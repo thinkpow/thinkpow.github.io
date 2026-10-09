@@ -1,75 +1,71 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎥 도파민 폭발 15초 쇼츠 스크립트
+## 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 💸 100만원 스탠바이미? NO! 20만원대 '이거'면 끝! #스탠바이미가성비 #삼탠바이미 #스마트TV
-
----
-
-**[영상 시작]**
-
-**[0-3초] 훅 (Hook):**
-*   **화면:** 슬픈 표정의 사람이 LG 스탠바이미 광고를 보며 한숨 쉬는 모습 → 갑자기 눈이 휘둥그레지며 손가락으로 화면 밖 어딘가를 가리키는 모습 (빠르게 전환)
-*   **대사 (활기차고 빠르게):** "스탠바이미 100만원? 이제 고민 그만! 🤯 이거 하나면 인생이 달라져!"
-
-**[3-9초] 문제점 & 해결책 제시:**
-*   **화면:** 기존 TV를 삼탠바이미 거치대에 장착하는 모습 → 침실에서 편안하게 넷플릭스 보는 모습
-*   **대사 (속도감 있게):** "LG 스탠바이미 가격보고 좌절했어? NO! 이 '삼탠바이미'가 정답이야!"
-*   **대사:** "무려 20만원대! 기존 TV에 꽂기만 하면 이동식 스마트 TV 완성!"
-
-**[9-13초] 핵심 장점 어필:**
-*   **화면:** 주방에서 요리하며 유튜브 보는 모습 → 거실에서 자유롭게 TV 위치 바꾸는 모습 (빠르게 전환)
-*   **대사:** "넷플릭스, 유튜브? 스마트 구글 TV로 어디든 OK! 🎬"
-*   **대사:** "거실, 침실, 주방 어디든 맘대로! 공간 활용 끝판왕이야!"
-
-**[13-15초] 강력한 클로징 & CTA:**
-*   **화면:** 제품 전체샷과 함께 "100만원 아끼는 꿀팁!" 문구 오버레이 → 구매 링크 띄우는 제스처
-*   **대사 (단호하게):** "고민은 배송만 늦출 뿐! 지금 바로 프로필 링크 확인해! 😉"
+**콘셉트:** LG 스탠바이미의 높은 가격에 대한 페인포인트를 자극하고, 가성비 끝판왕 삼탠바이미로 시원한 해결책을 제시하며 구매를 유도한다.
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+### **1. 유튜브 쇼츠/틱톡용 15초 분량 스크립트**
+
+**(0-3초) 💥 훅: 비싼 스탠바이미 vs. 갓성비 삼탠바이미 등장! 💥**
+
+*   **[화면]**: (고민하는 표정의 인물, 옆에 LG 스탠바이미 이미지와 '120만원?!' 자막)
+    **내레이션**: "LG 스탠바이미? 너무 비싸서 엄두가 안 난다고요? 😱"
+*   **[화면]**: (환한 표정의 인물, 티비아울렛 삼탠바이미 등장! '20만원대!' 자막 강조)
+    **내레이션**: "이제 고민 끝! 20만원대로 스탠바이미 감성, 완벽 구현 가능합니다! ✨"
+
+**(3-8초) 💡 핵심 기능 1: 스마트 & 올인원! 💡**
+
+*   **[화면]**: (제품이 넷플릭스, 유튜브 화면을 보여주는 모습)
+    **내레이션**: "바로 티비아울렛 스마트 구글 TV 삼탠바이미! 😮 넷플릭스, 유튜브는 기본!"
+    "구글TV OS 내장으로 셋톱박스 없이 OTT 맘껏 즐기세요!"
+
+**(8-12초) 🚀 핵심 기능 2: 자유로운 이동성! 🚀**
+
+*   **[화면]**: (제품이 침실, 주방, 거실로 빠르게 이동하며 사용되는 모습)
+    **내레이션**: "바퀴 달린 스탠드로 침실, 주방, 거실 어디든 쓱~ 이동! 🏃‍♀️"
+    "360도 회전, 높이 조절까지 완전 자유롭다구요!"
+
+**(12-15초) ✅ 마무리 & CTA: 놓치지 마세요! ✅**
+
+*   **[화면]**: (제품이 클로즈업되며, '지금 바로 검색!' 문구 강조)
+    **내레이션**: "이 압도적인 가성비, 놓치면 후회! 지금 바로 '티비아울렛 삼탠바이미'를 검색해보세요!"
 
 ---
 
-### **1. 첫 번째 카드**
+## 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-*   **들어갈 텍스트:**
-    **스탠바이미 100만원? 🙅‍♀️ 이제 포기하지 마세요!**
-    20만원대 '삼탠바이미'로 꿈을 실현할 시간!
-    #스탠바이미가성비 #삼탠바이미 #스마트TV
-*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
-    `A modern, minimalist living room with a sleek, empty space where an expensive TV stand should be, symbolizing a desire for luxury but an empty wallet. A shimmering, ethereal portal opens on the right, hinting at an affordable, smart solution. Cinematic lighting, deep blues and soft greens, 8k, photorealistic, ultra detailed, --ar 1:1`
+**콘셉트:** 스탠바이미의 대체재를 찾는 유저들에게 명확한 솔루션과 핵심적인 장점을 시각적으로 매력 있게 전달.
 
 ---
 
-### **2. 두 번째 카드**
+### **2. 인스타그램 카드뉴스 4컷**
 
-*   **들어갈 텍스트:**
-    **💰 압도적 가성비! 100만원 이상 절약하는 비법!**
-    LG 스탠바이미 대신 20만원대 '이동식 스마트 TV' 경험!
-*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
-    `A luxurious, high-end living room in the background, out of focus. In the foreground, a stack of crisp 100,000 Korean Won bills transforming into a modern, mobile TV stand with a sleek monitor attached. A sense of smart financial decision. Bright, optimistic lighting, 8k, photorealistic, detailed, --ar 1:1`
+**[카드 1/4]**
+*   **텍스트:**
+    "스탠바이미 갖고 싶다... 근데 100만원 너무 비싸... 😭"
+    "✨ 20만원대 '삼탠바이미'로 감성 & 실용성 ALL-KILL ✨"
+*   **Midjourney Prompt:**
+    `A split image. On the left, a person looking disappointed at a blurred background of an expensive, sleek TV with a price tag over $1000. On the right, the "Tivia Outlet Smart Google TV" (similar to a StandbyMe alternative) brightly displayed in a modern, cozy room, with a bold text overlay "$200 range!". The overall aesthetic is vibrant, hopeful, and slightly futuristic. Product photography style, 4k, --ar 1:1 --v 5.2`
 
----
+**[카드 2/4]**
+*   **텍스트:**
+    "✅ 압도적인 가성비! 1/4 가격으로 스탠바이미 감성! (20만원대!)"
+    "✅ 셋톱박스 필요 없는 올인원 구글 TV! (넷플릭스, 유튜브, 크롬캐스트 기본)"
+*   **Midjourney Prompt:**
+    `A comparison shot featuring the "Tivia Outlet Smart Google TV" on a clean, light background. On one side, highlight its affordable price ($200 range) with playful currency symbols. On the other side, illustrate its smart features with small icons for Netflix, YouTube, Google TV logo, and a Chromecast icon, seamlessly integrated into a digital screen. Modern, clean, tech product advertisement, bright, studio lighting, 4k, --ar 1:1 --v 5.2`
 
-### **3. 세 번째 카드**
+**[카드 3/4]**
+*   **텍스트:**
+    "✅ 내 공간을 영화관으로! 침실, 주방, 거실 어디든 쓱~"
+    "✅ 360도 회전, 높이 조절로 어떤 자세든 완벽 시청!"
+*   **Midjourney Prompt:**
+    `A dynamic collage showing the "Tivia Outlet Smart Google TV" in three different home environments: a person comfortably watching TV in bed in a minimalist bedroom, someone watching a cooking show in a modern kitchen, and a group of friends enjoying a game in a stylish living room. Emphasize the mobility with subtle lines indicating movement. Bright, airy, lifestyle photography, natural light, 4k, --ar 1:1 --v 5.2`
 
-*   **들어갈 텍스트:**
-    **📺 기존 TV/모니터 완벽 활용! 스마트 기능 강화!**
-    집에 있는 디스플레이에 스마트 구글 TV 기능까지! 넷플릭스, 유튜브 무제한!
-*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
-    `A person effortlessly attaching an existing, standard TV monitor to a modern, minimalist mobile stand. The screen then glows with vibrant Netflix and YouTube logos, surrounded by subtle digital overlay effects indicating smart TV functionality. Cozy, warm lighting, 8k, photorealistic, technology integration, --ar 1:1`
-
----
-
-### **4. 네 번째 카드**
-
-*   **들어갈 텍스트:**
-    **✨ 거실, 침실, 주방 어디든 OK! 공간 활용 & 인테리어 효과까지!**
-    당신의 라이프스타일을 업그레이드하세요!
-    **(자세한 정보는 프로필 링크 클릭!)**
-*   **Midjourney 스타일 영문 프롬프트 (배경 이미지):**
-    `A seamless transition of a mobile smart TV moving through different aesthetically pleasing rooms: a cozy bedroom, a bright modern kitchen, and a stylish living room. Each scene shows a person enjoying content on the TV. Minimalist interior design, soft natural light, dynamic movement implied, 8k, photorealistic, lifestyle, --ar 1:1`
-
----
+**[카드 4/4]**
+*   **텍스트:**
+    "고민은 배송만 늦출 뿐! 💨"
+    "✨ 지금 바로 '티비아울렛 스마트 구글 TV 삼탠바이미'를 검색하세요!"
+*   **Midjourney Prompt:**
+    `An energetic and urgent scene. A hand quickly reaching towards a "Tivia Outlet Smart Google TV" that is brightly lit and displaying a call-to-action text: "Search 'Tivia Outlet Smart Google TV Samtanbyme' NOW!". The background is slightly blurred with digital glow and speed lines, conveying excitement and immediacy. High contrast, dynamic, tech advertisement style, 4k, --ar 1:1 --v 5.2`
