@@ -1,71 +1,81 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발! 15초 숏폼 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목**: 스탠바이미 비싸? MD가 뽑은 찐 가성비 삼탠바이미!
+### 💥 **도파민 폭발 15초 스크립트: 스탠바이미 비싸서 포기? 20만원대 '이것' 하나면 끝!**
 
-**[15초 스크립트]**
-
-**(영상 시작: LG 스탠바이미 광고 영상처럼 멋진 모습이 나오지만, 가격표가 등장하며 "300만원대?" 크게 뜨고 X 표시가 쳐진다. 화면 전환되며 실망한 표정의 연기자가 등장)**
-
-*   **내레이션 (빠르고 경쾌하게)**:
-    "스탠바이미 갖고 싶어서 현기증 나는데... 가격 보고 뒷목 잡았다고요?!"
-
-**(화면 전환: 다양한 '삼탠바이미' 제품들이 스탠바이미보다 훨씬 저렴한 가격표와 함께 빠르게 스쳐 지나간다)**
-
-*   **내레이션**:
-    "괜찮아요! 10년차 MD가 뽑은 찐 '가성비 삼탠바이미' 딱 2개만 집중해서 보여드릴게요! 스탠바이미 감성 그대로, 가격은 확! 반값 이상 낮췄어요!"
-
-**(화면 전환: 위드라이프 43인치 삼탠바이미가 거실에서 넷플릭스를 재생하는 모습. 대화면 강조)**
-
-*   **내레이션**:
-    "첫 번째! 위드라이프 43인치 구글 삼탠바이미. 넷플릭스, 유튜브 다 되는 43인치 스마트TV가 30만원대라고? 거실 메인 TV로도 충분해!"
-
-**(화면 전환: 티비아울렛 삼탠바이미가 침실에서 쉽게 이동되는 모습. 구글 스마트TV 화면 강조)**
-
-*   **내레이션**:
-    "두 번째! 20만원대 최저가, 티비아울렛 스마트 구글 삼탠바이미. 이동성 최고, 구글 스마트 기능은 기본! 이거 하나면 내 방이 홈시어터!"
-
-**(화면 전환: 두 제품이 나란히 비교되는 인포그래픽 화면. '최대 43인치', '20만원대', '구글TV' 등 키워드 강조. 마지막에 '더 자세한 정보는 댓글 링크 확인!' 문구)**
-
-*   **내레이션**:
-    "자세한 정보는 댓글 링크 확인! 스탠바이미 말고 삼탠바이미 하세요!"
+**[영상 컨셉]**
+빠른 컷 전환, 비트감 있는 배경 음악, 제품의 이동성과 스마트 기능 강조. 첫 3초 안에 시청자의 공감대를 형성하고 바로 해결책 제시.
 
 ---
 
-## 인스타그램 카드뉴스 (4컷)
+**[스크립트]**
 
-### 컷 1: 훅 & 문제 제기
+*   **0-3초 (훅! 시선 강탈)**
+    *   **화면:** (슬픈 표정으로 스탠바이미 가격을 보고 있는 사람의 클로즈업, 비싼 가격표 오버레이) ➡️ (갑자기 눈을 번쩍 뜨며 화면 전환)
+    *   **대사:** "스탠바이미 갖고 싶어서 검색했는데... 🤯 가격 보고 좌절했어요?" (빠르게)
 
-*   **텍스트**:
-    LG 스탠바이미 비싸서 망설였다면? 🚨
-    10년차 MD's Pick!
-    ✅ 찐 가성비 #삼탠바이미 BEST 2
-*   **Midjourney Prompt**: `A modern, minimalist living room with an empty space where an expensive mobile TV should be. A thought bubble above, showing a blurred, unattainable luxurious mobile TV with a huge price tag. A spotlight shines on a shimmering, more affordable "SamTanByMe" alternative in the foreground, representing hope. Clean lines, soft lighting, aspirational yet accessible feel. --ar 1:1 --v 5.2`
+*   **3-7초 (문제 제기 & 솔루션 제시)**
+    *   **화면:** (다양한 스탠바이미 연출컷 - 침실, 주방, 거실 등, 제품이 쓱쓱 움직이는 모습)
+    *   **대사:** "NO! 이제 20만원대로 스탠바이미 핵심 기능 다~ 누릴 수 있어요! ✨"
 
-### 컷 2: 메인 추천 상품 1 - 위드라이프 43인치
+*   **7-12초 (핵심 기능 강조)**
+    *   **화면:** (Google TV UI 화면 전환 ➡️ TV를 침대 옆으로 쉽게 옮기는 모습 ➡️ 전원 케이블만 연결된 깔끔한 세팅)
+    *   **대사:** "넷플릭스, 유튜브 다 되는 구글 TV! 📺 이동식 스탠드로 어디든 OK! 심지어 조립도 필요 없는 올인원!" (빠르고 명확하게)
 
-*   **텍스트**:
-    1. 압도적 43인치! 위드라이프 구글 삼탠바이미
-    ✨ 43인치 대화면 & 구글 스마트TV
-    💰 30만원대 중반의 미친 가성비
-    거실 메인 TV로도 완벽!
-*   **Midjourney Prompt**: `A person happily watching a movie on a large 43-inch sleek, minimalist mobile TV (SamTanByMe) in a modern, cozy living room. The screen displays vibrant, colorful content (e.g., Netflix logo, movie scene). The TV is on a movable stand. Soft, inviting ambient light. Emphasize the screen size and smart TV features. --ar 1:1 --v 5.2`
+*   **12-15초 (강력한 CTA)**
+    *   **화면:** (제품의 멋진 모습과 함께 가격 '285,000원' 강조, 댓글 링크 유도)
+    *   **대사:** "이젠 비싼 TV 앞에서 좌절하지 마세요! 🤫 댓글 링크에서 '이것' 바로 만나보세요! 🔥"
 
-### 컷 3: 메인 추천 상품 2 - 티비아울렛 최저가
+---
 
-*   **텍스트**:
-    2. 20만원대 초특가! 티비아울렛 구글 삼탠바이미
-    💸 20만원대 후반 최저가!
-    📺 구글 스마트TV 탑재!
-    이동성까지 완벽한 내 방 홈시어터!
-*   **Midjourney Prompt**: `A close-up shot of a sleek, minimalist mobile TV (SamTanByMe) in a cozy bedroom setting, showing the Google TV interface with various streaming app icons. The TV is being easily moved by a hand. Soft, warm lighting, focus on affordability and smart features. --ar 1:1 --v 5.2`
+## 2. 인스타그램 카드뉴스 4컷
 
-### 컷 4: 추가 추천 & CTA
+### 🎨 **인스타그램 카드뉴스: 스탠바이미 가성비 끝판왕! 티비아울렛 스마트 구글 TV**
 
-*   **텍스트**:
-    나에게 꼭 맞는 삼탠바이미는?
-    📌 무선이 필요하다면? 무빙큐빅스 24인치 배터리
-    📌 대화면 + 설치까지? 무빙큐빅스 40인치 방문설치
-    👆 더 자세한 정보는 프로필 링크 확인!
-*   **Midjourney Prompt**: `A clean, infographic-style image. Two distinct mobile TVs (SamTanByMe) with elegant, minimalist designs are featured. One shows a subtle battery icon and a person using it outdoors/balcony, representing "wireless freedom". The other shows a larger screen with a "professional installation" icon. A clear arrow pointing downwards to a "Link in Bio" button. Bright, clean, and organized aesthetic. --ar 1:1 --v 5.2`
+**[공통 디자인 키워드]**
+Modern, minimalist, cozy, clean aesthetic, soft natural lighting, high-quality product photography style, --ar 1:1
+
+---
+
+**[1컷]**
+*   **텍스트:**
+    ## 🤯 스탠바이미,
+    ## 가격 때문에 포기했어요?
+    ### (당신의 스마트 라이프를 포기하지 마세요!)
+*   **배경 이미지 프롬프트:**
+    `A young woman looking frustrated and slightly sad while holding a smartphone, with a blurred background showing a luxury smart TV advertisement. The scene is modern and minimalist, with a hint of natural light. Emphasize a sense of longing and a touch of melancholy. --ar 1:1 --v 5.2`
+
+---
+
+**[2컷]**
+*   **텍스트:**
+    ## 💥 20만원대로
+    ## 스탠바이미 핵심 기능
+    ## 모두 즐기기!
+    ### (티비아울렛 스마트 구글 TV)
+*   **배경 이미지 프롬프트:**
+    `A sleek, modern smart TV with a movable stand (similar to LG StandbyME) placed in a cozy, minimalist bedroom. The TV screen displays vibrant streaming service logos (Netflix, YouTube). Sunlight streams through a window. The focus is on affordability and premium features. --ar 1:1 --v 5.2`
+
+---
+
+**[3컷]**
+*   **텍스트:**
+    ## ✨ 왜 '이것'이 답일까요?
+    ### ✅ 20만원대 압도적 가성비!
+    ### ✅ Google TV OS로 OTT 무제한!
+    ### ✅ 이동식 스탠드로 어디든 자유롭게!
+    ### ✅ 복잡한 조립 없는 올인원!
+*   **배경 이미지 프롬프트:**
+    `A split image or collage showing four distinct scenes: 1. A hand holding a wallet with money saving effect. 2. A close-up of a Google TV interface with various app icons (Netflix, YouTube). 3. A stylish smart TV being easily wheeled from a kitchen to a living room. 4. A TV and stand neatly assembled with just a power cord. Each scene is clean, modern, and highlights the feature. --ar 1:1 --v 5.2`
+
+---
+
+**[4컷]**
+*   **텍스트:**
+    ## 가성비 끝판왕
+    ## '삼탠바이미' 만나러 가기!
+    ### (지금 바로 스마트 라이프 시작!)
+    ### 👉 구매 링크는 프로필 확인!
+*   **배경 이미지 프롬프트:**
+    `A dynamic, eye-level shot of the "티비아울렛 스마트 구글 TV" in a modern apartment setting, possibly with a person enjoying content on it. The screen glows brightly, and the overall atmosphere is inviting and convenient. Use cinematic lighting and a slightly wider lens to capture the whole product. Add subtle glow effects. --ar 1:1 --v 5.2`
