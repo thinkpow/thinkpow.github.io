@@ -1,85 +1,71 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 도파민 폭발! 15초 숏폼 스크립트
 
-### 💥 도파민 폭발 15초 쇼츠 대본 💥
+**제목**: 스탠바이미 비싸? MD가 뽑은 찐 가성비 삼탠바이미!
 
-**[영상 컨셉]**
-빠른 화면 전환과 효과음으로 시선 집중. '스탠바이미'의 로망과 '가성비' 대안의 만족감을 극대화.
+**[15초 스크립트]**
 
-**[타이틀]**
-💰 백만원 스탠바이미? NO! 20만원대 삼탠바이미로 즐겨봐!
+**(영상 시작: LG 스탠바이미 광고 영상처럼 멋진 모습이 나오지만, 가격표가 등장하며 "300만원대?" 크게 뜨고 X 표시가 쳐진다. 화면 전환되며 실망한 표정의 연기자가 등장)**
 
-**[대본]**
+*   **내레이션 (빠르고 경쾌하게)**:
+    "스탠바이미 갖고 싶어서 현기증 나는데... 가격 보고 뒷목 잡았다고요?!"
 
-*   **0-3초 (훅):**
-    *   **(화면: LG 스탠바이미 광고 화면 빠르게 스쳐 지나감 ➡️ 이어서 좌절하는 사람 표정 클로즈업 또는 지갑 텅 비는 효과)**
-    *   **내레이션 (빠르고 경쾌하게):** "스탠바이미! 로망은 가득한데 가격은 산으로? 💰 백만원이 훌쩍 넘는다고?"
-*   **3-8초 (문제 해결 & 제품 소개):**
-    *   **(화면: '티비아울렛 삼탠바이미' 제품명과 28만 5천원 가격 강조! 제품이 집안 곳곳으로 부드럽게 이동하는 모습 빠르게 편집)**
-    *   **내레이션:** "이제 그 로망! 20만원대로 현실로 만들어줄게! 🔥 티비아울렛 삼탠바이미 등장!"
-*   **8-12초 (핵심 기능 강조):**
-    *   **(화면: 넷플릭스, 유튜브 화면 빠르게 전환 ➡️ 침대/주방/거실에서 편하게 보는 모습 ➡️ 쉬운 조립 모습 연출)**
-    *   **내레이션:** "구글 TV로 OTT 무한 시청! 넷플릭스? 유튜브? OK! 심지어 설치까지 완전 쉽잖아?"
-*   **12-15초 (강력한 CTA):**
-    *   **(화면: 만족스러운 표정으로 삼탠바이미를 사용하는 사람 ➡️ 구매 링크 QR코드 또는 '프로필 링크 클릭' 배너)**
-    *   **내레이션:** "이 가격에 이 기능을? 가성비 끝판왕! 지금 바로 겟해봐! 🏃‍♀️💨"
+**(화면 전환: 다양한 '삼탠바이미' 제품들이 스탠바이미보다 훨씬 저렴한 가격표와 함께 빠르게 스쳐 지나간다)**
 
----
+*   **내레이션**:
+    "괜찮아요! 10년차 MD가 뽑은 찐 '가성비 삼탠바이미' 딱 2개만 집중해서 보여드릴게요! 스탠바이미 감성 그대로, 가격은 확! 반값 이상 낮췄어요!"
 
-## 2. 인스타그램 카드뉴스 4컷
+**(화면 전환: 위드라이프 43인치 삼탠바이미가 거실에서 넷플릭스를 재생하는 모습. 대화면 강조)**
 
-**[공통 디자인 컨셉]**
-밝고 모던한 인테리어 배경. 미니멀하면서도 스마트한 라이프스타일 강조. 텍스트는 명확하고 가독성 좋게 배치.
+*   **내레이션**:
+    "첫 번째! 위드라이프 43인치 구글 삼탠바이미. 넷플릭스, 유튜브 다 되는 43인치 스마트TV가 30만원대라고? 거실 메인 TV로도 충분해!"
 
----
+**(화면 전환: 티비아울렛 삼탠바이미가 침실에서 쉽게 이동되는 모습. 구글 스마트TV 화면 강조)**
 
-### **[카드뉴스 1/4]**
+*   **내레이션**:
+    "두 번째! 20만원대 최저가, 티비아울렛 스마트 구글 삼탠바이미. 이동성 최고, 구글 스마트 기능은 기본! 이거 하나면 내 방이 홈시어터!"
 
-*   **들어갈 텍스트:**
-    **LG 스탠바이미? 너무 비싸서 망설였나요? 😩**
-    우리 모두의 로망! 하지만 💸백만원 넘는 가격...
-    선뜻 구매하기 망설여진다면 주목!
+**(화면 전환: 두 제품이 나란히 비교되는 인포그래픽 화면. '최대 43인치', '20만원대', '구글TV' 등 키워드 강조. 마지막에 '더 자세한 정보는 댓글 링크 확인!' 문구)**
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A young woman with a thoughtful expression looking at a futuristic mobile TV (similar to LG StandbyMe) in a minimalist modern living room, a subtle price tag icon with "over $1000" floating, soft natural light, warm minimalist aesthetic, high resolution, hyperrealistic --ar 1:1 --v 5.2`
+*   **내레이션**:
+    "자세한 정보는 댓글 링크 확인! 스탠바이미 말고 삼탠바이미 하세요!"
 
 ---
 
-### **[카드뉴스 2/4]**
+## 인스타그램 카드뉴스 (4컷)
 
-*   **들어갈 텍스트:**
-    **✨ 20만원대로 스탠바이미 감성 그대로!**
-    **티비아울렛 스마트 구글 TV 삼탠바이미**
-    단돈 **285,000원!** (※가격 변동 가능)
-    스탠바이미의 모든 장점을 합리적인 가격으로!
+### 컷 1: 훅 & 문제 제기
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, modern mobile TV (product shot of "티비아울렛 스마트 구글 Google TV 삼탠바이미" if possible, or a generic stand-type mobile TV) in a clean, brightly lit studio setting. A bold, modern graphic overlay displaying "$285,000 KRW" prominently. Emphasize "Value for money" and "Smart TV" features. Clean edges, cinematic lighting --ar 1:1 --v 5.2`
+*   **텍스트**:
+    LG 스탠바이미 비싸서 망설였다면? 🚨
+    10년차 MD's Pick!
+    ✅ 찐 가성비 #삼탠바이미 BEST 2
+*   **Midjourney Prompt**: `A modern, minimalist living room with an empty space where an expensive mobile TV should be. A thought bubble above, showing a blurred, unattainable luxurious mobile TV with a huge price tag. A spotlight shines on a shimmering, more affordable "SamTanByMe" alternative in the foreground, representing hope. Clean lines, soft lighting, aspirational yet accessible feel. --ar 1:1 --v 5.2`
 
----
+### 컷 2: 메인 추천 상품 1 - 위드라이프 43인치
 
-### **[카드뉴스 3/4]**
+*   **텍스트**:
+    1. 압도적 43인치! 위드라이프 구글 삼탠바이미
+    ✨ 43인치 대화면 & 구글 스마트TV
+    💰 30만원대 중반의 미친 가성비
+    거실 메인 TV로도 완벽!
+*   **Midjourney Prompt**: `A person happily watching a movie on a large 43-inch sleek, minimalist mobile TV (SamTanByMe) in a modern, cozy living room. The screen displays vibrant, colorful content (e.g., Netflix logo, movie scene). The TV is on a movable stand. Soft, inviting ambient light. Emphasize the screen size and smart TV features. --ar 1:1 --v 5.2`
 
-*   **들어갈 텍스트:**
-    **✅ 구글 TV로 OTT 무한 확장!**
-    넷플릭스, 유튜브는 기본! 📱 원하는 앱 설치!
-    **✅ 침실, 주방, 거실 어디든 '나만의 극장'**
-    견고한 무빙 스탠드로 자유로운 이동!
+### 컷 3: 메인 추천 상품 2 - 티비아울렛 최저가
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A split image. Left side: A hand holding a remote, showing a TV screen displaying various OTT app logos (Netflix, YouTube, etc.) and a Google Play Store icon. Right side: The mobile TV being smoothly pushed from a modern bedroom to a bright kitchen, with a user happily watching content in both scenes. Focus on seamless movement and diverse usage. Soft, inviting home environment --ar 1:1 --v 5.2`
+*   **텍스트**:
+    2. 20만원대 초특가! 티비아울렛 구글 삼탠바이미
+    💸 20만원대 후반 최저가!
+    📺 구글 스마트TV 탑재!
+    이동성까지 완벽한 내 방 홈시어터!
+*   **Midjourney Prompt**: `A close-up shot of a sleek, minimalist mobile TV (SamTanByMe) in a cozy bedroom setting, showing the Google TV interface with various streaming app icons. The TV is being easily moved by a hand. Soft, warm lighting, focus on affordability and smart features. --ar 1:1 --v 5.2`
 
----
+### 컷 4: 추가 추천 & CTA
 
-### **[카드뉴스 4/4]**
-
-*   **들어갈 텍스트:**
-    **✅ 복잡한 설치 NO! 전원만 꽂으면 끝!**
-    기계치도 문제없어! 바로 즐기는 스마트 TV 라이프!
-    **💡 LG 스탠바이미 대신, 가성비 끝판왕 삼탠바이미!**
-    **지금 바로 겟하세요!**
-    (프로필 링크 클릭!)
-
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A person (diverse, smiling) effortlessly plugging in a power cord to the back of the mobile TV, with a bright, clean background. The screen displays a "Welcome" or "Smart Life Starts Now" message. On the right, a call-to-action button or text overlay saying "Shop Now" or "Link in Bio" is prominent. Emphasize ease of use and satisfaction. Bright, optimistic mood, sharp focus --ar 1:1 --v 5.2`
+*   **텍스트**:
+    나에게 꼭 맞는 삼탠바이미는?
+    📌 무선이 필요하다면? 무빙큐빅스 24인치 배터리
+    📌 대화면 + 설치까지? 무빙큐빅스 40인치 방문설치
+    👆 더 자세한 정보는 프로필 링크 확인!
+*   **Midjourney Prompt**: `A clean, infographic-style image. Two distinct mobile TVs (SamTanByMe) with elegant, minimalist designs are featured. One shows a subtle battery icon and a person using it outdoors/balcony, representing "wireless freedom". The other shows a larger screen with a "professional installation" icon. A clear arrow pointing downwards to a "Link in Bio" button. Bright, clean, and organized aesthetic. --ar 1:1 --v 5.2`
