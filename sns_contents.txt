@@ -1,82 +1,44 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발! 15초 스탠바이미 가성비 숏폼 스크립트
-
-**제목:** 💸 스탠바이미 비싸서 포기? 10년차 MD가 고른 '찐' 가성비 끝판왕 BEST 2!
-
-**[영상 구성 및 대사]**
-
-*   **0-3초 (훅! 시선 강탈)**
-    *   **화면:** (빠른 전환, 스탠바이미 비싼 가격표 클로즈업 -> 실망하는 표정의 사람 -> 번개처럼 등장하는 'MD추천' 로고)
-    *   **대사 (빠르고 강렬하게):** "스탠바이미! 갖고 싶었는데... 가격에 후덜덜했죠? 😱 잠깐!"
-*   **3-7초 (문제 제기 & 솔루션 제시)**
-    *   **화면:** (MD가 자신감 있게 추천하는 손짓, 위드라이프 43인치와 무빙큐빅스 32인치 제품이 차례로 슬라이드되며 등장)
-    *   **대사:** "10년차 MD가 직접 고른 '스탠바이미 가성비' 끝판왕! 이젠 비싸게 사지 마세요!"
-*   **7-11초 (제품 1 어필)**
-    *   **화면:** (위드라이프 43인치 제품이 침실, 주방, 캠핑 등 다양한 공간에서 사용되는 모습 컷 전환, 넷플릭스/유튜브 화면 강조)
-    *   **대사:** "첫 번째! 💥 43인치 압도적 대화면! 위드라이프! 구글 스마트TV에 OTT 기본 탑재로 나만의 영화관 완성!"
-*   **11-14초 (제품 2 어필)**
-    *   **화면:** (무빙큐빅스 32인치 제품이 깔끔한 인테리어에 녹아든 모습, 방문 설치 기사 모습 살짝, 편리함 강조)
-    *   **대사:** "두 번째! ✨ LG감성 그대로! 무빙큐빅스 32인치! 방문 설치로 조립 걱정 끝! 바로 즐겨요!"
-*   **14-15초 (강력한 CTA)**
-    *   **화면:** (두 제품이 나란히 놓여있고, "지금 바로 프로필 링크 확인!" 텍스트 크게 등장)
-    *   **대사 (에너지 넘치게):** "더 자세한 정보는 프로필 링크 클릭! 지금 바로 GET!"
+## 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+**[영상 시작]**
 
-### **👉 카드 1/4: 훅! MD의 가성비 끝판왕은?**
+**🎥 비주얼:**
+*   **0-3초 (Hook):** 초고가 스탠바이미 가격표를 보고 충격받은 표정 -> 실망한 표정 -> 이내 비장하게 결심한 표정. 텍스트 오버레이: "스탠바이미? 그 가격에 왜 고민해?"
+*   **3-7초:** 손가락으로 엑스(X) 표시 후, '삼탠바이미'라는 텍스트 등장과 함께 멋진 이동식 TV 이미지 번개처럼 전환.
+*   **7-12초:** 43인치 대화면 TV로 영화 보는 장면 (몰입감 강조) -> 깔끔한 화이트 TV가 설치되는 모습 (편리함 강조) -> 두 제품의 장점을 대표하는 아이콘 및 가격 텍스트 짧게 스쳐 지나감.
+*   **12-15초:** 화면 가득 MD의 엄지척 이미지 또는 추천 로고, "프로필 링크에서 BEST 5 확인!" 텍스트 오버레이와 함께 손가락으로 링크 가리키는 모션.
 
-*   **카드 텍스트:**
-    ---
-    **"스탠바이미, 비싸서 포기했어요? 🙅‍♀️"**
-    **10년차 MD가 직접 고른**
-    **'스탠바이미 가성비' 끝판왕 BEST!**
-    ---
-*   **Midjourney 프롬프트 (영문):**
-    ```
-    A sleek, modern living room interior with a stylish, slightly blurred expensive portable smart TV in the background. In the foreground, a vibrant, equally stylish but clearly different and more accessible portable smart TV stands out, catching the eye. The overall mood is luxurious yet smart, emphasizing a clever alternative. Soft, natural light, high-end product photography, --ar 1:1 --v 5.2
-    ```
+**🗣️ 대사 (내레이션/AI 보이스):**
 
-### **👉 카드 2/4: 압도적 대화면! 위드라이프 43인치**
+*   **(0-3초) 훅:** "스탠바이미 비싸서 망설였니? 😩 이젠 그럴 필요 없어!"
+*   **(3-7초):** "이동식 TV의 감성은 그대로! 가격은 확 낮춘 '삼탠바이미'가 대세!"
+*   **(7-12초):** "43인치 QLED 대화면에, 방문 설치까지?! 이 가격에 이 퀄리티 실화냐?!"
+*   **(12-15초):** "10년차 MD가 엄선한 베스트 5! 당신의 취향 저격템은? 프로필 링크에서 지금 바로 확인해봐!"
 
-*   **카드 텍스트:**
-    ---
-    **📺 43인치 대화면! 위드라이프 스마트 삼탠바이미**
-    - 구글 스마트TV 탑재! 넷플릭스, 유튜브 바로!
-    - 어디든 이동 가능한 나만의 영화관! (침실, 주방, 캠핑까지!)
-    **✨ 359,000원!** (동급 대비 압도적 가성비)
-    ---
-*   **Midjourney 프롬프트 (영문):**
-    ```
-    A cozy, modern bedroom with large windows, soft morning light. A sleek, white 43-inch portable smart TV on a rolling stand is positioned invitingly next to a bed. The TV screen clearly displays a vibrant Netflix interface. The room has minimalist, warm decor elements like a comfortable blanket and a small plant. High-quality photo, cinematic lighting, --ar 1:1 --v 5.2
-    ```
+---
 
-### **👉 카드 3/4: LG 감성 그대로! 무빙큐빅스 32인치**
+## 인스타그램 카드뉴스 4컷
 
-*   **카드 텍스트:**
-    ---
-    **✨ LG 스탠바이미 감성 그대로! 무빙큐빅스 32인치**
-    - 최적화된 휴대성 & 인테리어 효과!
-    - 👨‍🔧 전문 기사 '방문설치'로 조립 걱정 끝!
-    **💡 349,000원!** (원조 감성에 편리함 UP)
-    ---
-*   **Midjourney 프롬프트 (영문):**
-    ```
-    A bright, minimalist living space or cozy reading nook with a clean aesthetic. A 32-inch portable smart TV, resembling the LG StandbyME in style, is elegantly integrated into the decor. The screen shows a stylish smart TV menu. In the blurred background, a professional installer is subtly finishing up, implying an easy setup experience. Soft, diffused lighting, high-end product photography, --ar 1:1 --v 5.2
-    ```
+---
 
-### **👉 카드 4/4: 10만원대부터 QLED까지! 추가 추천!**
+### 1. 카드뉴스 1컷
+*   **카드 텍스트:** 스탠바이미, 비싸서 포기했니? 😩
+*   **Midjourney 프롬프트:** A person looking disappointed and thoughtful while sitting in a cozy, modern living room, looking at an expensive portable smart TV that is out of reach. There's a subtle glow of a device screen reflected on their face. Soft, warm lighting, slightly desaturated colors. --ar 1:1 --v 6 --style raw
 
-*   **카드 텍스트:**
-    ---
-    **🤫 더 많은 '찐' 가성비는?**
-    - 10만원대 초특가! 프리토스 무빙스탠드 + 일반TV
-    - 화질+디자인! 무빙큐빅스 40인치 QLED 화이트
-    **👆 프로필 링크에서 지금 바로 확인하세요!**
-    ---
-*   **Midjourney 프롬프트 (영문):**
-    ```
-    A dynamic split-screen or collage image showcasing multiple portable smart TVs in diverse, inviting settings. One section shows a TV in a modern kitchen, another in a cozy, bohemian-style living room, and a third in an outdoor glamping tent. The overall image conveys versatility, affordability, and a modern lifestyle. Bright, vibrant, highly detailed, --ar 1:1 --v 5.2
-    ```
+### 2. 카드뉴스 2컷
+*   **카드 텍스트:** NO! 이동성, 디자인, 스마트 기능은 그대로! 가격은 확 낮춘 '삼탠바이미' 등장!
+*   **Midjourney 프롬프트:** A sleek, minimalist portable smart TV (resembling a stylish, generic alternative to StandbyMe) with a glowing screen displaying various content (movie, YouTube logo). The TV is positioned in a bright, clean, and modern bedroom, hinting at easy mobility. Dynamic and inviting atmosphere. --ar 1:1 --v 6 --style raw
+
+### 3. 카드뉴스 3컷
+*   **카드 텍스트:** MD가 엄선한 BEST 2! (1) 43인치 QLED 대화면 삼탠바이미 (2) 방문설치 화이트 삼탠바이미
+*   **Midjourney 프롬프트:** A split image or collage showcasing two distinct portable smart TVs. On the left: a large 43-inch QLED screen portable TV in a dimly lit, luxurious home theater setting, displaying vibrant, high-definition movie content. On the right: a stylish white 32-inch portable TV being carefully unboxed and set up by a friendly, professional technician in a brightly lit, minimalist white bedroom. --ar 1:1 --v 6 --style raw
+
+### 4. 카드뉴스 4컷
+*   **카드 텍스트:** 당신의 완벽한 삼탠바이미는? 💸 프로필 링크에서 BEST 5 확인하세요!
+*   **Midjourney 프롬프트:** A happy person lounging comfortably on a sofa, smiling brightly while effortlessly scrolling through content on a portable smart TV. One hand is pointing playfully towards the bottom of the frame, indicating a call to action. Bright, inviting, and cozy atmosphere, modern interior. --ar 1:1 --v 6 --style raw
+
+---
