@@ -1,44 +1,80 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+
+**(음악: 밝고 경쾌하며 속도감 있는 배경음악, 효과음: '뿅!', '띠링!' 등 적절히 활용)**
+
+**[0-3초] 훅 (시선을 강탈!)**
+*   **화면:** 스탠바이미 비싼 가격표 클로즈업 -> X표시 -> MD 복장의 전문가 등장하며 자신감 있는 표정
+*   **대사:** "🚨 스탠바이미? 너무 비싸서 포기했어? (비장하게) **10년차 MD가 찾았다! 찐 가성비 삼탠바이미 끝판왕!"**
+
+**[3-7초] 상품 1 소개**
+*   **화면:** '무빙큐빅스 32인치' 제품 영상/사진 + 핵심 장점 텍스트 오버레이 (30만원대, 스마트TV, 이동성)
+*   **대사:** "첫 번째! **30만원대 무빙큐빅스 32인치!** 넷플릭스, 유튜브 기본! 어디든 옮겨 다니는 나만의 스마트 극장!"
+
+**[7-11초] 상품 2 소개**
+*   **화면:** '삼성 55인치 4K UHD' 제품 영상/사진 + 핵심 장점 텍스트 오버레이 (55인치, 4K, 삼성!)
+*   **대사:** "두 번째! **왕 크니까 왕 좋다! 삼성 55인치 4K UHD!** 압도적 대화면에 믿고 쓰는 삼성 퀄리티!"
+
+**[11-14초] 가치 강조**
+*   **화면:** 두 제품이 함께 등장하거나, 사람들이 다양한 공간에서 삼탠바이미를 활용하는 모습 (침실, 주방, 거실 등)
+*   **대사:** "비싼 돈 주고 살 필요 없어! 이젠 **가성비로 이동식 TV의 자유로움**을 누려봐!"
+
+**[14-15초] CTA**
+*   **화면:** "더 많은 꿀템은 프로필 링크 확인!" 텍스트 크게, 링크 아이콘과 함께.
+*   **대사:** "더 많은 꿀템은 프로필 링크에서 만나!"
 
 ---
 
-**[영상 시작]**
-
-**🎥 비주얼:**
-*   **0-3초 (Hook):** 초고가 스탠바이미 가격표를 보고 충격받은 표정 -> 실망한 표정 -> 이내 비장하게 결심한 표정. 텍스트 오버레이: "스탠바이미? 그 가격에 왜 고민해?"
-*   **3-7초:** 손가락으로 엑스(X) 표시 후, '삼탠바이미'라는 텍스트 등장과 함께 멋진 이동식 TV 이미지 번개처럼 전환.
-*   **7-12초:** 43인치 대화면 TV로 영화 보는 장면 (몰입감 강조) -> 깔끔한 화이트 TV가 설치되는 모습 (편리함 강조) -> 두 제품의 장점을 대표하는 아이콘 및 가격 텍스트 짧게 스쳐 지나감.
-*   **12-15초:** 화면 가득 MD의 엄지척 이미지 또는 추천 로고, "프로필 링크에서 BEST 5 확인!" 텍스트 오버레이와 함께 손가락으로 링크 가리키는 모션.
-
-**🗣️ 대사 (내레이션/AI 보이스):**
-
-*   **(0-3초) 훅:** "스탠바이미 비싸서 망설였니? 😩 이젠 그럴 필요 없어!"
-*   **(3-7초):** "이동식 TV의 감성은 그대로! 가격은 확 낮춘 '삼탠바이미'가 대세!"
-*   **(7-12초):** "43인치 QLED 대화면에, 방문 설치까지?! 이 가격에 이 퀄리티 실화냐?!"
-*   **(12-15초):** "10년차 MD가 엄선한 베스트 5! 당신의 취향 저격템은? 프로필 링크에서 지금 바로 확인해봐!"
+## 2. 인스타그램 카드뉴스 (4컷)
 
 ---
 
-## 인스타그램 카드뉴스 4컷
+### **카드뉴스 1/4**
+
+*   **들어갈 텍스트:**
+    **스탠바이미 갖고싶은데... 😥**
+    **비싸서 고민만 하고 있나요?**
+    #스탠바이미 #가성비 #삼탠바이미
+
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A stylish, modern minimalist living room with soft natural light. In the foreground, a person looks wistfully at an empty space where a movable TV could be, with a thought bubble above their head showing a question mark and a very high price tag. The overall mood is slightly longing but hopeful. --ar 1:1 --v 5.2`
 
 ---
 
-### 1. 카드뉴스 1컷
-*   **카드 텍스트:** 스탠바이미, 비싸서 포기했니? 😩
-*   **Midjourney 프롬프트:** A person looking disappointed and thoughtful while sitting in a cozy, modern living room, looking at an expensive portable smart TV that is out of reach. There's a subtle glow of a device screen reflected on their face. Soft, warm lighting, slightly desaturated colors. --ar 1:1 --v 6 --style raw
+### **카드뉴스 2/4**
 
-### 2. 카드뉴스 2컷
-*   **카드 텍스트:** NO! 이동성, 디자인, 스마트 기능은 그대로! 가격은 확 낮춘 '삼탠바이미' 등장!
-*   **Midjourney 프롬프트:** A sleek, minimalist portable smart TV (resembling a stylish, generic alternative to StandbyMe) with a glowing screen displaying various content (movie, YouTube logo). The TV is positioned in a bright, clean, and modern bedroom, hinting at easy mobility. Dynamic and inviting atmosphere. --ar 1:1 --v 6 --style raw
+*   **들어갈 텍스트:**
+    **10년차 MD가 직접 발품 팔아 찾았다!**
+    **💰 '스탠바이미 가성비' 끝판왕 BEST 5!**
+    (핵심 2개만 먼저 보여줄게요!)
+    #MD추천 #가전제품 #이동식TV
 
-### 3. 카드뉴스 3컷
-*   **카드 텍스트:** MD가 엄선한 BEST 2! (1) 43인치 QLED 대화면 삼탠바이미 (2) 방문설치 화이트 삼탠바이미
-*   **Midjourney 프롬프트:** A split image or collage showcasing two distinct portable smart TVs. On the left: a large 43-inch QLED screen portable TV in a dimly lit, luxurious home theater setting, displaying vibrant, high-definition movie content. On the right: a stylish white 32-inch portable TV being carefully unboxed and set up by a friendly, professional technician in a brightly lit, minimalist white bedroom. --ar 1:1 --v 6 --style raw
-
-### 4. 카드뉴스 4컷
-*   **카드 텍스트:** 당신의 완벽한 삼탠바이미는? 💸 프로필 링크에서 BEST 5 확인하세요!
-*   **Midjourney 프롬프트:** A happy person lounging comfortably on a sofa, smiling brightly while effortlessly scrolling through content on a portable smart TV. One hand is pointing playfully towards the bottom of the frame, indicating a call to action. Bright, inviting, and cozy atmosphere, modern interior. --ar 1:1 --v 6 --style raw
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A sleek, modern infographic-style image. A figure in a sharp suit (representing an MD) holds a magnifying glass over a glowing "BEST 5" list. Behind them, a subtle background of various modern TV screens. The overall aesthetic is clean, professional, and trustworthy, with a touch of "discovery" or "unveiling". Bright, inviting colors. --ar 1:1 --v 5.2`
 
 ---
+
+### **카드뉴스 3/4**
+
+*   **들어갈 텍스트:**
+    **✨ BEST 1. 무빙큐빅스 32인치 스마트 삼탠바이미**
+    **✅ 30만원대! 가성비 대박!**
+    **✅ 스마트TV 기능 완벽! 넷플릭스 맘껏!**
+    **✅ 원하는 곳 어디든 이동!**
+
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A cozy, minimalist bedroom with warm ambient lighting. A stylish white 32-inch movable smart TV (resembling 'Moving Cubix') is positioned by the bed, displaying a vibrant Netflix screen. A person is comfortably lounging in bed, happily watching. The room is tidy and modern, emphasizing relaxation and convenience. --ar 1:1 --v 5.2`
+
+---
+
+### **카드뉴스 4/4**
+
+*   **들어갈 텍스트:**
+    **👑 BEST 2. 삼성 55인치 4K UHD 삼탠바이미**
+    **✅ 믿고 쓰는 '삼성' 브랜드!**
+    **✅ 압도적인 55인치 대화면 & 4K 화질!**
+    **✅ 거실 TV급 몰입감 그대로!**
+
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A spacious, luxurious modern living room with large windows. A sleek, large 55-inch Samsung 4K UHD TV on a movable stand is positioned prominently, displaying incredibly vibrant, high-definition cinematic content. A family or couple is comfortably seated, immersed in the viewing experience. The design is elegant and premium. --ar 1:1 --v 5.2`
