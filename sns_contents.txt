@@ -1,65 +1,56 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (도파민 폭발ver.)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (도파민 폭발!)
 
-**[영상 시작: 빠른 비트의 활기찬 배경음악]**
+**[영상 시작: 0초]**
 
-*   **0-3초 (훅! 시선강탈)**
-    *   **화면:** 'LG 스탠바이미' 로고가 보이다가 강렬한 빨간색 X 표시와 함께 '비싸서 고민? 😱' 이라는 자막이 크게 뜹니다. 이어서 '더 좋은 대안!' 이라는 자막이 빠르게 스쳐 지나갑니다.
-    *   **내레이션 (활기찬 톤):** "스탠바이미? 갖고 싶지만 가격이 미쳤죠?!"
+*   **Visual:** LG 스탠바이미의 높은 가격표가 클로즈업되며 '💰60만원대?' 문구가 깜빡임. 화면 전체에 '헉!'하는 놀란 표정의 이모지 폭탄!
+*   **Audio (Hook, 초고속, 흥분된 톤):** "스탠바이미 사고 싶은데… 가격 보고 눈물 났다고요? 잠.깐! 부자들만 쓰는 거 아니죠? MD가 찾아낸 초특급 갓성비 대체템, 딱 15초 안에 보여드릴게요!"
 
-*   **3-8초 (첫 번째 상품 어필)**
-    *   **화면:** 화이트 톤의 세련된 거실에서 '스카이뷰 43인치 FHD QLED 삼탠바이미'가 보이고, TV 화면에는 고화질 영화 장면이 압도적으로 펼쳐집니다. '43인치 대화면! 30만원대! QLED!' 자막이 번쩍이며 등장.
-    *   **내레이션:** "걱정 마! 여기 30만원대 '삼탠바이미' 끝판왕이 떴다! 43인치 초대형 QLED로 거실이 영화관으로 변신!"
+**[3초]**
 
-*   **8-13초 (두 번째 상품 어필)**
-    *   **화면:** 아늑한 침실에서 '와이드뷰 32인치 FHD QLED 삼탠바이미 세트'가 보이고, TV 화면에는 넷플릭스 UI가 빠르게 지나가며 인기 드라마 장면이 재생됩니다. 스탠드를 부드럽게 밀어서 이동시키는 모습이 연출됩니다. '32인치 베스트! 완벽 스펙! 스마트 기능 꽉!' 자막이 나타납니다.
-    *   **내레이션:** "아담하다고 무시 마! 32인치 QLED에 스마트 기능까지 완벽! 침실, 주방 어디든 나만의 무빙 TV!"
+*   **Visual:** '스탠바이미' vs '삼탠바이미' 비교 화면. 32인치 스탠바이미 옆에 43인치 삼탠바이미가 훨씬 커 보이는 연출. 가격 비교 차트 (정품 60만원대 vs 대안 30만원대) 빠르게 띄움.
+*   **Audio:** "정품보다 크고! 화질은 더 선명한데! 가격은 거의 반값?! 네, 지금 바로 공개합니다!"
 
-*   **13-15초 (클로징 및 CTA)**
-    *   **화면:** 두 제품이 나란히 놓여진 모습과 함께 '놓치면 후회! ➡️ 프로필 링크 CLICK!' 자막이 강조되며 나타납니다. 음악이 피크를 찍고 마무리됩니다.
-    *   **내레이션:** "인생템은 바로 여기! 지금 바로 프로필 링크에서 확인하세요! 💖"
+**[6초]**
+
+*   **Visual:** **스카이뷰 43인치 QLED 삼탠바이미**가 침실, 주방, 거실 등 다양한 공간에서 역동적으로 움직이는 모습. 넷플릭스 재생 화면 클로즈업.
+*   **Audio:** "🔥43인치 QLED 대화면! 이 갓성비 미쳤다! 단돈 35만원대에 거실, 방을 오가며 영화관을 누려봐!"
+
+**[10초]**
+
+*   **Visual:** **와이드뷰 32인치 QLED 삼탠바이미**가 세련된 공간에 놓여있고, QLED의 선명한 색감이 강조됨. 편리한 이동성 시연.
+*   **Audio:** "✨딱 좋은 32인치도 QLED! 32만원대에 스마트 기능 다 누려! 이젠 욕실에서도 드라마 본다!"
+
+**[13초]**
+
+*   **Visual:** 모든 제품이 나란히 놓여있고 '더 자세한 정보는 댓글 & 프로필 링크 클릭!' 문구.
+*   **Audio (CTA, 에너지 넘치게):** "MD가 직접 고른 스탠바이미 갓성비템! 이 가격에 이 스펙 놓치면 후회! 지금 바로 프로필 링크 클릭해서 최저가로 GET하세요!"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### [카드뉴스 1/4]
-*   **텍스트**:
-    **제목:** 스탠바이미 갖고 싶은데 너무 비싸죠? 😱
-    **본문:** 이제 '삼탠바이미'로 현명하게 즐겨봐!
-    오리지널 스탠바이미의 매력은 그대로!
-    가격 부담은 확! 낮춘 가성비 끝판왕 등장!
-*   **Midjourney 스타일 영문 프롬프트**:
-    `A sleek, minimalist mobile smart TV on a clean white stand in a modern, sunlit living room. The TV screen shows a vivid, high-definition image of a popular streaming service, with a large, bold red question mark and shocked emoji overlay, conveying a sense of wanting but being expensive. Soft shadows, high contrast, studio lighting, ultra-realistic. --ar 1:1 --v 5.2`
+### 📸 카드뉴스 1/4
 
-### [카드뉴스 2/4]
-*   **텍스트**:
-    **상품명:** ✨ 스카이뷰 43인치 FHD QLED 삼탠바이미 ✨
-    **가격:** 359,000원
-    **특징:**
-    ➡️ 43인치 압도적 대화면! (30만원대 실화?)
-    ➡️ QLED & FHD 화질로 영화관 몰입감 100%!
-    ➡️ 넷플릭스, 유튜브 등 스마트 기능 기본 탑재!
-*   **Midjourney 스타일 영문 프롬프트**:
-    `A luxurious, modern bedroom with a large, bright 43-inch mobile QLED smart TV on a sleek white stand. The TV screen displays an incredibly vibrant, high-definition movie scene with deep blacks and rich colors. The room is minimalist, with soft white bedding, a cozy rug, and warm ambient lighting. Ultra-realistic, cinematic quality, high detail. --ar 1:1 --v 5.2`
+*   **텍스트:** "LG 스탠바이미? 💸 가격 보고 포기했다면 STOP! ✋"
+    *   **부가 설명:** 비싼 가격에 망설였던 당신에게 MD가 직접 찾은 '스탠바이미 가성비' 대체템을 소개합니다!
+*   **Midjourney Prompt:** A person looking shocked and a bit sad while holding a credit card, looking at a luxurious, expensive-looking mobile smart TV displayed on a screen. The background is a modern, minimalist home interior with soft, diffused lighting. High resolution, hyperrealistic, emotional expression. --ar 1:1 --v 5.2
 
-### [카드뉴스 3/4]
-*   **텍스트**:
-    **상품명:** 💡 와이드뷰 32인치 FHD QLED 삼탠바이미 세트 💡
-    **가격:** 329,000원
-    **특징:**
-    ➡️ 32인치 표준 사이즈, 완벽한 스펙 균형!
-    ➡️ QLED & FHD 디스플레이의 선명함!
-    ➡️ 세련된 V3 스탠드로 어디든 편리하게 이동!
-*   **Midjourney 스타일 영문 프롬프트**:
-    `A cozy, chic home office or small living space, featuring a 32-inch mobile QLED smart TV on a stylish white V3 stand with wheels. The TV screen shows a clean, modern streaming service interface (like Netflix or YouTube). Sunlight streams through a large window, illuminating a comfortable armchair, a small side table with a cup of coffee, and a green plant. Detailed, bright, inviting atmosphere. --ar 1:1 --v 5.2`
+### 📸 카드뉴스 2/4
 
-### [카드뉴스 4/4]
-*   **텍스트**:
-    **제목:** 당신의 라이프스타일에 딱 맞는 '삼탠바이미'는?
-    **본문:** 4가지 가성비 모델 중 당신의 선택은?!
-    더 많은 정보와 구매는 프로필 링크를 확인하세요!
-    #삼탠바이미 #가성비TV #스마트TV #자취필수템 #무빙TV #QLED
-*   **Midjourney 스타일 영문 프롬프트**:
-    `A bright, modern open-plan apartment with four different models of sleek, minimalist mobile smart TVs on stands. Each TV displays unique content (e.g., a movie, a video game, a YouTube channel, a news broadcast), showcasing variety. The scene emphasizes choice and smart technology integration into various living styles. Bright, even lighting, subtle bokeh, high-quality product photography style. --ar 1:1 --v 5.2`
+*   **텍스트:** "🌟 10년차 MD가 찾아낸 '삼탠바이미' 갓성비 라인업 대공개! 🌟"
+    *   **부가 설명:** 기능, 화질, 디자인, 가격까지! 스탠바이미의 모든 것을 만족시키는 완벽한 대안을 지금 확인하세요!
+*   **Midjourney Prompt:** A sleek, modern mobile smart TV (SamtanbyME) with a white stand, glowing with vibrant QLED display, in a stylish, clean, and bright home interior. Confetti and sparkling effects around the TV, symbolizing "best value" and "discovery." Product photography style, high resolution, hyperrealistic. --ar 1:1 --v 5.2
+
+### 📸 카드뉴스 3/4
+
+*   **텍스트:** "✨ 압도적 43인치 QLED 대화면! 스카이뷰 삼탠바이미 (35만원대) ✨"
+    *   **부가 설명:** 32인치 정품보다 크고 선명한 QLED 대화면! 이 가격에 이 스펙은 '갓성비' 그 자체! 거실 메인 TV로도 손색없는 압도적 시청 경험!
+*   **Midjourney Prompt:** A large 43-inch QLED smart mobile TV (SamtanbyME) with a minimalist white stand, positioned in a modern, cozy bedroom. The screen shows a breathtaking cinematic landscape with vibrant colors. A person is comfortably lying on the bed, immersed in the view. Soft natural light, high resolution, hyperrealistic. --ar 1:1 --v 5.2
+
+### 📸 카드뉴스 4/4
+
+*   **텍스트:** "💖 균형 잡힌 32인치 QLED! 와이드뷰 삼탠바이미 (32만원대) 💖"
+    *   **부가 설명:** 딱 좋은 32인치 QLED에 스마트 기능까지 완벽! 침실, 주방, 서재 어디든 착붙! 안정적인 가성비를 찾는 당신을 위한 최고의 선택!
+*   **Midjourney Prompt:** A 32-inch QLED smart mobile TV (SamtanbyME) with a white, elegant stand, seamlessly integrated into a bright, contemporary kitchen island. The screen displays a cooking show or a music video. A person is casually cooking nearby, glancing at the TV. Clean, modern aesthetic, natural lighting, high resolution, hyperrealistic. --ar 1:1 --v 5.2
