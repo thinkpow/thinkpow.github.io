@@ -1,56 +1,82 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (도파민 폭발!)
+## ✨ 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**[영상 시작: 0초]**
+**[영상 컨셉]** 빠른 템포의 편집과 감각적인 화면 전환, 배경 음악은 트렌디하고 경쾌한 팝. 화면에 중요 키워드들이 빠르게 플래시처럼 지나간다.
 
-*   **Visual:** LG 스탠바이미의 높은 가격표가 클로즈업되며 '💰60만원대?' 문구가 깜빡임. 화면 전체에 '헉!'하는 놀란 표정의 이모지 폭탄!
-*   **Audio (Hook, 초고속, 흥분된 톤):** "스탠바이미 사고 싶은데… 가격 보고 눈물 났다고요? 잠.깐! 부자들만 쓰는 거 아니죠? MD가 찾아낸 초특급 갓성비 대체템, 딱 15초 안에 보여드릴게요!"
+**[스크립트]**
 
-**[3초]**
+**0-3초 (훅):**
+*   **화면:** (초고속 화면 전환) 예쁜 스탠바이미 앞에서 고민하는 사람 ▶ 가격표 보고 좌절하는 모습 (x 표시) ▶ 밝게 미소 지으며 새로운 TV를 가리키는 손.
+*   **내레이션:** "스탠바이미, 너무 예쁜데 가격이... 헉! 이 고민, 저만 했나요? 이제 비싼 스탠바이미 대신 '이것' 보세요!"
 
-*   **Visual:** '스탠바이미' vs '삼탠바이미' 비교 화면. 32인치 스탠바이미 옆에 43인치 삼탠바이미가 훨씬 커 보이는 연출. 가격 비교 차트 (정품 60만원대 vs 대안 30만원대) 빠르게 띄움.
-*   **Audio:** "정품보다 크고! 화질은 더 선명한데! 가격은 거의 반값?! 네, 지금 바로 공개합니다!"
+**3-7초 (문제 제기 & 솔루션 제시):**
+*   **화면:** 다양한 공간(침실, 주방, 거실)에서 자유롭게 움직이는 깔끔한 화이트 이동식 TV. TV 화면에는 OTT 콘텐츠가 재생됨.
+*   **내레이션:** "감성은 그대로, 가격은 반값! 바로 '삼탠바이미'입니다! 이동성, 스마트 기능, 깔끔한 디자인? 다 됩니다!"
 
-**[6초]**
+**7-12초 (핵심 제품 & 장점 어필):**
+*   **화면:**
+    *   7-9초: 43인치 QLED 삼탠바이미가 등장하며 넓은 화면과 선명한 화질 강조 (자막: 💥43인치 QLED 대화면!💥)
+    *   9-11초: 32인치 화이트 에디션 삼탠바이미가 침실에서 사용되는 모습 (자막: 💖32인치 콤팩트 감성!💖)
+    *   11-12초: 가격 띠배너 등장 (자막: 💸30만원대부터?!💸)
+*   **내레이션:** "43인치 초대형 QLED 화질에 깔끔한 화이트 디자인까지! 침실, 주방 어디든 옮겨 다니며 나만의 극장을 만들어요! 심지어 30만원대부터라고요?"
 
-*   **Visual:** **스카이뷰 43인치 QLED 삼탠바이미**가 침실, 주방, 거실 등 다양한 공간에서 역동적으로 움직이는 모습. 넷플릭스 재생 화면 클로즈업.
-*   **Audio:** "🔥43인치 QLED 대화면! 이 갓성비 미쳤다! 단돈 35만원대에 거실, 방을 오가며 영화관을 누려봐!"
-
-**[10초]**
-
-*   **Visual:** **와이드뷰 32인치 QLED 삼탠바이미**가 세련된 공간에 놓여있고, QLED의 선명한 색감이 강조됨. 편리한 이동성 시연.
-*   **Audio:** "✨딱 좋은 32인치도 QLED! 32만원대에 스마트 기능 다 누려! 이젠 욕실에서도 드라마 본다!"
-
-**[13초]**
-
-*   **Visual:** 모든 제품이 나란히 놓여있고 '더 자세한 정보는 댓글 & 프로필 링크 클릭!' 문구.
-*   **Audio (CTA, 에너지 넘치게):** "MD가 직접 고른 스탠바이미 갓성비템! 이 가격에 이 스펙 놓치면 후회! 지금 바로 프로필 링크 클릭해서 최저가로 GET하세요!"
+**12-15초 (클로징 & CTA):**
+*   **화면:** 엄지 척 포즈의 인물과 함께, 화면 중앙에 "프로필 링크 클릭! 나만의 삼탠바이미 GET!" 문구 크게 표시.
+*   **내레이션:** "스탠바이미 감성 그대로! 가성비 끝판왕 '삼탠바이미' 지금 바로 프로필 링크에서 확인하세요!"
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### 📸 카드뉴스 1/4
+### 1️⃣ 첫 번째 컷: 스탠바이미 고민 공감 & 훅
 
-*   **텍스트:** "LG 스탠바이미? 💸 가격 보고 포기했다면 STOP! ✋"
-    *   **부가 설명:** 비싼 가격에 망설였던 당신에게 MD가 직접 찾은 '스탠바이미 가성비' 대체템을 소개합니다!
-*   **Midjourney Prompt:** A person looking shocked and a bit sad while holding a credit card, looking at a luxurious, expensive-looking mobile smart TV displayed on a screen. The background is a modern, minimalist home interior with soft, diffused lighting. High resolution, hyperrealistic, emotional expression. --ar 1:1 --v 5.2
+*   **텍스트:**
+    ```
+    ✨ 스탠바이미? NO! 이젠 '삼탠바이미' 시대! ✨
+    예쁜데 비싸서 망설였다면 주목! 🤫
+    ```
+*   **Midjourney Prompt (영문):**
+    ```
+    A stylish living room, a woman looking longingly at a sleek, modern mobile TV, but with a thought bubble above her head showing a high price tag. She looks a bit sad. Next to it, a bright, exciting question mark and an arrow pointing to the next slide. Clean, bright, minimalist aesthetic. --ar 1:1 --v 5.2
+    ```
 
-### 📸 카드뉴스 2/4
+### 2️⃣ 두 번째 컷: 삼탠바이미란? 핵심 가치 소개
 
-*   **텍스트:** "🌟 10년차 MD가 찾아낸 '삼탠바이미' 갓성비 라인업 대공개! 🌟"
-    *   **부가 설명:** 기능, 화질, 디자인, 가격까지! 스탠바이미의 모든 것을 만족시키는 완벽한 대안을 지금 확인하세요!
-*   **Midjourney Prompt:** A sleek, modern mobile smart TV (SamtanbyME) with a white stand, glowing with vibrant QLED display, in a stylish, clean, and bright home interior. Confetti and sparkling effects around the TV, symbolizing "best value" and "discovery." Product photography style, high resolution, hyperrealistic. --ar 1:1 --v 5.2
+*   **텍스트:**
+    ```
+    🌟 감성은 그대로, 가격은 반값! '삼탠바이미'가 뭐야? 🌟
+    📍 이동성 + 스마트 기능 + 깔끔한 디자인
+    📍 QLED 화질 + 대화면까지 ALL! 
+    ```
+*   **Midjourney Prompt (영문):**
+    ```
+    A dynamic split image. On the left: a sleek white mobile TV moving smoothly between a modern bedroom and a kitchen, surrounded by minimalist icons representing streaming apps and mobility. On the right: a close-up of a vibrant, high-quality QLED display showcasing vivid, eye-popping colors and sharp details. Clean, modern, energetic, informative. --ar 1:1 --v 5.2
+    ```
 
-### 📸 카드뉴스 3/4
+### 3️⃣ 세 번째 컷: 메인 추천 1 - 초대형 QLED (43인치)
 
-*   **텍스트:** "✨ 압도적 43인치 QLED 대화면! 스카이뷰 삼탠바이미 (35만원대) ✨"
-    *   **부가 설명:** 32인치 정품보다 크고 선명한 QLED 대화면! 이 가격에 이 스펙은 '갓성비' 그 자체! 거실 메인 TV로도 손색없는 압도적 시청 경험!
-*   **Midjourney Prompt:** A large 43-inch QLED smart mobile TV (SamtanbyME) with a minimalist white stand, positioned in a modern, cozy bedroom. The screen shows a breathtaking cinematic landscape with vibrant colors. A person is comfortably lying on the bed, immersed in the view. Soft natural light, high resolution, hyperrealistic. --ar 1:1 --v 5.2
+*   **텍스트:**
+    ```
+    🤩 몰입감 폭발! 43인치 초대형 QLED 삼탠바이미 🤩
+    💥 30만원대! 일반 스탠바이미 2배 화면!
+    🎨 QLED 선명한 화질로 영화, 드라마가 예술!
+    ```
+*   **Midjourney Prompt (영문):**
+    ```
+    A cozy, modern living room at dusk with a large 43-inch white mobile smart TV displaying a vibrant, cinematic movie scene. The room has soft, inviting lighting, a comfortable sectional sofa, and lush green plants, creating a luxurious yet relaxed and immersive atmosphere. High-definition, detailed, inviting. --ar 1:1 --v 5.2
+    ```
 
-### 📸 카드뉴스 4/4
+### 4️⃣ 네 번째 컷: 메인 추천 2 - 콤팩트 QLED (32인치) & CTA
 
-*   **텍스트:** "💖 균형 잡힌 32인치 QLED! 와이드뷰 삼탠바이미 (32만원대) 💖"
-    *   **부가 설명:** 딱 좋은 32인치 QLED에 스마트 기능까지 완벽! 침실, 주방, 서재 어디든 착붙! 안정적인 가성비를 찾는 당신을 위한 최고의 선택!
-*   **Midjourney Prompt:** A 32-inch QLED smart mobile TV (SamtanbyME) with a white, elegant stand, seamlessly integrated into a bright, contemporary kitchen island. The screen displays a cooking show or a music video. A person is casually cooking nearby, glancing at the TV. Clean, modern aesthetic, natural lighting, high resolution, hyperrealistic. --ar 1:1 --v 5.2
+*   **텍스트:**
+    ```
+    💖 콤팩트 감성! 32인치 QLED 삼탠바이미 💖
+    ✨ 32만원대! 침실/서재 딱!
+    🤍 화이트 디자인으로 인테리어 완성!
+    (지금 프로필 링크에서 BEST4 모두 확인!)
+    ```
+*   **Midjourney Prompt (영문):**
+    ```
+    A bright, minimalist bedroom with a 32-inch white mobile smart TV on a stand, playing a relaxing aesthetic video (e.g., nature scenery or calming animation). Soft morning light streams through a sheer-curtained window. The room features clean lines, a comfortable bed with crisp white linens, and subtle decorative elements like a small plant or a book. Serene, calming, modern, with a subtle CTA text overlay. --ar 1:1 --v 5.2
+    ```
