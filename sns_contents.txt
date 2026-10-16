@@ -1,33 +1,44 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📢 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
+
+**제목:** 스탠바이미? NO! 10만원대 가성비 삼탠바이미 BEST 5! (MD 추천)
 
 ---
 
-**[영상 컨셉]**
-빠른 템포의 전환, 감각적인 영상미 (LG 스탠바이미처럼 세련된 디자인의 이동식 TV가 다양한 공간에서 활용되는 모습), 화면에 강조되는 텍스트 효과, 경쾌한 배경 음악.
+**[영상 시작 0-3초: 훅! 시선 강탈!]**
 
-**[스크립트]**
+*   **화면:** (빠른 컷 전환)
+    *   **1초:** 고급스러운 스탠바이미 옆 가격표에 '200만원대' 글자 크게 클로즈업! (실망한 표정의 인물 얼굴 오버랩)
+    *   **2초:** "헉! 스탠바이미가 너무 비싸다고요?!" (자막: 💸💸💸)
+    *   **3초:** 갑자기 화면이 전환되며 밝고 경쾌한 음악 시작, 다양한 '삼탠바이미' 제품들이 빠르게 등장! (자막: 놉! 🙅‍♀️)
 
-**(0-3초) 훅(Hook): 시선 강탈!**
-*   **화면:** (빠르게 스쳐 지나가는 LG 스탠바이미의 멋진 모습, 이어지는 자막: "갖고 싶지만 비싸다고?")
-*   **내레이션:** "스탠바이미? NO! 💸 돈 아깝게 비싼 거 사지 마세요!"
+*   **내레이션 (빠르고 흥분된 목소리):** "스탠바이미 사고 싶은데… 통장 잔고 보고 한숨 쉬셨죠? 놉! 200만원대? 이젠 10만원대부터 끝판왕 가성비 '삼탠바이미'로 인생 TV 바꿔봐!"
 
-**(3-7초) 문제 제기 및 해결책 제시**
-*   **화면:** (심플하고 세련된 화이트 이동식 TV가 침실, 주방, 거실 등 다양한 공간으로 스르륵 이동하는 모습)
-*   **내레이션:** "30만원대로 QLED 스마트 TV를 내 맘대로 옮긴다고? 이게 바로 #삼탠바이미 ✨"
+**[4-8초: 핵심 제품 1 소개]**
 
-**(7-11초) 메인 상품 1 (와이드뷰 32인치)**
-*   **화면:** (와이드뷰 32인치 삼탠바이미 클로즈업, 넷플릭스, 유튜브 등 OTT 앱 실행 화면)
-*   **내레이션:** "감성 디자인! 화이트 컬러의 와이드뷰 32인치! QLED 화질에 스마트 기능까지 완벽!"
+*   **화면:** 무빙큐빅스 32인치 삼탠바이미 (침실, 주방 등 다양한 공간에 있는 모습)
+    *   **4-5초:** (방문 설치 영상 또는 설치 완료 후 편하게 사용하는 모습)
+    *   **6-8초:** 넷플릭스, 유튜브 화면 빠르게 전환 (깔끔한 UI 강조)
 
-**(11-14초) 메인 상품 2 (스카이뷰 43인치)**
-*   **화면:** (스카이뷰 43인치 삼탠바이미가 넓은 거실에서 영화를 재생하는 모습, 몰입감 넘치는 시네마틱 연출)
-*   **내레이션:** "대화면의 끝판왕! 43인치 스카이뷰! 영화관이 우리 집으로! 몰입감 폭발!"
+*   **내레이션:** "침대 맡에서, 주방에서, 어디든 쓱! 이 제품은 MD가 극찬한 30만원대 갓성비! 전문가가 직접 방문 설치까지? 스마트 기능은 당연 풀옵션!"
 
-**(14-15초) 클로징 및 CTA**
-*   **화면:** (두 제품이 나란히 있는 모습, 자막: "인생 삼탠바이미! 지금 바로 GET!" / 아래로 향하는 화살표 이모티콘)
-*   **내레이션:** "더 자세한 정보는 지금 바로 댓글/프로필 링크에서 확인하세요! 👇"
+**[9-12초: 핵심 제품 2 소개]**
+
+*   **화면:** 무빙큐빅스 40인치 QLED 화이트 삼탠바이미 (모던하고 세련된 인테리어에 놓인 모습)
+    *   **9-10초:** 40인치 대화면과 선명한 QLED 화질 강조 (영화 감상 장면)
+    *   **11-12초:** 화이트 디자인이 공간에 어우러지는 모습
+
+*   **내레이션:** "나는 화질도 놓칠 수 없다? 40인치 QLED에 고급스러운 화이트 디자인까지! 내 취향 완벽 저격하는 갓성비 대화면!"
+
+**[13-15초: 마무리 & CTA]**
+
+*   **화면:** 5가지 제품들이 한 화면에 모아져 빠르게 스캔되는 연출 + 구매 링크 QR 코드 또는 웹사이트 주소 크게 노출
+    *   **13초:** (자막: MD's Pick! 가성비 BEST 5!)
+    *   **14초:** (자막: 💰지금 바로 확인!)
+    *   **15초:** (자막: ✨인생 TV는 쿠팡에서!)
+
+*   **내레이션:** "이 외에도 10만원대 초특가부터 취향별 맞춤 TV가 가득! 지금 바로 프로필 링크 확인하고, 나만의 스마트 라이프 시작하세요! (구매 링크 언급)"
 
 ---
 
@@ -35,41 +46,47 @@
 
 ---
 
-### **카드뉴스 1/4**
+### **[카드뉴스 1컷] - 훅! 스탠바이미, 이제는 현명하게!**
 
-*   **텍스트:**
-    🚨 스탠바이미 갖고 싶어서 돈 모으다 현타 온 사람 필독!
-    ✨ 30만원대로 만나는 #스탠바이미가성비 끝판왕!
-    내 맘대로 옮겨 다니는 #스마트이동식TV 🔥
+*   **카드 텍스트:**
+    *   **메인:** 💸 스탠바이미 갖고 싶다? 통장 보고 한숨 쉬지 마세요!
+    *   **서브:** 200만원대 대신 10만원대부터! ✨ MD가 엄선한 '가성비 삼탠바이미' BEST 5!
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A minimalist, modern living room with soft natural light, featuring a sleek, white portable smart TV on a stylish stand in the center. The TV screen displays a vibrant, engaging content. Cozy, aesthetic atmosphere, 4K, high detail, warm lighting. --ar 1:1 --style raw`
+    `A young woman in a cozy, modern living room looks sadly at an empty wallet, with a blurred, expensive LG StandbyMe TV in the background. In the foreground, a bright, glowing outline of a sleek, affordable mobile smart TV appears, symbolizing a solution. Dynamic, vibrant, cinematic, photorealistic, wide shot, shallow depth of field, --ar 4:5 --v 5.2`
 
-### **카드뉴스 2/4**
+---
 
-*   **텍스트:**
-    🌟 1️⃣ 와이드뷰 32인치 QLED 삼탠바이미 (329,000원)
-    LG 스탠바이미 감성 그대로! 🤍
-    QLED 화질 + 스마트TV 기능까지 완벽!
-    어떤 공간에도 찰떡! 감성 디자인 끝판왕 ✨
+### **[카드뉴스 2컷] - MD's Pick 1: 가성비 끝판왕! 무빙큐빅스 32인치**
+
+*   **카드 텍스트:**
+    *   **메인:** 📺 MD 강력 추천! 30만원대 '무빙큐빅스 32인치 삼탠바이미'
+    *   **서브:** 📌 방문설치 무료! 넷플릭스, 유튜브 스마트 기능 완벽!
+    *   **가격 강조:** 💰 349,000원!
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A bright, aesthetic bedroom with a white portable smart TV (32 inch) showing a crisp QLED display of a K-drama. The TV stand is modern and white, blending seamlessly with minimalist decor, natural light, soft linens. High angle shot, cozy, clean, modern interior design. --ar 1:1 --style raw`
+    `A clean, bright bedroom with a sleek, modern 32-inch white mobile smart TV on wheels, showing Netflix on its screen. A hand is gently pushing the TV, indicating mobility. Sunlight streams through a window. Minimalist, inviting atmosphere, sharp focus, natural light, high-resolution photo, --ar 4:5 --v 5.2`
 
-### **카드뉴스 3/4**
+---
 
-*   **텍스트:**
-    🎬 2️⃣ 스카이뷰 43인치 대화면 QLED 삼탠바이미 (359,000원)
-    "대화면"으로 즐기는 몰입감의 신세계!
-    32인치와는 차원이 다른 압도적 스케일!
-    선명한 QLED로 영화관이 우리집으로! 🍿
+### **[카드뉴스 3컷] - MD's Pick 2: 압도적인 화질, 40인치 QLED!**
+
+*   **카드 텍스트:**
+    *   **메인:** 🌟 40인치 QLED 대화면! '무빙큐빅스 화이트 에디션'
+    *   **서브:** ✨ 고급스러운 디자인에 선명한 화질까지! '갓성비'의 정석!
+    *   **가격 강조:** 💰 489,000원!
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A modern, spacious living room with large windows, featuring a sleek, white portable smart TV (43 inch) with a vivid QLED display showing an action movie. The TV is positioned for optimal viewing, surrounded by comfortable, stylish furniture. Dynamic, cinematic lighting, wide shot. --ar 1:1 --style raw`
+    `A luxurious, minimalist white living room or kitchen space. A sleek, white 40-inch QLED mobile smart TV prominently displayed, showing a vibrant, high-definition movie scene. The design blends seamlessly with the modern interior. Soft, elegant lighting, professional interior photography, --ar 4:5 --v 5.2`
 
-### **카드뉴스 4/4**
+---
 
-*   **텍스트:**
-    🎉 당신의 라이프스타일에 딱 맞는 #삼탠바이미 찾기!
-    ✅ 10만원대 초가성비부터,
-    ✅ 방문설치 서비스까지!
-    지금 바로 프로필 링크에서 #인생템 GET하세요!
+### **[카드뉴스 4컷] - 취향따라 고르는 BEST 5!**
+
+*   **카드 텍스트:**
+    *   **메인:** 내 라이프스타일에 딱! 맞춤형 삼탠바이미를 찾아보세요!
+    *   **서브:** 💡 10만원대 초가성비부터, 구글 스마트 TV 단품까지!
+    *   **CTA:** ➡️ 지금 바로 프로필 링크에서 MD 추천 BEST 5 확인!
+
 *   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage or split screen image depicting various scenarios of using a portable smart TV: one person watching TV in a modern kitchen, another person gaming in a cozy living room, and someone else doing yoga with fitness content on the TV in a minimalist studio. Diverse, vibrant, clean, bright. --ar 1:1 --style raw`
+    `A dynamic collage or grid showing diverse lifestyle scenes: a person happily watching a mobile smart TV in bed, another cooking in a modern kitchen with a TV, and a third enjoying an outdoor camping trip with a portable TV. Each scene features a different style of mobile smart TV. Energetic, vibrant, lifestyle photography, composite image, --ar 4:5 --v 5.2`
