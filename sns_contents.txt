@@ -1,70 +1,69 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 도파민 폭발 15초 쇼츠/틱톡 스크립트
+## 📺 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-**제목:** 💥스탠바이미 비싸서 눈물 흘린 자들 주목! 갓성비 삼탠바이미 BEST 5!💥
+**제목:** 내 방이 영화관으로 변하는 마법! ✨ 최애 삼탠바이미 득템 찬스!
 
-**[0-3초] 훅 (Hook)**
-*   **영상:** (빠른 템포의 배경 음악 시작. LG 스탠바이미 이미지/영상 잠깐 비춘 후, 좌절하는 표정의 사람 클로즈업)
-*   **대사:** "스탠바이미 갖고 싶어서 통장 눈치 봤다고? 댓츠 노노! 😤"
-*   **영상:** (화면이 터지듯 전환되며 밝고 경쾌한 분위기로. '갓성비 삼탠바이미' 타이틀 등장)
-*   **대사:** "갓성비 삼탠바이미로 돈 아끼고 삶의 질 UP!"
+**[15초 스크립트]**
 
-**[4-12초] 핵심 상품 소개 (빠른 템포)**
-*   **영상:** (방에서 편안하게 TV 시청하는 모습)
-*   **대사:** "10만원대 초가성비? #프리토스 삼탠바이미! 셋톱박스만 있으면 어디든 내 영화관!"
-*   **영상:** (전문가가 깔끔하게 TV 설치하는 모습, 설치 후 넷플릭스 실행 화면)
-*   **대사:** "조립 걱정 NO! 방문 설치에 스마트 기능까지? #무빙큐빅스 32인치!"
-*   **영상:** (40인치 QLED, 화이트 TV 단품 등 다양한 삼탠바이미 스크롤하며 빠르게 전환)
-*   **대사:** "최저 10만원대부터 프리미엄 40인치까지! 가성비 끝판왕 삼탠바이미가 이렇게 많다고?!"
+**(0-3초) ⚡️ [강렬한 훅] - 빠르고 역동적인 영상 전환, 신나는 배경음악 시작**
+*   **화면:** (초고속 몽타주) 침대에서 폰/태블릿으로 영상 보며 불편해하는 사람 -> 주방에서 레시피 보려고 낑낑대는 사람 -> (번개 효과) -> 갑자기 스타일리시한 '삼탠바이미' 등장!
+*   **내레이션 (흥분된 목소리):** 맨날 거실 소파에 박혀서 TV 보니? 침대에서 영화 보고 싶지 않아? 😩 (고민스러운 표정) 이젠, 내 방이 영화관으로 변하는 마법! ✨
 
-**[13-15초] 클로징 & CTA**
-*   **영상:** (화면 중앙에 '더 많은 상품 보러가기' 텍스트 크게, 아래에 링크 클릭 유도하는 손가락 이모지)
-*   **대사:** "가성비 끝판왕 삼탠바이미 더 궁금해? 지금 바로 프로필 링크 클릭해봐!"
-*   **음악:** (경쾌한 마무리 효과음)
+**(3-7초) 🌟 [핵심 기능 어필: 이동성 & 유연성]**
+*   **화면:** 삼탠바이미가 침실(눕방), 주방(요리), 거실(가족 시청) 등 다양한 공간으로 스윽- 이동하며, 스탠드 각도가 자유자재로 조절되는 모습. (빠르게 전환하며 기능 시각화)
+*   **내레이션:** 거실, 침실, 주방 어디든 OK! 🛋️✨ 원하는 곳으로 스윽~ 밀고 가서 넷플릭스, 유튜브 바로 즐겨봐!
+
+**(7-12초) 🔥 [상품 비교 & 화질 강조: 와이드뷰 vs 스카이뷰]**
+*   **화면:** 와이드뷰 32인치 (선명한 QLED 색감 강조) -> 스카이뷰 43인치 (대화면으로 몰입감 강조) 비교샷. OTT 앱 실행 화면. (생생한 영상미 어필)
+*   **내레이션:** 와이드뷰 32인치 QLED로 선명하게! 🎬 아니면 압도적 43인치 스카이뷰로 대화면 감동까지! 🤯 끊김 없는 스마트 기능은 기본!
+
+**(12-15초) 🚀 [강력한 CTA] - 전 상품 진열 + 링크 유도, 밝고 희망찬 마무리**
+*   **화면:** 리뷰된 모든 삼탠바이미 제품들이 예쁘게 진열된 모습 (다양한 선택지 어필) + "내 인생 TV는?" 텍스트 크게 강조! -> 프로필 링크로 손가락 가리키는 애니메이션.
+*   **내레이션 (활기차게):** 내 인생 TV 찾는다면? 지금 바로 프로필 링크 클릭! 너의 공간을 영화관으로 만들어 줄게! 👇
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### 1. 첫 번째 컷 (훅 & 문제 제기)
-*   **텍스트:**
-    **스탠바이미 사고 싶어서 망설여? 💸**
-    **돈 아끼고 삶의 질 올리는**
-    **#가성비삼탠바이미 ✨ 베스트 5 전격 공개!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A stylish, modern living room with a slightly frustrated person looking at an expensive LG StandbyMe price tag. In contrast, a happy, relaxed person is enjoying a similar but more affordable mobile TV in a different part of the room. Bright, clean aesthetic, minimalist, warm lighting. --ar 1:1 --v 5.2
-    ```
+### **카드 1: 훅 & 문제 제기 -> 솔루션 제시**
 
-### 2. 두 번째 컷 (메인 상품 1: 프리토스 삼탠바이미)
-*   **텍스트:**
-    **📺 10만원대로 스탠바이미 로망 실현?**
-    **#프리토스 삼탠바이미 세트!**
-    **셋톱박스만 있으면 어디든 내 영화관 완성!**
-    *(가격: 163,000원)*
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A cozy, bright bedroom with a sleek, minimalist mobile TV on a stand next to a bed. A person is comfortably watching a movie or show. The TV is a simple, modern design, emphasizing ease of movement and affordability. Soft natural light, inviting atmosphere. --ar 1:1 --v 5.2
-    ```
+*   **카드 텍스트:**
+    **"아직도 TV에 갇혀 살아? 📺"**
+    **"내 방을 영화관으로 만드는 마법! ✨ #삼탠바이미"**
+    (내 공간, 내 방식대로 즐기는 스마트 라이프!)
+*   **Midjourney 프롬프트:**
+    "A cozy, modern living room at dusk, bathed in soft, warm light. A sleek, minimalist portable smart TV is prominently displayed in the center, projecting a vibrant movie scene. The room transitions from a normal living space to a cinematic experience. Luxurious comfort, high-end design, inviting atmosphere. Warm color palette. Cinematic, high detail, photorealistic. --ar 1:1"
 
-### 3. 세 번째 컷 (메인 상품 2: 무빙큐빅스 스마트 삼탠바이미)
-*   **텍스트:**
-    **📦 조립 걱정은 이제 그만! 전문가 #방문설치 뚝딱!**
-    **+ 넷플릭스 되는 #스마트삼탠바이미 🎬**
-    **#무빙큐빅스 32인치로 스마트한 편리함!**
-    *(가격: 349,000원)*
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A modern, clean kitchen or living room. A professional technician is smiling while effortlessly setting up a sleek, white mobile smart TV on a stand. Another person looks relieved and happy, holding a remote, ready to enjoy streaming services like Netflix. Bright, welcoming environment. --ar 1:1 --v 5.2
-    ```
+---
 
-### 4. 네 번째 컷 (CTA 및 추가 상품 안내)
-*   **텍스트:**
-    **🤫 MD가 엄선한 #스탠바이미대안 더 보고 싶다면?**
-    **프로필 링크 Click! 👆**
-    **초가성비부터 프리미엄 40인치까지, 당신의 삼탠바이미는?**
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A dynamic collage or montage of 3-5 different mobile TVs (various sizes and designs, some sleek, some simple) in diverse home settings (bedroom, living room, kitchen, balcony). Overlay text "Your perfect mobile TV awaits!" with a subtle arrow icon pointing downwards. Energetic, inviting, modern, clean aesthetic. --ar 1:1 --v 5.2
-    ```
+### **카드 2: 압도적인 유연성 & 이동성 (와이드뷰 32인치)**
+
+*   **카드 텍스트:**
+    **"침대 옆, 주방, 거실! 어디든 OK! 🛋️"**
+    **"자유로운 이동 + V3 스탠드로 완벽한 각도! #와이드뷰32인치"**
+    (어떤 자세로든 편하게 즐겨봐!)
+*   **Midjourney 프롬프트:**
+    "A stylish portable smart TV with a sleek, adjustable 'V3 moving view' stand, seamlessly wheeled from a cozy bedroom (showing a person comfortably watching in bed) to a modern kitchen (person watching while cooking). The TV screen displays a vibrant, high-definition image. Soft, natural lighting. Modern home interior, flexible lifestyle. Clean aesthetic, high detail, photorealistic. --ar 1:1"
+
+---
+
+### **카드 3: 대화면 몰입감 & 프리미엄 화질 (스카이뷰 43인치)**
+
+*   **카드 텍스트:**
+    **"43인치 대화면 QLED로 압도적 몰입감! 🎬"**
+    **"넷플릭스, 유튜브 스마트 기능은 기본! #스카이뷰43인치"**
+    (영화관 부럽지 않은 나만의 극장!)
+*   **Midjourney 프롬프트:**
+    "A stunning 43-inch portable smart QLED TV, displaying an incredibly vivid and immersive movie scene (e.g., a dramatic landscape or action shot). The screen is the focal point, with subtle smart TV application icons (like Netflix, YouTube) on the interface. A person's excited silhouette in the foreground, enjoying the view from a cozy, dimly lit home theater setup. Cinematic lighting, rich colors, ultra-high definition. --ar 1:1"
+
+---
+
+### **카드 4: 나에게 맞는 삼탠바이미 찾기 & CTA**
+
+*   **카드 텍스트:**
+    **"20만원대부터 40만원대까지! 💰"**
+    **"당신의 '인생 삼탠바이미'는? 🤔"**
+    **"프로필 링크에서 완벽 비교! 👇 #가성비TV #스마트TV추천"**
+*   **Midjourney 프롬프트:**
+    "A curated display of five distinct portable smart TVs, ranging in size and style, arranged artfully in a modern, bright retail showroom or minimalist interior. Each TV is sleek and clearly visible, showcasing variety. Subtle price indicators (e.g., 'Entry-level', 'Premium') can be visually integrated. Emphasize choice and quality. Bright, clean, professional product photography style. --ar 1:1"
