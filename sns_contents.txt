@@ -1,69 +1,52 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발! 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
+## 🎥 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발 훅 강제 포함)
 
-**제목:** 내 방이 영화관으로 변하는 마법! ✨ 최애 삼탠바이미 득템 찬스!
-
-**[15초 스크립트]**
-
-**(0-3초) ⚡️ [강렬한 훅] - 빠르고 역동적인 영상 전환, 신나는 배경음악 시작**
-*   **화면:** (초고속 몽타주) 침대에서 폰/태블릿으로 영상 보며 불편해하는 사람 -> 주방에서 레시피 보려고 낑낑대는 사람 -> (번개 효과) -> 갑자기 스타일리시한 '삼탠바이미' 등장!
-*   **내레이션 (흥분된 목소리):** 맨날 거실 소파에 박혀서 TV 보니? 침대에서 영화 보고 싶지 않아? 😩 (고민스러운 표정) 이젠, 내 방이 영화관으로 변하는 마법! ✨
-
-**(3-7초) 🌟 [핵심 기능 어필: 이동성 & 유연성]**
-*   **화면:** 삼탠바이미가 침실(눕방), 주방(요리), 거실(가족 시청) 등 다양한 공간으로 스윽- 이동하며, 스탠드 각도가 자유자재로 조절되는 모습. (빠르게 전환하며 기능 시각화)
-*   **내레이션:** 거실, 침실, 주방 어디든 OK! 🛋️✨ 원하는 곳으로 스윽~ 밀고 가서 넷플릭스, 유튜브 바로 즐겨봐!
-
-**(7-12초) 🔥 [상품 비교 & 화질 강조: 와이드뷰 vs 스카이뷰]**
-*   **화면:** 와이드뷰 32인치 (선명한 QLED 색감 강조) -> 스카이뷰 43인치 (대화면으로 몰입감 강조) 비교샷. OTT 앱 실행 화면. (생생한 영상미 어필)
-*   **내레이션:** 와이드뷰 32인치 QLED로 선명하게! 🎬 아니면 압도적 43인치 스카이뷰로 대화면 감동까지! 🤯 끊김 없는 스마트 기능은 기본!
-
-**(12-15초) 🚀 [강력한 CTA] - 전 상품 진열 + 링크 유도, 밝고 희망찬 마무리**
-*   **화면:** 리뷰된 모든 삼탠바이미 제품들이 예쁘게 진열된 모습 (다양한 선택지 어필) + "내 인생 TV는?" 텍스트 크게 강조! -> 프로필 링크로 손가락 가리키는 애니메이션.
-*   **내레이션 (활기차게):** 내 인생 TV 찾는다면? 지금 바로 프로필 링크 클릭! 너의 공간을 영화관으로 만들어 줄게! 👇
+**[영상 컨셉]** 스탠바이미의 비싼 가격에 좌절했다가, 30만원대 '삼탠바이미'를 발견하고 환호하는 모습. 제품의 핵심 장점(QLED, 스마트 기능, 가성비)을 속도감 있게 전달.
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**[0-3초] 훅 (Hook)**
+*   **화면:** (빠르게 전환) 예쁜 스탠바이미 사진 -> 가격표 (200만원대) -> 한숨 쉬며 좌절하는 인물 표정 클로즈업.
+*   **자막:** "스탠바이미.. 비싸서 포기했죠?"
+*   **내레이션 (급박하고 의문형):** "아니.. 스탠바이미가 이 가격이면 어떻게 사! 또 포기해야하나...?"
+*   **BGM:** (긴장감 있는 짧은 효과음)
 
-### **카드 1: 훅 & 문제 제기 -> 솔루션 제시**
+**[3-8초] 문제 해결 & 핵심 어필**
+*   **화면:** (도파민 터지는 듯 밝고 경쾌하게 전환) "NO!" 자막 크게 등장 후, 깔끔한 화이트 '삼탠바이미'가 등장.
+*   **자막:** "NO! 30만원대 QLED '삼탠바이미' 등장!"
+*   **내레이션 (밝고 힘찬 목소리):** "잠깐! 딱 3초만 더! 30만원대 가성비 끝판왕 '삼탠바이미'를 소개합니다!"
+*   **BGM:** (경쾌하고 긍정적인 전환 음악)
 
-*   **카드 텍스트:**
-    **"아직도 TV에 갇혀 살아? 📺"**
-    **"내 방을 영화관으로 만드는 마법! ✨ #삼탠바이미"**
-    (내 공간, 내 방식대로 즐기는 스마트 라이프!)
-*   **Midjourney 프롬프트:**
-    "A cozy, modern living room at dusk, bathed in soft, warm light. A sleek, minimalist portable smart TV is prominently displayed in the center, projecting a vibrant movie scene. The room transitions from a normal living space to a cinematic experience. Luxurious comfort, high-end design, inviting atmosphere. Warm color palette. Cinematic, high detail, photorealistic. --ar 1:1"
+**[8-12초] 제품 장점 어필 (빠르게 핵심만)**
+*   **화면:** '와이드뷰 32인치'가 침실/주방에서 넷플릭스 재생되는 모습 -> '스카이뷰 43인치'가 거실에서 크게 드라마 재생되는 모습 (각각 가격 자막 오버레이).
+*   **자막:** "QLED 선명함!", "넷플릭스, 유튜브 스마트 기능 기본!", "32인치 329,000원! 43인치 359,000원!"
+*   **내레이션 (빠르고 정확하게):** "QLED 선명한 화질은 기본! 넷플릭스, 유튜브 스마트 기능까지 다 됩니다!"
+*   **내레이션 (포인트 강조):** "심지어 32인치 QLED가 32만원대! 단 3만원 추가하면 43인치 대화면까지!"
+*   **BGM:** (신나는 효과음, 타겟팅 음악)
 
----
-
-### **카드 2: 압도적인 유연성 & 이동성 (와이드뷰 32인치)**
-
-*   **카드 텍스트:**
-    **"침대 옆, 주방, 거실! 어디든 OK! 🛋️"**
-    **"자유로운 이동 + V3 스탠드로 완벽한 각도! #와이드뷰32인치"**
-    (어떤 자세로든 편하게 즐겨봐!)
-*   **Midjourney 프롬프트:**
-    "A stylish portable smart TV with a sleek, adjustable 'V3 moving view' stand, seamlessly wheeled from a cozy bedroom (showing a person comfortably watching in bed) to a modern kitchen (person watching while cooking). The TV screen displays a vibrant, high-definition image. Soft, natural lighting. Modern home interior, flexible lifestyle. Clean aesthetic, high detail, photorealistic. --ar 1:1"
-
----
-
-### **카드 3: 대화면 몰입감 & 프리미엄 화질 (스카이뷰 43인치)**
-
-*   **카드 텍스트:**
-    **"43인치 대화면 QLED로 압도적 몰입감! 🎬"**
-    **"넷플릭스, 유튜브 스마트 기능은 기본! #스카이뷰43인치"**
-    (영화관 부럽지 않은 나만의 극장!)
-*   **Midjourney 프롬프트:**
-    "A stunning 43-inch portable smart QLED TV, displaying an incredibly vivid and immersive movie scene (e.g., a dramatic landscape or action shot). The screen is the focal point, with subtle smart TV application icons (like Netflix, YouTube) on the interface. A person's excited silhouette in the foreground, enjoying the view from a cozy, dimly lit home theater setup. Cinematic lighting, rich colors, ultra-high definition. --ar 1:1"
+**[12-15초] 강력한 CTA (Call to Action)**
+*   **화면:** 두 제품이 나란히 있는 모습 + "내 인생템 보러가기!" 자막 크게. 손가락이 화면 아래를 가리키는 이모지.
+*   **자막:** "더 자세한 정보는 프로필 링크 클릭!"
+*   **내레이션 (설득력 있고 자신감 있게):** "고민은 배송만 늦출 뿐! 지금 바로 프로필 링크 확인하고, 당신의 스마트 라이프를 시작하세요!"
+*   **BGM:** (마무리 효과음)
 
 ---
 
-### **카드 4: 나에게 맞는 삼탠바이미 찾기 & CTA**
+## 📸 인스타그램 카드뉴스 4컷
 
-*   **카드 텍스트:**
-    **"20만원대부터 40만원대까지! 💰"**
-    **"당신의 '인생 삼탠바이미'는? 🤔"**
-    **"프로필 링크에서 완벽 비교! 👇 #가성비TV #스마트TV추천"**
-*   **Midjourney 프롬프트:**
-    "A curated display of five distinct portable smart TVs, ranging in size and style, arranged artfully in a modern, bright retail showroom or minimalist interior. Each TV is sleek and clearly visible, showcasing variety. Subtle price indicators (e.g., 'Entry-level', 'Premium') can be visually integrated. Emphasize choice and quality. Bright, clean, professional product photography style. --ar 1:1"
+### **카드뉴스 1/4**
+*   **카드텍스트:** 스탠바이미 너무 비싸서 포기했나요? 😥
+*   **Midjourney 프롬프트:** A person with a disappointed expression looking at a luxury, minimalist white TV stand with a hefty price tag displayed digitally on the screen. The room is modern, clean, with soft indirect lighting. Cinematic, emotional, 4K, realistic. --ar 1:1
+
+### **카드뉴스 2/4**
+*   **카드텍스트:** NO! 30만원대 '삼탠바이미' 가성비 끝판왕 등장! 🤯
+*   **Midjourney 프롬프트:** A bright, dynamic scene where a sleek, modern white mobile smart TV (similar to a StandbyMe) is revealed from behind a curtain, with a "30만원대" (300k KRW range) price tag clearly visible. A hand reaches out in surprise/delight. Energetic, vibrant, cinematic, 4K, realistic. --ar 1:1
+
+### **카드뉴스 3/4**
+*   **카드텍스트:** QLED 선명함! 넷플릭스/유튜브 스마트 기능까지 다 갖췄어! ✨
+*   **Midjourney 프롬프트:** A close-up shot of a mobile smart TV screen displaying a vibrant QLED picture of a popular streaming service (e.g., Netflix or YouTube logo visible). A hand holding a remote control is slightly blurred in the foreground. The background is a soft-focus modern living space with warm ambient light. Cinematic, sharp detail, 4K, realistic. --ar 1:1
+
+### **카드뉴스 4/4**
+*   **카드텍스트:** 32인치 ➡️ 329,000원! 43인치 ➡️ 359,000원! 내 라이프스타일에 딱 맞는 '인생템' 보러가기!
+*   **Midjourney 프롬프트:** Two stylish, white mobile smart TVs (one 32-inch, one 43-inch) are placed side-by-side in a chic, minimalist room. Both screens display different types of content (e.g., a movie on one, a YouTube video on the other). A subtle arrow points towards the bottom of the screen with a "Link in Bio" or "Click Here" overlay. Soft, natural lighting. Clean, modern aesthetic, 4K, realistic. --ar 1:1
