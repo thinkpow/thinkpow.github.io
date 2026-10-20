@@ -1,91 +1,78 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 🚀 유튜브 쇼츠/틱톡 15초 스크립트 (도파민 폭발!)
 
-**콘셉트:** LG 스탠바이미의 비싼 가격에 망설이는 시청자에게 "가성비 삼탠바이미"라는 솔루션을 시원하게 제시하며, 핵심 상품 2개의 장점을 명확하게 어필
+**제목:** 💥스탠바이미 가격 실화냐? 텅장 비상! 가성비 삼탠바이미 BEST 5!
 
----
+**[시작 0-3초: 시선 강탈 훅]**
+*   **영상:** 고급스러운 LG 스탠바이미 광고 화면 (짧게) → 좌절하는 표정의 사람 (지갑 텅 비어있는 이미지) → "실화냐?" 자막 크게 띄우며 번개 이펙트
+*   **내레이션:** "스탠바이미 갖고 싶은데 가격이... 💥텅장 비상?! (빠른 템포) 이젠 고민 끝!"
 
-**[영상 시작]**
+**[중간 3-12초: 문제 제기 및 해결책, 핵심 기능 어필]**
+*   **영상:** 깔끔한 '삼탠바이미' 제품 이미지 교차 등장 (프리토스 10만원대 제품, 무빙큐빅스 스마트 제품) → 넷플릭스, 유튜브 화면 → 침대 옆, 주방 등 다양한 공간에서 활용하는 모습 빠르게 전환
+*   **내레이션:** "스탠바이미 감성은 그대로, 가격은 확 낮춘 **'삼탠바이미'**가 왔다! ✨ **10만원대부터!** 넷플릭스, 유튜브 맘껏 즐기는 스마트 기능! 침실, 주방 어디든 OK! 심지어 방문 설치까지?!!" (점점 더 빠르고 신나는 템포)
 
-**[0-3초 훅(Hook)]**
-*   **화면:** (빠른 템포의 경쾌한 배경음악 시작) 화면 중앙에 "스탠바이미 200만원?"이라는 큰 텍스트가 번쩍! 그 옆으로 작게 "💸" 이모티콘. 이어서 "잠시만요! 🚨" 텍스트와 함께 놀란 표정의 인물 얼굴 클로즈업.
-*   **대사:** "스탠바이미 갖고 싶다... 근데 200만원? 💸 잠시만요! 이 영상 보면 돈 아낍니다!" (속삭이듯, 긴장감 있게)
-
-**[3-6초 문제 해결 제시]**
-*   **화면:** "가성비 삼탠바이미 BEST 2 공개!" 텍스트가 뜨고, 화면 빠르게 전환되며 깔끔하고 세련된 삼탠바이미 제품들이 스쳐 지나감.
-*   **대사:** "LG 스탠바이미 감성 그대로! 가격은 1/5, 만족도는 5배! 가성비 삼탠바이미, 제가 딱 2개만 콕 찝어드릴게요!"
-
-**[6-10초 상품 1 소개]**
-*   **화면:** '와이드뷰 QLED 화이트 삼탠바이미' 제품 풀샷. QLED 스크린에서 고화질 영상이 재생되는 모습, 화이트 컬러 디자인 강조. 인테리어 소품처럼 방에 놓인 연출.
-*   **대사:** "첫 번째! ✨와이드뷰 QLED✨! 쨍한 QLED 화질에 예쁜 화이트 디자인까지! 인테리어 효과는 덤!"
-
-**[10-13초 상품 2 소개]**
-*   **화면:** '무빙큐빅스 스마트 삼탠바이미' 제품. 전문가가 직접 방문 설치하는 모습 빠르게 전환, 이후 편안하게 침대에 누워 TV를 시청하는 모습.
-*   **대사:** "두 번째! 🛠️설치 걱정은 그만! 무빙큐빅스는 방문 설치까지 해주니, 그냥 켜고 보면 끝!"
-
-**[13-15초 CTA]**
-*   **화면:** 두 제품이 나란히 놓인 비교 샷. 화면 하단에 "👆 프로필/댓글 링크 클릭!" 텍스트와 함께 '지금 바로 확인하세요!' 배너.
-*   **대사:** "내 삶의 질 UP! 더 자세한 정보는 댓글/프로필 링크 클릭! 지금 바로 확인하세요!" (밝고 활기찬 목소리)
-
-**[영상 종료]**
+**[마지막 12-15초: 강력한 CTA]**
+*   **영상:** "BEST 5" 자막 크게, 제품 썸네일 여러 개 → "지금 바로 확인!" 배너 → 프로필 링크 유도
+*   **내레이션:** "스탠바이미급 만족감, 가성비 끝판왕 삼탠바이미! 나에게 맞는 제품은? **지금 바로 프로필 링크 확인하세요! 🛒🔥**" (마지막은 더 힘주고 강조)
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+## 📸 인스타그램 카드뉴스 (4컷)
 
 ---
 
-### **[카드 1] 훅 & 문제 제기**
+### **카드 1/4: 훅 & 문제 제기**
 
 *   **카드 텍스트:**
-    **스탠바이미 200만원? 💸**
-    "너무 비싸서 포기했어요..."
-    고민 끝! 가성비 끝판왕
-    ✨**삼탠바이미**✨ 로
-    인생이 바뀝니다!
+    "✨ 갖고 싶던 LG 스탠바이미?
+    💸 가격 보고 망설였다면?
+    👉 이제 '삼탠바이미'로
+    스마트한 감성을 내 지갑에!
+    넘사벽 가성비로 스탠바이미 꿈을 현실로!"
+
 *   **Midjourney 프롬프트:**
-    `A frustrated person sitting on a minimalist couch in a modern, slightly empty living room, looking at an expensive, luxurious portable smart TV displayed on a pedestal with a price tag of "2,000,000 KRW" above it, with a thought bubble showing "Too expensive...", soft ambient light, clean aesthetics, concept art, high resolution, --ar 1:1 --v 5.2`
+    `A sleek, elegant living room featuring a luxurious LG StandbyMe TV. A thought bubble above it shows a very high price tag. Next to it, a bright, inviting alternative mobile TV called "Samtenbyme" is displayed, with a much lower price tag. The overall mood is aspirational yet practical, with modern minimalist aesthetics and soft, inviting lighting. --ar 1:1 --v 5.2`
 
 ---
 
-### **[카드 2] 메인 상품 1: 와이드뷰 QLED (화질&디자인)**
+### **카드 2/4: 가성비 끝판왕 소개**
 
 *   **카드 텍스트:**
-    **"화질은 포기 못 해!"**
-    🎨 **와이드뷰 QLED 화이트 삼탠바이미**
-    ✅ QLED 압도적 화질
-    ✅ 감성 화이트 디자인
-    ✅ 풀 스마트 TV 기능
-    **#QLED_가성비 #화이트감성**
+    "💰 10만원대! 이동식 TV 입문 최강 가성비!
+    ✅ 프리토스 삼탠바이미 세트 (163,000원)
+    ✔ 무빙스탠드 + 일반TV 완벽 세트!
+    ✔ 별도 구매 없이 바로 사용 가능!
+    ✔ 전기료 걱정 없는 에너지 효율 1등급!"
+
 *   **Midjourney 프롬프트:**
-    `A stylish, bright bedroom with clean white and wood decor, a sleek white portable smart TV (SamtanbyME) on a movable stand, displaying a vibrant, high-definition QLED movie scene with rich colors. Natural light streaming in, a cozy blanket draped nearby, minimalist interior design, high resolution, cinematic, --ar 1:1 --v 5.2`
+    `A cozy, minimalist bedroom with soft natural light, showcasing a simple yet functional mobile TV on a sleek stand next to a bed. A person is happily watching a show on the screen, emphasizing ease of use and affordability. The room has warm, inviting tones. --ar 1:1 --v 5.2`
 
 ---
 
-### **[카드 3] 메인 상품 2: 무빙큐빅스 (설치 편의성)**
+### **카드 3/4: 스마트 기능 & 편의성 강조**
 
 *   **카드 텍스트:**
-    **"복잡한 설치, 딱 질색!"**
-    🚀 **무빙큐빅스 스마트 삼탠바이미 (방문설치)**
-    ✅ 전문가 방문 설치 서비스
-    ✅ 기본에 충실한 스마트 TV
-    ✅ 안정적인 이동식 거치대
-    **#설치_걱정끝 #이동식TV**
+    "💡 스마트 기능 + 편리한 방문 설치까지!
+    ✅ 무빙큐빅스 스마트 삼탠바이미 SET 32인치 (349,000원)
+    ✔ 넷플릭스, 유튜브 바로 시청 가능!
+    ✔ 복잡한 설치 걱정 없이 전문가가 직접 방문!
+    ✔ 침실, 주방에 딱 좋은 최적의 32인치 화면!"
+
 *   **Midjourney 프롬프트:**
-    `A friendly, professional technician in a clean uniform carefully installing a modern black portable smart TV on its stand in a bright, tidy living room. A happy, relieved customer is smiling in the background, comfortable and convenient atmosphere, natural lighting, professional photography style, --ar 1:1 --v 5.2`
+    `A modern, bright kitchen or a comfortable home office space, featuring a stylish 32-inch white mobile smart TV. The screen clearly displays a streaming service interface (like Netflix or YouTube). A person is interacting effortlessly with the TV, highlighting its smart features and convenience. Clean, functional, contemporary design. --ar 1:1 --v 5.2`
 
 ---
 
-### **[카드 4] 요약 & CTA**
+### **카드 4/4: 총정리 & CTA**
 
 *   **카드 텍스트:**
-    **더 이상 망설이지 마세요!**
-    내 라이프스타일에 딱 맞는
-    **#스탠바이미가성비**
-    **삼탠바이미 추천템 5가지!**
-    **👇 지금 바로 링크 확인하기 👇**
+    "🔥 스탠바이미 감성은 UP! 가격은 DOWN!
+    나에게 맞는 '삼탠바이미'는?
+    지금 바로 프로필 링크에서 BEST 5 확인하고
+    현명한 소비하세요! 🛒"
+
 *   **Midjourney 프롬프트:**
-    `A vibrant, dynamic collage showcasing three different portable smart TVs (SamtanbyME concept) in various modern settings: one in a minimalist kitchen playing a recipe video, one in a cozy, sunlit bedroom with someone relaxing and watching a drama, and one in a sleek office space displaying a presentation. The overall aesthetic is clean, inviting, and versatile, infographic style, bright colors, --ar 1:1 --v 5.2`
+    `A dynamic, vibrant infographic-style collage featuring various "Samtenbyme" mobile TVs in different sizes and designs (white, black, sleek, modern). Text overlays highlight "Affordable," "Smart Features," "Mobile," "Stylish." Arrows and graphic elements connect the benefits, encouraging exploration. Bright, engaging, clean design. --ar 1:1 --v 5.2`
 
 ---
