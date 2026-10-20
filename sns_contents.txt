@@ -2,89 +2,90 @@
 
 ## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** 스탠바이미 갖고 싶은데 비싸서 포기? 💸 이거 보면 눈 돌아감! (가성비 끝판왕)
-
-**러닝타임:** 15초 내외
+**콘셉트:** LG 스탠바이미의 비싼 가격에 망설이는 시청자에게 "가성비 삼탠바이미"라는 솔루션을 시원하게 제시하며, 핵심 상품 2개의 장점을 명확하게 어필
 
 ---
 
-**[스크립트]**
+**[영상 시작]**
 
-*   **0-3초 (훅! 🤩):**
-    *   **화면:** (놀란 표정으로 화면을 응시하며 손가락으로 가리키기) "뭐? 스탠바이미 비싸서 못 산다고? 😱 잠시만!"
-    *   **내레이션:** "스탠바이미 비싸서 포기했다고? 이거 보면 눈 돌아간다!"
-*   **3-7초 (문제 제기 & 솔루션):**
-    *   **화면:** (엄지 척하며 자신감 넘치는 표정) "10년차 MD가 찾아낸 '스탠바이미 가성비' 끝판왕 대안!"
-    *   **내레이션:** "10년차 MD가 발품 팔아 찾은 '가성비 삼탠바이미' BEST 2!"
-*   **7-11초 (핵심 제품 2개 소개):**
-    *   **화면:** (스카이뷰 43인치 QLED 삼탠바이미 이미지/영상 짧게 노출) "와! 43인치 QLED 대화면이 30만원대라고? 미쳤다!" (가격 강조)
-    *   **화면:** (무빙큐빅스 32인치 스마트 삼탠바이미 이미지/영상 짧게 노출) "기계치도 걱정 마! 방문설치까지 해준다고?!" (편의성 강조)
-    *   **내레이션:** "43인치 QLED 대화면, 방문설치 편의성! 똑똑한 이동식 TV, 이젠 부담 없이 즐겨!"
-*   **11-13초 (핵심 장점 요약):**
-    *   **화면:** (두 제품의 장점 아이콘/텍스트 빠르게 전환) "스마트 기능, 이동 편의성 다 잡았어! 진짜 스탠바이미 대체템은 바로 이거!"
-    *   **내레이션:** "스마트 기능, 이동 편의성까지! 스탠바이미의 모든 걸 담았는데 가격은 반값!"
-*   **13-15초 (CTA ✨):**
-    *   **화면:** (활짝 웃는 얼굴과 함께 프로필/댓글 링크 유도) "더 많은 가성비템은 댓글이나 프로필 링크에서 확인해! 놓치지 마!"
-    *   **내레이션:** "자세한 정보와 추가 추천템은 지금 바로 프로필 링크 확인하세요!"
+**[0-3초 훅(Hook)]**
+*   **화면:** (빠른 템포의 경쾌한 배경음악 시작) 화면 중앙에 "스탠바이미 200만원?"이라는 큰 텍스트가 번쩍! 그 옆으로 작게 "💸" 이모티콘. 이어서 "잠시만요! 🚨" 텍스트와 함께 놀란 표정의 인물 얼굴 클로즈업.
+*   **대사:** "스탠바이미 갖고 싶다... 근데 200만원? 💸 잠시만요! 이 영상 보면 돈 아낍니다!" (속삭이듯, 긴장감 있게)
 
----
+**[3-6초 문제 해결 제시]**
+*   **화면:** "가성비 삼탠바이미 BEST 2 공개!" 텍스트가 뜨고, 화면 빠르게 전환되며 깔끔하고 세련된 삼탠바이미 제품들이 스쳐 지나감.
+*   **대사:** "LG 스탠바이미 감성 그대로! 가격은 1/5, 만족도는 5배! 가성비 삼탠바이미, 제가 딱 2개만 콕 찝어드릴게요!"
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**[6-10초 상품 1 소개]**
+*   **화면:** '와이드뷰 QLED 화이트 삼탠바이미' 제품 풀샷. QLED 스크린에서 고화질 영상이 재생되는 모습, 화이트 컬러 디자인 강조. 인테리어 소품처럼 방에 놓인 연출.
+*   **대사:** "첫 번째! ✨와이드뷰 QLED✨! 쨍한 QLED 화질에 예쁜 화이트 디자인까지! 인테리어 효과는 덤!"
 
----
+**[10-13초 상품 2 소개]**
+*   **화면:** '무빙큐빅스 스마트 삼탠바이미' 제품. 전문가가 직접 방문 설치하는 모습 빠르게 전환, 이후 편안하게 침대에 누워 TV를 시청하는 모습.
+*   **대사:** "두 번째! 🛠️설치 걱정은 그만! 무빙큐빅스는 방문 설치까지 해주니, 그냥 켜고 보면 끝!"
 
-### **[1/4컷] - 훅 & 문제 제기**
+**[13-15초 CTA]**
+*   **화면:** 두 제품이 나란히 놓인 비교 샷. 화면 하단에 "👆 프로필/댓글 링크 클릭!" 텍스트와 함께 '지금 바로 확인하세요!' 배너.
+*   **대사:** "내 삶의 질 UP! 더 자세한 정보는 댓글/프로필 링크 클릭! 지금 바로 확인하세요!" (밝고 활기찬 목소리)
 
-*   **텍스트:**
-    *   **상단 헤드라인:** 스탠바이미 비싸다고 포기했어? 🙅‍♀️
-    *   **메인 텍스트:** ✨ 10년차 MD가 찾아낸 '가성비 끝판왕' 대안! ✨
-    *   **하단 부연:** 스마트 기능, 이동 편의성 다 잡은 진짜 스탠바이미 대체템!
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    ```
-    A disappointed young woman looking sadly at a sleek, expensive portable smart TV in a modern, minimalist living room. Next to her, a thought bubble or a shimmering portal reveals a more affordable, equally stylish alternative portable TV, glowing with promise. Dynamic lighting, hopeful atmosphere, clean aesthetic. --ar 4:5 --v 5.2
-    ```
+**[영상 종료]**
 
 ---
 
-### **[2/4컷] - 메인 상품 1 (스카이뷰)**
-
-*   **텍스트:**
-    *   **상단 헤드라인:** 🔥 압도적 몰입감! 43인치 QLED 대화면 삼탠바이미!
-    *   **메인 텍스트:** **스카이뷰 43인치 QLED 삼탠바이미 (30만원대)**
-    *   **핵심 장점:**
-        *   ✔ 43인치 QLED 스마트 TV
-        *   ✔ 넓은 시야, 생생한 색감
-        *   ✔ 인테리어까지 신경 쓴 화이트 디자인
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    ```
-    A sophisticated, bright white 43-inch QLED portable smart TV (like a 'SamtenbyME') showcasing vibrant, high-definition content, integrated seamlessly into a modern, minimalist living room. The large screen dominates the frame, emphasizing an immersive viewing experience. Sunlight streams through a window, creating a luxurious and cozy atmosphere. --ar 4:5 --v 5.2
-    ```
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
 ---
 
-### **[3/4컷] - 메인 상품 2 (무빙큐빅스)**
+### **[카드 1] 훅 & 문제 제기**
 
-*   **텍스트:**
-    *   **상단 헤드라인:** 🛠️ 조립 걱정 끝! 방문설치 32인치 스마트 삼탠바이미!
-    *   **메인 텍스트:** **무빙큐빅스 32인치 스마트 삼탠바이미 (30만원대)**
-    *   **핵심 장점:**
-        *   ✔ 32인치 스탠바이미 표준 사이즈
-        *   ✔ 복잡한 조립 NO! 방문설치 서비스
-        *   ✔ 기계치도 안심하고 바로 사용!
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    ```
-    A person casually lounging on a comfortable sofa in a bright, modern bedroom or living space, effortlessly enjoying a 32-inch portable smart TV (like a 'SamtenbyME'). The TV is perfectly set up and ready to use, no tools or assembly mess visible, conveying ultimate convenience and on-site installation. Clean, relaxed, inviting ambiance. --ar 4:5 --v 5.2
-    ```
+*   **카드 텍스트:**
+    **스탠바이미 200만원? 💸**
+    "너무 비싸서 포기했어요..."
+    고민 끝! 가성비 끝판왕
+    ✨**삼탠바이미**✨ 로
+    인생이 바뀝니다!
+*   **Midjourney 프롬프트:**
+    `A frustrated person sitting on a minimalist couch in a modern, slightly empty living room, looking at an expensive, luxurious portable smart TV displayed on a pedestal with a price tag of "2,000,000 KRW" above it, with a thought bubble showing "Too expensive...", soft ambient light, clean aesthetics, concept art, high resolution, --ar 1:1 --v 5.2`
 
 ---
 
-### **[4/4컷] - 요약 & CTA**
+### **[카드 2] 메인 상품 1: 와이드뷰 QLED (화질&디자인)**
 
-*   **텍스트:**
-    *   **상단 헤드라인:** 나에게 딱 맞는 스탠바이미 가성비템은?
-    *   **메인 텍스트:** 👉 프로필 링크에서 나머지 BEST 3 더 확인!
-    *   **추가 정보:** 💰 10만원대 초특가 일반 TV까지! 비교하고 구매하세요!
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    ```
-    A dynamic, modern infographic style collage featuring multiple portable smart TVs ('SamtenbyME' concept) of different sizes and designs (e.g., a large QLED TV, a standard smart TV, a very affordable basic TV). The background is clean and bright, with subtle geometric shapes and arrows pointing towards a "shop now" or "compare" icon. Energetic, informative, with clear space for text overlays. --ar 4:5 --v 5.2
-    ```
+*   **카드 텍스트:**
+    **"화질은 포기 못 해!"**
+    🎨 **와이드뷰 QLED 화이트 삼탠바이미**
+    ✅ QLED 압도적 화질
+    ✅ 감성 화이트 디자인
+    ✅ 풀 스마트 TV 기능
+    **#QLED_가성비 #화이트감성**
+*   **Midjourney 프롬프트:**
+    `A stylish, bright bedroom with clean white and wood decor, a sleek white portable smart TV (SamtanbyME) on a movable stand, displaying a vibrant, high-definition QLED movie scene with rich colors. Natural light streaming in, a cozy blanket draped nearby, minimalist interior design, high resolution, cinematic, --ar 1:1 --v 5.2`
+
+---
+
+### **[카드 3] 메인 상품 2: 무빙큐빅스 (설치 편의성)**
+
+*   **카드 텍스트:**
+    **"복잡한 설치, 딱 질색!"**
+    🚀 **무빙큐빅스 스마트 삼탠바이미 (방문설치)**
+    ✅ 전문가 방문 설치 서비스
+    ✅ 기본에 충실한 스마트 TV
+    ✅ 안정적인 이동식 거치대
+    **#설치_걱정끝 #이동식TV**
+*   **Midjourney 프롬프트:**
+    `A friendly, professional technician in a clean uniform carefully installing a modern black portable smart TV on its stand in a bright, tidy living room. A happy, relieved customer is smiling in the background, comfortable and convenient atmosphere, natural lighting, professional photography style, --ar 1:1 --v 5.2`
+
+---
+
+### **[카드 4] 요약 & CTA**
+
+*   **카드 텍스트:**
+    **더 이상 망설이지 마세요!**
+    내 라이프스타일에 딱 맞는
+    **#스탠바이미가성비**
+    **삼탠바이미 추천템 5가지!**
+    **👇 지금 바로 링크 확인하기 👇**
+*   **Midjourney 프롬프트:**
+    `A vibrant, dynamic collage showcasing three different portable smart TVs (SamtanbyME concept) in various modern settings: one in a minimalist kitchen playing a recipe video, one in a cozy, sunlit bedroom with someone relaxing and watching a drama, and one in a sleek office space displaying a presentation. The overall aesthetic is clean, inviting, and versatile, infographic style, bright colors, --ar 1:1 --v 5.2`
+
+---
