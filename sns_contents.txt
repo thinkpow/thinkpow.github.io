@@ -1,59 +1,63 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 📺 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**제목:** LG 스탠바이미 비싸서 포기했어? 💸 텅장 구원템 '삼탠바이미' BEST 2 공개!
+**(영상 시작: 시원하게 'No'를 외치는 효과음과 함께 삐딱하게 걸어오는 인물)**
 
----
+**[0-3초 훅]**
+**인물:** LG 스탠바이미? 갖고는 싶은데... 가격이 비싸서 망설였다고요? 댓츠 노노! 🙅‍♀️ 비싼 돈 주고 스탠바이미 사는 건 옛말! 이제 20만원대 '이것'만 알면 돼요! (화면 전환 빠르고 경쾌하게)
 
-**(0-3초) [화면: 고급스러운 LG 스탠바이미 이미지에 빨간 X표가 크게 겹쳐지고, 이어지는 장면에서 놀란 표정으로 지갑을 확인하는 사람]**
-**나레이션 (빠르고 경쾌하게):** 스탠바이미 비싸서 포기했어? 헉! 텅장 각! 💸
+**[3-8초]**
+**인물:** 짜잔! 일명 **'가성비 삼탠바이미'**의 시대가 열렸습니다! 스마트 기능은 기본! QLED 고화질에 깔끔한 디자인까지! 침실, 거실, 주방 어디든 원하는 곳으로 쓱- 이동!
 
-**(3-7초) [화면: 텅 빈 지갑 효과음과 함께 화면이 전환되며, '삼탠바이미' 로고가 스타일리시하게 등장. '가성비 끝판왕' 자막 강조]**
-**나레이션:** 걱정 마! 10년 차 MD가 찾아낸 '삼탠바이미' 가성비 끝판왕 BEST 2! 무선 이동성, 대화면, 스마트 기능 다 가졌는데 가격은 반값!
+**[8-12초]**
+**인물:** 특히 이 두 제품! **'스카이뷰 FHD QLED'**는 29만 9천원에 FHD+QLED 다 갖췄고, 더 착한 **'스카이뷰 HD QLED'**는 27만원에 스마트+QLED 조합이에요! (제품 이미지/정보 빠르게 교차 노출)
 
-**(7-10초) [화면: '무빙큐빅스 무선 삼탠바이미' 제품이 침실, 거실 등 다양한 공간에서 자유롭게 이동하며 사용되는 모습. QLED급 화질 강조]**
-**나레이션:** 첫 번째, 무빙큐빅스! 30만원대 무선 QLED! 선 없이 어디든 OK! 프리미엄급이야!
+**[12-15초]**
+**인물:** 넷플릭스, 유튜브? 그냥 틀어! 고가의 스탠바이미 대체, 현명한 소비는 바로 이거죠! 더 자세한 정보는 댓글 링크 확인! 지금 바로 겟하세요! (손가락으로 화면 아래 가리키며)
 
-**(10-13초) [화면: '와우피프티 32인치 중소바이미' 제품이 32인치 대화면으로 OTT나 게임을 시청하는 모습. 시원시원한 화면 강조]**
-**나레이션:** 두 번째, 와우피프티! 20만원대 32인치 대화면! 이 가격 실화? 이건 무조건이야!
-
-**(13-15초) [화면: 두 제품이 나란히 비교되며, '더 자세한 정보는 프로필 링크 클릭!' 자막과 함께 마무리]**
-**나레이션:** LG 스탠바이미 대신 '삼탠바이미'로 똑똑하게 FLEX! 지금 바로 프로필 링크 확인해봐!
+**(음악: 밝고 경쾌한 BGM, 중간중간 팝 사운드 효과음)**
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### **카드뉴스 1/4**
+### 1. 첫 번째 컷: 시선 강탈 훅
 
-*   **들어갈 텍스트:**
-    헉! LG 스탠바이미 가격 실화? 텅장 대신 '이것' 사세요! 💸
-*   **Midjourney 스타일 영문 프롬프트:**
-    A visually striking image of a sleek, modern smart TV (like LG StandbyMe) with a giant, exaggerated red "X" over its price tag. In the background, a person (anime style, highly detailed) looks shocked and disappointed, holding an empty wallet. High contrast, cinematic lighting, vibrant colors. --ar 1:1 --v 5.2
+*   **카드 텍스트:**
+    **스탠바이미? 🙅‍♀️ 비싸서 망설였다면 주목!**
+    **20만원대 '이것'만 알면 당신도 스마트 이동식 TV 오너!**
 
-### **카드뉴스 2/4**
+*   **Midjourney 프롬프트:**
+    `A young woman looks longingly at an elegant, expensive-looking mobile stand TV in a minimalist, luxurious living room, with a thought bubble above her head showing a huge dollar sign with a sad emoji. The scene is brightly lit and modern. --ar 1:1 --v 5.2`
 
-*   **들어갈 텍스트:**
-    스탠바이미 대신? '삼탠바이미'가 대세! ✨
-    무선? 대화면? 스마트? 다~ 가능!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A cozy and modern living room or bedroom with a stylish, mobile smart TV (standing on a minimalist stand) being easily moved by a smiling, relaxed person. Emphasize freedom, flexibility, and smart living. Soft, warm lighting, clean aesthetic, natural light. --ar 1:1 --v 5.2
+### 2. 두 번째 컷: 문제 제기 & 솔루션 소개
 
-### **카드뉴스 3/4**
+*   **카드 텍스트:**
+    **더 이상 비싼 '스탠바이미'는 그만!**
+    **⚡️ 스마트+QLED+이동성! '가성비 삼탠바이미' 대전 시작!**
 
-*   **들어갈 텍스트:**
-    🥇 프리미엄 무선 끝판왕: 무빙큐빅스 무선 삼탠바이미
-    ✅ 선 없는 자유로움, QLED 화질!
-    💰 가격: 399,000원
-*   **Midjourney 스타일 영문 프롬프트:**
-    A clean, elegant image of the "Moving Qubic's Wireless SamtanbyMe" (a white, minimalist mobile smart TV with a built-in battery) showcased in a bright, modern interior. The TV screen displays vibrant, high-quality QLED content. Emphasize wireless freedom with subtle motion blur or a glowing effect around the TV. Product photography style, clean lines, white and light gray tones. --ar 1:1 --v 5.2
+*   **Midjourney 프롬프트:**
+    `A sleek, white mobile smart TV (similar to LG StandbyMe but generic) in a cozy, sunlit bedroom. On the screen, icons for Netflix and YouTube are clearly visible. The room has modern, warm interior design with plants. --ar 1:1 --v 5.2`
 
-### **카드뉴스 4/4**
+### 3. 세 번째 컷: 핵심 제품 1 소개 (가격 강조)
 
-*   **들어갈 텍스트:**
-    🥈 극강 가성비 끝판왕: 와우피프티 32인치 중소바이미
-    ✅ 20만원대 32인치 대화면!
-    💰 가격: 214,000원
-*   **Midjourney 스타일 영문 프롬프트:**
-    A dynamic shot of the "Wow Fifty 32-inch SamtanbyMe" (a 32-inch smart TV on a simple mobile stand). The focus is on the large screen, displaying an exciting movie scene or a sports game. The setting is a cozy, yet budget-friendly room, with someone happily watching. Emphasize affordability and value, vibrant screen content. Product shot style with a touch of lifestyle. --ar 1:1 --v 5.2
+*   **카드 텍스트:**
+    **✨ 압도적 가성비 끝판왕!**
+    **스카이뷰 FHD QLED 삼탠바이미**
+    **✅ FHD + QLED + 스마트 TV**
+    **💸 단돈 299,000원!**
+
+*   **Midjourney 프롬프트:**
+    `A close-up shot of a white mobile smart TV screen displaying vibrant, high-definition content (like a movie scene with rich colors). The TV is on a sleek, minimalist stand in a bright, modern interior. Focus on the crispness and vividness of the QLED display. --ar 1:1 --v 5.2`
+
+### 4. 네 번째 컷: 핵심 제품 2 및 추가 선택지 & CTA
+
+*   **카드 텍스트:**
+    **🔥 초가성비 QLED는 여기!**
+    **스카이뷰 HD QLED 삼탠바이미 (270,000원)**
+    **그 외 다양한 가격대 BEST 5 비교는 프로필 링크 확인!**
+    **#스탠바이미 #삼탠바이미 #가성비TV #이동식TV #스마트TV**
+
+*   **Midjourney 프롬프트:**
+    `A split image or montage showing a white mobile smart TV (generic, sleek design) in three different settings: a modern kitchen with someone cooking, a comfortable living room with someone relaxing, and a cozy bedroom. Each scene highlights the TV's versatility and mobility. Bright and clean aesthetic. --ar 1:1 --v 5.2`
