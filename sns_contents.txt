@@ -1,63 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📺 도파민 폭발! 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**(영상 시작: 시원하게 'No'를 외치는 효과음과 함께 삐딱하게 걸어오는 인물)**
-
-**[0-3초 훅]**
-**인물:** LG 스탠바이미? 갖고는 싶은데... 가격이 비싸서 망설였다고요? 댓츠 노노! 🙅‍♀️ 비싼 돈 주고 스탠바이미 사는 건 옛말! 이제 20만원대 '이것'만 알면 돼요! (화면 전환 빠르고 경쾌하게)
-
-**[3-8초]**
-**인물:** 짜잔! 일명 **'가성비 삼탠바이미'**의 시대가 열렸습니다! 스마트 기능은 기본! QLED 고화질에 깔끔한 디자인까지! 침실, 거실, 주방 어디든 원하는 곳으로 쓱- 이동!
-
-**[8-12초]**
-**인물:** 특히 이 두 제품! **'스카이뷰 FHD QLED'**는 29만 9천원에 FHD+QLED 다 갖췄고, 더 착한 **'스카이뷰 HD QLED'**는 27만원에 스마트+QLED 조합이에요! (제품 이미지/정보 빠르게 교차 노출)
-
-**[12-15초]**
-**인물:** 넷플릭스, 유튜브? 그냥 틀어! 고가의 스탠바이미 대체, 현명한 소비는 바로 이거죠! 더 자세한 정보는 댓글 링크 확인! 지금 바로 겟하세요! (손가락으로 화면 아래 가리키며)
-
-**(음악: 밝고 경쾌한 BGM, 중간중간 팝 사운드 효과음)**
+**제목:** 스탠바이미 비싸서 포기? 🙅‍♀️ 20만원대 '이것'으로 삶의 질 UP!
 
 ---
 
-## 📸 인스타그램 카드뉴스 (4컷)
+**[영상 시작: 0-3초] 시선 강탈 훅!**
 
-### 1. 첫 번째 컷: 시선 강탈 훅
+*   **화면:** (불만 가득한 표정의 인물, 비싼 스탠바이미 가격표를 보고 한숨 쉬는 장면. X 표시와 함께 '비싸!' 자막)
+*   **내레이션 (빠르고 경쾌하게):** "스탠바이미 비싸서 포기?! 🙅‍♀️ 잠깐! 10년차 MD가 찾은 '이것'이라면 얘기가 달라져!"
 
-*   **카드 텍스트:**
-    **스탠바이미? 🙅‍♀️ 비싸서 망설였다면 주목!**
-    **20만원대 '이것'만 알면 당신도 스마트 이동식 TV 오너!**
+**[영상 3-8초] 문제 제기 & 해결책 제시**
 
-*   **Midjourney 프롬프트:**
-    `A young woman looks longingly at an elegant, expensive-looking mobile stand TV in a minimalist, luxurious living room, with a thought bubble above her head showing a huge dollar sign with a sad emoji. The scene is brightly lit and modern. --ar 1:1 --v 5.2`
+*   **화면:** (다양한 공간에서 '삼탠바이미'를 편리하게 사용하는 사람들. 침대 옆, 주방, 거실 등. 화면 전환 빠르게)
+*   **내레이션:** "바로 '삼탠바이미'! 오리지널 스탠바이미는 꿈도 못 꿀 가격에, **QLED 화질 + 스마트 기능**까지 다 가진 미친 가성비템!"
 
-### 2. 두 번째 컷: 문제 제기 & 솔루션 소개
+**[영상 8-12초] 메인 제품 하이라이트**
 
-*   **카드 텍스트:**
-    **더 이상 비싼 '스탠바이미'는 그만!**
-    **⚡️ 스마트+QLED+이동성! '가성비 삼탠바이미' 대전 시작!**
+*   **화면:** (1. 스카이뷰 32인치 삼탠바이미 클로즈업. '20만원대 QLED' 자막 띄우기. 2. 무빙큐빅스 40인치 삼탠바이미 클로즈업. '40인치 대화면 + 방문설치' 자막 띄우기)
+*   **내레이션:** "20만원대 QLED 32인치? 💸 아니면 40인치 대화면에 방문설치까지? 취향껏 골라봐!"
 
-*   **Midjourney 프롬프트:**
-    `A sleek, white mobile smart TV (similar to LG StandbyMe but generic) in a cozy, sunlit bedroom. On the screen, icons for Netflix and YouTube are clearly visible. The room has modern, warm interior design with plants. --ar 1:1 --v 5.2`
+**[영상 12-15초] 강력한 Call to Action**
 
-### 3. 세 번째 컷: 핵심 제품 1 소개 (가격 강조)
+*   **화면:** (두 제품이 나란히 있는 모습 + 베스트 5 제품 이미지 빠르게 스쳐 지나가기. 화면 하단에 '프로필 링크 확인!' 자막 크게)
+*   **내레이션:** "MD가 엄선한 베스트 5, 지금 바로 프로필 링크에서 확인! 후회 없을 걸? 😉"
 
-*   **카드 텍스트:**
-    **✨ 압도적 가성비 끝판왕!**
-    **스카이뷰 FHD QLED 삼탠바이미**
-    **✅ FHD + QLED + 스마트 TV**
-    **💸 단돈 299,000원!**
+---
 
-*   **Midjourney 프롬프트:**
-    `A close-up shot of a white mobile smart TV screen displaying vibrant, high-definition content (like a movie scene with rich colors). The TV is on a sleek, minimalist stand in a bright, modern interior. Focus on the crispness and vividness of the QLED display. --ar 1:1 --v 5.2`
+## 📸 인스타그램 카드뉴스 4컷
 
-### 4. 네 번째 컷: 핵심 제품 2 및 추가 선택지 & CTA
+### **💡 1컷: 도입 & 훅**
 
-*   **카드 텍스트:**
-    **🔥 초가성비 QLED는 여기!**
-    **스카이뷰 HD QLED 삼탠바이미 (270,000원)**
-    **그 외 다양한 가격대 BEST 5 비교는 프로필 링크 확인!**
-    **#스탠바이미 #삼탠바이미 #가성비TV #이동식TV #스마트TV**
+*   **텍스트:**
+    스탠바이미 비싸서 포기? 🙅‍♀️
+    잠깐! 10년차 MD가 찾은
+    **'가성비 끝판왕' 삼탠바이미**가 나타났다!
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A modern, minimalist living room with a frustrated young woman looking at an expensive price tag on a stylish portable TV on wheels. Her expression shows slight dismay, while in the background, a brighter, more affordable alternative (represented by a subtle, glowing outline of a "Samtanbyme" TV) is beginning to emerge. The overall aesthetic is clean, aspirational, but with a clear emotional arc. Midjourney style, vibrant, cinematic lighting, 16:9 aspect ratio.`
 
-*   **Midjourney 프롬프트:**
-    `A split image or montage showing a white mobile smart TV (generic, sleek design) in three different settings: a modern kitchen with someone cooking, a comfortable living room with someone relaxing, and a cozy bedroom. Each scene highlights the TV's versatility and mobility. Bright and clean aesthetic. --ar 1:1 --v 5.2`
+### **💡 2컷: 문제 해결 & 삼탠바이미 소개**
+
+*   **텍스트:**
+    💡 오리지널 스탠바이미는 가격 때문에 망설였다면?
+    **'삼탠바이미'가 답!**
+    (QLED 화질? 스마트 기능? 이동식? 다 되는데 가격은 반값!)
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A dynamic and versatile scene featuring a sleek, white portable smart TV (like a "Samtanbyme" or "StandbyMe alternative") on a modern mobile stand. The TV screen displays vibrant, high-quality content (e.g., a movie scene with rich colors). In the background, various modern home settings blend seamlessly: a cozy bedroom, a minimalist kitchen, a stylish living room. The focus is on the TV's mobility and smart features, symbolizing convenience and affordability. Midjourney style, vibrant, high-resolution, energetic, 16:9 aspect ratio.`
+
+### **💡 3컷: 메인 추천 상품 1 - 스카이뷰 화이트에디션**
+
+*   **텍스트:**
+    ✨ **20만원대 QLED의 기적!**
+    **스카이뷰 32인치 삼탠바이미**
+    (이 가격에 QLED, 스마트 기능까지? '스탠바이미 가성비' 원탑!)
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A modern, sleek white 32-inch portable smart TV (Samtanbyme) with a visibly vibrant QLED screen displaying a bright, colorful movie scene. The TV is positioned on a minimalist mobile stand in a sunlit, stylish bedroom or studio apartment. Soft, natural light illuminates the white design, highlighting its clean aesthetics. Emphasize the high-quality, vivid display and the product's elegant integration into a contemporary living space. Midjourney style, soft focus, high contrast, elegant, 16:9 aspect ratio.`
+
+### **💡 4컷: 메인 추천 상품 2 - 무빙큐빅스 40인치**
+
+*   **텍스트:**
+    🔥 **40인치 대화면 & 방문설치!**
+    **무빙큐빅스 QLED 삼탠바이미**
+    (50만원 이하로 즐기는 압도적 몰입감! 설치 걱정 없이 바로 Go!)
+*   **배경 이미지 Midjourney 프롬프트:**
+    `An immersive, wide-angle shot of a large 40-inch white portable smart TV (Samtanbyme) with a stunning QLED screen showing a breathtaking, cinematic landscape or a thrilling action movie scene. The TV is prominently displayed in a spacious, upscale modern living room. The image conveys a sense of grandeur and premium experience, with a subtle hint of effortless setup (e.g., perfectly placed, no visible wires). Rich, deep colors and strong contrast. Midjourney style, cinematic, wide-angle, luxurious, 16:9 aspect ratio.`
