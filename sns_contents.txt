@@ -1,73 +1,80 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
 
-### 🎥 도파민 폭발 15초 숏폼 대본
+**[영상 시작: 신나는, 통통 튀는 배경 음악 시작]**
 
-**[0-3초] 훅 (Hook)**
-*   **화면:** (LG 스탠바이미 광고 이미지 빠르게 스쳐 지나감) -> (고민하는 표정의 사람)
-*   **대사:** "LG 스탠바이미 비싸서 포기? 댓츠 노노! 🤬"
+**[0-3초] 훅 (Hook):**
+**화면:** 슬픈 표정으로 LG 스탠바이미 사진을 바라보는 사람 → 이내 밝게 웃으며 '삼탠바이미' 문구가 뜬 화면을 가리킨다.
+**대사:** "LG 스탠바이미 사고 싶은데… 가격 때문에 망설였다면? 🙅‍♀️ 이제 그럴 필요 없어! 30만원대 '삼탠바이미' 대안이 있거든!"
 
-**[3-7초] 문제 해결 제시**
-*   **화면:** (깔끔한 디자인의 '무빙큐빅스 32인치 스마트 삼탠바이미'가 등장, 화면에 가격 349,000원 크게 표시)
-*   **대사:** "여기 30만원대 '갓성비 삼탠바이미'가 나타났다!"
+**[3-8초] 메인 상품 1 소개:**
+**화면:** 위드라이프 43인치 삼탠바이미가 거실, 안방에서 영화나 유튜브를 시원하게 보여주는 모습. 압도적 대화면 강조!
+**대사:** "보통이 아니야! 43인치 압도적 대화면에 구글 안드로이드 OS까지 탑재! 위드라이프 삼탠바이미로 우리 집이 바로 영화관!"
 
-**[7-12초] 핵심 기능 어필**
-*   **화면:** (32인치 화면에서 넷플릭스 재생, 유선형 스탠드 강조, 방문 설치 기사 이미지 빠르게 스쳐 지나감)
-*   **대사:** "넷플릭스, 유튜브는 기본! 32인치 스마트TV가 30만원대? 심지어 방문설치까지 해준다고? 미쳤다! 🤩"
+**[8-12초] 메인 상품 2 소개:**
+**화면:** 이노스 삼탠바이미가 주방, 서재 등에서 움직이며 활용되는 모습. FHD 스마트 TV와 거치대 풀세트임을 보여준다.
+**대사:** "믿고 쓰는 이노스도 30만원대! FHD 스마트 TV 풀세트 구성이라 바로 즐길 수 있어. 이동성, 스마트 기능, 가격까지 다 잡았다!"
 
-**[12-15초] 추가 상품 & CTA (Call to Action)**
-*   **화면:** (43인치 화이트 에디션이 침실, 거실 등 다양한 공간에서 활용되는 모습, 마지막에 프로필 링크 클릭 유도 아이콘)
-*   **대사:** "침실, 거실, 나만의 공간! 비싼 스탠바이미 대신 '삼탠바이미'로 똑똑하게 즐겨봐! 자세한 정보는 프로필 링크 확인! ✨"
+**[12-15초] 클로징 및 CTA:**
+**화면:** 다양한 삼탠바이미 제품들이 빠르게 스쳐 지나가며 "BEST 5" 문구가 크게 뜬다. 마지막에 "프로필 링크 확인" 문구.
+**대사:** "스탠바이미 로망, 이제 현실로! 내 라이프스타일에 딱 맞는 삼탠바이미 BEST 5! 자세한 정보는 지금 바로 프로필 링크 확인해봐!"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### 🎨 인스타그램 카드뉴스 (4컷) 및 이미지 프롬프트
+### 📱 카드 1/4
 
-**[카드 1] 훅 & 문제 제기**
+**텍스트:**
+**제목:** 스탠바이미 갖고 싶지만 비싸다고? 😭
+**본문:** 꿈의 LG 스탠바이미… 하지만 지갑은 얇아지고 맴찢하셨나요?
+이제 포기하지 마세요! ✨ 당신의 로망을 현실로 만들어 줄 '가성비 삼탠바이미'가 있어요!
 
-*   **텍스트:**
-    **LG 스탠바이미,**
-    **갖고 싶지만...**
-    **가격이 깡패? 💸**
-*   **Midjourney 프롬프트:**
-    `A sleek, luxurious portable smart TV with a minimalist stand, resembling an LG StandbyMe, placed in a modern, high-end living room. The ambiance is sophisticated yet subtly hints at an expensive price tag. Soft natural light, clean lines, elegant decor. High resolution, cinematic quality, professional product photography. --ar 1:1 --v 5.2`
-
----
-
-**[카드 2] 해결책 제시 & '삼탠바이미' 소개**
-
-*   **텍스트:**
-    **이제 '갓성비 삼탠바이미'로**
-    **가격 부담 없이 즐겨봐!**
-    (핵심 기능: 스마트 OTT, 이동성, 쉬운 설치)
-*   **Midjourney 프롬프트:**
-    `A stylish and modern "SamtanbyMe" (an affordable portable smart TV with a sleek stand) in a cozy, inviting bedroom or studio apartment. The screen is displaying popular streaming service icons. Emphasize comfort, smart functionality, and easy mobility. Warm, soft lighting, comfortable textiles, aesthetically pleasing. High resolution, professional lifestyle photography. --ar 1:1 --v 5.2`
+**Midjourney 스타일 영문 프롬프트:**
+`A person looking wistfully at a blurry, expensive high-end portable TV in the background, holding a thin wallet. A thought bubble above their head contains a broken heart emoji and dollar signs. The foreground is a cozy, modern living room. Cinematic lighting, soft shadows, melancholy yet hopeful atmosphere. --ar 1:1 --v 6`
 
 ---
 
-**[카드 3] BEST 1 상품 소개**
+### 📱 카드 2/4
 
-*   **텍스트:**
-    **✨ BEST 1: 무빙큐빅스 32인치 ✨**
-    **✅ 30만원대 최강 가성비!**
-    **✅ 넷플릭스, 유튜브 스마트 기능**
-    **✅ 번거로움 없는 방문설치!**
-*   **Midjourney 프롬프트:**
-    `A 32-inch smart portable TV with a sleek, minimalist stand, resembling a "SamtanbyMe," placed in a bright, modern personal workspace or a small bedroom. The TV screen clearly shows a Netflix interface. The setting is neat, functional, and cozy. Emphasize the compact size and smart features. Bright, natural light, clean design, professional product photography. --ar 1:1 --v 5.2`
+**텍스트:**
+**제목:** 걱정 마! 30만원대 '삼탠바이미'가 있잖아! 🤑
+**본문:** **[MD's Pick 1] 위드라이프 43인치 구글 스마트 삼탠바이미**
+✔ 압도적 43인치 대화면
+✔ 구글 안드로이드 OS 탑재
+✔ 1등급 에너지 효율까지!
+👉 침실/거실 어디든 이동식 대화면 스마트 TV로 완벽!
+
+**Midjourney 스타일 영문 프롬프트:**
+`A large 43-inch portable smart TV on a sleek stand, displaying a vibrant movie scene (like a sci-fi blockbuster) with Google TV interface clearly visible. A person is comfortably lounging on a stylish sofa, smiling and engrossed in the content. Modern, spacious living room with warm, inviting lighting. Dynamic composition. --ar 1:1 --v 6`
 
 ---
 
-**[카드 4] BEST 2 상품 소개 & CTA**
+### 📱 카드 3/4
 
-*   **텍스트:**
-    **💡 BEST 2: 무빙큐빅스 43인치 💡**
-    **(화이트 에디션)**
-    **✅ 50만원대 대화면 프리미엄**
-    **✅ 고급스러운 화이트 디자인**
-    **✅ 영화관 같은 몰입감!**
-    **👇 더 많은 추천은 블로그에서!**
-*   **Midjourney 프롬프트:**
-    `A large 43-inch white portable smart TV with a matching elegant stand, similar to a "SamtanbyMe," positioned in a spacious, minimalist living room with white and light-colored decor. The TV screen displays a vibrant, high-quality movie scene. Highlight the large screen size, premium white design, and immersive viewing experience. Luxurious, bright, modern interior, high resolution, professional product photography. --ar 1:1 --v 5.2`
+**텍스트:**
+**제목:** 믿고 쓰는 이노스도 30만원대! 👍
+**본문:** **[MD's Pick 2] 이노스 FHD 스마트 삼탠바이미 풀세트**
+✔ 인지도 높은 이노스 브랜드
+✔ FHD 스마트 TV + 무빙 거치대 풀세트
+✔ 합리적인 가격으로 스마트 기능 완벽!
+👉 복잡한 설치 없이 바로 스탠바이미 라이프 시작!
+
+**Midjourney 스타일 영문 프롬프트:**
+`A sleek, white portable smart TV (similar to the Innos model) being easily moved by a smiling person from a modern bedroom to a clean, bright kitchen. The TV screen shows different content in each setting (e.g., morning news in kitchen, movie in bedroom). Seamless transition, feeling of convenience and versatility. Minimalist, bright home interior. --ar 1:1 --v 6`
+
+---
+
+### 📱 카드 4/4
+
+**텍스트:**
+**제목:** 💸 10만원대부터 프리미엄 무선까지!
+**본문:** 당신의 라이프스타일에 딱 맞는 '스탠바이미 가성비'는?
+✔ 초저가 입문형 24인치
+✔ 완벽 무선 QLED 프리미엄
+✔ 가장 저렴한 일반 TV 세트까지!
+**👇 BEST 5 자세히 보러가기! (프로필 링크 클릭!)**
+
+**Midjourney 스타일 영문 프롬프트:**
+`A dynamic grid or collage of various portable smart TVs on stands, showcasing different sizes (24-inch to 43-inch), colors (white, black), and features (wireless, smart OS). Each TV is placed in a distinct, attractive home setting (bedside, kitchen island, balcony, small study). Text overlay "BEST 5" is subtle. Energetic, inviting, modern lifestyle photography style. --ar 1:1 --v 6`
