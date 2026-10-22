@@ -2,77 +2,72 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 🚨 "아직도 거실 TV만 봐? 놉! 🔥 움직이는 나만의 극장, 삼탠바이미로 FLEX!"
+### 🎥 도파민 폭발 15초 숏폼 대본
 
-**콘텐츠 종류:** 정보성/추천 (빠른 전환과 핵심 강조)
-**타겟:** 최신 트렌드에 민감하고, 편리함과 감성을 중시하는 2030세대
+**[0-3초] 훅 (Hook)**
+*   **화면:** (LG 스탠바이미 광고 이미지 빠르게 스쳐 지나감) -> (고민하는 표정의 사람)
+*   **대사:** "LG 스탠바이미 비싸서 포기? 댓츠 노노! 🤬"
 
----
+**[3-7초] 문제 해결 제시**
+*   **화면:** (깔끔한 디자인의 '무빙큐빅스 32인치 스마트 삼탠바이미'가 등장, 화면에 가격 349,000원 크게 표시)
+*   **대사:** "여기 30만원대 '갓성비 삼탠바이미'가 나타났다!"
 
-**(0-3초) ⚡️ 훅(Hook) - 시선 강탈!**
+**[7-12초] 핵심 기능 어필**
+*   **화면:** (32인치 화면에서 넷플릭스 재생, 유선형 스탠드 강조, 방문 설치 기사 이미지 빠르게 스쳐 지나감)
+*   **대사:** "넷플릭스, 유튜브는 기본! 32인치 스마트TV가 30만원대? 심지어 방문설치까지 해준다고? 미쳤다! 🤩"
 
-*   **[영상]** 침대 위에서 졸린 눈으로 휴대폰 보는 사람, 거실 TV 앞에서 리모컨 다툼하는 커플 모습 빠르게 전환 → 갑자기 깔끔한 디자인의 삼탠바이미가 휙 나타나 침대 옆, 캠핑장 등 다양한 공간으로 이동하는 초고속 몽타주.
-*   **[대사]** "😱 와... 아직도 거실 TV만 고집해? 침대에서, 캠핑에서! 나만의 영화관 만들고 싶지 않아?"
-*   **[자막]** "🚫 거실 TV는 옛말! ➡️ 내 방 TV는 움직인다!"
-
-**(3-12초) 💡 핵심 정보 전달**
-
-*   **[영상]** 삼탠바이미 제품들 (스카이뷰, 무빙큐빅스)의 매력적인 사용 장면 (넷플릭스 시청, 인테리어 효과) 교차 편집. QLED 화질 강조. 방문 설치 과정 간략하게 보여주기.
-*   **[대사]** "요즘 인싸템! 🌟 **'삼탠바이미'**가 뭔지 궁금해? 원하는 곳 어디든 스마트 TV가 따라와! 넷플릭스, 유튜브 기본! 인테리어까지 확 살려준다고!"
-*   **[대사]** "특히, **스카이뷰 QLED**는 20만원대에 QLED 화질이라니! 미쳤어! ✨ 깔끔한 화이트 디자인은 덤!"
-*   **[대사]** "설치 걱정은 노놉! **무빙큐빅스 방문설치**는 기사님이 다~ 해줘! 넌 그냥 즐기기만 하면 돼!"
-*   **[자막]** "✨ 20만원대 QLED 스카이뷰!", "🚚 방문설치 무빙큐빅스!"
-
-**(12-15초) 🎬 강력한 CTA**
-
-*   **[영상]** 다양한 삼탠바이미 활용 장면(요가하며, 요리하며 등) 빠르게 보여주며, 마지막에 제품 구매 페이지 QR코드 또는 '프로필 링크 클릭!' 문구 크게 띄우기.
-*   **[대사]** "내 방 감성 제대로 살려줄 삼탠바이미! 💖 지금 바로 프로필 링크 확인하고, 움직이는 나만의 극장을 만나봐!"
-*   **[자막]** "🔥 프로필 링크 CLICK! 🔥"
+**[12-15초] 추가 상품 & CTA (Call to Action)**
+*   **화면:** (43인치 화이트 에디션이 침실, 거실 등 다양한 공간에서 활용되는 모습, 마지막에 프로필 링크 클릭 유도 아이콘)
+*   **대사:** "침실, 거실, 나만의 공간! 비싼 스탠바이미 대신 '삼탠바이미'로 똑똑하게 즐겨봐! 자세한 정보는 프로필 링크 확인! ✨"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-**콘텐츠 종류:** 정보성/추천 (비주얼 중심)
-**타겟:** 인테리어, 가전, 편리한 라이프스타일에 관심 많은 2030세대
+### 🎨 인스타그램 카드뉴스 (4컷) 및 이미지 프롬프트
+
+**[카드 1] 훅 & 문제 제기**
+
+*   **텍스트:**
+    **LG 스탠바이미,**
+    **갖고 싶지만...**
+    **가격이 깡패? 💸**
+*   **Midjourney 프롬프트:**
+    `A sleek, luxurious portable smart TV with a minimalist stand, resembling an LG StandbyMe, placed in a modern, high-end living room. The ambiance is sophisticated yet subtly hints at an expensive price tag. Soft natural light, clean lines, elegant decor. High resolution, cinematic quality, professional product photography. --ar 1:1 --v 5.2`
 
 ---
 
-### 컷 1
+**[카드 2] 해결책 제시 & '삼탠바이미' 소개**
 
-*   **들어갈 텍스트:**
-    **이거 하나면 집이 영화관! 🍿✨**
-    **요즘 대세 #삼탠바이미 BEST 5**
-    (내 방 감성 한 스푼, 스마트 라이프 시작!)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A cozy and aesthetically pleasing living room, with a sleek, minimalist portable smart TV on a stand playing a movie. Popcorn bowl and cozy blanket. Warm, inviting atmosphere, cinematic feel. Soft focus background, high-resolution, natural light. --ar 1:1 --v 5.2
+*   **텍스트:**
+    **이제 '갓성비 삼탠바이미'로**
+    **가격 부담 없이 즐겨봐!**
+    (핵심 기능: 스마트 OTT, 이동성, 쉬운 설치)
+*   **Midjourney 프롬프트:**
+    `A stylish and modern "SamtanbyMe" (an affordable portable smart TV with a sleek stand) in a cozy, inviting bedroom or studio apartment. The screen is displaying popular streaming service icons. Emphasize comfort, smart functionality, and easy mobility. Warm, soft lighting, comfortable textiles, aesthetically pleasing. High resolution, professional lifestyle photography. --ar 1:1 --v 5.2`
 
-### 컷 2
+---
 
-*   **들어갈 텍스트:**
-    **1. 극강의 가성비, 스카이뷰 QLED 삼탠바이미! 💸**
-    **✔️ 20만원대 유일 QLED 화질!**
-    **✔️ 세련된 화이트 에디션 디자인**
-    (화질도, 디자인도 놓칠 수 없다면 무조건 이거!)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    Close-up shot of the 'Skyview QLED' portable smart TV, showing a vibrant QLED display with a high-definition movie scene. The TV has a clean white bezel and stand, set in a bright, modern minimalist room with subtle decorative elements. Emphasize crisp details and color accuracy. --ar 1:1 --v 5.2
+**[카드 3] BEST 1 상품 소개**
 
-### 컷 3
+*   **텍스트:**
+    **✨ BEST 1: 무빙큐빅스 32인치 ✨**
+    **✅ 30만원대 최강 가성비!**
+    **✅ 넷플릭스, 유튜브 스마트 기능**
+    **✅ 번거로움 없는 방문설치!**
+*   **Midjourney 프롬프트:**
+    `A 32-inch smart portable TV with a sleek, minimalist stand, resembling a "SamtanbyMe," placed in a bright, modern personal workspace or a small bedroom. The TV screen clearly shows a Netflix interface. The setting is neat, functional, and cozy. Emphasize the compact size and smart features. Bright, natural light, clean design, professional product photography. --ar 1:1 --v 5.2`
 
-*   **들어갈 텍스트:**
-    **2. 설치 걱정 NO! 무빙큐빅스 방문설치 삼탠바이미 🚚**
-    **✔️ 전문 기사님이 직접 방문 설치!**
-    **✔️ 32인치 스마트 TV + 튼튼한 이동식 거치대**
-    (제품 받자마자 바로 스마트 TV를 즐기고 싶다면!)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A stylish bedroom or living space, a friendly and professional technician discreetly and efficiently installing a 'Moving Cubics' portable smart TV on its stand. The user is relaxing comfortably nearby, looking satisfied. Emphasize ease of installation, a clean and comfortable environment. Bright, natural lighting. --ar 1:1 --v 5.2
+---
 
-### 컷 4
+**[카드 4] BEST 2 상품 소개 & CTA**
 
-*   **들어갈 텍스트:**
-    **내 취향 삼탠바이미 더 보려면? 🏡🎬**
-    **✅ 프로필 링크 클릭!**
-    **지금 바로 스마트 라이프 시작!**
-    (QLED부터 초가성비까지, 나에게 딱 맞는 이동식 TV를 찾아봐!)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    A dynamic and aspirational collage or split-screen image, showcasing the versatility of portable smart TVs. On one side, a portable smart TV is on a cozy balcony overlooking a city sunset. On the other side, the same TV is in a bright, modern kitchen being used while cooking. Show diversity of use cases and a feeling of freedom and modern lifestyle. Bright, vibrant colors, cinematic. --ar 1:1 --v 5.2
+*   **텍스트:**
+    **💡 BEST 2: 무빙큐빅스 43인치 💡**
+    **(화이트 에디션)**
+    **✅ 50만원대 대화면 프리미엄**
+    **✅ 고급스러운 화이트 디자인**
+    **✅ 영화관 같은 몰입감!**
+    **👇 더 많은 추천은 블로그에서!**
+*   **Midjourney 프롬프트:**
+    `A large 43-inch white portable smart TV with a matching elegant stand, similar to a "SamtanbyMe," positioned in a spacious, minimalist living room with white and light-colored decor. The TV screen displays a vibrant, high-quality movie scene. Highlight the large screen size, premium white design, and immersive viewing experience. Luxurious, bright, modern interior, high resolution, professional product photography. --ar 1:1 --v 5.2`
