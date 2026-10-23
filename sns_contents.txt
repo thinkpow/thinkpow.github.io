@@ -2,45 +2,73 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 💰스탠바이미 비싸서 포기? 댓츠 노노! 갓성비 삼탠바이미 TOP3!
+**제목:** LG 스탠바이미 비싸서 못 샀지? 💸 3초 안에 지갑 열게 해줄 ‘이것’ 보러와! 🤫
 
-**(시각 자료 및 효과)**
+**[영상 구성 및 대사]**
+
 *   **0-3초 (훅):**
-    *   화면: LG 스탠바이미 고급스러운 이미지 + 가격표 (X표시)
-    *   음향: 웅장한 배경음악 + '삐빅!' 효과음
-    *   대사: "스탠바이미? 너무 비싸서 포기했다고? 댓츠 노노! 지금부터 갓성비 삼탠바이미를 공개한다!" (손으로 X 표시하며 고개를 젓다가, 손가락을 튕기는 제스처)
+    *   **화면:** (LG 스탠바이미 이미지가 번개처럼 스쳐 지나가며 크게 X표시, 이어서 '💸' 돈 찢는 효과음과 함께 물음표 '?' 크게 등장)
+    *   **대사 (빠르게, 흥미롭게):** "LG 스탠바이미 비싸서 못 샀지? 💸 3초 안에 지갑 열게 해줄 '이것' 보러와! 🤫"
 
-*   **3-7초 (프리토스):**
-    *   화면: 프리토스 32인치 구글 스마트 삼탠바이미 세트 제품 이미지 (사용자가 OTT 시청하는 모습 연출)
-    *   음향: 경쾌하고 신나는 효과음
-    *   대사: "32인치 대화면에 구글 스마트TV까지! 넷플릭스, 유튜브 다~ 돼! 방 어디든 나만의 영화관! 심지어 20만원대 초반!"
+*   **3-6초 (문제 제기 & 솔루션 소개):**
+    *   **화면:** (다양한 삼탠바이미가 깔끔한 인테리어에 놓인 모습들이 빠르게 전환되며)
+    *   **대사:** "맞아! '삼탠바이미'라고, LG 뺨치는 이동식 스마트 TV인데 무려 30만원대부터 시작한다고!"
 
-*   **7-11초 (와우피프티):**
-    *   화면: 와우피프티 24인치 삼탠바이미 모니터 세트 제품 이미지 (학생이나 자취생이 사용하는 모습 연출)
-    *   음향: '짠!' 하는 효과음
-    *   대사: "더 저렴한 걸 원해? 10만원대 중반! 와우피프티 24인치! 가성비 입문용으로 딱이야! 자취생, 학생들 필수템!"
+*   **6-9초 (메인 추천 1 - 무빙큐빅스):**
+    *   **화면:** (화이트 톤의 #무빙큐빅스 삼탠바이미가 침실이나 거실에 놓인 아름다운 모습)
+    *   **대사:** "첫 번째는 감성 끝판왕! #무빙큐빅스 화이트 32인치! 방문 설치까지 해줘서 핵편해!"
 
-*   **11-15초 (총정리/CTA):**
-    *   화면: 무빙큐빅스, 프리토스 1등급, 이노스 등 다른 삼탠바이미 제품 이미지 빠르게 전환 + '더 많은 가성비템은? 👇' 텍스트
-    *   음향: '샤라락' 하는 마무리 효과음
-    *   대사: "이 외에도 종류는 무궁무진! 스탠바이미 부럽지 않은 가성비 끝판왕들! 지금 바로 고정댓글 링크에서 확인해봐!" (아래를 가리키는 제스처)
+*   **9-12초 (메인 추천 2 - 이노스):**
+    *   **화면:** (이노스 삼탠바이미가 주방, 서재 등에서 사용되는 현실적인 모습)
+    *   **대사:** "두 번째는 초가성비 갑! #이노스 스마트 삼탠바이미! 30만원대 중반에 스마트 기능 다 돼!"
+
+*   **12-15초 (클로징 & CTA):**
+    *   **화면:** (두 제품의 썸네일 비교 화면 또는 5가지 제품이 한 화면에 나열. 마지막에 "자세한 정보는 댓글/더보기 링크 클릭!" 텍스트 오버레이)
+    *   **대사:** "내 방을 영화관으로! 🍿 자세한 스펙은 댓글 링크 확인하고 얼른 겟해봐! #가성비템 #스탠바이미대체"
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 2. 인스타그램 카드뉴스 (4컷)
 
-### 1컷
-*   **텍스트:** "스탠바이미? 갖고 싶지만 가격이 너무 비싸..." 💸
-    *   **배경 이미지 프롬프트 (Midjourney Style English Prompt):** `A young person looking disappointed and frustrated, holding an empty wallet, while looking at a blurry, expensive price tag on a sleek, modern portable smart TV in a minimalist, dimly lit room. The atmosphere is melancholic, emphasizing financial constraint. Cinematic, realistic, soft shadows. --ar 1:1 --v 5.2`
+---
 
-### 2컷
-*   **텍스트:** "No Problem! '갓성비' 삼탠바이미가 있잖아!"✨
-    *   **배경 이미지 프롬프트 (Midjourney Style English Prompt):** `A bright, optimistic scene of a person smiling happily and triumphantly, pointing towards a modern, stylish portable smart TV (not LG branded) on a mobile stand. The room is airy and cozy, filled with warm, inviting light. A subtle 'solution' or 'eureka' feeling. Futuristic, clean design, vibrant. --ar 1:1 --v 5.2`
+### **[카드 1]**
 
-### 3컷
-*   **텍스트:** "32인치 대화면에 구글 스마트TV까지! 프리토스 32인치 삼탠바이미가 20만원대?!" 🤩
-    *   **배경 이미지 프롬프트 (Midjourney Style English Prompt):** `A cozy, modern bedroom at night, with a 32-inch portable smart TV on a sleek stand. The screen brightly displays a popular streaming service (like Netflix or YouTube) logo and content. A person is comfortably watching from bed with a satisfied expression. Warm, cinematic lighting, high-definition. --ar 1:1 --v 5.2`
+*   **들어갈 텍스트:**
+    LG 스탠바이미 비싸서 망설였다면? 💸
+    2024 가성비 '삼탠바이미' BEST 5! ✨
+*   **배경 이미지 생성 Midjourney 프롬프트:**
+    `A cozy yet modern living room, featuring a sleek, minimalist smart TV on a movable white stand in the center. Soft, warm natural light streams through a large window. A vibrant streaming service interface is visible on the screen. High-angle shot, inviting atmosphere, bright and clean aesthetics, volumetric lighting, photorealistic, 8k, --ar 1:1 --style raw`
 
-### 4컷
-*   **텍스트:** "더 저렴한 10만원대? 와우피프티 24인치도 있다고?! 지금 바로 확인!" 👇
-    *   **배경 이미지 프롬프트 (Midjourney Style English Prompt):** `A minimalist, student dorm room or small apartment. A 24-inch portable monitor on a simple, mobile stand is positioned next to a desk or bed. The screen shows a clear image (e.g., online lecture, casual gaming). A subtle call-to-action arrow graphic pointing downwards. Clean, functional, soft ambient light. --ar 1:1 --v 5.2`
+---
+
+### **[카드 2]**
+
+*   **들어갈 텍스트:**
+    MD 추천 BEST 1️⃣
+    💖 무빙큐빅스 32인치 화이트 삼탠바이미!
+    ✅ 30만원대 | 스마트TV+거치대 | 방문설치까지!
+*   **배경 이미지 생성 Midjourney 프롬프트:**
+    `A pristine white bedroom with a beautiful white 32-inch smart TV on a movable stand. The TV is playing a colorful OTT content. Clean lines, soft ambient lighting, a cozy bed and minimalist decor in the background. Focus on the product, elegant white aesthetics, photorealistic, 8k, --ar 1:1 --style raw`
+
+---
+
+### **[카드 3]**
+
+*   **들어갈 텍스트:**
+    MD 추천 BEST 2️⃣
+    💰 이노스 FHD 스마트 삼탠바이미!
+    ✅ 30만원대 중반 | 초가성비 스마트 기능 | 어디든 이동!
+*   **배경 이미지 생성 Midjourney 프롬프트:**
+    `A functional and compact home office or small studio apartment, featuring a sleek, dark-colored 32-inch smart TV on a movable stand. The screen shows a streaming service menu. Warm, inviting lighting, subtle modern decor elements, emphasizing practicality and smart features, photorealistic, 8k, --ar 1:1 --style raw`
+
+---
+
+### **[카드 4]**
+
+*   **들어갈 텍스트:**
+    내 라이프스타일에 딱 맞는 '삼탠바이미' 픽하세요! 🎁
+    침실? 주방? 서재? 이제 자유롭게 즐겨봐!
+    (✅ 추가 추천 상품 링크는 프로필 확인!)
+*   **배경 이미지 생성 Midjourney 프롬프트:**
+    `A dynamic collage of three distinct scenes: 1) A person comfortably watching TV in a cozy bed, 2) another person watching in a modern kitchen while cooking, and 3) a third person enjoying content in a minimalist home office, all featuring a movable smart TV. The collage emphasizes versatility and freedom of use. Bright, aspirational, vibrant, 3D render, photorealistic, 8k, --ar 1:1 --style raw`
