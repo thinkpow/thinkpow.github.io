@@ -1,77 +1,86 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📣 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 📺 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**[영상 컨셉]**
-빠르게 전환되는 화면과 경쾌한 배경음악. 고급스러운 스탠바이미와 저렴한 대안 제품을 대비하며 시청자의 공감과 호기심을 유발. 10년차 MD의 전문성을 강조하며 신뢰도 UP!
+**콘텐츠 제목:** "스탠바이미 대신 '이거'면 인생이 편해져요!" (feat. MD 추천 가성비 삼탠바이미)
 
----
+**[영상 구성 및 대사]**
 
-**[숏폼 대본]**
-
-**(0-3초: 훅! 💸 충격적인 가격과 함께 등장)**
-*   **화면:** (고급스러운 LG 스탠바이미 이미지 빠르게 스쳐 지나가며) "LG 스탠바이미? 헉... 가격이..." 자막: `LG 스탠바이미 200만원대? 💸`
-*   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미 사고 싶은데, 가격 보고 기절할 뻔? 😱"
-
-**(3-7초: 문제 제기 & 해결책 제시)**
-*   **화면:** (화려한 돈뭉치, 눈물 흘리는 이모티콘 등 빠르게 지나가다 '삼탠바이미' 사진 등장!) 자막: `이제 가성비 '삼탠바이미'로 스마트 라이프 시작!`
-*   **내레이션:** "이제 그만! 10년차 MD가 엄선한 '가성비 삼탠바이미' BEST 2로 스마트 라이프 시작해봐!"
-
-**(7-11초: 첫 번째 추천 제품 소개)**
-*   **화면:** (스카이뷰 QLED 삼탠바이미 제품 이미지와 핵심 장점 자막: `QLED FHD! 선명한 화질 & OTT 한방에!`)
-*   **내레이션:** "첫째, 20만원대 QLED! '스카이뷰 삼탠바이미'는 선명한 화질과 OTT를 한방에! 침대에서 넷플릭스? 완전 가능!"
-
-**(11-14초: 두 번째 추천 제품 소개)**
-*   **화면:** (무빙큐빅스 스마트 삼탠바이미 제품 이미지와 핵심 장점 자막: `귀찮은 설치 ❌ 방문 설치까지 완벽!`)
-*   **내레이션:** "둘째, 조립? 설치? 다 귀찮다면 '무빙큐빅스'! 전문가가 직접 방문 설치까지 해주니 핵편해!"
-
-**(14-15초: 클로징 & Call to Action)**
-*   **화면:** (두 제품 비교샷과 함께 "내 방에 딱 맞는 삼탠바이미는?" 문구 등장) 자막: `👆 지금 바로 링크 클릭! 👆`
-*   **내레이션:** "내 라이프 스타일에 딱 맞는 삼탠바이미가 궁금하다면? 지금 바로 댓글 링크 클릭!"
+*   **러닝타임:** 15초
+*   **음악:** 빠르고 경쾌한 브이로그 배경음악
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & 이미지 프롬프트)
+**(0-3초) ⚡️ 훅: 시선 강탈 도입부**
+*   **화면:** (빠른 템포로 전환) 비싼 LG 스탠바이미 광고 화면 → 가격표에 'X' 표시 → 시무룩한 표정의 사람 → 밝게 웃는 사람의 얼굴 클로즈업
+*   **내레이션 (빠르고 흥분된 톤):** "스탠바이미 사려고 검색했다가 가격보고 깜놀했죠? 이제 눈물 닦아요! 제가 인생템 '삼탠바이미' 알려드릴게요!"
 
-**[카드뉴스 전체 컨셉]**
-LG 스탠바이미의 높은 가격 부담을 덜어주는 '가성비 삼탠바이미'를 핵심으로, 10년차 MD의 전문성과 엄선된 2가지 메인 제품을 시각적으로 매력 있게 소개합니다.
+**(3-7초) 💡 문제 해결 & 제품 소개**
+*   **화면:** 다양한 OTT 로고(넷플릭스, 유튜브 등)가 떠다니는 스마트 TV 화면 → 이동식 스탠드에 TV가 결합되는 모습 (깔끔하고 세련된 연출)
+*   **내레이션:** "비싼 스탠바이미 절반도 안 되는 가격으로! 스마트TV랑 이동식 스탠드의 갓벽한 만남! 일명 '삼탠바이미'!"
+
+**(7-11초) ✨ 메인 상품1: 스카이뷰 QLED 삼탠바이미**
+*   **화면:** 스카이뷰 QLED 삼탠바이미 (화이트 에디션)가 고급스러운 거실이나 침실에 놓여있는 모습. QLED의 선명한 화질을 강조하는 클로즈업.
+*   **내레이션:** "20만원대 유일 QLED? 화질 끝판왕! ✨ 스카이뷰 삼탠바이미는 프리미엄 화질에 깔끔한 화이트 디자인까지!"
+
+**(11-14초) 🚀 메인 상품2: 무빙큐빅스 삼탠바이미**
+*   **화면:** 무빙큐빅스 삼탠바이미가 설치되는 모습(전문가가 빠르게 조립하는 몽타주 또는 배송 후 바로 사용 준비되는 연출) → 침대에서 편안하게 TV 보는 모습
+*   **내레이션:** "조립 걱정은 이제 그만! 무빙큐빅스는 전문가가 직접 설치해주니 전원만 꽂고 바로 즐기세요!"
+
+**(14-15초) 🎬 마무리 & CTA (강조)**
+*   **화면:** 두 제품이 나란히 있는 모습 또는 'BEST 5' 그래픽. 하단에 "프로필 링크 클릭!" 또는 "댓글 확인!" 자막 크게 강조.
+*   **내레이션:** "이 모든 꿀템들! 지금 바로 프로필 링크에서 만나보세요!"
 
 ---
 
-### 📍 첫 번째 컷: 훅 & 문제 제기
+## 📸 인스타그램 카드뉴스 (4컷)
 
-*   **카드뉴스 텍스트:**
-    💸 **LG 스탠바이미, 너무 비싸서 포기?!**
-    이제 그 고민 끝! ➡️ **'삼탠바이미'**가 정답!
-    (수십만원대 가격으로 스마트 이동식 TV를!)
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A modern, minimalist living room. A person looks frustrated at a high-end, expensive smart TV (representing LG StandbyMe) with dollar signs overflowing from it. Next to it, a much more affordable, sleek movable smart TV (representing SamTanByMe) is highlighted with a 'SOLUTION' tag and a green checkmark. Bright, clean lighting, tech review aesthetic, focus on contrasting price points. --ar 1:1 --v 6.0`
+---
 
-### 📍 두 번째 컷: MD 추천 & 핵심 가치
+### **1컷: 후크 & 문제 제기**
 
-*   **카드뉴스 텍스트:**
-    **10년차 MD가 엄선! 🌟**
-    가격, 스마트 기능, 화질, 편의성까지
-    다 잡은 **가성비 끝판왕 BEST 2!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic infographic showing four distinct icons: a shining dollar sign (price), a smart TV interface logo (smart functions), a vibrant eye icon (picture quality), and a moving person easily pushing a TV stand (convenience). All elements are connected by a glowing line pointing to a "BEST 2" badge. Professional, clean, and engaging design. --ar 1:1 --v 6.0`
+*   **텍스트:**
+    **비싼 스탠바이미 포기했다면 주목! 😮**
+    **'삼탠바이미'로 가성비+편리함 다 잡으세요!**
+    (핵심: 스탠바이미 비쌈, 삼탠바이미가 대안)
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    `A sleek, modern portable stand TV (similar to LG StandbyMe) with a giant red 'X' mark over its price tag, surrounded by floating question marks and sad emojis. In the background, a minimalist, cozy living room. High contrast, sharp focus, --ar 3:2 --style raw --v 5.2`
 
-### 📍 세 번째 컷: 첫 번째 메인 추천 제품
+---
 
-*   **카드뉴스 텍스트:**
-    **✨ 1. 스카이뷰 QLED 삼탠바이미 (32인치)**
-    **20만원대 QLED!** 선명한 화질과 OTT를 동시에!
-    (넷플릭스, 유튜브 기본 탑재 & 직접 설치 가성비 갑!)
-    ➡️ [**자세히 보기 클릭!**]
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A close-up, high-angle shot of a sleek, modern 32-inch QLED smart TV (representing Skyview QLED SamTanByMe) on a minimalist movable stand, displaying a vibrant, high-definition scene from a popular streaming service (e.g., Netflix logo subtly visible). The TV is positioned in a cozy, bright bedroom or living room, emphasizing comfortable viewing. Realistic photography, sharp focus. --ar 1:1 --v 6.0`
+### **2컷: MD 추천1 - 스카이뷰 QLED 삼탠바이미**
 
-### 📍 네 번째 컷: 두 번째 메인 추천 제품 & CTA
+*   **텍스트:**
+    **🔥 MD 추천 픽 1: 스카이뷰 QLED 삼탠바이미**
+    **20만원대 유일 QLED? 역대급 화질 끝판왕!**
+    **💎 프리미엄 QLED + 세련된 화이트 디자인**
+    (핵심: 20만원대, QLED, 화이트 디자인)
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    `A stunning white portable stand TV with a vibrant QLED screen displaying a high-resolution, colorful nature documentary scene. The TV is positioned in a sunlit, modern minimalist bedroom with soft textures. Focus on the screen's clarity and elegant design. Soft, warm lighting, --ar 3:2 --style raw --v 5.2`
 
-*   **카드뉴스 텍스트:**
-    **🚀 2. 무빙큐빅스 스마트 삼탠바이미 (방문설치)**
-    **설치까지 완벽!** 전문가 방문 설치로 편리함 UP!
-    (번거로움 없이 바로 사용 & 32인치 스마트 TV)
-    ➡️ [**자세히 보기 클릭!**]
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A bright, contemporary living space. A professional, friendly technician in a clean uniform is smiling while putting the final touches on a modern 32-inch smart TV (representing Moving Cubix Smart SamTanByMe) on its movable stand. The TV screen shows a ready-to-use smart interface. Emphasize ease, convenience, and professional service. Realistic, inviting atmosphere. --ar 1:1 --v 6.0`
+---
+
+### **3컷: MD 추천2 - 무빙큐빅스 32인치 삼탠바이미**
+
+*   **텍스트:**
+    **💡 MD 추천 픽 2: 무빙큐빅스 삼탠바이미**
+    **조립 걱정은 끝! 전문가 방문설치로 바로 즐기세요!**
+    **✨ 전원만 꽂으면 넷플릭스, 유튜브 바로 GO!**
+    (핵심: 방문설치, 편리함, 스마트 기능)
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    `A cozy, modern living room scene where a person is happily watching a movie on a sleek portable stand TV. In the corner, a blurred image of a technician finishing up an installation. Emphasize ease and instant gratification. Warm, inviting atmosphere, --ar 3:2 --style raw --v 5.2`
+
+---
+
+### **4컷: 추가 추천 & CTA**
+
+*   **텍스트:**
+    **이젠 망설이지 마세요! 🤔**
+    **당신의 스마트 라이프를 바꿀 가성비 끝판왕!**
+    **'삼탠바이미' BEST 5 보러가기!**
+    **➡️ [프로필 링크 클릭!]**
+    (핵심: 가성비, BEST 5, CTA)
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    `A vibrant, dynamic collage of several different portable stand TVs in various stylish home settings (bedroom, kitchen, living room). Happy people are interacting with them, watching shows, or doing yoga. Text overlay space for "BEST 5" and a clear arrow pointing to a call to action. Bright, energetic, modern pop art style, --ar 3:2 --style raw --v 5.2`
+
+---
