@@ -1,62 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 분량 스크립트
 
-**[영상 시작: 빠르게 전환되는 고급스러운 LG 스탠바이미 이미지와 함께 '와..갖고싶다!' 자막, 배경에 고급스러운 BGM이 깔리다가 갑자기 뚝 끊기며 '띠용?' 하는 효과음]**
+**제목:** 🤯LG 스탠바이미 비싸서 고민? 이제 눈 딱 감고 이 두 개 보세요! (가성비 삼탠바이미 추천)
 
-**내레이션 (화자, 활기찬 목소리):** 스탠바이미.. 사고싶은데... 가격 보고 "헉!" 하셨죠?
+**시간:** 15초
+**포맷:** 빠른 전환, 자막 필수, 배경 효과음/BGM 경쾌하게
 
-**[화자가 화면 중앙에 나타나며 'NO!' 손가락 제스처]**
-**내레이션:** 이젠 비싸게 사지 마세요! 2024년 **가성비 끝판왕 '삼탠바이미' 딱 2개!** 제가 찾아왔습니다! 첫 3초 안에 시선 강탈!
+---
 
-**[첫 번째 제품 이미지 (구글TV 삼탠바이미) 등장, 화려한 UI 강조]**
-**내레이션:** 첫 번째! 넷플릭스, 유튜브 다 되는 **'구글TV 삼탠바이미!'**
-**내레이션:** 스마트 기능 그대로! 무려 **20만원대 후반!** 대박이죠?
+**[스크립트]**
 
-**[두 번째 제품 이미지 (프리토스 최저가 이동식 TV) 등장, 이동성 강조]**
-**내레이션:** 두 번째! 나는 그냥 막 옮겨 쓰는 TV가 필요하다면? **'프리토스 최저가 이동식 TV!'**
-**내레이션:** 10만원대로 침실, 주방 어디든 이동 가능! **갓성비 대박!**
+**(0-3초) 훅! 시선 강탈!**
+*   **화면:** (빠르게 전환) LG 스탠바이미의 높은 가격표 ➡️ 'X' 표시 ➡️ (화려하게) '가성비' 글자 등장
+*   **대사:** "LG 스탠바이미? 비싸서 포기했어요? 🙅‍♀️ 이제 딱 두 개만 기억해요!" (빠르게 2손가락 펼치는 제스처)
 
-**[두 제품 이미지가 함께 나열되며 가격과 장점 간략히 요약, CTA 자막]**
-**내레이션:** 스마트냐, 최저가냐! 당신의 선택은?!
-**내레이션:** 자세한 건 **지금 바로 댓글 링크 확인하세요!** 품절되기 전에!
+**(3-7초) 첫 번째 가성비 끝판왕!**
+*   **화면:** 깔끔한 화이트 인테리어의 거실/침실에 놓인 '와이드뷰 QLED 스마트 삼탠바이미' (제품 전체샷 ➡️ 화면 QLED 선명함 강조 클로즈업)
+*   **대사:** "✨ 와이드뷰 QLED! 30만원대로 스탠바이미 디자인에 QLED 초고화질까지? 역대급 고화질이에요!"
+
+**(7-11초) 두 번째 가성비 끝판왕!**
+*   **화면:** 아늑한 침대 옆이나 주방에 놓인 '프리토스 초가성비 삼탠바이미 세트' (제품 전체샷 ➡️ 가격 10만원대 강조하는 숫자 그래픽)
+*   **대사:** "💰 프리토스! 무려 10만원대! 이동식 TV 기능은 다 되는데 가격은 반값도 안돼? 서브TV 끝판왕!"
+
+**(11-14초) 결론 및 구매 유도**
+*   **화면:** 두 제품이 함께 나란히 놓여 비교되는 모습 또는 빠르게 교차 편집
+*   **대사:** "고민은 배송만 늦출 뿐! 내게 딱 맞는 삼탠바이미, 지금 바로 득템하세요!"
+
+**(14-15초) 마무리**
+*   **화면:** "자세한 정보는 댓글/링크 확인!" 텍스트 오버레이, 손가락으로 아래를 가리키는 화살표
+*   **대사:** (활기찬 목소리) "링크 클릭!"
+*   **해시태그:** #스탠바이미 #가성비TV #삼탠바이미 #이동식TV #스마트TV추천
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### 1컷
-*   **카드뉴스 텍스트:**
-    😱 스탠바이미 사고 싶었는데...
-    **가격 보고 포기했다면?**
-    2024 가성비 끝판왕
-    ✨**'삼탠바이미'** 대공개!
-*   **Midjourney 이미지 프롬프트:**
-    `A young woman looking frustrated and disappointed at a glowing digital screen displaying a very high price tag, with a question mark above her head. The background is a modern, minimalist living room with a slightly futuristic feel. Dramatic lighting, vivid colors, --ar 1:1 --v 5.2`
+**콘텐츠 제목:** LG 스탠바이미 비싸서 망설여? 가성비 삼탠바이미 BEST 2 비교!
 
-### 2컷
-*   **카드뉴스 텍스트:**
-    **1. 스마트함 💯 가성비 💯**
-    **구글TV 삼탠바이미 (28만원대)**
-    넷플릭스, 유튜브 다 되는
-    **스마트 이동식 TV! 📺✨**
-*   **Midjourney 이미지 프롬프트:**
-    `A person happily lounging on a comfortable sofa in a modern, cozy living room, watching Netflix on a sleek, movable smart TV. The TV screen clearly shows a streaming app interface (e.g., Netflix or YouTube logo). The room has warm, inviting lighting, minimalist design, and a touch of high-tech elegance. Soft focus, natural light, --ar 1:1 --v 5.2`
+---
 
-### 3컷
-*   **카드뉴스 텍스트:**
-    **2. '이동식 TV' 본연의 가치!**
-    **프리토스 최저가 (16만원대)**
-    침실, 주방 어디든!
-    **10만원대 최저가 이동식 TV! 💰**
-*   **Midjourney 이미지 프롬프트:**
-    `A split image showcasing a movable TV being easily transported from a modern bedroom to a bright, minimalist kitchen. On one side, the TV is beside a bed; on the other, it's near a kitchen counter. The person is effortlessly pushing the TV stand. Emphasize practicality, affordability, and seamless transitions between spaces. Bright, clean, and functional aesthetic. --ar 1:1 --v 5.2`
+**[1컷]**
+*   **텍스트:** "LG 스탠바이미, 너무 비싸서 고민만 했어요? 😥"
+*   **배경 이미지 프롬프트:**
+    "A luxurious, modern living room interior featuring a sleek, expensive LG StandbyMe TV. An overlay of a high price tag with a sad emoji. A person looking at the TV with a slightly disappointed or wistful expression, emphasizing the high cost. Soft, elegant lighting, realistic, detailed, high resolution, --ar 1:1"
 
-### 4컷
-*   **카드뉴스 텍스트:**
-    **당신의 선택은? 🤔**
-    ➡️ 스마트 기능 vs. 압도적 최저가
-    **더 자세한 정보와 구매 링크는**
-    **프로필 링크에서 확인하세요! 💖**
-*   **Midjourney 이미지 프롬프트:**
-    `A conceptual image depicting a clear choice between two paths or options. On the left, a path leading to a glowing icon representing "smart features" (e.g., streaming apps, AI), with a slightly higher price tag floating above. On the right, a path leading to a bold "lowest price" tag with a simple TV icon. A stylized arrow points to both options. Clean, modern, graphic design style with a soft, inviting color palette. --ar 1:1 --v 5.2`
+---
+
+**[2컷]**
+*   **텍스트:** "이제 '가성비 삼탠바이미'가 답! 이동성+스마트TV, 합리적인 가격으로 즐기세요!"
+*   **배경 이미지 프롬프트:**
+    "Two different styles of 'Samtanbymi' portable smart TVs displayed side-by-side in a bright, inviting home setting. One is stylish and modern, the other is practical and simple. Both are on mobile stands, showcasing smart features and mobility. Emphasize affordability and convenience. Bright, welcoming atmosphere, realistic, high detail, --ar 1:1"
+
+---
+
+**[3컷]**
+*   **텍스트:** "✨ 와이드뷰 QLED: 30만원대로 QLED 초고화질 + 스탠바이미 화이트 디자인!"
+*   **배경 이미지 프롬프트:**
+    "Close-up, detailed shot of a 'WideView QLED Smart Samtanbymi' TV in a clean, minimalist white bedroom. The TV screen displays vibrant, high-definition content (e.g., a nature documentary with lush colors). Highlight the QLED screen quality and the elegant white design of the TV and its mobile stand. Soft, natural light, product photography style, --ar 1:1"
+
+---
+
+**[4컷]**
+*   **텍스트:** "💰 프리토스 초가성비: 10만원대로 이동식 TV 핵심 기능 ALL! 서브TV 끝판왕!"
+*   **배경 이미지 프롬프트:**
+    "A 'Freetos Ultra Gaseongbi Samtanbymi Set' (a simpler, more compact portable smart TV) in a cozy, functional kitchen or a small personal workspace. Someone is casually watching content on it while enjoying a simple activity (e.g., making coffee, reading). Emphasize its portability, ease of use, and incredible value. Warm, inviting atmosphere, realistic, detailed, --ar 1:1"
