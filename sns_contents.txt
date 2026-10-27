@@ -1,60 +1,61 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**제목:** 스탠바이미 비싸서 포기했니? 🔥 30만원대 가성비 끝판왕 '삼탠바이미' 딱 2개만 봐!
+**제목:** LG 스탠바이미 비싸서 못 샀다면? 현직 MD가 추천하는 갓성비 '삼탠바이미' BEST 2!
 
-**(배경 음악: 밝고 신나는 템포의 브이로그/테크 리뷰 음악)**
+**[영상 시작]**
 
-*   **0-3초 (훅):**
-    *   **화면:** '스탠바이미' 로고가 뜨고 그 위에 빨간색 '₩2,000,000+' 같은 비싼 가격표가 크게 나타나며 'X' 표시. 동시에 화려하고 저렴해 보이는 '삼탠바이미'가 등장.
-    *   **대사:** "스탠바이미.. 솔직히 너무 비싸서 못 샀지? 걱정 마! 내가 진짜 '가성비 끝판왕' 찾아왔잖아!" (빠르고 시원한 말투)
-*   **3-12초 (핵심 정보):**
-    *   **화면:** 빠르게 전환되며,
-        *   **[3-7초]** 스카이뷰 43인치 제품(시원한 드라마/영화 화면)이 등장. '43인치 QLED, 30만원대!' 텍스트 오버레이.
-        *   **대사:** "10년차 MD가 엄선한 삼탠바이미 BEST 5! 그중에서도 역대급 가성비 2가지!" (손가락으로 2개 강조)
-        *   **대사:** "첫째! 43인치 QLED 대화면이 고작 30만원대? 스카이뷰 삼탠바이미! 방구석 영화관 완전 가능!" (놀란 표정 + 엄지척)
-        *   **[7-12초]** 와이드뷰 32인치 화이트 제품(감각적인 인테리어에 놓인 모습)이 등장. '화이트 디자인, QLED!' 텍스트 오버레이.
-        *   **대사:** "둘째! 디자인 끝판왕 32인치 화이트! 와이드뷰 삼탠바이미! QLED 화질에 인테리어까지 UP!" (세련된 미소 + 손가락 하트)
-*   **12-15초 (CTA):**
-    *   **화면:** 다양한 삼탠바이미 제품들이 모션 그래픽으로 촤르륵 나타나고, '더 많은 정보는 프로필 링크!' 텍스트가 크게 강조됨. (강렬한 효과음과 함께)
-    *   **대사:** "더 많은 가성비 삼탠바이미 정보는 지금 바로 프로필 링크에서 확인해봐! 후회 안 할 걸?"
+**(0-3초) 💥 훅: 시청자 질문 & 빠른 전환**
+*   **화면:** 화려한 LG 스탠바이미를 바라보며 한숨 쉬는 사람의 모습. 화면에 "스탠바이미... 너무 비싸서 포기했어요?" 자막이 뜬다.
+*   **음악/효과음:** (경쾌하고 빠른 전환음) "띠용!"
+*   **대사:** "스탠바이미 가격보고 한숨 쉬었나요? 댓츠 노노! 이제 '이것'으로 바꿔보세요!"
+
+**(3-7초) 😮 문제 해결 & 제품 소개 시작**
+*   **화면:** 세련된 '삼탠바이미' 제품들이 스쳐 지나가고, "현직 MD의 갓성비 '삼탠바이미' 추천!" 자막이 강렬하게 등장.
+*   **대사:** "LG 스탠바이미 비켜! 10년 차 MD가 엄선한 '삼탠바이미' 끝판왕! 지금 바로 공개합니다!"
+
+**(7-11초) ✨ 첫 번째 추천 상품 강조 (와이드뷰 QLED 삼탠바이미)**
+*   **화면:** 와이드뷰 QLED 삼탠바이미가 침실, 주방 등 다양한 공간에서 활용되는 모습. QLED 화질이 돋보이는 영상미 강조.
+*   **대사:** "30만원대에 QLED 화질, 게다가 넷플릭스, 유튜브 스마트 기능까지?! 압도적 가성비! '와이드뷰 QLED 삼탠바이미'!"
+
+**(11-14초) 🤩 두 번째 추천 상품 강조 (무빙큐빅스 스마트 삼탠바이미)**
+*   **화면:** 전문가가 직접 방문해 무빙큐빅스 삼탠바이미를 설치해주는 모습이 빠르게 지나가고, 사용자가 편안하게 TV를 시청하는 모습.
+*   **대사:** "설치 걱정은 이제 그만! 전문가가 직접 방문 설치해주는 '무빙큐빅스 스마트 삼탠바이미'!"
+
+**(14-15초) 🚀 마무리 & CTA**
+*   **화면:** 추천 제품들이 한 화면에 모여있고, "더 자세한 정보는 댓글 링크에서! 👆" 자막과 함께 손가락 이모티콘이 나타난다.
+*   **음악/효과음:** (점프업 효과음)
+*   **대사:** "내 라이프스타일에 딱 맞는 삼탠바이미는? 지금 바로 댓글 링크 클릭!"
 
 ---
 
-## 2. 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 4컷
 
-### **카드 1: 훅 (문제 제기)**
+### 1컷
+*   **텍스트:**
+    LG 스탠바이미, 비싸서 망설였죠?
+    이제 '삼탠바이미'로 스마트하게 즐겨보세요! ✨
+*   **배경 이미지 Midjourney 프롬프트:**
+    A vibrant, dynamic split image. On the left, a luxurious, expensive-looking LG StandbyME in a sleek, modern minimalist apartment, a person looking at it with a longing but slightly sad expression. On the right, a bright, inviting living space with an affordable, stylish "SamtanbyME" mobile TV, a person happily watching content on it. Use strong contrasting colors and modern interior design. --ar 1:1 --v 5.2
 
-*   **카드 텍스트:**
-    스탠바이미 사고 싶어서 현기증 나는데...
-    **₩ 가격보고 뒷목 잡으셨죠? 😭**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A person looking frustrated and clutching their neck in front of a giant, expensive price tag (e.g., "$2000+"). In the background, a blurred, luxurious portable smart TV is visible. The mood is slightly exaggerated, comical, yet relatable. Cinematic, vibrant colors, soft focus, dramatic lighting. --ar 1:1 --style raw`
+### 2컷
+*   **텍스트:**
+    ✨ MD's Pick 1. 와이드뷰 QLED 삼탠바이미
+    30만원대에 QLED 화질? 스마트 기능까지 완벽! 📺
+*   **배경 이미지 Midjourney 프롬프트:**
+    A close-up shot of a sleek, modern white mobile TV ("SamtanbyME" style) with a vibrant QLED screen displaying a high-definition, colorful movie scene (e.g., a tropical beach sunset or a futuristic city). The TV is in a cozy, stylish bedroom or living room, with blurred warm lighting in the background. Emphasize the vividness of the QLED display. --ar 1:1 --v 5.2
 
-### **카드 2: 핵심 상품 1 (스카이뷰 43인치)**
+### 3컷
+*   **텍스트:**
+    ✨ MD's Pick 2. 무빙큐빅스 스마트 삼탠바이미
+    복잡한 설치 걱정 끝! 전문가 방문설치 서비스! 🛠️
+*   **배경 이미지 Midjourney 프롬프트:**
+    A bright, clean modern living room. A friendly, professional technician, wearing a smart casual uniform, is carefully installing a minimalist black mobile TV ("SamtanbyME" style) on its stand. The homeowner is nearby, smiling and looking relaxed, observing the hassle-free installation. Focus on the ease and convenience of the service. --ar 1:1 --v 5.2
 
-*   **카드 텍스트:**
-    **🤯 43인치 QLED 대화면이 30만원대?!**
-    방구석 영화관 완성! 📺
-    **스카이뷰 삼탠바이미**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A modern living room with a cozy, cinematic atmosphere. A large, sleek 43-inch portable smart QLED TV is prominently displayed, showcasing a vibrant movie scene. The room is softly lit with warm accent lighting, creating a luxurious home theater feel. High dynamic range, sharp focus on the screen, bokeh background. --ar 1:1 --style raw`
-
-### **카드 3: 핵심 상품 2 (와이드뷰 32인치 화이트)**
-
-*   **카드 텍스트:**
-    **💖 디자인까지 완벽! 화이트 에디션 32인치 QLED! ✨**
-    우리 집 인테리어 감성 폭발!
-    **와이드뷰 삼탠바이미**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A minimalist, Scandinavian-style bedroom or studio with a clean white aesthetic. A stylish 32-inch white portable smart QLED TV stands elegantly, displaying bright, artistic content. Soft, natural sunlight streams through a window, highlighting the clean lines and product design. High key lighting, clean composition, professional product photography style. --ar 1:1 --style raw`
-
-### **카드 4: CTA (해결책 & 마무리)**
-
-*   **카드 텍스트:**
-    10년차 MD가 엄선한
-    **'스탠바이미 가성비' BEST 5!**
-    **더 많은 정보는 프로필 링크에서 확인하세요! 👆**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage of five different modern, sleek portable smart TVs (similar to 삼탠바이미) in various stylish home settings (e.g., a cozy bedroom, a bright kitchen, a minimalist living room, a creative studio). A prominent, glowing arrow points towards an overlaid text bubble that says "Link in Bio!". Vibrant, energetic, promotional, slight motion blur to imply movement and excitement. --ar 1:1 --style raw`
+### 4컷
+*   **텍스트:**
+    내 라이프스타일에 딱 맞는 '삼탠바이미'는?
+    더 많은 정보는 블로그에서 확인하세요! (링크는 프로필) 👆
+*   **배경 이미지 Midjourney 프롬프트:**
+    A collage of four different lifestyle scenes, each featuring a "SamtanbyME" mobile TV. One in a cozy bedroom with a person watching movies, one in a kitchen while someone is cooking, one in a home office for presentations, and one in a kid's playroom. The overall aesthetic is bright, modern, and versatile. Include a subtle overlay text "Link in Bio" or an arrow pointing down. --ar 1:1 --v 5.2
