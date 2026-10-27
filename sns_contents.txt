@@ -1,55 +1,58 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**영상 컨셉:** LG 스탠바이미의 비싼 가격에 좌절하던 시청자에게 "가성비 삼탠바이미"의 놀라운 혜택을 짧고 강렬하게 전달. 빠른 전환과 텍스트 오버레이 활용.
+**제목:** LG 스탠바이미 200만원?! 🚨 30만원대로 감성+편리함 다 잡는 갓성비 '이것'!
 
----
+**(영상 시작: LG 스탠바이미 가격표가 클로즈업되며 놀라는 표정의 인물 / 불안한, 좌절한 듯한 분위기)**
 
-**[영상 스크립트]**
+**내레이션 (빠르고 경쾌하게):**
+**(0-3초 훅)**
+"LG 스탠바이미 사고 싶었는데... 200만원? 💰💸 좌절금지! 🙅‍♀️"
+"30만원대로 스탠바이미 감성 그대로! 갓성비 '삼탠바이미' 등장!"
 
-**[0-3초] ⚡️ 훅 (Hook): 시선 강탈! ⚡️**
-*   **자막:** 스탠바이미? 댓츠 노노! 🙅‍♀️
-*   **내레이션 (빠르고 경쾌하게):** 으아악! 스탠바이미 너무 비싸서 못 샀다고요?! 그럼 이거 보세요!
+**(4-12초 핵심 내용)**
+"첫째! '와이드뷰 QLED 스마트 삼탠바이미' (32만 9천원!)"
+"QLED 화질에 LGst처럼 예쁜 화이트 디자인! 🤩 넷플릭스 바로 재생! 드라마가 영화 같아!"
 
-**[3-6초] 문제 해결 & 대안 제시**
-*   **자막:** 내 방이 영화관으로 변신? ✨
-*   **내레이션:** LG 스탠바이미 자유로움은 그대로! 가격은 확 낮춘 '삼탠바이미'가 있잖아요!
+"둘째! '무빙큐빅스 스마트 삼탠바이미 SET' (34만 9천원!)"
+"조립 걱정 끝! 😱 전문 기사님이 직접 방문 설치! 침대 옆, 주방 어디든 핵편리하게 이동!"
 
-**[6-9초] 핵심 기능 어필**
-*   **자막:** 침대에서 넷플릭스? 캠핑에서 영화? 🏕️
-*   **내레이션:** QLED 선명함에 스마트 기능까지! 넷플릭스, 유튜브 다~ 돼!
-
-**[9-12초] 메인 제품 1 어필**
-*   **자막:** 🌟 30만원대 QLED? 실화?!
-*   **내레이션:** 32인치 와이드뷰 QLED 삼탠바이미! 32만 9천원에 이 모든 게 가능! (손가락으로 '329,000원' 가격 강조)
-
-**[12-15초] 메인 제품 2 & CTA**
-*   **자막:** 🎬 40인치 대화면 & 방문설치!
-*   **내레이션:** 더 크게 즐기고 싶다면? 40인치 무빙큐빅스! 방문 설치까지 굿! (엄지 척)
-*   **자막:** 자세한 건 댓글 / 링크 확인! ➡️
-*   **내레이션:** 내 인생템 삼탠바이미! 지금 바로 만나보세요!
+**(13-15초 마무리 & CTA)**
+"더 많은 삼탠바이미 추천은? 지금 바로 댓글 링크 확인!"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-**카드뉴스 컨셉:** 스탠바이미의 대체제로 "가성비 삼탠바이미"를 소개하고, 핵심 제품들을 시각적으로 매력적인 프롬프트로 제안.
+### 컷 1: 훅 (문제 제기 및 솔루션 제시)
 
----
+*   **텍스트:**
+    *   "LG 스탠바이미 비싸서 망설였다면? 😥"
+    *   "30만원대 '가성비 삼탠바이미'로 로망 실현!"
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A stylish, minimalist living room with a soft, warm light. A young woman sits on a cozy sofa, thoughtfully looking at a sleek, expensive, white portable smart TV (like LG StandbyME) placed centrally. A subtle, transparent thought bubble above her head shows a large, discouraging price tag in Korean Won. The atmosphere is aspirational yet a bit wistful, transitioning to hopeful. Modern interior design, high quality, soft focus, cinematic lighting. --ar 1:1 --v 5.2"
 
-### 1컷
-*   **텍스트:** 스탠바이미 사고 싶었는데 가격보고 좌절? 😥 이제 '가성비 삼탠바이미'가 대세!
-*   **Midjourney 스타일 영문 프롬프트:** `A frustrated young woman looking at a blurred, expensive price tag on a screen, contrasted with a happy, smiling woman looking at a sleek, white portable smart TV (SamtanbyME, similar to LG StandbyME design) with an affordable price tag. The setting is a modern, minimalist apartment. Cinematic lighting, photorealistic, vibrant. --ar 1:1 --v 5.2`
+### 컷 2: 메인 추천 상품 1 (와이드뷰 QLED 스마트 삼탠바이미)
 
-### 2컷
-*   **텍스트:** 스탠바이미의 자유로움은 그대로, 가격은 파격적으로! 침대, 주방, 캠핑 어디든 나만의 영화관! 🍿
-*   **Midjourney 스타일 영문 프롬프트:** `A split image showing three distinct scenes. Left: A cozy bedroom with a person comfortably watching Netflix on a portable smart TV on a movable stand. Center: A modern, bright kitchen with the same TV displaying a cooking recipe. Right: A vibrant outdoor glamping setup at dusk, with the TV showing a movie under string lights. Emphasize versatility, mobility, and a relaxed lifestyle. Warm, inviting tones, photorealistic. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    *   "✨화질/디자인 최고✨ 와이드뷰 QLED 스마트 삼탠바이미"
+    *   "✅ 32만원대 QLED 압도적 화질 + LGst처럼 세련된 화이트 디자인"
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A cozy, sunlit bedroom with a clean, minimalist aesthetic. A modern, white-colored QLED smart portable TV on a sleek stand is positioned near a bed. The TV screen displays vibrant, high-definition content, like a breathtaking nature documentary scene with lush greens and blues. A person's hand is casually holding a remote control. The overall mood is relaxing and visually pleasing. --ar 1:1 --v 5.2"
 
-### 3컷
-*   **텍스트:** ✨ 가성비 끝판왕! 와이드뷰 32인치 QLED 스마트 삼탠바이미. 329,000원으로 QLED + 스마트TV + 이동식 스탠드 모두!
-*   **Midjourney 스타일 영문 프롬프트:** `A sleek, white 32-inch portable smart TV (SamtanbyME, similar to LG StandbyME design) with a vibrant QLED screen displaying a colorful, high-definition nature documentary. The TV is on a minimalist white movable stand in a clean, bright, modern room with indirect lighting. Emphasize the screen's crystal-clear picture quality and the TV's elegant, unobtrusive design. Photorealistic, soft focus background. --ar 1:1 --v 5.2`
+### 컷 3: 메인 추천 상품 2 (무빙큐빅스 스마트 삼탠바이미 SET)
 
-### 4컷
-*   **텍스트:** 🎬 대화면+프리미엄! 무빙큐빅스 40인치 QLED 스마트 삼탠바이미. 방문 설치까지 489,000원에!
-*   **Midjourney 스타일 영문 프롬프트:** `A spacious, luxurious modern living room at twilight, featuring a stunning 40-inch portable smart TV (SamtanbyME, similar to LG StandbyME design) with a brilliant QLED screen showing an epic cinematic scene. The TV is on a stylish, sturdy white movable stand. Large windows overlook a city skyline, and designer furniture creates an inviting, premium atmosphere. The TV is the focal point, highlighting its immersive large display and sophisticated presence. Photorealistic, cinematic lighting. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    *   "🛠️설치 걱정 끝!🛠️ 무빙큐빅스 스마트 삼탠바이미 (방문설치)"
+    *   "✅ 34만원대 전문 기사 방문 설치! 튼튼한 이동식 스탠드"
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A bright, modern living room with a minimalist design. A friendly, professional technician in a clean uniform is expertly assembling a sleek, black smart portable TV on its sturdy movable stand. The customer, a smiling young man, watches casually from a nearby armchair, looking relaxed and satisfied. Tools are neatly arranged, emphasizing a hassle-free setup. The atmosphere is convenient and efficient. --ar 1:1 --v 5.2"
+
+### 컷 4: 마무리 (다양한 옵션 제시 및 CTA)
+
+*   **텍스트:**
+    *   "내게 맞는 삼탠바이미는? 💸"
+    *   "👉 10만원대 초가성비부터 구글 스마트 TV까지! 블로그에서 자세히 비교해봐!"
+*   **Midjourney 스타일 영문 프롬프트:**
+    "A dynamic, vibrant collage showing a grid of different affordable portable smart TVs (SamtenbyME alternatives) in various modern home settings: a bedroom, a kitchen counter, and a cozy corner in a living room. Each screen displays different OTT app logos (Netflix, YouTube, Wavve). A large, inviting arrow or cursor points towards a glowing "Read More" button or a smartphone icon with a blog link. The overall style is energetic, inviting, and practical. --ar 1:1 --v 5.2"
