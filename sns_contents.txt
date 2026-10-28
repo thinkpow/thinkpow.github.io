@@ -1,61 +1,77 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** LG 스탠바이미 비싸서 못 샀다면? 현직 MD가 추천하는 갓성비 '삼탠바이미' BEST 2!
+**[영상 컨셉]**
+스탠바이미의 높은 가격에 고민하는 사람들의 마음을 저격, 가성비 삼탠바이미 제품 2가지(화질/스마트 기능 vs. 압도적 최저가)를 빠르게 비교하며 강력한 구매 유도. 도파민 폭발하는 빠른 전환과 효과음 사용.
 
-**[영상 시작]**
+**[영상 구성]**
 
-**(0-3초) 💥 훅: 시청자 질문 & 빠른 전환**
-*   **화면:** 화려한 LG 스탠바이미를 바라보며 한숨 쉬는 사람의 모습. 화면에 "스탠바이미... 너무 비싸서 포기했어요?" 자막이 뜬다.
-*   **음악/효과음:** (경쾌하고 빠른 전환음) "띠용!"
-*   **대사:** "스탠바이미 가격보고 한숨 쉬었나요? 댓츠 노노! 이제 '이것'으로 바꿔보세요!"
+*   **0-3초 (훅! 시선 강탈):**
+    *   **화면:** 스탠바이미 광고 영상 (고급스럽지만 가격이 예상되는) 짧게 스쳐 지나가고, 그 위에 "스탠바이미 살까 말까... 비싸서 망설였죠?" 같은 텍스트 오버레이. ⚡️강렬한 효과음과 함께 화면 전환!
+    *   **나레이션 (빠르고 경쾌하게):** "스탠바이미 갖고 싶은데 너무 비싸서 망설였죠? 그럼 이 영상 끝까지 보세요! 진짜 가성비 삼탠바이미 2개 추천!"
 
-**(3-7초) 😮 문제 해결 & 제품 소개 시작**
-*   **화면:** 세련된 '삼탠바이미' 제품들이 스쳐 지나가고, "현직 MD의 갓성비 '삼탠바이미' 추천!" 자막이 강렬하게 등장.
-*   **대사:** "LG 스탠바이미 비켜! 10년 차 MD가 엄선한 '삼탠바이미' 끝판왕! 지금 바로 공개합니다!"
+*   **3-7초 (와이드뷰 QLED 스마트 삼탠바이미):**
+    *   **화면:** '와이드뷰 QLED 스마트 삼탠바이미'가 침실/거실 등 세련된 공간에서 사용되는 모습 (QLED 화질 강조, 넷플릭스 실행 화면 등). 제품명, 가격(329,000원) 크게 노출.
+    *   **나레이션:** "첫 번째! '와이드뷰 삼탠바이미'! 30만원대인데 QLED 화질에 넷플릭스까지 다 돼! 인테리어까지 완벽하잖아?"
 
-**(7-11초) ✨ 첫 번째 추천 상품 강조 (와이드뷰 QLED 삼탠바이미)**
-*   **화면:** 와이드뷰 QLED 삼탠바이미가 침실, 주방 등 다양한 공간에서 활용되는 모습. QLED 화질이 돋보이는 영상미 강조.
-*   **대사:** "30만원대에 QLED 화질, 게다가 넷플릭스, 유튜브 스마트 기능까지?! 압도적 가성비! '와이드뷰 QLED 삼탠바이미'!"
+*   **7-11초 (프리토스 초가성비 이동식 TV 세트):**
+    *   **화면:** '프리토스 초가성비 이동식 TV 세트'가 주방/야외 등 다양한 공간에서 가볍게 사용되는 모습. 제품명, 압도적인 가격(163,000원) 크게 노출. (놀라움 강조).
+    *   **나레이션:** "잠깐! 가격이 더 중요하다면 '프리토스 삼탠바이미'는 무려 10만원대? ㄷㄷㄷ 그냥 이동식 TV만 필요하면 이게 답이야!"
 
-**(11-14초) 🤩 두 번째 추천 상품 강조 (무빙큐빅스 스마트 삼탠바이미)**
-*   **화면:** 전문가가 직접 방문해 무빙큐빅스 삼탠바이미를 설치해주는 모습이 빠르게 지나가고, 사용자가 편안하게 TV를 시청하는 모습.
-*   **대사:** "설치 걱정은 이제 그만! 전문가가 직접 방문 설치해주는 '무빙큐빅스 스마트 삼탠바이미'!"
-
-**(14-15초) 🚀 마무리 & CTA**
-*   **화면:** 추천 제품들이 한 화면에 모여있고, "더 자세한 정보는 댓글 링크에서! 👆" 자막과 함께 손가락 이모티콘이 나타난다.
-*   **음악/효과음:** (점프업 효과음)
-*   **대사:** "내 라이프스타일에 딱 맞는 삼탠바이미는? 지금 바로 댓글 링크 클릭!"
-
----
+*   **11-15초 (마무리 & CTA):**
+    *   **화면:** 두 제품이 나란히 비교되는 인포그래픽(가격, 주요 기능) 짧게 보여준 후, "가성비 스탠바이미, 더 이상 고민 No!" 텍스트와 함께 "댓글 링크 확인!" 강조.
+    *   **나레이션:** "더 자세한 건 댓글 링크에서 확인하세요! 이제 스탠바이미 비싸게 사지 마세요! 현명한 소비로 꿀템 겟!"
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### 1컷
-*   **텍스트:**
-    LG 스탠바이미, 비싸서 망설였죠?
-    이제 '삼탠바이미'로 스마트하게 즐겨보세요! ✨
-*   **배경 이미지 Midjourney 프롬프트:**
-    A vibrant, dynamic split image. On the left, a luxurious, expensive-looking LG StandbyME in a sleek, modern minimalist apartment, a person looking at it with a longing but slightly sad expression. On the right, a bright, inviting living space with an affordable, stylish "SamtanbyME" mobile TV, a person happily watching content on it. Use strong contrasting colors and modern interior design. --ar 1:1 --v 5.2
+**[공통 디자인 컨셉]**
+모던하고 깔끔한 화이트 톤 또는 미니멀한 인테리어 배경. 각 제품의 특징을 살리면서도 전체적으로 통일감 있는 디자인.
 
-### 2컷
-*   **텍스트:**
-    ✨ MD's Pick 1. 와이드뷰 QLED 삼탠바이미
-    30만원대에 QLED 화질? 스마트 기능까지 완벽! 📺
-*   **배경 이미지 Midjourney 프롬프트:**
-    A close-up shot of a sleek, modern white mobile TV ("SamtanbyME" style) with a vibrant QLED screen displaying a high-definition, colorful movie scene (e.g., a tropical beach sunset or a futuristic city). The TV is in a cozy, stylish bedroom or living room, with blurred warm lighting in the background. Emphasize the vividness of the QLED display. --ar 1:1 --v 5.2
+---
 
-### 3컷
-*   **텍스트:**
-    ✨ MD's Pick 2. 무빙큐빅스 스마트 삼탠바이미
-    복잡한 설치 걱정 끝! 전문가 방문설치 서비스! 🛠️
-*   **배경 이미지 Midjourney 프롬프트:**
-    A bright, clean modern living room. A friendly, professional technician, wearing a smart casual uniform, is carefully installing a minimalist black mobile TV ("SamtanbyME" style) on its stand. The homeowner is nearby, smiling and looking relaxed, observing the hassle-free installation. Focus on the ease and convenience of the service. --ar 1:1 --v 5.2
+**카드뉴스 1/4**
 
-### 4컷
 *   **텍스트:**
-    내 라이프스타일에 딱 맞는 '삼탠바이미'는?
-    더 많은 정보는 블로그에서 확인하세요! (링크는 프로필) 👆
-*   **배경 이미지 Midjourney 프롬프트:**
-    A collage of four different lifestyle scenes, each featuring a "SamtanbyME" mobile TV. One in a cozy bedroom with a person watching movies, one in a kitchen while someone is cooking, one in a home office for presentations, and one in a kid's playroom. The overall aesthetic is bright, modern, and versatile. Include a subtle overlay text "Link in Bio" or an arrow pointing down. --ar 1:1 --v 5.2
+    스탠바이미 살까 말까 고민중? 🤯
+    비싼 가격 때문에 망설였다면,
+    #삼탠바이미 가 답!
+    (가격 부담 없이 스탠바이미 로망 실현!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A stylish living room with a person looking at a beautiful but expensive LG StandbyMe, with a thought bubble showing a high price tag (e.g., "$1299"). The person has a slightly worried but longing expression. Modern, minimalist interior design, soft natural lighting. Clean aesthetic. --ar 1:1 --v 5.2`
+
+---
+
+**카드뉴스 2/4**
+
+*   **텍스트:**
+    ✨화질+스마트 기능까지 잡은 가성비!✨
+    **와이드뷰 QLED 스마트 삼탠바이미 (32인치)**
+    ➡️ **329,000원!**
+    (QLED 화질, 넷플릭스, 유튜브 스마트TV 기능, 세련된 화이트 디자인)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A sleek white 32-inch QLED smart TV on a mobile stand in a modern, minimalist bedroom. The screen displays vibrant movie content (like a Netflix movie scene). A person is comfortably watching from bed. Bright, clean aesthetic, natural light. Focus on superior picture quality and smart features. --ar 1:1 --v 5.2`
+
+---
+
+**카드뉴스 3/4**
+
+*   **텍스트:**
+    💰압도적인 최저가 가성비!💰
+    **프리토스 초가성비 이동식 TV 세트**
+    ➡️ **163,000원!**
+    (10만원대! 이동식 스탠드, 에너지 효율 1등급, 기본에 충실한 저렴한 TV)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A simple, compact mobile TV on a stand in a cozy, bright kitchen. A person is happily watching a cooking video or a simple news channel while preparing food. Focus on affordability and practical, everyday use. Warm, inviting atmosphere, bright kitchen. --ar 1:1 --v 5.2`
+
+---
+
+**카드뉴스 4/4**
+
+*   **텍스트:**
+    내게 맞는 #스탠바이미가성비 는? 🤔
+    **지금 바로 프로필 링크에서
+    더 많은 추천템 확인!**
+    (와이드뷰 vs 프리토스 vs 추가 추천 3종)
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A split screen or collage showing parts of the Wideview QLED Smart Samtenbymie and Freetos Ultra Cost-Effective Mobile TV Set side-by-side. A large, stylized question mark graphic overlay in the center. A human hand pointing towards a prominent "Link in Bio" or "See More" button. Energetic, helpful, comparative vibe with a clean, modern design. --ar 1:1 --v 5.2`
