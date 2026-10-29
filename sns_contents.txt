@@ -1,72 +1,64 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**[영상 컨셉]**
-도파민 폭발하는 빠른 전환, 짧고 임팩트 있는 자막, 신나는 배경 음악. 첫 3초 안에 시선을 강탈하는 문제 제기와 해결책 제시!
+**제목:** LG 스탠바이미 대신 '이거' 보면 후회 안 함! 🔥 가성비 삼탠바이미 2종 추천!
 
----
+**[영상 시작: 0초 ~ 3초]**
+*   **화면:** (빠른 템포의 배경 음악 시작, 흔들리는 지폐와 함께 고뇌하는 사람의 모습)
+*   **내레이션:** "LG 스탠바이미 갖고 싶은데 너무 비싸서 포기했다면? 😫 잠깐! 이걸 보세요!"
 
-**[스크립트]**
+**[영상 전환: 3초 ~ 8초]**
+*   **화면:** (와이드뷰 QLED 삼탠바이미가 등장, QLED 로고와 선명한 화면이 강조되며, 화이트 디자인이 예쁘게 배치된 인테리어 영상)
+*   **내레이션:** "이거 30만원대인데 **QLED 화질**이라고요? 미친 선명함에 예쁜 화이트 디자인까지! 영화관이 따로 없네!"
 
-**(0-3초) 훅: 문제 제기 + 반전 예고**
-*   **화면:** LG 스탠바이미 로고에 X 표시, '100만원대?' 자막 크게 띄우기. 이어서 30만원대 가격표가 번쩍!
-*   **내레이션 (빠르고 흥분된 목소리):** 스탠바이미 비싸서 포기했어요? 🙅‍♀️ 잠깐! 이 영상 안 보면 100만원 후회합니다!
+**[영상 전환: 8초 ~ 13초]**
+*   **화면:** (무빙큐빅스 삼탠바이미가 등장, 설치 기사가 방문하여 제품을 능숙하게 조립하고 설치하는 장면, 고객이 만족하는 모습)
+*   **내레이션:** "설치 귀찮아서 망설였다면? **전문가 방문 설치** 서비스까지? 난 그냥 리모컨만 잡으면 된다고?!"
 
-**(3-8초) 메인 상품 소개 (빠르게 전환)**
-*   **화면:**
-    *   스카이뷰 43인치 삼탠바이미 (제품 이미지) + '43인치 대화면!' 자막
-    *   와이드뷰 32인치 삼탠바이미 (제품 이미지) + '스탠바이미 국룰 감성!' 자막
-*   **내레이션:** 30만원대로 43인치 초대형 QLED 이동식 TV부터! 스탠바이미 국룰 감성 32인치 QLED까지!
-
-**(8-12초) 핵심 장점 어필**
-*   **화면:** 제품들이 침실, 주방, 거실 등 다양한 공간에서 활용되는 모습 빠르게 전환. 각 장소에 맞춰 '넷플릭스!', '요리 레시피!', '운동 영상!' 등 활용 예시 자막.
-*   **내레이션:** 스마트 기능은 기본! 인테리어까지 갓벽! 💖 원하는 곳 어디든 OK!
-
-**(12-15초) 강력한 CTA**
-*   **화면:** BEST 5 제품 이미지를 콜라주 형태로 보여주고, 손가락으로 '링크 스와이프 업' 또는 '댓글 확인' 제스처.
-*   **내레이션:** 더 이상 비싼 가격에 망설이지 마세요! 당신의 '인생 이동식 TV'는? (빠르게) 지금 바로 댓글 링크에서 확인하세요! 😉
+**[영상 마무리: 13초 ~ 15초]**
+*   **화면:** (두 제품이 나란히 배치되거나, 핵심 장점 텍스트가 번갈아 나오며, 프로필 링크 클릭 유도)
+*   **내레이션:** "브랜드 값 말고 **기능에 투자**하세요! 가성비 삼탠바이미, 지금 바로 프로필 링크 클릭!"
 
 ---
 
-## 2. 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 4컷
 
-**[전체 컨셉]**
-깔끔하고 감각적인 디자인. 각 컷마다 명확한 메시지와 매력적인 비주얼.
+**카드 1/4**
+*   **텍스트:**
+    ## 스탠바이미 비싸서 포기했다면?
+    ### 🔥 가성비 '삼탠바이미'가 답!
+    갖고 싶던 이동식 TV,
+    이제 부담 없이 즐기세요!
+*   **Midjourney 프롬프트:**
+    `A stylish, cozy living room. A person looking at a digital screen displaying a high price tag with a disappointed expression. A ghosted outline of a sleek, modern movable TV (similar to LG StandbyMe but not identical) is visible. The atmosphere is warm but with a hint of longing. Cinematic lighting. --ar 1:1 --v 5.2`
 
----
+**카드 2/4**
+*   **텍스트:**
+    ## 🤯 30만원대 QLED 실화?
+    ### ✨ 와이드뷰 QLED 삼탠바이미
+    동일 가격대에서 찾기 힘든 **QLED 패널**로 선명하고 생생한 컬러!
+    화이트 에디션으로 인테리어 효과까지!
+    (가격: 329,000원)
+*   **Midjourney 프롬프트:**
+    `A sleek, white movable smart TV (similar to LG StandbyMe but not identical) with a vibrant QLED display showing a breathtaking, high-definition natural landscape. The TV is elegantly placed in a minimalist, modern living room. A surprised and delighted person is casually watching it. Bright and colorful. --ar 1:1 --v 5.2`
 
-### **첫 번째 컷 (Hook: 문제 제기 및 해결책)**
+**카드 3/4**
+*   **텍스트:**
+    ## 🚚 설치 걱정은 NO!
+    ### 무빙큐빅스 스마트 삼탠바이미 (방문설치)
+    무거운 제품 조립? 이제 끝!
+    **전문가가 직접 방문 설치**부터 세팅까지!
+    그냥 편하게 즐기기만 하세요!
+    (가격: 349,000원)
+*   **Midjourney 프롬프트:**
+    `A friendly and professional technician (male or female, diverse) carefully assembling a movable smart TV (SamtanbyMe style) in a chic, light-filled bedroom. The customer is happily watching, relieved. Emphasize ease and convenience of the service. Clean, modern aesthetic. --ar 1:1 --v 5.2`
 
-*   **카드 텍스트:**
-    **스탠바이미 갖고 싶은데 비싸서 포기? 😔**
-    **30만원대로 똑똑하게 즐기는 '가성비 삼탠바이미' 등장!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A stylish, modern living room. On the left, a frustrated person is looking at a high-end, sleek portable TV with a huge, expensive price tag (e.g., "$1000+"). On the right, a bright, inviting alternative portable smart TV (삼탠바이미 style, white color, minimalist stand) is subtly glowing with an "affordable" price tag (e.g., "$300s"). Soft natural light, minimalist aesthetic, warm tones, high quality, 4K, cinematic, --ar 1:1 --v 6.0`
-
-### **두 번째 컷 (메인 리뷰 1: 스카이뷰 43인치 QLED)**
-
-*   **카드 텍스트:**
-    **📺 압도적 몰입감! 43인치 대화면 삼탠바이미가 30만원대?**
-    **✅ 43인치 QLED 대화면 + 스마트 기능**
-    **✅ 어떤 인테리어에도 찰떡, 화이트 에디션!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek 43-inch white QLED portable smart TV (삼탠바이미 style) displaying vibrant streaming content (e.g., a movie scene with rich colors) in a spacious, modern living room. The TV is on a minimalist white stand. Soft natural light streams through a window, illuminating a clean, minimalist interior with white and light wood elements. A person is comfortably watching on a cozy sofa in the background. Cinematic, high quality, 4K, --ar 1:1 --v 6.0`
-
-### **세 번째 컷 (메인 리뷰 2: 와이드뷰 32인치 QLED)**
-
-*   **카드 텍스트:**
-    **💖 스탠바이미 국룰 감성 그대로! 32인치 와이드뷰**
-    **✅ 32인치 FHD QLED + 이동형 스탠드**
-    **✅ 30만원대 초반, 합리적인 가격에 감성까지!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A stylish 32-inch white portable smart TV (삼탠바이미 style) with a minimalist stand, placed in a bright, aesthetically pleasing bedroom. The TV screen shows a relaxing landscape or a cozy interior. A person's hand is casually scrolling through apps on the screen. Soft morning light, clean lines, cozy atmosphere, minimalist decor with white bedding and a potted plant. High quality, 4K, --ar 1:1 --v 6.0`
-
-### **네 번째 컷 (CTA 및 추가 추천)**
-
-*   **카드 텍스트:**
-    **내 라이프스타일에 딱! 맞는 '인생 삼탠바이미'는?**
-    **(방문설치/초저가 모델 등 추가 추천은 블로그에서 확인!)**
-    **👉 프로필 링크에서 BEST 5 확인하기!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic collage showcasing various portable smart TVs (삼탠바이미 style) in different modern home settings: one in a living room, one in a bedroom, one in a kitchen, and one in a home office. Each TV has a subtle, inviting glow. The overall design is clean and minimalist, with bright and inviting atmosphere. Infographic style elements are subtly integrated, showing different features like "Easy Installation" or "Ultra-Affordable." High quality, 4K, flat lay, top view, --ar 1:1 --v 6.0`
+**카드 4/4**
+*   **텍스트:**
+    ## 당신의 현명한 선택을 응원해요!
+    ### 🔥 브랜드 값 말고 '기능'에 투자하세요!
+    **지금 바로 프로필 링크 클릭!**
+    자세한 제품 정보와 추가 추천템 확인하기!
+*   **Midjourney 프롬프트:**
+    `A clean, minimalist graphic design background with a central focus on a "Swipe Up" or "Click Link in Bio" call to action. Two elegant, subtle silhouettes of different movable smart TVs (SamtanbyMe style) are visible in the background. Modern, inviting color palette of teal, white, and soft grey. Typographic focus. --ar 1:1 --v 5.2`
