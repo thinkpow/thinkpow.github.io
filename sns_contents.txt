@@ -1,73 +1,66 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 📱 도파민 폭발! 15초 스탠바이미 가성비 쇼츠/틱톡 대본
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**[영상 시작: 빠르게 움직이는 스탠바이미 이미지가 스쳐 지나가고, 그 위에 붉은색으로 '가격' 태그가 깜빡이며 '헉!'하는 이모티콘이 나타난다.]**
+**도파민 폭발 훅 (첫 3초)**
+*   **화면:** (타이틀: "스탠바이미 비싸서 못 샀다고? 🤯") 비싼 LG 스탠바이미 이미지에 빨간 X 표시 -> 이어서 가성비 삼탠바이미 제품들이 현란하게 나타나며 가격표 (10만원대, 30만원대) 강조
+*   **나레이션 (빠르게, 흥분된 목소리):** "스탠바이미 비싸서 포기했어?! 놉! 🤯 10만원대 삼탠바이미가 있다고?! 지금 당장 봐!"
 
-**내레이션 (밝고 경쾌한 톤):**
-"스탠바이미? 헉 소리나는 가격에 포기했다면? 🙅‍♀️ 잠시만요!"
-**(훅 - 0~3초)**
+**본문 (3-12초)**
+*   **화면:** 거실 소파에서 TV를 보던 사람이, TV를 끌고 부엌으로 이동해 레시피를 보며 요리하는 장면 (빠른 전환) -> 침실로 옮겨가 편안하게 OTT 시청 (위드라이프 40인치 제품 위주로 보여주되, 사용성 강조)
+*   **나레이션:** "이동식 스마트TV, 로망만 꿨다면 주목! 이게 바로 '삼탠바이미' 매직이야! (웃음) 40인치 구글 스마트TV가 30만원대! 넷플릭스, 유튜브는 물론 모든 OTT를 바로 즐겨!"
+*   **화면:** (프리토스 10만원대 제품 이미지와 함께) 더 간소화된 TV 세트가 침대 옆에 놓여있는 장면
+*   **나레이션:** "아니면 무빙 스탠드 포함! 10만원대 초초초저가 TV 세트도 있다고! 셋톱박스만 연결하면 스마트TV로 변신!"
 
-**[장면 전환: 깔끔한 MD 사무실 또는 연구실 같은 배경. 전문적인 MD 복장을 한 인물이 손가락으로 '따봉'을 하며 화면을 가리킨다.]**
-
-**내레이션:**
-"10년차 MD가 찾아낸 '이거 진짜 물건이다!' 가성비 삼탠바이미 2가지 지금 바로 공개!"
-**(3~6초)**
-
-**[장면 전환: 첫 번째 제품 '와이드뷰 QLED 32인치 삼탠바이미'의 실제 사용 모습. 거실/침실에서 넷플릭스 등 스마트 기능을 활용하는 모습이 생생한 QLED 화질로 강조된다.]**
-
-**내레이션:**
-"첫째! 30만원대 QLED 32인치! 압도적 화질에 인테리어 감성까지 다 잡았어!"
-**(6~10초)**
-
-**[장면 전환: 두 번째 제품 '무빙큐빅스 43인치 삼탠바이미'의 실제 사용 모습. 43인치 대화면으로 영화를 보거나 운동 영상을 따라 하는 모습. '방문 설치' 문구가 효과적으로 떠오른다.]**
-
-**내레이션:**
-"둘째! 43인치 대화면에 방문 설치까지? 침실이 영화관 되는 마법!"
-**(10~13초)**
-
-**[장면 전환: 두 제품이 나란히 놓여있거나, MD가 엄지척하며 웃는 모습. 화면 하단에 '더 많은 가성비 템은 댓글 링크에서 확인!' 문구가 큼직하게 뜬다.]**
-
-**내레이션:**
-"더 많은 가성비 템은 댓글 링크에서 확인! 후회 없을 걸?"
-**(13~15초, 마무리)**
+**마무리 및 CTA (12-15초)**
+*   **화면:** 위드라이프 40인치 블랙, 프리토스 10만원대, 위드라이프 40인치 화이트 제품들이 나란히 놓여있는 장면 -> 프로필 링크로 손가락이 가리키는 애니메이션
+*   **나레이션:** "비싼 돈 주고 스탠바이미 살 필요 없어! 가성비 삼탠바이미로 당신의 일상을 바꿔봐! 더 많은 추천 제품은 프로필 링크에서 지금 바로 확인해! #스탠바이미가성비 #삼탠바이미 #이동식TV"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & 이미지 프롬프트)
+## 2. 인스타그램 카드뉴스 4컷
 
-### 1️⃣ 첫 번째 컷
-*   **텍스트:**
-    스탠바이미 비싸서 포기? 🙅‍♀️
-    10년차 MD가 찾아낸
-    **'진짜' 가성비 삼탠바이미 BEST 5!**
-*   **배경 이미지 프롬프트:**
-    A stylish, modern living room. On a sleek, minimalist movable TV stand (similar to LG StandbyMe but generic), a "price tag" icon is displayed with a shocked emoji and a crossed-out number. A person in modern casual wear looks surprised but relieved, holding a smartphone. Warm, inviting lighting. Bright, clean aesthetic, high definition, photorealistic, --ar 1:1 --v 5.2
+### **카드뉴스 1/4**
 
-### 2️⃣ 두 번째 컷
-*   **텍스트:**
-    🌟 **압도적 화질! 30만원대 QLED 32인치**
-    넷플릭스, 유튜브 스마트 기능은 기본!
-    디자인까지 완벽한 인생템!
-    *(상품명: 와이드뷰 QLED 32인치 삼탠바이미)*
-*   **배경 이미지 프롬프트:**
-    A close-up shot of a 32-inch QLED portable smart TV (white, sleek design) displaying a vibrant, high-definition movie scene (e.g., a colorful landscape with lush greenery and clear skies). The TV is positioned in a chic, minimalist bedroom with natural light coming through a window. Soft, ambient light. Modern interior design, photorealistic, --ar 1:1 --v 5.2
+*   **들어갈 텍스트:**
+    🤯 스탠바이미 비싸서 못 샀어?
+    이동식 스마트TV 로망,
+    ✨삼탠바이미✨로 현실이 된다!
+    (10년차 MD 추천템)
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A visually striking split image. On the left, a frustrated person holding an empty wallet next to a very expensive, sleek, modern movable TV (LG StandbyME style) with a big red 'X' over it, symbolizing high cost. On the right, a bright, inviting living room with a joyful person easily moving a stylish, affordable, movable smart TV (Samtanbymi style), screen showing streaming content. The vibe is modern and aspirational. Cinematic lighting, high detail, realistic photo, architectural digest style, --ar 1:1 --v 5.2`
 
-### 3️⃣ 세 번째 컷
-*   **텍스트:**
-    🎬 **더 크게 즐겨라! 43인치 대화면**
-    전문가 방문 설치까지?
-    침실, 주방 어디든 나만의 영화관!
-    *(상품명: 무빙큐빅스 43인치 삼탠바이미)*
-*   **배경 이미지 프롬프트:**
-    A person happily relaxing on a sofa or bed, watching a movie on a large (43-inch) white portable smart TV with a slim stand. The TV is placed in a cozy, modern living room or bedroom. The room is tidy and stylish. Soft, warm lighting, creating a cinematic atmosphere, blurred background to emphasize the TV and person, photorealistic, --ar 1:1 --v 5.2
+### **카드뉴스 2/4**
 
-### 4️⃣ 네 번째 컷
-*   **텍스트:**
-    당신의 완벽한
-    **'인생 삼탠바이미'**를
-    지금 만나보세요!
-    👇
-    (작게) 더 많은 정보와 구매 링크는 프로필 확인!
-*   **배경 이미지 프롬프트:**
-    A visually appealing collage or montage of diverse people enjoying portable smart TVs (generic StandbyMe-like devices) in various stylish home environments: a person exercising in a home gym, a couple watching a romantic comedy in bed, someone cooking while watching a recipe video in a clean kitchen. Bright, dynamic, happy mood, lifestyle photography, high quality, --ar 1:1 --v 5.2
+*   **들어갈 텍스트:**
+    ✨ 완벽한 스탠바이미 대체! ✨
+    🎬 위드라이프 40인치 구글 스마트 삼탠바이미
+    ✔️ 40인치 대화면 + 구글 OS 스마트TV
+    ✔️ 넷플릭스, 유튜브 등 모든 OTT 바로 즐김!
+    ✔️ 367,000원! 어디든 이동 가능!
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A modern and sleek living room with a black 40-inch movable smart TV (similar to a 'Samtanbymi') prominently displayed on a sturdy black moving stand. The TV screen shows a vibrant Netflix movie scene. A stylish, minimalist interior with natural light from a large window, cozy accents like a throw blanket and a simple plant. High-resolution, cinematic, realistic photo, architectural digest style, --ar 1:1 --v 5.2`
+
+### **카드뉴스 3/4**
+
+*   **들어갈 텍스트:**
+    💰 10만원대 실화?! 💰
+    가성비 끝판왕!
+    ✨ 프리토스 삼탠바이미 무빙스탠드 + 일반TV
+    ✔️ 주머니 사정 가벼운 당신을 위한 초특가!
+    ✔️ 무빙 스탠드로 이동성은 그대로!
+    ✔️ 170,000원! 셋톱박스 연결하면 스마트TV로 변신!
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A cozy and minimalist bedroom, featuring a smaller, more budget-friendly movable TV (Samtanbymi style) with a simple white moving stand next to a comfortable bed. The TV screen displays a bright, generic TV channel or a simple UI, implying it can be made smart with external devices. Soft, warm lighting creates an inviting and relaxed atmosphere. Realistic photo, soft focus, inviting and affordable feel, --ar 1:1 --v 5.2`
+
+### **카드뉴스 4/4**
+
+*   **들어갈 텍스트:**
+    더 이상 비싼 돈 주지 마세요!
+    당신의 일상을 바꿔줄
+    가성비 삼탠바이미 TV
+    지금 바로 만나보세요!
+    ⬇️
+    프로필 링크 클릭!
+*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
+    `A dynamic collage of three distinct scenes featuring people happily using different movable TVs (Samtanbymi style). One scene in a bright, modern kitchen (watching a cooking show), another in a cozy, sunlit bedroom (watching a drama), and a third in a stylish living room (playing a casual game or watching a movie). Each scene is well-lit and vibrant, showcasing freedom and versatility. Realistic photo, diverse users, joyful expressions, seamless transitions between scenes, --ar 1:1 --v 5.2`
