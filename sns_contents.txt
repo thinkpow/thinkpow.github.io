@@ -2,65 +2,93 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**도파민 폭발 훅 (첫 3초)**
-*   **화면:** (타이틀: "스탠바이미 비싸서 못 샀다고? 🤯") 비싼 LG 스탠바이미 이미지에 빨간 X 표시 -> 이어서 가성비 삼탠바이미 제품들이 현란하게 나타나며 가격표 (10만원대, 30만원대) 강조
-*   **나레이션 (빠르게, 흥분된 목소리):** "스탠바이미 비싸서 포기했어?! 놉! 🤯 10만원대 삼탠바이미가 있다고?! 지금 당장 봐!"
+**제목:** 스탠바이미 비싸서 못 샀지? 😱 20만원대 가성비 삼탠바이미 2종 추천!
 
-**본문 (3-12초)**
-*   **화면:** 거실 소파에서 TV를 보던 사람이, TV를 끌고 부엌으로 이동해 레시피를 보며 요리하는 장면 (빠른 전환) -> 침실로 옮겨가 편안하게 OTT 시청 (위드라이프 40인치 제품 위주로 보여주되, 사용성 강조)
-*   **나레이션:** "이동식 스마트TV, 로망만 꿨다면 주목! 이게 바로 '삼탠바이미' 매직이야! (웃음) 40인치 구글 스마트TV가 30만원대! 넷플릭스, 유튜브는 물론 모든 OTT를 바로 즐겨!"
-*   **화면:** (프리토스 10만원대 제품 이미지와 함께) 더 간소화된 TV 세트가 침대 옆에 놓여있는 장면
-*   **나레이션:** "아니면 무빙 스탠드 포함! 10만원대 초초초저가 TV 세트도 있다고! 셋톱박스만 연결하면 스마트TV로 변신!"
+**(화면 연출 및 자막 가이드)**
 
-**마무리 및 CTA (12-15초)**
-*   **화면:** 위드라이프 40인치 블랙, 프리토스 10만원대, 위드라이프 40인치 화이트 제품들이 나란히 놓여있는 장면 -> 프로필 링크로 손가락이 가리키는 애니메이션
-*   **나레이션:** "비싼 돈 주고 스탠바이미 살 필요 없어! 가성비 삼탠바이미로 당신의 일상을 바꿔봐! 더 많은 추천 제품은 프로필 링크에서 지금 바로 확인해! #스탠바이미가성비 #삼탠바이미 #이동식TV"
+---
+
+**[훅(Hook) - 0~3초]**
+
+*   **영상:** 고급스러운 LG 스탠바이미 등장, 우아하게 이동하는 모습. 그 뒤로 좌절하는 표정의 사람 얼굴이 클로즈업. 가격표(수백만원)가 크게 뜨면서 "헉!" 하는 사운드 이펙트.
+*   **대사:** "스탠바이미 갖고 싶어서 현기증 나는데... 가격 실화냐? 😩"
+*   **자막:** "스탠바이미 가격 실화?"
+
+**[문제 제기 및 솔루션 제시 - 3~6초]**
+
+*   **영상:** 좌절하던 사람이 씨익 웃으며 고개를 끄덕임. 이어서 밝고 경쾌한 전환 효과와 함께 저렴한 삼탠바이미 제품들이 빠르게 스쳐 지나감.
+*   **대사:** "걱정 마! 이제 20만원대로 이 모든 걸 누릴 수 있어! 👀"
+*   **자막:** "20만원대 스마트 삼탠바이미 등.장!"
+
+**[메인 추천 1 - 티비아울렛 스마트 구글 TV 삼탠바이미 - 6~10초]**
+
+*   **영상:** '티비아울렛 스마트 구글 TV 삼탠바이미' 제품이 침대 옆, 주방 등 여러 공간으로 이동하며 넷플릭스, 유튜브가 바로 재생되는 모습.
+*   **대사:** "첫 번째! 20만원대 '구글 TV' 삼탠바이미! 넷플릭스, 유튜브? 그냥 틀면 끝! 이동성까지 완벽!"
+*   **자막:** "✨ 20만원대 구글TV! 넷플릭스/유튜브 바로! 📺"
+
+**[메인 추천 2 - 이노스 FHD 삼탠바이미 스마트 TV - 10~14초]**
+
+*   **영상:** '이노스 FHD 삼탠바이미 스마트 TV' 제품이 고화질 영화나 드라마를 선명하게 재생하는 모습. 디테일이 살아있는 화면에 집중.
+*   **대사:** "두 번째! 30만원대 'FHD 화질' 삼탠바이미! 이제 선명하게 몰입해봐! 진짜 스마트 TV가 여기 있었네?"
+*   **자막:** "💯 FHD 화질! 이젠 선명하게 몰입! ✨"
+
+**[클로징 & CTA - 14~15초]**
+
+*   **영상:** 두 제품이 함께 놓여있고, 화면 하단에 링크 유도 문구와 함께 엄지 척! 이모지.
+*   **대사:** "자세한 정보는 지금 바로 댓글 링크에서 확인하세요! 👆"
+*   **자막:** "더 많은 가성비템은 댓글 확인! 🎁"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### **카드뉴스 1/4**
+---
 
-*   **들어갈 텍스트:**
-    🤯 스탠바이미 비싸서 못 샀어?
-    이동식 스마트TV 로망,
-    ✨삼탠바이미✨로 현실이 된다!
-    (10년차 MD 추천템)
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A visually striking split image. On the left, a frustrated person holding an empty wallet next to a very expensive, sleek, modern movable TV (LG StandbyME style) with a big red 'X' over it, symbolizing high cost. On the right, a bright, inviting living room with a joyful person easily moving a stylish, affordable, movable smart TV (Samtanbymi style), screen showing streaming content. The vibe is modern and aspirational. Cinematic lighting, high detail, realistic photo, architectural digest style, --ar 1:1 --v 5.2`
+### **[첫 번째 컷]**
 
-### **카드뉴스 2/4**
+*   **카드뉴스 텍스트:**
+    **스탠바이미, 비싸서 망설였다면? 🚨**
+    **2024년, 스탠바이미 가성비 끝판왕 '삼탠바이미' 등장!**
+    (LG 스탠바이미 부럽지 않은 자유로움을 20만원대로!)
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A stylish, modern living room with a person looking conflicted or frustrated at an expensive, sleek, movable TV, a thought bubble above their head showing a high price tag. Soft, inviting lighting, cinematic, vibrant yet sophisticated colors. --ar 1:1 --v 5.2`
 
-*   **들어갈 텍스트:**
-    ✨ 완벽한 스탠바이미 대체! ✨
-    🎬 위드라이프 40인치 구글 스마트 삼탠바이미
-    ✔️ 40인치 대화면 + 구글 OS 스마트TV
-    ✔️ 넷플릭스, 유튜브 등 모든 OTT 바로 즐김!
-    ✔️ 367,000원! 어디든 이동 가능!
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A modern and sleek living room with a black 40-inch movable smart TV (similar to a 'Samtanbymi') prominently displayed on a sturdy black moving stand. The TV screen shows a vibrant Netflix movie scene. A stylish, minimalist interior with natural light from a large window, cozy accents like a throw blanket and a simple plant. High-resolution, cinematic, realistic photo, architectural digest style, --ar 1:1 --v 5.2`
+---
 
-### **카드뉴스 3/4**
+### **[두 번째 컷]**
 
-*   **들어갈 텍스트:**
-    💰 10만원대 실화?! 💰
-    가성비 끝판왕!
-    ✨ 프리토스 삼탠바이미 무빙스탠드 + 일반TV
-    ✔️ 주머니 사정 가벼운 당신을 위한 초특가!
-    ✔️ 무빙 스탠드로 이동성은 그대로!
-    ✔️ 170,000원! 셋톱박스 연결하면 스마트TV로 변신!
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A cozy and minimalist bedroom, featuring a smaller, more budget-friendly movable TV (Samtanbymi style) with a simple white moving stand next to a comfortable bed. The TV screen displays a bright, generic TV channel or a simple UI, implying it can be made smart with external devices. Soft, warm lighting creates an inviting and relaxed atmosphere. Realistic photo, soft focus, inviting and affordable feel, --ar 1:1 --v 5.2`
+*   **카드뉴스 텍스트:**
+    **1. 20만원대 '구글 TV'로 스마트하게!**
+    **📺 티비아울렛 스마트 구글 TV 삼탠바이미**
+    - 넷플릭스, 유튜브 기본 탑재!
+    - 원하는 곳 어디든 자유롭게 이동!
+    - 20만원대 후반의 압도적 가성비!
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A sleek, minimalist smart TV on a movable white stand, placed in a cozy bedroom. The TV screen clearly displays the Netflix logo with a modern UI. A person is comfortably lying on the bed, watching content. Soft ambient light from a window, modern Scandinavian design aesthetic. Cinematic, vibrant colors. --ar 1:1 --v 5.2`
 
-### **카드뉴스 4/4**
+---
 
-*   **들어갈 텍스트:**
-    더 이상 비싼 돈 주지 마세요!
-    당신의 일상을 바꿔줄
-    가성비 삼탠바이미 TV
-    지금 바로 만나보세요!
-    ⬇️
-    프로필 링크 클릭!
-*   **배경 이미지 생성 프롬프트 (Midjourney Style):**
-    `A dynamic collage of three distinct scenes featuring people happily using different movable TVs (Samtanbymi style). One scene in a bright, modern kitchen (watching a cooking show), another in a cozy, sunlit bedroom (watching a drama), and a third in a stylish living room (playing a casual game or watching a movie). Each scene is well-lit and vibrant, showcasing freedom and versatility. Realistic photo, diverse users, joyful expressions, seamless transitions between scenes, --ar 1:1 --v 5.2`
+### **[세 번째 컷]**
+
+*   **카드뉴스 텍스트:**
+    **2. 'FHD 선명한 화질'로 몰입감 UP!**
+    **✨ 이노스 FHD 삼탠바이미 스마트 TV**
+    - 풀HD 해상도로 깨끗한 영상!
+    - 자체 스마트 OS로 OTT 앱 완벽 지원!
+    - 안정적인 브랜드 품질과 일체형 디자인!
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A close-up shot of a modern, movable smart TV screen displaying a vibrant, high-definition movie scene with rich details and clear colors. The TV is on a sleek, dark-colored stand, positioned in a stylish living room with diffused, soft lighting. Sharp focus on the screen, rich contrast. Cinematic, realistic. --ar 1:1 --v 5.2`
+
+---
+
+### **[네 번째 컷]**
+
+*   **카드뉴스 텍스트:**
+    **💸 초저가 10만원대도 있다고?**
+    **+ 더 많은 가성비 삼탠바이미는 프로필 링크에서 확인!**
+    (프리토스 삼탠바이미 무빙스탠드 + 일반TV 세트)
+    ➡️ 현명한 당신의 선택은?
+*   **배경 이미지 Midjourney 프롬프트:**
+    `A brightly lit, inviting cafe-style corner or a minimalist home study with a small, stylish, affordable movable TV on a stand. A cheerful person happily enjoys content on it. A subtle, handwritten price tag of "170,000 KRW" is visible. Warm, natural light, cozy, inviting atmosphere. Focus on affordability and happiness. --ar 1:1 --v 5.2`
+
+---
