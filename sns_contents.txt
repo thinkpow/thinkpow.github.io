@@ -1,79 +1,81 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🚀 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**제목**: 스탠바이미? 댓츠 노노! '갓성비 삼탠바이미' 끝판왕 BEST 5!
+**제목:** 스탠바이미 비싸서 포기?! 놉! 🙅‍♀️ MD가 알려주는 '삼탠바이미' 꿀템 BEST 5!
 
-**영상 콘셉트**: 빠른 화면 전환, 효과음, 흥미로운 자막으로 시선 강탈. 유쾌하고 발랄한 톤.
-
----
-
-**(0-3초) ⚡️ 훅 (Hook): 빠르고 강렬한 전환 효과, 불안감을 해소하는 톤**
-*   **자막**: ⚠️ 스탠바이미 비싸서 포기했다고? ⚠️
-*   **내레이션**: "스탠바이미? 비싸서 포기했잖아? 잠시만! 이제 그럴 필요 없어!"
-*   **BGM/효과음**: 긴장감 있는 짧은 사운드 -> 경쾌하고 희망찬 사운드로 전환
-
-**(3-8초) ✨ 메인 추천 1: 밝고 세련된 분위기**
-*   **자막**: 💎 QLED 화질 X 화이트 디자인 | 와이드뷰 QLED 스마트 삼탠바이미
-*   **내레이션**: "30만원대에 QLED 화질! 와이드뷰 삼탠바이미로 넷플릭스, 유튜브! 침실이 영화관 되는 마법!"
-*   **BGM/효과음**: 화면 속 제품의 깔끔한 디자인 강조하는 효과음
-
-**(8-12초) 🛡️ 메인 추천 2: 신뢰감 있는 분위기**
-*   **자막**: 💖 역시 LG! 원조 감성 그대로 | LG 이동식 스마트모니터 + 스탠드 세트
-*   **내레이션**: "아니면 역시 LG! 원조의 감성에 검증된 품질까지! 믿고 사는 LG 스탠바이미 감성 그대로!"
-*   **BGM/효과음**: LG 로고 등장 시 브랜드 사운드 연상 효과음
-
-**(12-15초) 💡 마무리 및 CTA: 빠른 속도로 다음 정보를 기대하게 함**
-*   **자막**: 더 많은 '갓성비 삼탠바이미'는? ➡️ 댓글 확인! ⬅️
-*   **내레이션**: "이 외에도 극가성비, 방문설치 등 다양한 '삼탠바이미'는 댓글 링크에서 확인하세요! 지금 바로 득템!"
-*   **BGM/효과음**: 흥미진진한 마무리 사운드
+**영상 구성:**
+*   **시각 효과:** 빠른 전환, 감탄사/충격 표시 자막, 상품 이미지/사용 영상 오버랩.
+*   **음악/효과음:** 도입부 긴장감 있는 효과음 후 밝고 경쾌한 BGM.
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[0-3초] 훅 (Hook)**
+*   **대사:** "스탠바이미? 갖고 싶지만... 가격 실화?! 잠깐! 심장 멎을 뻔한 당신에게 MD가 전하는 꿀팁!"
+*   **시각:** (충격받은 표정의 사람 이미지 또는 스탠바이미 가격표 클로즈업 후 좌절하는 이모지) ➡️ (화면 전환, "꿀팁!" 자막 강조)
+*   **효과음:** '띠용!' 하는 놀람 효과음, '빰빠밤!' 하는 해결 효과음
 
-**콘셉트**: 미니멀하고 세련된 디자인, 각 컷마다 명확한 정보와 시선을 사로잡는 이미지 프롬프트.
+**[3-8초] 문제 제기 & 솔루션 제시**
+*   **대사:** "10년차 MD가 찾아낸 '스탠바이미 가성비' 끝판왕! ✨ '삼탠바이미' BEST 5 대공개!"
+*   **시각:** (화려한 BEST 5 타이틀 등장, 상품 사진 빠르게 휙휙 지나감)
+*   **음악:** 경쾌한 배경음악 시작
 
----
+**[8-12초] 핵심 장점 어필**
+*   **대사:** "QLED 선명한 화질부터, 방문설치까지! 원하는 기능만 쏙쏙 골라 쓸 수 있는 이동식 스마트 TV!"
+*   **시각:** (와이드뷰 QLED 상품 이미지와 "QLED 화질!" 자막) ➡️ (무빙큐빅스 상품 이미지와 "방문설치!" 자막) ➡️ (TV가 집안 곳곳 이동하는 연출)
+*   **효과음:** 강조할 때마다 '띵!' 하는 효과음
 
-**[1/4 컷] - 시선 강탈 훅 (Hook)**
-
-*   **카드뉴스 텍스트**:
-    **⚠️ 스탠바이미 고민중? 아직도 비싸서 망설여? ⚠️**
-    이제 **'삼탠바이미'**로 가성비 끝판왕 즐겨봐!
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트**:
-    A minimalist, clean, brightly lit living room with a person comfortably lounging on a sofa, looking at an empty space where a movable TV would be. The scene evokes a sense of longing and a hint of frustration due to a missing luxury item. Modern interior design, soft lighting, sharp focus, vibrant colors, --ar 1:1 --v 5.2 --style raw
-
----
-
-**[2/4 컷] - 메인 추천 1 강조**
-
-*   **카드뉴스 텍스트**:
-    ✨ **QLED 화질X화이트 디자인**, 30만원대
-    **'와이드뷰 QLED 스마트 삼탠바이미'**
-    QLED의 압도적인 선명함과 세련된 디자인으로 공간의 품격을 높여보세요!
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트**:
-    A sleek, modern white QLED movable smart TV with a stand, beautifully integrated into a bright, minimalist bedroom. The screen displays vibrant, high-quality content (e.g., a breathtaking nature scene with vivid colors). Soft, inviting natural light streams through a window, creating an aesthetic and comfortable atmosphere. --ar 1:1 --v 5.2 --style raw
+**[12-15초] 클로징 & CTA**
+*   **대사:** "이제 비싼 스탠바이미 대신 '삼탠바이미'로 스마트하게 즐겨봐! 더 자세한 정보는 프로필 링크 클릭!"
+*   **시각:** (여러 삼탠바이미 제품이 동시에 나오는 콜라주 화면) ➡️ (프로필 링크 아이콘 강조)
+*   **음악:** BGM 점점 커지며 마무리
 
 ---
 
-**[3/4 컷] - 메인 추천 2 강조**
-
-*   **카드뉴스 텍스트**:
-    🛡️ **역시 LG! 믿고 쓰는**
-    **'LG 이동식 스마트모니터 + 스탠드 세트'**
-    원조의 감성과 검증된 품질로 후회 없는 선택! 브랜드 신뢰도 중요하면 이거!
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트**:
-    A premium-looking LG smart monitor on a mobile stand, perfectly positioned in a cozy, modern kitchen. The screen shows a sophisticated cooking show or a lifestyle program. A person is casually leaning against a chic kitchen island, appreciating the monitor's quality. Warm, inviting atmosphere, high-end feel. --ar 1:1 --v 5.2 --style raw
+## 📸 2. 인스타그램 카드뉴스 4컷
 
 ---
 
-**[4/4 컷] - 다양한 옵션 및 CTA**
+### **첫 번째 컷 (도입/문제 제기)**
 
-*   **카드뉴스 텍스트**:
-    💡 **더 다양한 삼탠바이미, 당신의 선택은?**
-    극가성비부터 방문설치까지!
-    내 라이프스타일에 딱 맞는 삼탠바이미를 찾아보세요!
-    **➡️ 더 많은 정보는 프로필 링크에서! ⬅️**
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트**:
-    A dynamic collage or grid showcasing 3 distinct styles of movable smart TVs (Samtambi alternatives) in different, harmonious home settings: one ultra-budget TV in a small, cozy studio, a mid-range smart TV in a vibrant living room, and a premium model in a stylish, minimalist bedroom. The overall image highlights variety, accessibility, and modern lifestyle. --ar 1:1 --v 5.2 --style raw
+*   **컷별 텍스트:**
+    스탠바이미 비싸서 포기? 😮 (고민 멈춰!)
+    MD가 찾아낸 '가성비 삼탠바이미'로 현명하게 즐기자!
+
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    `A frustrated young woman looking at a price tag on a sleek, minimalist LG StandbyMe-like mobile smart TV in a modern, sunlit living room. The price tag is exaggeratedly high and blurred. The atmosphere is slightly humorous with a hint of relief. Clean aesthetic, soft focus. --ar 1:1 --v 5.2`
+
+---
+
+### **두 번째 컷 (메인 상품 1 - 화질/디자인)**
+
+*   **컷별 텍스트:**
+    ✨ MD 추천 1. 와이드뷰 QLED 삼탠바이미
+    압도적 QLED 화질 + 세련된 화이트 디자인!
+    (가격: 32.6만원)
+
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    `A modern, elegant living room. A white, sleek mobile smart TV (similar to StandbyMe) on a stand, displaying a vibrant, high-definition QLED image of a beautiful landscape. The TV is a focal point, reflecting natural light. Minimalist decor, clean lines. --ar 1:1 --v 5.2`
+
+---
+
+### **세 번째 컷 (메인 상품 2 - 편의성)**
+
+*   **컷별 텍스트:**
+    🛠️ MD 추천 2. 무빙큐빅스 스마트 삼탠바이미
+    번거로운 설치? NO! 전문 기사 방문설치 포함!
+    (가격: 34.9만원)
+
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    `A friendly, professional technician effortlessly installing a modern, mobile smart TV in a cozy, bright bedroom. The user is smiling with relief. Focus on the ease of installation and convenience. Warm, inviting interior design. --ar 1:1 --v 5.2`
+
+---
+
+### **네 번째 컷 (CTA/추가 정보)**
+
+*   **컷별 텍스트:**
+    현명한 소비, 지금 시작! 🛍️
+    더 많은 '삼탠바이미'와 상세 정보는 프로필 링크에서 확인하세요!
+
+*   **배경 이미지 프롬프트 (Midjourney Style):**
+    `A stylized illustration of various mobile smart TVs in different modern home settings (living room, kitchen, bedroom) in a seamless collage. A prominent call-to-action button or finger pointing towards a "Learn More" or "Shop Now" icon. Bright, clean, and engaging graphic design. --ar 1:1 --v 5.2`
