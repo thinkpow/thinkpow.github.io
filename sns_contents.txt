@@ -2,70 +2,67 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 스탠바이미 비싸서 못 샀다고? 삼탠바이미 가성비 끝판왕 BEST 5! ✨
+**제목:** LG 스탠바이미 비싸서 포기? 🙅‍♀️ 10만원대 '삼탠바이미' 대공개! #가성비 #스탠바이미대체
 
-**(영상 효과: 빠른 템포의 배경음악, 텍스트 오버레이, 제품 전환 효과)**
+**(시작: 강렬한 시각적 훅!)**
+*   **0-3초 (Hook):** 화려한 LG 스탠바이미 광고 영상 (혹은 구매 페이지)이 빠르게 지나가고, "헉! 이 가격 실화?"라는 텍스트와 함께 좌절하는 표정의 사람 이모티콘이 뜬다. (빠른 전환 효과)
+*   **대사:** (활기차고 빠른 톤) 스탠바이미... 너무 비싸서 포기했었죠?
 
-**[0-3초] 훅 (Hook)**
-*   **화면:** 스탠바이미 이미지 -> 갑자기 가격표(비싸다 강조) -> 좌절하는 사람 표정 (빠른 전환)
-*   **대사:** "스탠바이미... 예쁜데... 비.싸.잖아?! ㅠㅠ"
-*   **화면:** 밝고 세련된 삼탠바이미 등장!
-*   **대사:** "걱정 마! 가성비 끝판왕 '삼탠바이미'가 왔으니까!"
+*   **3-8초:** 화면 전환. 밝고 경쾌한 배경에 두 가지 "삼탠바이미" 제품 이미지가 나타난다.
+*   **대사:** 걱정 마요! 제가 진짜 '가성비' 끝판왕 삼탠바이미 2개 찾아왔잖아! 첫 번째!
 
-**[3-10초] 핵심 제품 소개**
-*   **화면:** 와이드뷰 QLED 삼탠바이미 (QLED 화질 강조, 32인치)
-*   **대사:** "QLED 화질 32인치 스마트TV가 단돈 30만원대 초반?!" (텍스트 오버레이: 'QLED 32인치 32만원대!')
-*   **화면:** 위드라이프 40인치 안드로이드 삼탠바이미 (압도적 40인치, OTT 앱 구동 화면)
-*   **대사:** "아니, 40인치 대화면 안드로이드 TV도 30만원대 후반에 가능하다고?!" (텍스트 오버레이: '40인치 안드로이드 36만원대!')
+*   **8-12초:** '와이드뷰 QLED 스마트 삼탠바이미' 제품 이미지 및 핵심 장점 텍스트 강조.
+*   **대사:** QLED 화질에 깔끔한 화이트 디자인? 이게 30만원대라고? 인테리어 포기 못하면 이거지!
 
-**[10-15초] 추가 상품 및 CTA**
-*   **화면:** 무빙큐빅스 (방문설치 강조) -> 프리토스 (가장 저렴한 가격 강조) 등 여러 삼탠바이미가 빠르게 지나가는 montage
-*   **대사:** "심지어 방문설치 모델, 10만원대 초초가성비 모델까지! 이 모든 꿀템들, 놓치지 마세요!"
-*   **화면:** 제품 전체 썸네일 + 프로필 링크 유도 텍스트
-*   **대사:** "자세한 정보는 프로필 링크에서 지금 바로 확인하세요! 겟-또!"
+*   **12-15초:** '프리토스 초가성비 삼탠바이미' 제품 이미지 및 핵심 장점 텍스트 강조.
+*   **대사:** 아니, 10만원대에 스탠바이미 감성을? 서브 TV로 딱! 그냥 주는 거야, 막 주는 거야! (윙크) 더 자세한 정보는 댓글 링크 확인해! 얼른 GET 해!
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### 📸 카드뉴스 1/4
+### **카드뉴스 1/4**
 
-*   **텍스트:**
-    ## 스탠바이미? 너무 비싸잖아! 😩
-    ### 고민 끝! 삼탠바이미 가성비 끝판왕 BEST 5 🔥
-*   **Midjourney 프롬프트:**
-    `A frustrated young person looking at an expensive, sleek smart TV on a stand, with a thought bubble above their head showing a high price tag. In the background, a glowing, more affordable alternative TV on a portable stand is beginning to emerge. Dynamic, cinematic lighting, vibrant colors, high detail, photorealistic, --ar 1:1 --style raw`
+*   **들어갈 텍스트:**
+    **LG 스탠바이미 비싸서 고민? 😫**
+    **이제 '삼탠바이미'로 가성비 끝내자!**
+    #스탠바이미 #가성비 #이동식TV
 
-### 📸 카드뉴스 2/4
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    `Midjourney prompt: A stylish person with a slightly worried expression looking at a luxurious, expensive portable smart TV (like LG StandbyMe) in a sleek, modern room. Next to them, a thought bubble shows a similar, more affordable portable smart TV with a happy, surprised expression. Minimalist aesthetic, soft natural light, high-end photography. --ar 1:1 --style raw --v 5.2`
 
-*   **텍스트:**
-    ## ✨ QLED 화질 32인치 스마트TV가 30만원대?!
-    ### 와이드뷰 QLED 삼탠바이미
-    *   **생생한 QLED 디스플레이**
-    *   **시원한 32인치 FHD 대화면**
-    *   **세련된 화이트 디자인**
-    *   **가격: 326,000원**
-*   **Midjourney 프롬프트:**
-    `A minimalist modern living room with soft natural light, featuring a sleek white 32-inch portable TV on a stand. The screen displays a vibrant, high-definition QLED movie scene with rich colors. A cozy blanket and a cup of coffee are on a nearby white sofa. Clean lines, elegant, photorealistic, shallow depth of field, --ar 1:1 --style raw`
+### **카드뉴스 2/4**
 
-### 📸 카드뉴스 3/4
+*   **들어갈 텍스트:**
+    **✨ 화질+디자인 다 잡은 프리미엄 가성비!**
+    **#와이드뷰 QLED 스마트 삼탠바이미 (30만원대)**
+    ✅ QLED 디스플레이로 생생한 화질!
+    ✅ LG 스탠바이미 감성 화이트 디자인!
+    ➡️ 인테리어 포기 못한다면 무조건 픽!
 
-*   **텍스트:**
-    ## 🤯 압도적 40인치 대화면 안드로이드TV가 30만원대 후반?!
-    ### 위드라이프 40인치 안드로이드 삼탠바이미
-    *   **극강의 몰입감 40인치 대화면**
-    *   **구글 1등급 안드로이드 TV**
-    *   **어디든 이동 가능한 편리함**
-    *   **가격: 367,000원**
-*   **Midjourney 프롬프트:**
-    `A cozy, slightly darkened bedroom at night, with a large 40-inch portable TV on a stand positioned at the foot of the bed. The TV screen shows a dramatic, high-resolution scene from a popular streaming service (Netflix/Disney+ style). A person's silhouette is visible under a warm duvet, enjoying the movie. Soft glow from the screen, cinematic, inviting, --ar 1:1 --style raw`
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    `Midjourney prompt: A pristine white QLED portable smart TV (resembling LG StandbyMe) with a vivid, colorful nature documentary playing, set in a bright, minimalist living room with white and light wood accents. The TV screen is glowing vibrantly. High-resolution, modern interior design photography, aspirational lifestyle. --ar 1:1 --style raw --v 5.2`
 
-### 📸 카드뉴스 4/4
+### **카드뉴스 3/4**
 
-*   **텍스트:**
-    ## 스마트 기능, 대화면, 이동성, 디자인까지!
-    ### 비쌀 필요 없잖아? 😮
-    지금 바로 프로필 링크에서 내게 맞는 삼탠바이미를 찾아보세요!
-    **#삼탠바이미 #스탠바이미가성비 #이동식TV #스마트TV**
-*   **Midjourney 프롬프트:**
-    `A collage or split image showing various lifestyle scenes: one corner features a person using a portable TV in a kitchen, another shows it in a home gym, another in a child's playroom, and one in a balcony. Each scene highlights the versatility and smart features of portable TVs. Bright, diverse settings, vibrant colors, clean and modern aesthetic, --ar 1:1 --style raw`
+*   **들어갈 텍스트:**
+    **💰 10만원대 실화? 극강의 #초가성비!**
+    **#프리토스 초가성비 삼탠바이미**
+    ✅ 압도적 가격으로 부담 없이!
+    ✅ 이동식 스탠드+TV 올인원!
+    ➡️ 부담 없이 스탠바이미 경험하고 싶다면!
+
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    `Midjourney prompt: A compact, minimalist portable smart TV (resembling LG StandbyMe) on a simple stand, placed in a cozy, student apartment-style room. A pile of diverse coins or a small piggy bank next to the TV, symbolizing extreme affordability. The screen shows a cheerful streaming service logo. Warm, inviting atmosphere, realistic photography, budget-friendly aesthetic. --ar 1:1 --style raw --v 5.2`
+
+### **카드뉴스 4/4**
+
+*   **들어갈 텍스트:**
+    **내 라이프스타일에 딱 맞는 '스탠바이미 가성비' 더 보러가기!**
+    **💡 설치 걱정 NO! #무빙큐빅스 설치형**
+    **💡 믿을 수 있는 #이노스 브랜드**
+    **💡 무빙큐빅스 #프리미엄 설치형**
+    **➡️ 프로필 링크에서 자세한 정보 확인!**
+
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    `Midjourney prompt: A stylish, minimalist collage of three different portable smart TVs (resembling LG StandbyMe alternatives) displayed in distinct modern home settings (e.g., bedroom, living room, cozy study). Each TV is subtly highlighted, with a glowing "Discover More" or "Find Your Perfect Match" call to action text overlay. Clean lines, soft ambient lighting, aspirational lifestyle photography. --ar 1:1 --style raw --v 5.2`
