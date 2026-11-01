@@ -1,81 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🚀 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡 15초 스크립트
 
-**제목:** 스탠바이미 비싸서 포기?! 놉! 🙅‍♀️ MD가 알려주는 '삼탠바이미' 꿀템 BEST 5!
+**제목:** 스탠바이미 비싸서 포기? 💥 10만원대부터 QLED까지! 가성비 삼탠바이미 종결!
 
-**영상 구성:**
-*   **시각 효과:** 빠른 전환, 감탄사/충격 표시 자막, 상품 이미지/사용 영상 오버랩.
-*   **음악/효과음:** 도입부 긴장감 있는 효과음 후 밝고 경쾌한 BGM.
+**[시작: 0-3초] - 훅(Hook) & 문제 제기**
+*   **영상:** 비싼 LG 스탠바이미 가격표가 화면 가득 뜨면서 '삐-' 소리 효과음. 실망하거나 한숨 쉬는 인물의 표정 클로즈업.
+*   **화면 텍스트:** 💥 스탠바이미.. 이 가격 실화?!
+*   **내레이션 (빠르고 강렬하게):** "스탠바이미 갖고 싶다? 근데 가격보고 기절할 뻔 했다면?!"
 
----
+**[중반: 3-6초] - 솔루션 제시**
+*   **영상:** 분위기 반전! 밝고 활기찬 배경음악 시작. 다양한 공간(침실, 주방, 거실)에서 자유롭게 활용되는 이동식 스마트 TV들의 빠른 전환.
+*   **화면 텍스트:** ✨ 가성비 삼탠바이미 종결자 등장!
+*   **내레이션:** "걱정 마! 10년차 MD가 찾아낸 압도적 가성비 삼탠바이미 2종, 지금 바로 공개!"
 
-**[0-3초] 훅 (Hook)**
-*   **대사:** "스탠바이미? 갖고 싶지만... 가격 실화?! 잠깐! 심장 멎을 뻔한 당신에게 MD가 전하는 꿀팁!"
-*   **시각:** (충격받은 표정의 사람 이미지 또는 스탠바이미 가격표 클로즈업 후 좌절하는 이모지) ➡️ (화면 전환, "꿀팁!" 자막 강조)
-*   **효과음:** '띠용!' 하는 놀람 효과음, '빰빠밤!' 하는 해결 효과음
+**[후반: 6-9초] - 메인 상품 1 소개**
+*   **영상:** '와이드뷰 32인치 QLED 화이트 에디션' 제품 이미지/영상. 선명한 QLED 화면 강조 및 화이트 디자인이 돋보이도록 연출.
+*   **화면 텍스트:** 🥇 와이드뷰 32인치: QLED 화질+화이트 디자인! (32만원대!)
+*   **내레이션:** "첫 번째! 30만원대 QLED 화질에 세련된 화이트 디자인까지 완벽!"
 
-**[3-8초] 문제 제기 & 솔루션 제시**
-*   **대사:** "10년차 MD가 찾아낸 '스탠바이미 가성비' 끝판왕! ✨ '삼탠바이미' BEST 5 대공개!"
-*   **시각:** (화려한 BEST 5 타이틀 등장, 상품 사진 빠르게 휙휙 지나감)
-*   **음악:** 경쾌한 배경음악 시작
+**[후반: 9-12초] - 메인 상품 2 소개**
+*   **영상:** '위드라이프 40인치 구글 안드로이드' 제품 이미지/영상. 큼지막한 화면, 구글 안드로이드 UI가 보이는 화면 연출.
+*   **화면 텍스트:** 🥈 위드라이프 40인치: 40인치 대화면+구글 안드로이드! (36만원대!)
+*   **내레이션:** "두 번째! 40인치 대화면에 구글 안드로이드까지! 이건 무조건 사야지!"
 
-**[8-12초] 핵심 장점 어필**
-*   **대사:** "QLED 선명한 화질부터, 방문설치까지! 원하는 기능만 쏙쏙 골라 쓸 수 있는 이동식 스마트 TV!"
-*   **시각:** (와이드뷰 QLED 상품 이미지와 "QLED 화질!" 자막) ➡️ (무빙큐빅스 상품 이미지와 "방문설치!" 자막) ➡️ (TV가 집안 곳곳 이동하는 연출)
-*   **효과음:** 강조할 때마다 '띵!' 하는 효과음
-
-**[12-15초] 클로징 & CTA**
-*   **대사:** "이제 비싼 스탠바이미 대신 '삼탠바이미'로 스마트하게 즐겨봐! 더 자세한 정보는 프로필 링크 클릭!"
-*   **시각:** (여러 삼탠바이미 제품이 동시에 나오는 콜라주 화면) ➡️ (프로필 링크 아이콘 강조)
-*   **음악:** BGM 점점 커지며 마무리
-
----
-
-## 📸 2. 인스타그램 카드뉴스 4컷
+**[마무리: 12-15초] - CTA**
+*   **영상:** 두 제품이 함께 등장하며 비교되는 연출. 하단에 '프로필 링크 확인' 문구 강조.
+*   **화면 텍스트:** 💖 프로필 링크 확인!
+*   **내레이션:** "당신의 라이프스타일에 딱 맞는 제품은? 더 자세한 정보는 프로필 링크에서!"
 
 ---
 
-### **첫 번째 컷 (도입/문제 제기)**
+## 2. 인스타그램 카드뉴스 4컷
 
-*   **컷별 텍스트:**
-    스탠바이미 비싸서 포기? 😮 (고민 멈춰!)
-    MD가 찾아낸 '가성비 삼탠바이미'로 현명하게 즐기자!
+### **💡 카드뉴스 1/4: 도입 (문제 제기 & 솔루션)**
 
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A frustrated young woman looking at a price tag on a sleek, minimalist LG StandbyMe-like mobile smart TV in a modern, sunlit living room. The price tag is exaggeratedly high and blurred. The atmosphere is slightly humorous with a hint of relief. Clean aesthetic, soft focus. --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    *   **제목:** 스탠바이미 비싸서 포기했어? 😥
+    *   **본문:** 10년차 MD가 찾아낸 ✨가성비 삼탠바이미✨ 2종! 10만원대부터 QLED 화질까지! 이제 당신의 로망을 현실로!
+*   **Midjourney 프롬프트:**
+    `A modern, cozy living room. A person with a thought bubble showing an expensive, out-of-reach portable smart TV. Then, a magical glowing portal opens revealing multiple affordable, stylish portable smart TVs. Concept art, highly detailed, vibrant colors, cinematic lighting, a touch of fantasy. --ar 1:1 --v 5.2`
 
----
+### **💡 카드뉴스 2/4: 메인 상품 1 소개**
 
-### **두 번째 컷 (메인 상품 1 - 화질/디자인)**
+*   **카드 텍스트:**
+    *   **제목:** 🥇 와이드뷰 32인치 QLED 삼탠바이미 (32만원대)
+    *   **본문:** 💥 이 가격에 QLED 화질 실화? 선명함 끝판왕! 세련된 화이트 디자인은 덤! 침실, 주방 어디든 감성 UP!
+*   **Midjourney 프롬프트:**
+    `A chic, minimalist white-themed bedroom with a Wideview 32-inch QLED portable smart TV on a sleek white stand. The TV screen displays a vibrant, high-quality QLED image of a beautiful landscape. Soft, natural light fills the room. Modern aesthetic, clean lines, white and light wood tones. --ar 1:1 --v 5.2`
 
-*   **컷별 텍스트:**
-    ✨ MD 추천 1. 와이드뷰 QLED 삼탠바이미
-    압도적 QLED 화질 + 세련된 화이트 디자인!
-    (가격: 32.6만원)
+### **💡 카드뉴스 3/4: 메인 상품 2 소개**
 
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A modern, elegant living room. A white, sleek mobile smart TV (similar to StandbyMe) on a stand, displaying a vibrant, high-definition QLED image of a beautiful landscape. The TV is a focal point, reflecting natural light. Minimalist decor, clean lines. --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    *   **제목:** 🥈 위드라이프 40인치 구글 안드로이드 삼탠바이미 (36만원대)
+    *   **본문:** 🎬 40인치 대화면으로 즐기는 우리집 영화관! 구글 안드로이드 OS로 앱까지 자유롭게! 스마트함의 끝!
+*   **Midjourney 프롬프트:**
+    `A cozy, modern living room or family room with a large 40-inch portable smart TV on a sleek dark stand. The TV screen shows a vibrant Google Android TV interface with Netflix and YouTube icons prominently displayed. A comfortable sofa is in the foreground, suggesting an immersive viewing experience. Warm ambient lighting, focus on screen detail. --ar 1:1 --v 5.2`
 
----
+### **💡 카드뉴스 4/4: 요약 & CTA**
 
-### **세 번째 컷 (메인 상품 2 - 편의성)**
-
-*   **컷별 텍스트:**
-    🛠️ MD 추천 2. 무빙큐빅스 스마트 삼탠바이미
-    번거로운 설치? NO! 전문 기사 방문설치 포함!
-    (가격: 34.9만원)
-
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A friendly, professional technician effortlessly installing a modern, mobile smart TV in a cozy, bright bedroom. The user is smiling with relief. Focus on the ease of installation and convenience. Warm, inviting interior design. --ar 1:1 --v 5.2`
-
----
-
-### **네 번째 컷 (CTA/추가 정보)**
-
-*   **컷별 텍스트:**
-    현명한 소비, 지금 시작! 🛍️
-    더 많은 '삼탠바이미'와 상세 정보는 프로필 링크에서 확인하세요!
-
-*   **배경 이미지 프롬프트 (Midjourney Style):**
-    `A stylized illustration of various mobile smart TVs in different modern home settings (living room, kitchen, bedroom) in a seamless collage. A prominent call-to-action button or finger pointing towards a "Learn More" or "Shop Now" icon. Bright, clean, and engaging graphic design. --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    *   **제목:** 스탠바이미? 이젠 가성비 삼탠바이미!
+    *   **본문:** 화질, 크기, 스마트 기능, 디자인까지! 당신이 원했던 모든 것을 담은 이동식 스마트 TV!
+    *   **CTA:** 지금 바로 프로필 링크에서 상세 정보 확인하고 겟하세요! ➡️
+*   **Midjourney 프롬프트:**
+    `A dynamic split image showing two distinct, beautifully designed portable smart TVs side by side – one in a minimalist white design and the other in a sleek dark design. Above them, glowing icons representing key features: QLED display, 40-inch screen, Google Android OS, and elegant design. The overall scene is bright, optimistic, and inviting, with a focus on highlighting the best features of both products. Product photography style, high detail. --ar 1:1 --v 5.2`
