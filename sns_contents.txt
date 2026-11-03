@@ -1,80 +1,77 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
-
-**제목:** 스탠바이미 비싸서 포기? 🙅‍♀️ 댓츠 노노! ⚡ 10만원대 가성비 끝판왕 등장!
-
-**[영상 구성]**
-
-*   **0-3초 (훅):**
-    *   **화면:** 정품 스탠바이미 가격 보고 좌절하는 모습 😮 -> 갑자기 눈이 번쩍! ⚡ "스탠바이미 비싸서 포기? 🙅‍♀️" 글자 텍스트 오버레이 크게!
-    *   **대사:** "스탠바이미 가격 보고 깜짝 놀랐다면? 잠깐! 🤚 포기하긴 일러요!"
-
-*   **3-8초:**
-    *   **화면:** '프리토스 삼탠바이미' 등장. (제품 이미지 or 영상) 침대 옆, 주방 등 다양한 공간에서 쉽게 이동하며 사용하는 모습. 10만원대, 1등급 강조!
-    *   **대사:** "여기 10만원대 가성비 끝판왕! 프리토스 삼탠바이미! 😮 17만원에 이동성+에너지 1등급! 방, 주방 어디든 내 맘대로! (짜릿!)"
-
-*   **8-12초:**
-    *   **화면:** '와이드뷰 QLED 삼탠바이미' 등장. (제품 이미지 or 영상) 고급스러운 화이트 디자인, QLED 화질로 넷플릭스 보는 모습. 스마트 기능 강조!
-    *   **대사:** "화질, 디자인 놓칠 수 없다면? 와이드뷰 QLED! 💖 32만원대에 QLED 화질에 스마트 기능까지! 넷플릭스도 영화관처럼!"
-
-*   **12-15초 (CTA):**
-    *   **화면:** 두 제품의 장점 비교하는 짧은 텍스트 요약 (가성비 vs 프리미엄 가성비). "내 라이프스타일에 딱! 골라봐! 🔥" 문구와 프로필 링크 강조!
-    *   **대사:** "당신의 선택은? 😎 프로필 링크에서 나에게 딱 맞는 삼탠바이미 최저가로 득템하세요! (지금 당장!)"
+## 💸 스탠바이미 가성비? 돈 아끼면서 스마트하게 즐기는 삼탠바이미 추천 BEST 5! 💸
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+### 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-### 📸 카드뉴스 1/4
+**제목:** 스탠바이미 포기한 자! 이거 보면 심장 뛴다💖 삼탠바이미 가성비 끝판왕 BEST 5!
 
-*   **들어갈 텍스트:**
-    스탠바이미 가격 땜에 망설였다면? 😥
-    2024년 가성비 삼탠바이미 BEST 5!
-    (10만원대부터 프리미엄까지 싹 다!)
+**영상 컨셉:** 빠르고 경쾌한 배경 음악과 함께, 스탠바이미를 사고 싶지만 가격 때문에 고민하는 사람들의 공감을 얻고, 현명한 대안을 제시하며 즉각적인 해결책을 주는 도파민 폭발 영상.
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A person looking frustrated at a high price tag on a modern, sleek portable TV in a minimalist room, then their expression changing to hopeful with glowing digital lines and a "BEST VALUE" badge appearing. Cinematic, vibrant, high contrast, tech aesthetic, 4K, in the style of Midjourney, --ar 1:1
-    ```
+---
 
-### 📸 카드뉴스 2/4
+**[영상 대본]**
 
-*   **들어갈 텍스트:**
-    ✨ 압도적 가성비 끝판왕!
-    **프리토스 삼탠바이미 (17만원대)**
-    ✅ 10만원대 최저가!
-    ✅ 어디든 OK! 이동성 甲
-    ✅ 유지비 절약! 에너지 1등급
+*   **0-3초 (훅! 시선강탈):**
+    *   **화면:** (좌절한 표정으로 스탠바이미 가격을 보고 있는 사람의 클로즈업. 'N백만원' 자막과 함께 '띠용?' 하는 효과음)
+    *   **대사:** "스탠바이미 너무 비싸서 포기했어요? ㅠㅠ 잠깐! 아직 포기하지 마세요!"
+*   **3-7초 (문제 제기 & 솔루션):**
+    *   **화면:** (좌절했던 사람이 환하게 웃으며 스마트 이동식 TV를 쉽고 가볍게 옮기는 모습, 배경에 '삼탠바이미' 키워드 크게 등장)
+    *   **대사:** "돈 없어도 스마트함은 그대로! 당신 지갑 지켜줄 '삼탠바이미'가 있잖아요!"
+*   **7-12초 (핵심 제품 소개):**
+    *   **화면:** (각 제품 이미지와 주요 장점이 빠르게 교차. 무빙큐빅스 > 이노스 순서로 보여줌)
+    *   **대사:** "30만원대! 방문설치까지 '무빙큐빅스'! / 선명한 FHD 화질 '이노스'! 두 가성비 끝판왕 놓치지 마세요!"
+*   **12-15초 (클로징 & CTA):**
+    *   **화면:** (총 5가지 제품 이미지가 빠르게 스쳐 지나가며 'BEST 5' 자막 강조. '댓글 링크 확인' 화살표)
+    *   **대사:** "더 많은 가성비 삼탠바이미는 댓글 링크에서 확인하세요! 지금 바로 클릭!"
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A person smiling brightly while effortlessly moving a sleek, minimalist portable TV on a stand (resembling Freeteos model) in a cozy bedroom. On the TV screen, text "170,000 KRW" and "Energy Grade 1" are visible. Warm, inviting lighting, modern home aesthetic, photography style, --ar 1:1
-    ```
+---
 
-### 📸 카드뉴스 3/4
+### 2. 인스타그램 카드뉴스 4컷
 
-*   **들어갈 텍스트:**
-    💖 화질, 디자인, 스마트 다 잡은!
-    **와이드뷰 QLED 삼탠바이미 (32만원대)**
-    ✅ 생생한 QLED 화질!
-    ✅ 세련된 화이트 디자인
-    ✅ 넷플릭스/유튜브 스마트 기능!
+**카드뉴스 컨셉:** 스탠바이미의 높은 가격으로 고민하는 잠재 고객에게 합리적인 대안인 '삼탠바이미'를 제시하고, 핵심 제품 2가지의 장점을 명확하게 보여주며 구매를 유도합니다. 깔끔하고 모던한 미니멀리즘 디자인을 지향합니다.
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A stylish, white portable smart TV with a QLED screen (resembling Wideview model) displaying a vibrant, high-resolution Netflix movie scene. The TV is placed elegantly in a chic, modern living room with aesthetic decor. Soft, natural light, premium, sophisticated photography style, --ar 1:1
-    ```
+---
 
-### 📸 카드뉴스 4/4
+**[카드뉴스 1/4]**
 
-*   **들어갈 텍스트:**
-    내 라이프스타일에 딱 맞는
-    **✨인생템✨**은 바로 여기!
-    지금 바로 최저가로 만나보세요!
-    👉 [프로필 링크 클릭!]
+*   **카드 텍스트:**
+    ## 스탠바이미 비싸서 포기했다면? 😭
+    **#스탠바이미가성비 #삼탠바이미**
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    `A minimalistic, modern living room with a person sitting on a sofa, looking wistfully at an empty space where a movable smart TV could be. A subtle, transparent overlay of a high price tag with KRW currency symbols floats in the air. The mood is slightly disappointed but hopeful. Soft, warm lighting, clean lines, elegant aesthetic. Midjourney style, square aspect ratio.`
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A hand pointing towards a glowing "Shop Now" button on a minimalist tablet screen, with abstract, colorful tech patterns forming in the background. Dynamic, energetic, digital art style with soft gradients, vibrant colors, in the style of Midjourney, --ar 1:1
-    ```
+---
+
+**[카드뉴스 2/4]**
+
+*   **카드 텍스트:**
+    ## 돈 아끼고 스마트함은 그대로!
+    ## 🤩 삼탠바이미가 정답!
+    (이동성 💨 스마트 기능 🌐 가성비 💰)
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    `A vibrant, cheerful scene in a stylish home where a person is effortlessly pushing a sleek, modern movable smart TV (SamtanbyMe) on wheels. The TV screen displays various app icons like Netflix and YouTube. Rays of sunlight stream through a window. The overall atmosphere is convenient, smart, and affordable. Midjourney style, bright colors, dynamic composition, square aspect ratio.`
+
+---
+
+**[카드뉴스 3/4]**
+
+*   **카드 텍스트:**
+    ## ✨ 1위 무빙큐빅스:
+    ### 30만원대! 스마트+방문설치까지!
+    (👍 32인치 📺 OTT 스마트 🧑‍🔧 방문설치)
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    `A cozy and modern bedroom setting featuring the "Moving Cubics" 32-inch smart movable TV. The TV screen clearly shows the Netflix logo, and the stand is sleek. A comfortable bed and minimalist nightstand are in the background. The scene emphasizes ease of use and professional installation service. Soft, inviting lighting, focus on product detail. Midjourney style, warm tones, square aspect ratio.`
+
+---
+
+**[카드뉴스 4/4]**
+
+*   **카드 텍스트:**
+    ## ✨ 2위 이노스 FHD:
+    ### 선명한 화질+믿을 수 있는 이노스!
+    (💎 FHD 화질 💯 이노스 신뢰 🌐 스마트 기능)
+*   **배경 이미지 프롬프트 (Midjourney 스타일):**
+    `A bright, contemporary kitchen or living room showcasing the "Innos FHD" smart movable TV. The TV screen displays a vibrant, high-definition image (e.g., a stunning landscape or a cooking show). The design of the TV and stand is elegant and minimalist, reflecting quality and reliability. Natural light fills the space. Midjourney style, sharp focus, professional product photography, cool tones, square aspect ratio.`
