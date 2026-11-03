@@ -1,67 +1,65 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎬 유튜브 쇼츠/틱톡 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** LG 스탠바이미 비싸서 포기했어? 🙅‍♀️ 놉! 이걸로 인생 TV 생김!
+**제목:** LG 스탠바이미? 이제 그 돈이면 이걸 삽니다! 💸 40만원대 가성비 이동식 TV 끝판왕! #스탠바이미 #가성비TV #이동식TV
 
-**(0-3초) [훅]**
-**화면:** LG 스탠바이미 로고에 X 표시, 그 옆에 '비싸서 포기?!' 텍스트 크게 등장.
-**내레이션:** "LG 스탠바이미 비싸다고 포기했나요? 🙅‍♀️ 놉! 돈 없는 당신도 인생 TV 가질 수 있어요!"
+**(영상 시작: 빠르고 경쾌한 비트의 BGM, 화려한 이펙트와 함께)**
 
-**(3-8초)**
-**화면:** 침대 옆, 주방, 베란다 등 다양한 공간에서 자유롭게 TV를 즐기는 모습 빠르게 교차.
-**내레이션:** "침대 옆, 주방, 베란다까지! 원하는 곳 어디든 스마트 TV가 따라오는 마법! #삼탠바이미!"
+**[0-3초 훅]**
+**(화면: LG 스탠바이미 이미지 빠르게 지나가며 '비싸다?'는 텍스트 오버레이, 이어서 '해결책은 여기!' 텍스트와 함께 가성비 TV 등장)**
+**나레이션:** "스탠바이미 갖고 싶지만 비싼 가격에 망설였죠? 이제 그 돈이면 이걸 삽니다!"
 
-**(8-12초)**
-**화면:** 무빙큐빅스 QLED 프리미엄 모델의 깔끔한 디자인, QLED 화질 강조. 이어서 무빙큐빅스 스마트 기본형 모델과 '방문설치' 문구 강조.
-**내레이션:** "40만원대 QLED 무선 프리미엄부터, 30만원대 방문설치 가성비 끝판왕까지!"
+**[3-8초]**
+**(화면: '무빙큐빅스 43인치' 제품 이미지와 함께 43인치 강조 텍스트, 넷플릭스/유튜브 로고 빠르게 지나감)**
+**나레이션:** "40만원대! 무려 43인치 초대화면! 넷플릭스, 유튜브는 기본! 설치까지 전문가가 해줍니다! 이거 완전 영화관 아니야?"
 
-**(12-15초) [클로징 & CTA]**
-**화면:** 다양한 삼탠바이미 모델들이 한 화면에 모여있고, '지금 바로 확인!' 문구와 함께 프로필 링크 유도.
-**내레이션:** "고민은 이제 그만! 지금 바로 프로필 링크에서 내게 딱 맞는 삼탠바이미를 찾아보세요!"
+**[8-13초]**
+**(화면: 'LG 32인치 스마트 모니터' 제품 이미지와 함께 LG 로고 강조 텍스트, 다양한 활용 장면 빠르게 전환-주방, 침실, 작업실)**
+**나레이션:** "대기업 LG 정품을 믿고 싶다면? 32인치 LG 스마트 모니터! 퀄리티는 물론, TV, 모니터 다용도 활용에 디자인까지 완벽!"
+
+**[13-15초]**
+**(화면: 두 제품이 나란히 비교되는 이미지 또는 핵심 장점 요약 텍스트, 프로필 링크 강조)**
+**나레이션:** "비싼 돈 주고 스탠바이미 사지 마세요! 가성비 끝판왕으로 스마트한 이동식 TV 라이프 즐겨봐요! 더 자세한 정보는 프로필 링크 확인!"
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷
+## 2. 인스타그램 카드뉴스 4컷
 
-### 1️⃣ 첫 번째 컷
-**텍스트:**
-LG 스탠바이미, 비싸서 포기했나요? 놉!🙅‍♀️
-#삼탠바이미 로 '가성비' 인생 TV 찾기!
-거실, 침실, 주방 어디든 따라오는 나만의 스마트TV!
+**[1/4 컷]**
+*   **텍스트:**
+    **스탠바이미 꿈꿨지만... 가격 때문에 망설였죠? 😩**
+    이제 더 이상 고민 NO!
+    **2024 가성비 이동식 TV BEST 5**
+    **LG 스탠바이미 완벽 대체템 대공개!**
+*   **Midjourney 프롬프트 (영문):**
+    `A modern, minimalist living room with a sleek, high-end portable smart TV in the background, slightly out of focus. In the foreground, a stylish person looks at a thought bubble containing a large, crossed-out price tag and a question mark. The atmosphere is cozy and inviting, but with a hint of financial concern. Soft, natural lighting. --ar 1:1 --style raw --v 5.2`
 
-**Midjourney 스타일 영문 프롬프트:**
-`A person looking frustrated at a luxurious, sleek portable smart TV (resembling LG StandbyME) with an exorbitant price tag floating above it. The setting is a modern, minimalist living room with elegant furniture. The person has a thought bubble with a large question mark and dollar signs. The overall mood is slightly disheartened but hopeful. Soft, natural light. Detailed, realistic, cinematic --ar 1:1 --v 5.2`
+**[2/4 컷]**
+*   **텍스트:**
+    **🏆 압도적인 대화면 가성비 끝판왕!**
+    **무빙큐빅스 43인치 스마트 이동식 TV**
+    ✨ 40만원대 43인치 초대화면!
+    ✨ 넷플릭스, 유튜브 기본 탑재!
+    ✨ 전문 기사 방문 설치까지!
+*   **Midjourney 프롬프트 (영문):**
+    `A spacious, cozy bedroom bathed in warm, soft light. A modern, minimalist 43-inch smart portable TV on a sleek, mobile stand is the centerpiece, displaying a vibrant Netflix movie scene. A comfortable bed with soft linens is visible. The scene evokes relaxation and entertainment. --ar 1:1 --style raw --v 5.2`
 
-### 2️⃣ 두 번째 컷
-**텍스트:**
-✨ 40만원대 QLED & 완벽 무선 이동성! ✨
-**무빙큐빅스 QLED 무선 삼탠바이미 (프리미엄)**
-✅ QLED 화질: 생생한 색감, 뛰어난 명암비
-✅ 무선 배터리: 전원 선 없이 자유로운 이동!
-#프리미엄가성비 #QLED #무선TV
+**[3/4 컷]**
+*   **텍스트:**
+    **⭐️ 믿고 쓰는 대기업 프리미엄 가성비!**
+    **LG 32인치 스마트 이동식 TV 모니터 (삼탠바이미)**
+    ✨ '믿쓰 LG'의 압도적인 품질과 AS!
+    ✨ 32인치 FHD 스마트 기능으로 다재다능!
+    ✨ 세련된 디자인으로 인테리어 UP!
+*   **Midjourney 프롬프트 (영문):**
+    `A bright, clean kitchen with a modern aesthetic. On a stylish kitchen island, a pristine 32-inch LG smart monitor on a mobile stand is displaying a clear, inviting cooking recipe. Fresh ingredients are neatly arranged nearby. The atmosphere is functional and elegant. --ar 1:1 --style raw --v 5.2`
 
-**Midjourney 스타일 영문 프롬프트:**
-`A sleek, white portable smart TV (resembling a high-end SamtenbyME) with a vibrant QLED screen displaying a beautiful nature scene. The TV is wirelessly positioned in a modern, sunlit bedroom, next to a bed with crisp white linens. The room has minimalist decor with a touch of elegance. Soft focus background, highlighting the TV. Detailed, high-quality, aspirational --ar 1:1 --v 5.2`
-
-### 3️⃣ 세 번째 컷
-**텍스트:**
-💰 30만원대 스마트TV + '방문설치'까지! 💰
-**무빙큐빅스 스마트 삼탠바이미 (기본형)**
-✅ 30만원대 중반: 압도적인 가격 경쟁력!
-✅ 방문설치 포함: 조립/세팅 걱정 없이 바로 사용!
-#가성비끝판왕 #스마트TV #방문설치
-
-**Midjourney 스타일 영문 프롬프트:**
-`A cozy, inviting living room with a portable smart TV (SamtenbyME style) on a mobile stand. A friendly, professional technician is gently pointing at the TV screen, explaining a feature to a smiling customer. The room feels comfortable and lived-in, not overly minimalist. Warm, inviting light. Detailed, realistic, showing human interaction --ar 1:1 --v 5.2`
-
-### 4️⃣ 네 번째 컷
-**텍스트:**
-10만원대 초가성비부터 프리미엄까지!
-당신의 #삼탠바이미 는? 👇
-**지금 바로 비교하고 득템하세요!**
-(프로필 링크 클릭!)
-#이동식TV #스탠바이미대안 #현명한소비
-
-**Midjourney 스타일 영문 프롬프트:**
-`A dynamic and colorful collage or mosaic image. Three different portable smart TVs (SamtenbyME styles) are featured prominently: one very sleek and modern (representing premium), one standard and functional (representing basic), and one more compact and simple (representing ultra-budget). Each TV is set against a subtly different background (e.g., modern kitchen, cozy bedroom, outdoor balcony). Price tags or "Value" indicators are visually integrated. Bright, engaging, and energetic composition. Detailed, infographic-style elements --ar 1:1 --v 5.2`
+**[4/4 컷]**
+*   **텍스트:**
+    **이제 비싼 스탠바이미 대신,**
+    **나에게 딱 맞는 '가성비 이동식 TV'로**
+    **스마트한 라이프를 시작하세요! 🏡**
+    **✨ 더 다양한 추천템은 프로필 링크에서! ✨**
+*   **Midjourney 프롬프트 (영문):**
+    `A split image or a creative collage featuring the 'Moving Cubics 43-inch Smart Portable TV' in a living room setting and the 'LG 32-inch Smart Portable TV Monitor' in a bedroom setting. Both TVs are displaying different appealing content. Overlay text "당신의 선택은?" (Your choice?) and an arrow pointing to a call to action. The overall aesthetic is clean, modern, and inviting. --ar 1:1 --style raw --v 5.2`
