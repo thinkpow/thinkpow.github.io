@@ -1,80 +1,78 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠 / 틱톡)
 
-**제목:** 스탠바이미는 너무 비싸?! 가성비 끝판왕 삼탠바이미가 왔다! 🤩 #스탠바이미 #삼탠바이미 #가성비TV
+**제목:** 스탠바이미 비싸서 못 샀지? 😱 진짜 가성비 삼탠바이미 BEST 5!
 
----
-
-**[영상 시작 - 훅 (0-3초)]**
-
-*   **배경:** 고급스러운 스탠바이미가 놓인 공간, 하지만 화면에 '비싼 가격' 텍스트가 덮어씌워짐. (충격 효과음)
-*   **내레이션/자막:** "스탠바이미 갖고 싶은데 너무 비싸죠? ㅠㅠ"
-*   **장면 전환:** 밝고 경쾌한 음악 시작, 삼탠바이미들이 등장하는 활기찬 화면.
-*   **내레이션/자막:** "걱정 마세요! 가성비 끝판왕 '삼탠바이미'가 왔으니까!"
-
-**[본문 (3-12초)]**
-
-*   **배경:** 무빙큐빅스 무선 삼탠바이미가 침실, 주방 등 다양한 공간으로 자유롭게 이동하는 모습.
-*   **내레이션/자막:** "첫째, 선 걱정 없이 어디든 쓱~! '무빙큐빅스'는 QLED 화질에 진정한 무선 자유까지!" (QLED 화면 강조)
-*   **배경:** 위드라이프 40인치 삼탠바이미로 넷플릭스, 유튜브 등 OTT 시청하는 모습.
-*   **내레이션/자막:** "둘째, 30만원대 40인치 대화면! '위드라이프'는 스마트 OS까지 탑재! 가성비 대박!" (큰 화면과 스마트 기능 강조)
-
-**[클로징 (12-15초)]**
-
-*   **배경:** 두 제품이 나란히 놓여있거나, 사람들이 즐겁게 사용하는 모습.
-*   **내레이션/자막:** "이제 비싼 스탠바이미 대신 합리적인 가격으로 스마트한 라이프 즐겨봐요!"
-*   **자막:** "자세한 정보는 프로필 링크 또는 댓글 확인!"
+**영상 컨셉:** 빠르고 경쾌한 전환 효과, 시선을 사로잡는 제품 이미지와 강조 텍스트. 모델이 제품을 직접 사용하며 감탄하는 모습 연출.
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[0-3초] ⚡️ 훅 (Hook)**
+*   **화면:** 침대에 누워 휴대폰 보는 사람, 갑자기 허우적대며 불평하는 표정. (자막: 😫 스탠바이미 비싸서 못 샀다고?)
+*   **대사:** "야, 스탠바이미 사고 싶었는데, 가격보고 기절할 뻔했지? 😮"
+
+**[3-7초] 문제 제기 & 해결책 제시**
+*   **화면:** "걱정 마! 이제 '삼탠바이미'로 고민 끝!" 텍스트와 함께, 쓱 움직이는 이동식 TV 클립 빠르게 전환.
+*   **대사:** "비싼 스탠바이미 말고, 가성비 대박 '삼탠바이미'가 있잖아! ✨"
+
+**[7-12초] 메인 제품 하이라이트 (빠르게)**
+*   **화면:**
+    *   LG 스마트모니터 세트 (사용자가 웹OS로 넷플릭스 보며 만족하는 표정) -> 강조 텍스트: "역시 LG! 믿고 쓰는 스마트 기능 📺"
+    *   와이드뷰 QLED 삼탠바이미 (QLED 화면의 선명한 색감 강조, 화이트 디자인) -> 강조 텍스트: "QLED 화질 미쳤다! 🎨 인테리어까지 완벽!"
+*   **대사:** "LG는 역시 믿쓰고! 웹OS로 스마트함 끝판왕! 와이드뷰 QLED는 화질이 미쳤고, 디자인까지 예뻐! 헉 소리 나지? 😲"
+
+**[12-15초] 추가 추천 & CTA**
+*   **화면:** 나머지 3가지 제품 썸네일과 핵심 장점 (방문설치, 가성비 FHD, 초저가) 빠르게 나열. "나에게 딱 맞는 삼탠바이미는?" 텍스트와 함께 프로필 링크 유도.
+*   **대사:** "그 외에도 가성비 끝판왕들이 더 있다구! 지금 바로 프로필 링크에서 내 인생 삼탠바이미 찾아봐! 😉"
 
 ---
 
-### **첫 번째 컷**
-
-*   **텍스트:**
-    **스탠바이미 로망, 가격 때문에 포기했나요? 😭**
-    #비싼TV #스탠바이미 #드림템
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A person sitting in a modern, minimalist living room, looking wistfully at an empty space where a sleek, portable TV could be. The mood is slightly melancholic, with soft, warm lighting. Cinematic, emotional, high detail, 8k, --ar 1:1 --v 5.2`
+## 📸 인스타그램 카드뉴스 (4컷)
 
 ---
 
-### **두 번째 컷**
+### **▪️ 첫 번째 컷: 훅 & 문제 제기**
 
-*   **텍스트:**
-    **걱정 마세요! 가성비 끝판왕 '삼탠바이미'가 있으니까! 🥳**
-    **이동식 TV의 새로운 시대가 열렸다!**
-    #삼탠바이미 #가성비템 #현명한소비
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A sleek, futuristic portable smart TV on a stylish stand, surrounded by a vibrant, energetic glow. The background is a bright, modern interior with diverse scenes like a kitchen, bedroom, and living room seamlessly blending. Dynamic, technological, pop art style, 8k, --ar 1:1 --v 5.2`
-
----
-
-### **세 번째 컷**
-
-*   **텍스트:**
-    **✅ 무선 이동성의 끝판왕!**
-    **무빙큐빅스 무선 삼탠바이미**
-    **선 없이 자유롭게! QLED 화질은 덤!**
-    (가격: 439,000원)
-    #무선TV #QLED #자유로운이동
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A person effortlessly pushing a slim, wireless portable QLED TV with a vibrant screen showing a movie, moving from a cozy bedroom to a sunlit kitchen. The atmosphere is serene and convenient. Modern home interior, natural light, high contrast, 8k, --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    **스탠바이미, 너무 비싸서 포기했나요? 💸**
+    **이젠 '삼탠바이미'로 후회 없는 선택!**
+*   **Midjourney 프롬프트:**
+    `A confused young woman holding an empty wallet, looking at a luxurious, expensive portable TV in a minimalist, modern living room. The TV is slightly out of reach. Soft, warm lighting, cinematic, realistic, high detail, volumetric light, --ar 1:1 --v 5.2`
 
 ---
 
-### **네 번째 컷**
+### **▪️ 두 번째 컷: LG 스마트모니터 삼탠바이미 세트 (프리미엄 가성비)**
 
-*   **텍스트:**
-    **✅ 30만원대! 40인치 대화면+스마트OS까지!**
-    **위드라이프 40인치 대화면 스마트 삼탠바이미**
-    **압도적인 몰입감과 스마트한 즐거움!**
-    (가격: 367,000원)
-    #대화면TV #스마트TV #가성비스마트
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A family happily gathered in a modern living room, engrossed in a movie displayed on a large 40-inch portable smart TV with Google Android OS. Popcorn and snacks are visible. The scene is warm, inviting, and full of joy. Cinematic, vivid colors, 8k, --ar 1:1 --v 5.2`
+*   **카드 텍스트:**
+    **✨ 역시 믿고 쓰는 LG! ✨**
+    **LG 스마트모니터 삼탠바이미 세트**
+    ✔️ 압도적인 LG 브랜드 신뢰도
+    ✔️ 웹OS 기반 안정적인 스마트 기능
+    ✔️ 오래 쓸수록 빛나는 프리미엄 가성비
+*   **Midjourney 프롬프트:**
+    `A sleek LG smart monitor portable TV with its stand, placed beside a bed in a cozy, modern bedroom. A person is comfortably watching Netflix on the screen, feeling relaxed and satisfied. The room has soft, inviting lighting. Futuristic, minimalist design, high quality, realistic, --ar 1:1 --v 5.2`
 
 ---
+
+### **▪️ 세 번째 컷: 와이드뷰 QLED 스마트 삼탠바이미 (화질 & 디자인)**
+
+*   **카드 텍스트:**
+    **🎨 눈 호강 QLED 화질! 🎨**
+    **와이드뷰 QLED 스마트 삼탠바이미 (화이트 에디션)**
+    ✔️ 이 가격에 QLED?! 압도적 색감
+    ✔️ 세련된 화이트 디자인으로 인테리어 UP!
+    ✔️ 스마트 TV 기능 완벽 지원
+*   **Midjourney 프롬프트:**
+    `A stylish white portable TV with a vibrant QLED screen displaying colorful movie scenes, set in a bright, modern living room with clean, minimalist white furniture. The scene emphasizes beautiful picture quality and elegant design. Natural light, high resolution, photorealistic, --ar 1:1 --v 5.2`
+
+---
+
+### **▪️ 네 번째 컷: 추가 추천 & CTA**
+
+*   **카드 텍스트:**
+    **나에게 딱 맞는 '삼탠바이미'는?**
+    **지금 바로 프로필 링크에서 확인하세요!**
+    (👉🏻 방문설치, 초가성비 등 다양한 옵션!)
+*   **Midjourney 프롬프트:**
+    `A visually engaging infographic with several small, distinct portable TVs showcased on a clean, modern display. The background is a bright, inviting space. A hand is pointing towards a "Learn More" button. Professional, clean, digital art style, vibrant colors, --ar 1:1 --v 5.2`
