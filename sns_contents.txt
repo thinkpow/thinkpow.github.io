@@ -2,64 +2,55 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** LG 스탠바이미? 이제 그 돈이면 이걸 삽니다! 💸 40만원대 가성비 이동식 TV 끝판왕! #스탠바이미 #가성비TV #이동식TV
+**제목:** LG 스탠바이미? 댓츠 노노! ✨MD가 찾은 가성비 끝판왕 삼탠바이미 BEST 2!✨
 
-**(영상 시작: 빠르고 경쾌한 비트의 BGM, 화려한 이펙트와 함께)**
+**(0-3초) 훅: 다급하고 놀라운 표정으로**
+**나레이션:** "LG 스탠바이미 사고 싶었는데... 가격 보고 포기했다고요? 잠시만요!"
 
-**[0-3초 훅]**
-**(화면: LG 스탠바이미 이미지 빠르게 지나가며 '비싸다?'는 텍스트 오버레이, 이어서 '해결책은 여기!' 텍스트와 함께 가성비 TV 등장)**
-**나레이션:** "스탠바이미 갖고 싶지만 비싼 가격에 망설였죠? 이제 그 돈이면 이걸 삽니다!"
+**(3-5초) 제품 소개 시작: 자신감 있는 표정으로**
+**나레이션:** "여기, 스탠바이미 비주얼에 스마트 기능까지 갖춘 '삼탠바이미'가 있어요!"
 
-**[3-8초]**
-**(화면: '무빙큐빅스 43인치' 제품 이미지와 함께 43인치 강조 텍스트, 넷플릭스/유튜브 로고 빠르게 지나감)**
-**나레이션:** "40만원대! 무려 43인치 초대화면! 넷플릭스, 유튜브는 기본! 설치까지 전문가가 해줍니다! 이거 완전 영화관 아니야?"
+**(5-10초) 제품 1 소개: 와이드뷰 QLED 삼탠바이미 세트를 손가락으로 가리키며**
+**나레이션:** "첫 번째, 와이드뷰 QLED! 30만원대에 QLED 화질+스마트TV까지! 디자인도 스탠바이미 뺨쳐요!"
 
-**[8-13초]**
-**(화면: 'LG 32인치 스마트 모니터' 제품 이미지와 함께 LG 로고 강조 텍스트, 다양한 활용 장면 빠르게 전환-주방, 침실, 작업실)**
-**나레이션:** "대기업 LG 정품을 믿고 싶다면? 32인치 LG 스마트 모니터! 퀄리티는 물론, TV, 모니터 다용도 활용에 디자인까지 완벽!"
+**(10-14초) 제품 2 소개: 프리토스 최저가 이동식 TV를 보여주며**
+**나레이션:** "더 놀라운 건 이거! 프리토스 이동식 TV는 10만원대! 크롬캐스트 달면 스마트TV 완성!"
 
-**[13-15초]**
-**(화면: 두 제품이 나란히 비교되는 이미지 또는 핵심 장점 요약 텍스트, 프로필 링크 강조)**
-**나레이션:** "비싼 돈 주고 스탠바이미 사지 마세요! 가성비 끝판왕으로 스마트한 이동식 TV 라이프 즐겨봐요! 더 자세한 정보는 프로필 링크 확인!"
+**(14-15초) 마무리 & CTA: 미소 지으며 링크를 가리키는 제스처**
+**나레이션:** "지금 바로 프로필 링크에서 이 가성비템들 만나보세요!"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-**[1/4 컷]**
-*   **텍스트:**
-    **스탠바이미 꿈꿨지만... 가격 때문에 망설였죠? 😩**
-    이제 더 이상 고민 NO!
-    **2024 가성비 이동식 TV BEST 5**
-    **LG 스탠바이미 완벽 대체템 대공개!**
-*   **Midjourney 프롬프트 (영문):**
-    `A modern, minimalist living room with a sleek, high-end portable smart TV in the background, slightly out of focus. In the foreground, a stylish person looks at a thought bubble containing a large, crossed-out price tag and a question mark. The atmosphere is cozy and inviting, but with a hint of financial concern. Soft, natural lighting. --ar 1:1 --style raw --v 5.2`
+### 📸 1컷
+**텍스트:**
+LG 스탠바이미, 너무 비싸서 포기했다면? 😮
+✨MD가 찾은 '스탠바이미 가성비' 끝판왕! 삼탠바이미 BEST 5✨
 
-**[2/4 컷]**
-*   **텍스트:**
-    **🏆 압도적인 대화면 가성비 끝판왕!**
-    **무빙큐빅스 43인치 스마트 이동식 TV**
-    ✨ 40만원대 43인치 초대화면!
-    ✨ 넷플릭스, 유튜브 기본 탑재!
-    ✨ 전문 기사 방문 설치까지!
-*   **Midjourney 프롬프트 (영문):**
-    `A spacious, cozy bedroom bathed in warm, soft light. A modern, minimalist 43-inch smart portable TV on a sleek, mobile stand is the centerpiece, displaying a vibrant Netflix movie scene. A comfortable bed with soft linens is visible. The scene evokes relaxation and entertainment. --ar 1:1 --style raw --v 5.2`
+**Midjourney 스타일 영문 프롬프트:**
+A sleek, minimalist white portable smart TV (resembling LG StandbyMe) on a modern stand in a stylish living room. The TV screen displays a vibrant, aesthetically pleasing UI. Soft ambient lighting, cozy atmosphere, focus on affordable luxury and smart living. Futuristic, clean lines, high detail, 4K, cinematic lighting. --ar 1:1 --v 5.2
 
-**[3/4 컷]**
-*   **텍스트:**
-    **⭐️ 믿고 쓰는 대기업 프리미엄 가성비!**
-    **LG 32인치 스마트 이동식 TV 모니터 (삼탠바이미)**
-    ✨ '믿쓰 LG'의 압도적인 품질과 AS!
-    ✨ 32인치 FHD 스마트 기능으로 다재다능!
-    ✨ 세련된 디자인으로 인테리어 UP!
-*   **Midjourney 프롬프트 (영문):**
-    `A bright, clean kitchen with a modern aesthetic. On a stylish kitchen island, a pristine 32-inch LG smart monitor on a mobile stand is displaying a clear, inviting cooking recipe. Fresh ingredients are neatly arranged nearby. The atmosphere is functional and elegant. --ar 1:1 --style raw --v 5.2`
+### 📸 2컷
+**텍스트:**
+🏆1위. 와이드뷰 QLED 삼탠바이미 (32만원대)
+✨QLED 화질 + 스마트TV 기본 + 스탠바이미 뺨치는 디자인! 프리미엄 가성비 끝판왕!✨
 
-**[4/4 컷]**
-*   **텍스트:**
-    **이제 비싼 스탠바이미 대신,**
-    **나에게 딱 맞는 '가성비 이동식 TV'로**
-    **스마트한 라이프를 시작하세요! 🏡**
-    **✨ 더 다양한 추천템은 프로필 링크에서! ✨**
-*   **Midjourney 프롬프트 (영문):**
-    `A split image or a creative collage featuring the 'Moving Cubics 43-inch Smart Portable TV' in a living room setting and the 'LG 32-inch Smart Portable TV Monitor' in a bedroom setting. Both TVs are displaying different appealing content. Overlay text "당신의 선택은?" (Your choice?) and an arrow pointing to a call to action. The overall aesthetic is clean, modern, and inviting. --ar 1:1 --style raw --v 5.2`
+**Midjourney 스타일 영문 프롬프트:**
+Close-up shot of a white portable QLED smart TV displaying a vivid, high-resolution movie scene. The TV is on a sleek stand, positioned in a cozy bedroom next to a bed with soft bedding. Emphasize the vibrant QLED display and the sleek, modern design. Soft, natural light coming from a window. Modern, clean aesthetic, high detail, 4K. --ar 1:1 --v 5.2
+
+### 📸 3컷
+**텍스트:**
+💰2위. 프리토스 최저가 이동식 TV (17만원대)
+⚡️10만원대 이동식 TV? 크롬캐스트만 달면 스마트TV 완성! 극강 가성비의 선택!✨
+
+**Midjourney 스타일 영문 프롬프트:**
+A portable basic TV on a minimalist stand, positioned in a bright, modern kitchen. A person is casually cooking while glancing at the TV, which is displaying a cooking show. Emphasize portability and affordability. Clean, bright kitchen with natural light. Focus on convenience and practical use. Minimalist design, high detail, 4K. --ar 1:1 --v 5.2
+
+### 📸 4컷
+**텍스트:**
+침대 옆, 주방 어디든 나만의 영화관! 🍿
+✨자세한 정보는 프로필 링크에서 확인하세요!✨
+
+**Midjourney 스타일 영문 프롬프트:**
+A collage or split-screen image showing diverse people happily enjoying modern portable TVs in various home settings: one watching a movie in bed, another following a recipe in a bright kitchen, a third exercising with a workout video in a living room. The TVs are sleek and contemporary. Emphasize convenience, smart living, and joy. Vibrant colors, cozy and dynamic atmosphere, high detail, 4K. --ar 1:1 --v 5.2
