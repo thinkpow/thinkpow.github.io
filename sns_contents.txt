@@ -1,69 +1,75 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트 (대사 위주)
 
-**제목:** 스탠바이미? 놉! 30만원대로 삶의 질 수직 상승! 삼탠바이미 끝판왕! ✨
-
-**[영상 구성 및 대사]**
-
-*   **0-3초 (훅):**
-    *   **(빠른 템포의 비트 있는 배경음악 시작)**
-    *   **(화면: LG 스탠바이미 가격표가 나오고 좌절하는 표정의 사람)**
-    *   **내레이션:** "스탠바이미 갖고 싶어서 검색했더니 가격보고 기절? 댓츠 노노!"
-*   **3-6초:**
-    *   **(화면: 다양한 삼탠바이미 제품들이 침실, 주방, 거실 등에서 자유롭게 이동하며 사용되는 모습 교차)**
-    *   **내레이션:** "놉! 30만원대로 스탠바이미 뺨치는 '삼탠바이미'가 있다고? 침대, 주방, 거실 어디든 OK!"
-*   **6-9초:**
-    *   **(화면: '위드라이프 구글TV 삼탠바이미' 제품 클로즈업. 구글TV 로고와 넷플릭스/유튜브 화면 강조)**
-    *   **내레이션:** "위드라이프 구글TV! 30만원대 초반, 구글 스마트TV에 에너지 1등급! 그냥 사세요!"
-*   **9-12초:**
-    *   **(화면: '와이드뷰 QLED 삼탠바이미' 화이트 제품 클로즈업. 선명한 QLED 화질과 세련된 디자인 강조)**
-    *   **내레이션:** "와이드뷰 QLED는? 선명한 QLED 화질에 세련된 화이트 디자인까지! 인테리어 끝판왕!"
-*   **12-15초:**
-    *   **(화면: 10만원대 삼탠바이미 제품과 함께 '최저가' '가성비' 키워드 자막 등장. 마지막엔 프로필 링크 유도)**
-    *   **내레이션:** "심지어 10만원대 초가성비 모델도 있어! 스탠바이미 가성비, 프로필 링크에서 확인해봐!"
-    *   **(배경음악 점점 페이드 아웃)**
+**[영상 컨셉]**
+빠른 템포의 경쾌한 음악과 함께, LG 스탠바이미를 선망하지만 가격 때문에 망설였던 시청자의 공감을 얻고, 즉각적인 해결책을 제시하여 클릭을 유도하는 도파민 폭발 영상. 제품 특징은 간결하게, 핵심 장점만 빠르게 치고 빠지며 시선을 사로잡습니다.
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+**[스크립트]**
 
-**[1컷]**
-*   **텍스트:**
-    ## 💸 스탠바이미? 놉! 삼탠바이미!
-    ### 30만원대로 스마트 라이프 시작!
-    비싼 스탠바이미 대신, 합리적인 가격에 스마트 기능+이동성까지!
+**[0-3초] 훅 (Hook: 시선 강탈!)**
+(빠른 템포의 경쾌한 음악 시작, 화면 전환 효과 빠름)
+**나레이션:** "LG 스탠바이미, 비싸서 포기? 🙅‍♀️ 잠.깐.만!"
+(화면: 고민하는 사람의 표정 클로즈업 -> 놀라며 화면을 쳐다보는 모습)
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A cozy and modern apartment living room, a smiling woman effortlessly pushing a sleek portable smart TV on a minimalist stand, enjoying content. Bright, natural light. Affordable luxury, warm ambient lighting. Mid-century modern style, high detail. --ar 1:1 --v 5.2"
+**[3-7초] 문제 제시 & 해결 예고**
+**나레이션:** "절반 가격에 스탠바이미 감성 그대로! 이 2가지 알면 게임 끝이야!"
+(화면: 고급스러운 LG 스탠바이미 이미지 -> 가격표에 'HALF PRICE' 스탬프가 찍히며 강조)
 
-**[2컷]**
-*   **텍스트:**
-    ## 🥇 1. 위드라이프 구글TV 삼탠바이미
-    ### (308,000원)
-    **✔️ 압도적 가성비:** 30만원대!
-    **✔️ 구글 스마트TV:** 넷플릭스, 유튜브 OK!
-    **✔️ 에너지 1등급:** 전기료 걱정 끝!
+**[7-10초] 메인 상품 1 소개 (무빙큐빅스)**
+**나레이션:** "첫째! 30만원대 '무빙큐빅스' 32인치! 넷플릭스 직결, 방문설치까지!"
+(화면: 무빙큐빅스 제품 사진이 등장하며 넷플릭스 로고, 방문설치 아이콘이 오버레이 됨)
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A sleek black portable smart TV on a minimalist white stand, showing the Google TV interface with popular streaming apps (Netflix, YouTube). A hand holding a remote is interacting with it. Cozy bedroom setting with soft natural light, focused on smart features and affordability. High detail, modern, clean aesthetic. --ar 1:1 --v 5.2"
+**[10-13초] 메인 상품 2 소개 (LG 스마트모니터)**
+**나레이션:** "둘째! 40만원대 'LG 스마트모니터'! 중소기업 불안해? 믿고 쓰는 LG 정품이야!"
+(화면: LG 스마트모니터 제품 사진이 등장하며 LG 로고, 안심 A/S 아이콘이 오버레이 됨)
 
-**[3컷]**
-*   **텍스트:**
-    ## ✨ 2. 와이드뷰 QLED 삼탠바이미
-    ### (326,000원)
-    **✔️ QLED 화질:** 선명하고 생생한 컬러!
-    **✔️ 화이트 디자인:** 어떤 인테리어에도 찰떡!
-    **✔️ 업그레이드 V3 스탠드:** 더 안정적!
+**[13-15초] 클로징 & CTA (행동 유도)**
+**나레이션:** "스탠바이미 고민 끝! 더 자세한 정보는 댓글 링크 확인!"
+(화면: 두 제품이 나란히 비교되는 모습 -> 손가락이 위/아래 댓글 방향을 가리키는 모션으로 마무리)
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A stunning white portable QLED smart TV on a matching white minimalist stand, displaying an incredibly vibrant nature scene. The TV is positioned in a sunlit, modern living room with clean, aesthetic decor. Focus on bright, crisp QLED display and elegant design. High resolution, luxurious feel. --ar 1:1 --v 5.2"
+---
 
-**[4컷]**
-*   **텍스트:**
-    ## 🚀 10만원대부터! 당신의 '삼탠바이미'는?
-    ### ✅ 초가성비 17만원대 일반TV 조합까지!
-    ### ✅ 프로필 링크에서 지금 바로 확인!
+## 2. 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 스타일 영문 프롬프트)
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    "A dynamic infographic showing various portable smart TVs on minimalist stands, ranging from sleek black to stylish white, used in different home settings (bed, couch, kitchen). Highlight price tags like '10만원대부터!' and '30만원대!'. Modern, clean, inviting, with a clear call to action space at the bottom. --ar 1:1 --v 5.2"
+---
+
+### **[카드 1] 훅 & 문제 제시**
+
+*   **카드 텍스트:**
+    **메인:** "LG 스탠바이미 갖고 싶은데 가격보고 '헉'했지? 😮"
+    **서브:** "걱정마! 10년차 MD가 찾아낸 '가성비 삼탠바이미'가 있으니까!"
+*   **배경 이미지 프롬프트:**
+    `A stylish, minimalistic living room. A hand is reaching towards a sleek, white portable smart TV on a stand, similar to LG StandbyME. The TV screen displays a shockingly high price tag in red, blurring slightly to show motion. The person's posture conveys surprise and disappointment. Modern interior, soft natural light, cinematic lighting. --ar 1:1 --v 6.0`
+
+---
+
+### **[카드 2] 메인 추천 1: 무빙큐빅스**
+
+*   **카드 텍스트:**
+    **메인:** "✨ 1. 30만원대 무빙큐빅스: 32인치 대화면+방문설치!"
+    **서브:** "넷플릭스, 유튜브 바로! 복잡한 조립 걱정 끝! 실용성 찐 가성비 대안!"
+*   **배경 이미지 프롬프트:**
+    `A cozy bedroom or living room scene. A modern portable smart TV (resembling a 'standby me' alternative) with a 32-inch screen is on a sleek movable stand. The TV screen vividly displays the Netflix interface. A person is comfortably lounging nearby, smiling. The scene exudes convenience and ease of use. Clean lines, warm ambient light. --ar 1:1 --v 6.0`
+
+---
+
+### **[카드 3] 메인 추천 2: LG 스마트모니터**
+
+*   **카드 텍스트:**
+    **메인:** "💙 2. 믿고 쓰는 LG 스마트모니터 세트: 중소기업 불안해? 정품으로!"
+    **서브:** "40만원대 LG 감성 그대로! A/S 걱정 없이 스탠바이미 기분 만끽!"
+*   **배경 이미지 프롬프트:**
+    `A premium, high-tech looking 32-inch smart monitor on a sleek, mobile stand, clearly designed with LG's minimalist and reliable aesthetic. The screen shows a vibrant, high-definition image of a serene landscape. The setting is a clean, modern home office or living space, emphasizing brand reliability and quality. Subtle hints of LG's distinct design language. Bright, professional studio lighting. --ar 1:1 --v 6.0`
+
+---
+
+### **[카드 4] 추가 추천 & CTA**
+
+*   **카드 텍스트:**
+    **메인:** "💰 10만원대 초저가부터 가성비 대안까지! 나에게 맞는 '삼탠바이미'는?"
+    **서브:** "더 많은 가성비 아이템은 프로필 링크에서 확인하세요! (MD's PICK)"
+*   **배경 이미지 프롬프트:**
+    `A person excitedly scrolling through various options on a tablet or phone. Around them, multiple different portable smart TVs (similar to 'standby me' alternatives) of varying sizes and designs appear as floating, glowing icons or thought bubbles. The background is a bright, inviting, modern home interior, suggesting discovery and choice. Energetic and optimistic mood. --ar 1:1 --v 6.0`
