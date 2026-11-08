@@ -2,76 +2,59 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**[영상 컨셉]**
-스탠바이미의 높은 가격에 좌절하던 사람들에게, 가성비 끝판왕 '삼탠바이미' 두 가지 제품을 빠르게 비교 분석하며 해결책을 제시. 빠르고 경쾌한 편집과 자막, 효과음으로 시선을 사로잡음.
+**제목:** LG 스탠바이미 비싸서 포기? 🙅‍♀️ 갓성비 '삼탠바이미' 이걸로 끝! (15초 순삭!)
 
 ---
 
-**[스크립트]**
+**[영상 구성 및 대사]**
 
-*   **[0-3초] 훅 (배경: 스탠바이미 사진 위에 X 표시, 이어서 삼탠바이미 사진이 밝게 나타남)**
-    (빠른 비트의 배경음악 시작, 경쾌한 효과음)
-    **내레이션:** "스탠바이미? 헉 소리나는 가격에 포기했죠? 이젠 그 돈 아끼세요! 🔥 반값으로 더 완벽한 '삼탠바이미' 딱 2개만 보세요!"
+**0-3초 (훅):**
+*   **화면:** LG 스탠바이미 고급스러운 모습과 함께 큰 글씨로 "LG 스탠바이미.. 꿈의 TV?" 그리고 옆에 "가격 100만원대? 헉!" 이라는 글자와 충격받은 표정의 이모지 😱
+*   **내레이션:** "LG 스탠바이미, 너무 비싸서 포기하셨나요? 잠깐!"
 
-*   **[3-9초] 와이드뷰 QLED 삼탠바이미 (배경: 화이트 인테리어 속 '와이드뷰 QLED 삼탠바이미'가 영화를 재생 중)**
-    **내레이션:** "첫 번째, '와이드뷰 QLED 삼탠바이미'! 일반 FHD가 아니라 **QLED 디스플레이**! 선명한 화질은 기본, **감각적인 화이트 디자인**까지! 🎨 30만원대 초반이라니 믿기세요? 인테리어까지 확 살려줘요!"
+**3-8초 (문제 제기 및 해결책):**
+*   **화면:** 경쾌한 전환 효과와 함께 "하지만 갓성비 '삼탠바이미'가 있잖아?!" 문구 등장. 곧이어 `무빙큐빅스 스마트 삼탠바이미 SET` 상품 이미지와 가격(349,000원)이 멋지게 소개됨. (방문 설치 기사가 TV 설치하는 모습 짧게 삽입)
+*   **내레이션:** "이게 바로 신개념 갓성비, '삼탠바이미'의 등장! 첫 번째, **무빙큐빅스!** 방문 설치까지 해주는 스마트 올인원이 30만원대? 대박!"
 
-*   **[9-15초] 위드라이프 구글 안드로이드 삼탠바이미 & CTA (배경: 침대 옆, 주방 등 다양한 공간에서 '위드라이프 구글 안드로이드 삼탠바이미'로 OTT 앱을 즐기는 모습)**
-    **내레이션:** "두 번째는 '위드라이프 구글 안드로이드 삼탠바이미'! **구글 TV OS로 모든 OTT 앱 설치 가능!** 넷플릭스, 유튜브 다 된다고! 🚀 게다가 이 리스트 중 가장 저렴한 30만원대 초반, **1등급 에너지 효율**까지! 고민은 배송만 늦출 뿐! 지금 바로 댓글 링크에서 확인하세요!"
-    (마지막 컷: '지금 구매하기' 버튼과 함께 댓글 링크 유도)
+**8-13초 (두 번째 상품 소개):**
+*   **화면:** 다시 경쾌한 전환과 함께 `프리토스 삼탠바이미 무빙스탠드 + 일반TV 세트` 상품 이미지와 가격(170,000원)이 소개됨. (사용자가 스마트 동글을 TV에 연결하는 모습 짧게 삽입)
+*   **내레이션:** "두 번째, **프리토스!** 10만원대로 이동식 TV 완성? 내 스마트 동글만 있으면 스마트 TV로 변신!"
+
+**13-15초 (클로징 및 CTA):**
+*   **화면:** 두 상품이 나란히 비교되는 화면 또는 다양한 공간에서 활용되는 모습이 빠르게 교차됨. 마지막에 "지금 바로 GET! 🛒" 문구와 함께 프로필 링크 유도 화살표.
+*   **내레이션:** "침대 옆, 주방, 거실 어디든! 나만의 스마트 TV를 최저가로 즐겨봐! 더 자세한 정보는 프로필 링크 확인!"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
----
-
-### 👑 1컷: 도입 (문제 제기 & 해결책 제시)
-
+### 1컷
 *   **텍스트:**
-    **스탠바이미는 비싸다? 놉! 🙅‍♀️**
-    **💰 반값으로 더 완벽한 '삼탠바이미' 가성비 끝판왕 2가지!**
-    (👉 넘겨서 확인하세요!)
+    LG 스탠바이미, 비싸서 망설였다면? 😱
+    '갓성비 삼탠바이미'로 인생템 발견!
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    `A vibrant, modern living room with a sleek, minimalist mobile smart TV stand in the foreground. A person looking surprised but delighted at the affordable price tag, contrasted with the blurred, high-end design of a premium mobile TV in the background. The overall mood is exciting and revelatory. Soft natural light, high-quality product photography, --ar 9:16 --v 6.0`
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A visually striking image depicting a luxurious, expensive-looking portable smart TV being crossed out with a red X, next to it, a modern, sleek and affordable portable smart TV (SamtanbyMe) with a bright green checkmark. The background is a minimalist, clean home interior, emphasizing "value for money". Use vibrant colors and clean lines, high contrast, cinematic lighting. --ar 1:1 --v 5.2`
-
----
-
-### 🌟 2컷: 메인 추천 1 - 와이드뷰 QLED 삼탠바이미
-
+### 2컷
 *   **텍스트:**
-    **✨ 1. 와이드뷰 QLED 삼탠바이미 (화이트 에디션)**
-    **"보는 즐거움과 인테리어, 둘 다 놓칠 수 없다면!"**
-    ✅ **QLED 디스플레이**: 일반 FHD와 차원이 다른 선명함
-    ✅ **감각적인 화이트**: 어떤 인테리어에도 완벽 매치!
-    ✅ 스마트 TV 기능, 30만원대 초반의 압도적 가성비!
+    ✨ 30만원대 올인원!
+    무빙큐빅스 스마트 삼탠바이미
+    방문 설치까지 해주는 스마트 이동식 TV!
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    `A cozy, elegant bedroom with a modern, white mobile smart TV (generic StandbyME alternative design) next to the bed. A professional installer, subtly smiling, is carefully adjusting the TV setup in the background. The room features warm, soft lighting and a clean, minimalist aesthetic. Emphasize comfort, ease of use, and professional service. High-angle shot, product focus, --ar 9:16 --v 6.0`
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A elegant, modern white portable smart TV (SamtanbyMe) with a vibrant QLED screen displaying a high-definition nature documentary scene, perfectly integrated into a chic, minimalist white and beige living room interior. The design emphasizes sleek lines and aesthetic appeal. Soft, natural light. Product photography style, high detail. --ar 1:1 --v 5.2`
-
----
-
-### 🚀 3컷: 메인 추천 2 - 위드라이프 구글 안드로이드 삼탠바이미
-
+### 3컷
 *   **텍스트:**
-    **💡 2. 위드라이프 구글 안드로이드 삼탠바이미 (1등급)**
-    **"스마트 기능 풀옵션에 가격까지 잡고 싶다면!"**
-    ✅ **강력한 구글 안드로이드 TV OS**: 모든 OTT 앱 자유롭게!
-    ✅ **압도적 최저가**: 스마트 TV 중 30만원대 초반!
-    ✅ **1등급 에너지 효율**: 전기 요금 걱정 없이!
+    💰 10만원대? 극강의 가성비!
+    프리토스 삼탠바이미 무빙스탠드
+    내 스마트 동글로 스마트 TV 확장!
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    `A bright, minimalist kitchen with a compact, stylish black mobile TV stand on wheels. A close-up shot of a hand plugging a small smart dongle into the back of the TV. A happy, young adult is looking at the TV screen, which displays various streaming service icons. Focus on affordability, flexibility, and DIY smart home integration. Daytime, clear, crisp, --ar 9:16 --v 6.0`
 
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A functional and modern portable smart TV (SamtanbyMe) with a screen showing the Google Android TV interface, featuring various app icons like Netflix and YouTube. The TV is positioned in a cozy yet versatile home setting, perhaps a bedroom or a kitchen. The focus is on smart features and user convenience. Warm, inviting lighting. Tech review photography style, detailed. --ar 1:1 --v 5.2`
-
----
-
-### 💖 4컷: 마무리 (Call to Action)
-
+### 4컷
 *   **텍스트:**
-    **🤔 아직도 비싼 스탠바이미만 고민해?**
-    **나에게 딱 맞는 삼탠바이미로 현명한 소비 시작!**
-    **지금 바로 프로필 링크에서 상세 정보 확인하고 득템하세요! 🛒**
-
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A dynamic shot of a happy person (seen from behind or side profile) effortlessly moving a portable smart TV (SamtanbyMe) on its stand across a modern living space, transitioning from a cozy sofa area to a bright window nook. The scene conveys freedom, convenience, and joy. Bright, airy, and slightly cinematic. --ar 1:1 --v 5.2`
+    침대 옆, 주방, 거실 어디든!
+    나만의 스마트 TV를 최저가로 GET! 🛒
+    더 자세한 정보는 프로필 링크 확인!
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    `A dynamic collage or multi-scene composition showing the same minimalist mobile smart TV being used in three different stylish home settings: a cozy bedroom, a bright kitchen island, and a modern living room. Each scene includes a person happily interacting with the TV (e.g., watching a movie in bed, following a recipe in the kitchen, exercising in the living room). The overall impression is one of versatility, convenience, and contentment. Warm, inviting atmosphere. Product showcase, --ar 9:16 --v 6.0`
