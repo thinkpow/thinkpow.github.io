@@ -1,47 +1,46 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 🎯 도파민 폭발 15초 쇼츠/틱톡 스크립트 (대사 위주)
+## 📺 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**[영상 컨셉]** 빠르고 경쾌한 배경음악과 함께 텍스트 자막, 이모지, 제품 전환 효과를 적극 활용합니다. 첫 3초 안에 시선을 사로잡는 강력한 훅을 배치합니다.
+**[영상 시작: 빠른 템포의 경쾌한 배경 음악과 함께]**
 
----
+**0-3초 (훅):**
+(화면: LG 스탠바이미 이미지 + 큰 글씨로 "가격 🤯" -> "X" 표시)
+**나레이션:** "스탠바이미 갖고 싶은데, 가격 보고 한숨만 푹푹 쉬었다면 주목!"
 
-**[0-3초] 훅! (시선 강탈)**
-*   **화면:** (번개 이펙트와 함께 "LG 스탠바이미" 로고와 "100만원 넘는다고?!" 텍스트가 번갈아 빠르게 깜빡임) 💰💥
-*   **내레이션 (빠르고 경쾌하게):** "스탠바이미 갖고 싶어서 검색했다면 잠깐! 🚨 이 영상 꼭 봐! 100만원 넘는다고 포기할 거야?"
-*   **자막:** "100만원 스탠바이미? 놉! 🙅‍♀️"
+**3-7초:**
+(화면: '가성비 삼탠바이미' 키워드 크게 강조, 반짝이는 효과)
+**나레이션:** "이제 비싸게 사지 마세요! 가성비 끝판왕 '삼탠바이미' 대안 찾았습니다!"
 
-**[3-9초] 이노스 삼탠바이미 TV (스마트함 + 가성비)**
-*   **화면:** (깔끔한 방에서 이노스 스마트 삼탠바이미 TV가 부드럽게 등장, 화면에 넷플릭스/유튜브 재생 장면) ✨📺
-*   **내레이션:** "스마트 기능 다 되는데 30만원대! 😲 **이노스 삼탠바이미!** 넷플릭스, 유튜브 바로 재생! 스마트 라이프 시작!"
-*   **자막:** "✨ 스마트 끝판왕! #이노스삼탠바이미"
+**7-11초:**
+(화면: '프리토스 삼탠바이미 세트' 제품 이미지, 가격 '10만원대' 텍스트 크게)
+**나레이션:** "10만원대 프리토스 세트? 이건 무조건 사야 해! 이동식 TV 입문용으로 딱이야!"
 
-**[9-13초] 프리토스 초가성비 이동식 TV (압도적 가격)**
-*   **화면:** (화면 전환, 밝은 배경에 프리토스 이동식 TV가 심플하게 등장, 10만원대 가격 강조) 💸💫
-*   **내레이션:** "아니면 무조건 싸게? 10만원대 **프리토스 이동식 TV!** 가성비 끝판왕으로 스탠바이미 감성 그대로!"
-*   **자막:** "💰 10만원대 실화? #프리토스가성비"
-
-**[13-15초] 마무리 & CTA**
-*   **화면:** (두 제품이 나란히 비교되는 화면, "선택은 당신의 몫!" 텍스트와 쇼핑카트 이모지) 🛒👉
-*   **내레이션:** "어때? 이제 고민 끝! 현명한 선택으로 스마트하게 즐겨봐! 지금 바로 겟!"
-*   **자막:** "내 취향은? 👆 지금 바로 PICK! #이동식TV"
+**11-15초:**
+(화면: '무빙큐빅스 스마트 삼탠바이미' 제품 이미지, 가격 '30만원대' 텍스트, 스마트 기능/방문설치 아이콘)
+**나레이션:** "스마트 기능에 방문설치까지? 무빙큐빅스도 놓치지 마세요! 더 많은 정보는 프로필 링크 확인!"
+**(영상 끝: 프로필 링크 유도 문구와 함께 제품 이미지 유지)**
 
 ---
 
-## 📸 인스타그램 카드뉴스 4컷 (텍스트 & 이미지 프롬프트)
+## 📸 2. 인스타그램 카드뉴스 4컷
 
-### 📄 1컷: 훅 & 문제 제기
-*   **카드 텍스트:** 스탠바이미 💖 꿈꿨다면 주목! 💸 가격 때문에 포기했나요?
-*   **Midjourney 프롬프트:** `A person looking longingly at a luxurious, modern mobile TV screen, their face shows a hint of worry and hesitation about the high price. The screen subtly displays a "StandbyME" logo. Background is blurred with soft, aspirational lighting. Cinematic, dreamlike, slightly melancholic, high contrast, 35mm film grain, 8k, photorealistic, --ar 1:1`
+### 🔹 카드뉴스 1/4
 
-### 📄 2컷: 이노스 스마트 삼탠바이미 TV (스마트 + 이동성)
-*   **카드 텍스트:** ✅ 스마트 기능 꽉! 넷플릭스/유튜브 직통! | 이노스 스마트 삼탠바이미 TV (30만원대)
-*   **Midjourney 프롬프트:** `A person happily watching Netflix on a sleek, modern mobile smart TV (representing Innos SamtanbyME TV) in a cozy, minimalist living room. The TV screen is bright and shows streaming content. Warm, inviting natural lighting, high-tech yet comfortable ambiance. Lifestyle photography, clean lines, 8k, photorealistic, --ar 1:1`
+*   **텍스트:** 스탠바이미, 갖고 싶지만 가격이 망설여진다면? 😥
+*   **Midjourney 스타일 영문 프롬프트:** A stylish, modern living room with a sleek, expensive-looking mobile TV (similar to LG StandbyMe) in the center. A young person is looking at it with a wistful, slightly sad expression, holding an empty wallet. High contrast, cinematic lighting, detailed, --ar 1:1 --style raw --v 5.2
 
-### 📄 3컷: 프리토스 초가성비 이동식 TV (압도적 가격)
-*   **카드 텍스트:** 💯 10만원대 실화?! 압도적 가성비! | 프리토스 초가성비 이동식 TV
-*   **Midjourney 프롬프트:** `A simple, clean white mobile TV (representing Preetos) standing in a bright, airy minimalist room. The concept of extreme affordability is subtly conveyed with a soft, ethereal glow around the TV and a faint, abstract money symbol in the background. Emphasize low price and functional design. Modern, wide angle, soft focus, 8k, photorealistic, --ar 1:1`
+### 🔹 카드뉴스 2/4
 
-### 📄 4컷: 마무리 & CTA
-*   **카드 텍스트:** 💡 당신의 라이프스타일에 맞는 '가성비 이동식 TV'는? 👇 지금 바로 비교하고 선택하세요!
-*   **Midjourney 프롬프트:** `Comparison concept. Two different styles of mobile TVs side-by-side: one sleek and high-tech (representing smart features), the other simple and elegant (representing affordability). A happy, satisfied consumer's hand is reaching out as if making a choice. Bright, inviting, clean background. Infographic style elements, user-friendly, flat lay composition, 8k, photorealistic, --ar 1:1`
+*   **텍스트:** 걱정 마세요! 가성비 '삼탠바이미' 대체 상품 BEST 2 전격 공개! ✨
+*   **Midjourney 스타일 영문 프롬프트:** A bright, energetic scene with multiple modern mobile TVs on stands, showcasing smart features and a joyful atmosphere. The TVs are slightly stylized and glowing, suggesting innovation and affordability. A "Eureka!" moment depicted with a lightbulb graphic above the TVs. Vibrant colors, optimistic, --ar 1:1 --style raw --v 5.2
+
+### 🔹 카드뉴스 3/4
+
+*   **텍스트:** 🥇 프리토스 삼탠바이미 세트 (10만원대!) - 이동식 TV 입문용, 서브 TV로 최고!
+*   **Midjourney 스타일 영문 프롬프트:** A cozy, minimalist bedroom. A person is comfortably watching a movie on a sleek, mobile monitor (like a "SamtanbyMe" setup) on a stand next to their bed. The screen shows a streaming service logo. Warm lighting, inviting atmosphere, focused on ease of use and affordability. --ar 1:1 --style raw --v 5.2
+
+### 🔹 카드뉴스 4/4
+
+*   **텍스트:** 🥈 무빙큐빅스 스마트 삼탠바이미 (30만원대!) - 스마트 기능 + 방문설치로 편리함 UP!
+*   **Midjourney 스타일 영문 프롬프트:** A professional technician is easily installing a sleek, 32-inch smart mobile TV on a stand in a modern, clean living space. The TV screen clearly displays a smart TV interface with apps like Netflix and YouTube. Emphasize convenience and smart features, bright, clean, professional setting. --ar 1:1 --style raw --v 5.2
