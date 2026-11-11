@@ -1,61 +1,66 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 🚀 도파민 폭발 15초 숏폼 대본 (유튜브 쇼츠/틱톡)
 
-**[영상 시작: 0-3초]**
-(화면: LG 스탠바이미 이미지와 함께 '₩2,000,000원?' 자막 띄우며, 좌절하는 사람 표정 또는 비싼 가격에 놀라는 표정)
-**나레이션:** "와, LG 스탠바이미 갖고 싶어서 돈 모으는 중? 댓츠 노노! 놉!"
-**(콰앙! 하는 효과음 또는 X자 효과)**
+**콘텐츠 제목**: 스탠바이미 비싸? 놉! 가성비 끝판왕 삼탠바이미 BEST 5!
 
-**[영상 전환: 3-8초]**
-(화면: 여러 삼탠바이미 제품이 침실, 주방, 거실 등 다양한 공간에서 활용되는 모습 빠르게 전환)
-**나레이션:** "비싼 돈 쓸 필요 없어! 요즘 대세는 삼탠바이미! 원하는 곳 어디든 옮겨 다니는 나만의 스마트 TV, 가격은 반값!"
+**[영상 시작 - 0-3초] 훅! 시선 강탈!**
 
-**[영상 전환: 8-12초]**
-(화면: '스카이뷰 43인치 QLED 삼탠바이미' 이미지 클로즈업, 이어서 '위드라이프 구글 32인치 삼탠바이미' 이미지 클로즈업)
-**나레이션:** "43인치 QLED 대화면이 30만원대! 실화냐? 스카이뷰 삼탠바이미! 구글TV OS 탑재로 스마트폰처럼 편한 위드라이프 32인치도 강추!"
+*   **화면**: (럭셔리한 스탠바이미 옆에 '비싼 가격표' 이미지 띄우며, 슬픈 표정의 인물)
+*   **내레이션/대사**: "스탠바이미... 갖고 싶죠? 근데 가격이 너무 후덜덜? 😱 노노! 이제 그 고민 끝!"
+*   **BGM**: 드라마틱하고 경쾌한 전환 효과음
 
-**[영상 전환: 12-15초]**
-(화면: 두 제품 나란히 배치 후 '스탠바이미 가성비 끝판왕' 자막 크게 강조. 댓글 또는 프로필 링크 유도)
-**나레이션:** "스탠바이미 가성비 끝판왕! 자세한 정보는 댓글이나 프로필 링크에서 확인해봐! 지금 바로 GO!"
+**[3-12초] 핵심 메시지 & 제품 요약**
+
+*   **화면**: (제품 이미지 빠르게 전환하며, 중요한 특징 텍스트 오버레이)
+*   **내레이션/대사**: "여기 10년차 MD가 찾아낸 '스탠바이미 가성비' 끝판왕, 삼탠바이미 5가지가 있어요! ✨"
+    *   (위드라이프 32인치 이미지) "30만원대 초반! 구글 OS로 모든 OTT 다 됨! #위드라이프!"
+    *   (무빙큐빅스 32인치 이미지) "설치 걱정은 NO! 방문설치까지 해주는 #무빙큐빅스 32인치!"
+    *   (무빙큐빅스 40인치, 프리토스 이미지 빠르게 지나가며) "심지어 40인치 대화면, 10만원대 초가성비 모델까지! 당신의 취향 저격 준비 완료!"
+*   **BGM**: 빠르고 신나는 비트 유지
+
+**[12-15초] 강력한 Call to Action**
+
+*   **화면**: (모든 제품이 한 화면에 모여있고, '지금 바로 확인!' 문구 강조. 링크로 연결되는 손가락 제스처 애니메이션)
+*   **내레이션/대사**: "더 자세한 정보는 프로필 링크에서 확인하세요! 지금 바로 겟-또! 🏃‍♀️💨"
+*   **BGM**: 밝고 활기찬 마무리
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 (4컷)
 
-### **카드뉴스 1/4**
-*   **카드 텍스트:**
-    ⚡️ **LG 스탠바이미, 가격 실화?** ⚡️
-    꿈만 꾸던 이동식 TV,
-    이제 **'가성비'**로 현실로!
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A young woman with a frustrated yet hopeful expression, looking at a transparent, holographic display showing an expensive modern mobile smart TV with a high price tag. The background is a minimalist, stylish living room. Cinematic, high contrast, soft focus, dramatic lighting. --ar 1:1 --v 5.2`
+### 1️⃣ 첫 번째 컷 (훅 & 문제 제기)
 
-### **카드뉴스 2/4**
-*   **카드 텍스트:**
-    💖 **삼탠바이미 시대 개막!** 💖
-    ✔️ 원하는 곳 어디든 OK!
-    ✔️ 스마트 기능은 기본!
-    ✔️ 가격은 반값!
-    **#스탠바이미가성비 #삼탠바이미**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A vibrant, dynamic collage showcasing diverse individuals joyfully interacting with sleek, modern mobile smart TVs in various home environments: a cozy bedroom, a modern kitchen island, a comfortable living room sofa. The scenes convey freedom, convenience, and joy. Bright, cheerful colors, energetic composition. --ar 1:1 --v 5.2`
+*   **카드 텍스트**:
+    스탠바이미 갖고싶은데..
+    가격이 너무 부담스럽다면? 😭
+    **👉 가성비 끝판왕 #삼탠바이미 BEST 5 보러가기!**
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A person looking wistfully at a luxurious, high-end portable smart TV (like LG StandbyMe) with a high price tag implied in a modern, minimalist living room. The person's expression is a mix of desire and hesitation due to the cost. In the background, a shimmering, more affordable, sleek 'Samtanbyme' alternative appears like a beacon of hope, subtly hinting at a solution. Cinematic, high detail, vibrant colors, soft natural light, --ar 1:1 --v 6.0`
 
-### **카드뉴스 3/4**
-*   **카드 텍스트:**
-    🏆 **43인치 QLED 대화면 삼탠바이미!** 🏆
-    **"스카이뷰" 43인치 QLED | 30만원대**
-    ✅ **압도적 몰입감!** 거실 TV로도 완벽!
-    ✅ **선명한 QLED 고화질!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A spacious and luxurious minimalist living room, with a large 43-inch QLED smart TV on a sleek, mobile stand positioned as a focal point. The screen displays a vibrant, high-definition movie scene with rich, deep colors. Emphasize the impressive screen size and immersive visual quality. Soft, ambient lighting. --ar 1:1 --v 5.2`
+### 2️⃣ 두 번째 컷 (메인 추천 1: 위드라이프)
 
-### **카드뉴스 4/4**
-*   **카드 텍스트:**
-    ✨ **구글TV OS로 스마트함 끝판왕!** ✨
-    **"위드라이프" 32인치 구글 TV | 30만원대**
-    ✅ 스마트폰처럼 편리한 **구글 OS!**
-    ✅ 크롬캐스트, 어시스턴트 기본 탑재!
-    👉 **자세한 정보는 프로필 링크에서 확인!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    `A cozy, modern bedroom with a 32-inch mobile smart TV clearly displaying the user-friendly Google TV interface. A hand holding a minimalist remote control is slightly visible, interacting with the screen. The room is tidy and inviting, with warm, soft lighting. Emphasize ease of use and smart features. --ar 1:1 --v 5.2`
+*   **카드 텍스트**:
+    **✨ 1. 위드라이프 구글 32인치 스마트 삼탠바이미 ✨**
+    ✅ 30만원대 초반! 구글 OS로 모든 OTT 다 됨!
+    ✅ 이동도 편리한 **#가성비_킹**
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A 32-inch portable smart TV (like a 'Samtanbyme' with a sleek, minimalist design) in a cozy, modern bedroom. The TV screen clearly displays various popular OTT streaming service logos (Netflix, YouTube, Disney+, Wavve). A person is comfortably lounging on the bed, smiling and holding a remote. The room has warm, soft lighting, high detail, realistic photo, modern interior design, --ar 1:1 --v 6.0`
+
+### 3️⃣ 세 번째 컷 (메인 추천 2: 무빙큐빅스 방문설치)
+
+*   **카드 텍스트**:
+    **🛠️ 2. 무빙큐빅스 32인치 스마트 삼탠바이미 🛠️**
+    ✅ 설치 걱정 끝! 전문가가 직접 방문 설치!
+    ✅ 믿고 쓰는 32인치 스마트TV
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A friendly, professional technician gently unboxing and setting up a 32-inch portable smart TV (like a 'Samtanbyme') in a clean, contemporary living space. The focus is on the ease and convenience of the on-site installation, with the customer looking relaxed and satisfied in the background. Bright, natural light, high detail, realistic photo, modern apartment interior, --ar 1:1 --v 6.0`
+
+### 4️⃣ 네 번째 컷 (추가 추천 & CTA)
+
+*   **카드 텍스트**:
+    40인치 대화면, 10만원대 초가성비 모델까지!
+    👉 당신에게 딱 맞는 삼탠바이미는?
+    **✨ 더 자세한 정보는 프로필 링크 클릭! 지금 바로 스마트한 삶 시작! ✨**
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A dynamic split-screen or montage image showcasing three different 'Samtanbyme' portable smart TVs. One section features a 40-inch large screen in a luxurious home theater setup, another shows a sleek, minimalist design in a compact, stylish studio apartment, and the third highlights a very basic, ultra-affordable model in a vibrant, functional student dorm room. Emphasize variety and choice for different lifestyles. Vibrant, diverse colors, modern and stylish, --ar 1:1 --v 6.0`
