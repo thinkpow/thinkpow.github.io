@@ -2,66 +2,52 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**[영상 시작: 0-3초] 시선 강탈 훅!**
-(화면: LG 스탠바이미의 높은 가격표 클로즈업 -> '❌ 너무 비싸!' 자막과 함께 X 표시)
-**내레이션 (빠르고 경쾌하게):** 스탠바이미 갖고 싶다고? 근데 비싸서 망설였어? 잠깐! 이거 봐봐!
+**(음악: 경쾌하고 트렌디한 BGM 시작)**
 
-**[03-06초] 문제 제기 & 솔루션 제시**
-(화면: 다양한 장소에서 편리하게 사용되는 이동식 TV 이미지 전환)
-**내레이션:** 10년차 MD가 직접 찾아낸 '스탠바이미 가성비' 끝판왕, 삼탠바이미 추천 픽!
+**0-3초 (훅)**
+*   **화면:** (LG 스탠바이미를 부러운 눈으로 보는 사람의 모습, 그 위로 '₩2,000,000+'와 같은 높은 가격표가 떠오르며 '헉!'하는 효과음)
+*   **대사:** "LG 스탠바이미 갖고 싶어서 현기증 나는데... 가격 보고 뒷목 잡았다구요? 🤦‍♀️ 잠시만요!"
 
-**[06-09초] 메인 추천 1: 구글 안드로이드 32인치 가성비 삼탠바이미**
-(화면: 구글 안드로이드 32인치 삼탠바이미 제품 이미지, 넷플릭스/유튜브 로고 강조)
-**내레이션:** 첫째! 30만원대에 넷플릭스, 유튜브 다 되는 '스마트함 끝판왕', 구글 안드로이드 32인치! 익숙한 구글 OS로 침실, 주방 어디든 나만의 스마트 극장 완성!
+**3-7초**
+*   **화면:** ('스탠바이미 가성비' 문구가 중앙에 뜨고, 여러 '삼탠바이미' 제품들이 빠르게 스쳐 지나감)
+*   **대사:** "이젠 30만원대로! 넷플릭스, 유튜브 맘껏 즐기는 '삼탠바이미' 시대가 왔다구요!"
 
-**[09-12초] 메인 추천 2: 무선 배터리 QLED 삼탠바이미**
-(화면: 무선 배터리 QLED 삼탠바이미 제품 이미지, 전원선 없는 자유로운 이동 강조)
-**내레이션:** 둘째! 진짜 무선 이동성! '에어 배터리' 내장 무빙큐빅스 QLED! 전원선 없이 자유롭게 옮기고, QLED 화질로 더욱 선명하게 즐겨봐!
+**7-12초**
+*   **화면:** (첫 번째 제품 '위드라이프 구글 안드로이드 삼탠바이미'의 깔끔한 제품샷, 화면에 넷플릭스/유튜브 로고 강조, 옆에 '에너지 1등급' 아이콘 추가)
+*   **대사:** "이동성, 스마트 OTT, 합리적 가격! MD가 직접 고른 가성비 끝판왕 TOP 2!"
+*   **대사:** "첫째, **위드라이프 구글 안드로이드 삼탠바이미!** OTT 필수템, 에너지 1등급까지 완벽!"
 
-**[12-15초] 마무리 & CTA**
-(화면: 두 제품을 비교하거나, 다양한 제품 라인업을 보여주는 이미지)
-**내레이션:** 스탠바이미 대신 '이거'면 끝! 더 자세한 내용은 프로필 링크에서 확인하고, 당신의 스마트 라이프를 업그레이드 해봐!
+**12-15초**
+*   **화면:** (두 번째 제품 '와이드뷰 HD 화이트에디션 스마트 삼탠바이미'의 세련된 화이트 제품샷, 깨끗한 인테리어 공간에 놓인 모습, 가격 '30만원대' 강조)
+*   **대사:** "둘째, **와이드뷰 HD 화이트 에디션!** 최저가에 세련된 디자인까지 갓벽!"
+*   **대사:** "더 자세한 정보는 댓글이나 프로필 링크에서 확인하세요! 지금 바로 고고!"
+
+**(음악: 전환 효과음과 함께 마무리)**
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### 컷 1: 💸 비싼 스탠바이미, 포기할 순 없잖아? 😲
+### 컷 1: 후크 & 문제 제기
 
-*   **텍스트:**
-    ## 💸 비싼 스탠바이미, 포기할 순 없잖아? 😲
-    ### 10년차 MD가 찾아낸 '가성비 삼탠바이미' BEST 5!
-    (넘겨서 확인!)
-*   **Midjourney 스타일 영문 프롬프트:**
-    A luxurious, sleek white portable smart TV on a stand (resembling LG StandbyMe) is shown with a large, glowing red "X" mark over it. In the background, a person looks wistfully at the TV. The foreground features stacks of money or a wallet with a concerned expression. The overall mood is slightly frustrated but hopeful. High contrast, cinematic lighting, concept art, highly detailed, 8K, --ar 1:1 --style raw --v 5.2
+*   **텍스트:** "LG 스탠바이미, 꿈만 꾸시나요? 😥 비싼 가격에 망설였다면, 주목!"
+*   **이미지 프롬프트 (Midjourney):**
+    `A modern, minimalist living room with a sleek, expensive LG StandbyMe TV in the background, slightly out of focus. In the foreground, a young person looks at a smartphone with a surprised and slightly disappointed expression. A thought bubble above their head shows a stylized, high price tag ($1,500+). Soft, natural light from a window, aspirational but financially daunting vibe. Cinematic, realistic photo. --ar 1:1 --v 5.2`
 
-### 컷 2: 💡 1. 스마트함 끝판왕! #구글안드로이드 32인치
+### 컷 2: 문제 해결 & '삼탠바이미' 소개
 
-*   **텍스트:**
-    ## 💡 1. 스마트함 끝판왕!
-    ## #구글안드로이드 32인치
-    ✅ **30만원대, 넷플릭스/유튜브 다 돼!**
-    ✅ **익숙한 구글 OS로 더 편리하게!**
-    ✅ **에너지 효율 1등급으로 전기료 걱정 끝!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    A cozy, modern bedroom scene with a 32-inch smart TV on a mobile stand next to a bed. The TV screen displays an array of popular streaming app logos (Netflix, YouTube, Disney+, Wavve) glowing vibrantly. A hand holds a remote control, and the atmosphere is one of relaxed entertainment. Soft, warm lighting, inviting, focus on user experience, product photography style, 8K, --ar 1:1 --style raw --v 5.2
+*   **텍스트:** "이젠 30만원대로 '스탠바이미' 감성을! ✨ #삼탠바이미 로 스마트 라이프 시작!"
+*   **이미지 프롬프트 (Midjourney):**
+    `A cozy, modern bedroom with a person comfortably watching Netflix on a stylish, mobile smart TV (like a StandbyMe, but generic and affordable-looking, with a clean white or black design) on wheels. The TV screen clearly shows a streaming service interface. The room has warm, inviting lighting, minimalist decor. Focus on ease of use and entertainment. Text overlay: '#삼탠바이미'. Realistic, inviting, lifestyle photo. --ar 1:1 --v 5.2`
 
-### 컷 3: 🚀 2. 선 없는 자유! #무선배터리 QLED 삼탠바이미
+### 컷 3: 핵심 장점 & TOP 2 상품 소개
 
-*   **텍스트:**
-    ## 🚀 2. 선 없는 자유!
-    ## #무선배터리 QLED 삼탠바이미
-    ✅ **배터리 내장! 전원선 없이 어디든 OK!**
-    ✅ **QLED 디스플레이로 생생한 화질!**
-    ✅ **화이트 에디션, 인테리어까지 UP!**
-*   **Midjourney 스타일 영문 프롬프트:**
-    A bright, airy scene showcasing a sleek white portable QLED smart TV on a stand. The TV is positioned on a balcony overlooking a city or in a stylish open-plan kitchen, emphasizing its wireless nature (no visible power cords). The QLED screen displays a breathtakingly vibrant, high-definition nature documentary or a dynamic art piece. Clean, minimalist design, natural light, sense of freedom and premium quality, 8K, --ar 1:1 --style raw --v 5.2
+*   **텍스트:** "이동성, 스마트 OTT, 착한 가격까지! 🤩 MD가 엄선한 BEST 2 제품!"
+*   **이미지 프롬프트 (Midjourney):**
+    `A dynamic split-screen image or collage. Left side: A sleek mobile smart TV (representing "위드라이프 구글 안드로이드 삼탠바이미"), with its screen displaying Google TV interface and various streaming app icons (Netflix, YouTube). Right side: A minimalist, clean white mobile smart TV (representing "와이드뷰 HD 화이트에디션 스마트 삼탠바이미") placed in a bright, modern interior, emphasizing its design. Both products look high-quality yet affordable. Vibrant, clean, product showcase style. --ar 1:1 --v 5.2`
 
-### 컷 4: 💯 똑똑한 당신을 위한 현명한 선택!
+### 컷 4: 추가 정보 및 CTA
 
-*   **텍스트:**
-    ## 💯 똑똑한 당신을 위한 현명한 선택!
-    ### 내 라이프스타일에 딱 맞는 '이동식 스마트 TV'는?
-    ## 👉 더 자세한 정보는 프로필 링크에서 확인하세요!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A dynamic split-screen or multi-panel composition. Each panel shows a different individual enjoying a portable smart TV in various home settings: one relaxing in bed, another cooking in a kitchen, a third exercising in a living room. The TV seamlessly adapts to each scene. Arrows or glowing lines connect the scenarios, symbolizing versatility and smart choice. Modern, vibrant, aspirational, 8K, --ar 1:1 --style raw --v 5.2
+*   **텍스트:** "더 많은 '삼탠바이미' 제품 보러가기! 프로필 링크 클릭! 🔗"
+*   **이미지 프롬프트 (Midjourney):**
+    `A stylish, close-up shot of a hand holding a smartphone, with the thumb poised to tap a "Link in Bio" button or a generic "Shop Now" button on a social media profile screen. The background is a soft blur of various mobile smart TVs, implying a wide selection. Bright, clear, action-oriented, inviting, clean aesthetic. --ar 1:1 --v 5.2`
