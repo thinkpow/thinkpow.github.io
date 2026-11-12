@@ -1,77 +1,67 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** 💸200만원 스탠바이미? 놉! 30만원대 갓성비 삼탠바이미 TOP2! (MD추천)
+**[영상 시작: 0-3초] 시선 강탈 훅!**
+(화면: LG 스탠바이미의 높은 가격표 클로즈업 -> '❌ 너무 비싸!' 자막과 함께 X 표시)
+**내레이션 (빠르고 경쾌하게):** 스탠바이미 갖고 싶다고? 근데 비싸서 망설였어? 잠깐! 이거 봐봐!
 
-**[영상 구성]**
+**[03-06초] 문제 제기 & 솔루션 제시**
+(화면: 다양한 장소에서 편리하게 사용되는 이동식 TV 이미지 전환)
+**내레이션:** 10년차 MD가 직접 찾아낸 '스탠바이미 가성비' 끝판왕, 삼탠바이미 추천 픽!
 
-*   **화면:** 침대에 누워 휴대폰을 보며 한숨 쉬는 인물 → 갑자기 환하게 웃으며 화면에 스탠바이미 대체 상품 등장!
-*   **음악/효과음:** 초반에 한숨 쉬는 소리, 실망스러운 BGM → 반전과 함께 밝고 경쾌한 BGM, '뿅!' 하는 효과음.
+**[06-09초] 메인 추천 1: 구글 안드로이드 32인치 가성비 삼탠바이미**
+(화면: 구글 안드로이드 32인치 삼탠바이미 제품 이미지, 넷플릭스/유튜브 로고 강조)
+**내레이션:** 첫째! 30만원대에 넷플릭스, 유튜브 다 되는 '스마트함 끝판왕', 구글 안드로이드 32인치! 익숙한 구글 OS로 침실, 주방 어디든 나만의 스마트 극장 완성!
 
----
+**[09-12초] 메인 추천 2: 무선 배터리 QLED 삼탠바이미**
+(화면: 무선 배터리 QLED 삼탠바이미 제품 이미지, 전원선 없는 자유로운 이동 강조)
+**내레이션:** 둘째! 진짜 무선 이동성! '에어 배터리' 내장 무빙큐빅스 QLED! 전원선 없이 자유롭게 옮기고, QLED 화질로 더욱 선명하게 즐겨봐!
 
-**[대본]**
-
-**(0-3초) 👧 (좌절한 표정으로 휴대폰 보며) "스탠바이미 200만원? 하... 비싸서 포기..." → 💥 (갑자기 얼굴 활짝! 화면에 30만원대 삼탠바이미 등장!) "응 아니야~ 30만원대 갓성비 삼탠바이미 찾았다!"**
-
-**(3-7초) 😮 "비싼 LG 스탠바이미, 꿈만 꿨던 당신! 이제 안 부러워! 10년차 MD가 찾아낸 스마트 이동식 TV들!"**
-
-**(7-11초) ✨ "넷플릭스, 유튜브는 기본! 구글 OS 내장! 심지어 설치 걱정 없는 방문설치 제품까지 있다고? 대박!" (제품 이미지 빠르게 전환, 주요 특징 텍스트 오버레이)**
-
-**(11-14초) 💰 "30만원대로 침대, 거실, 주방 어디든 나만의 영화관 실현! 이 정도면 안 사면 손해 아냐?"**
-
-**(14-15초) 👆 "자세한 정보는 댓글이나 프로필 링크에서 확인하세요! 지금 바로 클릭!"**
-
----
-
-## 2. 인스타그램 카드뉴스 (4컷)
+**[12-15초] 마무리 & CTA**
+(화면: 두 제품을 비교하거나, 다양한 제품 라인업을 보여주는 이미지)
+**내레이션:** 스탠바이미 대신 '이거'면 끝! 더 자세한 내용은 프로필 링크에서 확인하고, 당신의 스마트 라이프를 업그레이드 해봐!
 
 ---
 
-### **[카드뉴스 1컷] - 훅 & 문제 제기**
+## 2. 인스타그램 카드뉴스 4컷
 
-*   **들어갈 텍스트:**
-    **스탠바이미 비싸서 포기? 놉! 🙅‍♀️**
-    **✨ 30만원대 갓성비 삼탠바이미 발견!**
+### 컷 1: 💸 비싼 스탠바이미, 포기할 순 없잖아? 😲
 
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    `A split image showing two scenes. On the left, a young woman looking frustrated and sad, sitting on a minimalist bed, holding a smartphone displaying a high price tag. On the right, the same woman smiling brightly, relaxing on the bed with a sleek, modern mobile smart TV (like a StandbyME alternative) showing a streaming service, in a warm-toned, cozy bedroom. Cinematic lighting, soft focus, depth of field. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    ## 💸 비싼 스탠바이미, 포기할 순 없잖아? 😲
+    ### 10년차 MD가 찾아낸 '가성비 삼탠바이미' BEST 5!
+    (넘겨서 확인!)
+*   **Midjourney 스타일 영문 프롬프트:**
+    A luxurious, sleek white portable smart TV on a stand (resembling LG StandbyMe) is shown with a large, glowing red "X" mark over it. In the background, a person looks wistfully at the TV. The foreground features stacks of money or a wallet with a concerned expression. The overall mood is slightly frustrated but hopeful. High contrast, cinematic lighting, concept art, highly detailed, 8K, --ar 1:1 --style raw --v 5.2
 
----
+### 컷 2: 💡 1. 스마트함 끝판왕! #구글안드로이드 32인치
 
-### **[카드뉴스 2컷] - MD's PICK 1 (위드라이프)**
+*   **텍스트:**
+    ## 💡 1. 스마트함 끝판왕!
+    ## #구글안드로이드 32인치
+    ✅ **30만원대, 넷플릭스/유튜브 다 돼!**
+    ✅ **익숙한 구글 OS로 더 편리하게!**
+    ✅ **에너지 효율 1등급으로 전기료 걱정 끝!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    A cozy, modern bedroom scene with a 32-inch smart TV on a mobile stand next to a bed. The TV screen displays an array of popular streaming app logos (Netflix, YouTube, Disney+, Wavve) glowing vibrantly. A hand holds a remote control, and the atmosphere is one of relaxed entertainment. Soft, warm lighting, inviting, focus on user experience, product photography style, 8K, --ar 1:1 --style raw --v 5.2
 
-*   **들어갈 텍스트:**
-    **[MD's PICK 1] ⭐️ 30만원 초반!**
-    **구글 OS로 넷플릭스/유튜브 즉시 시청!**
-    **위드라이프 32인치 구글 안드로이드 삼탠바이미**
-    *(직접 설치 / 1등급 에너지 효율)*
+### 컷 3: 🚀 2. 선 없는 자유! #무선배터리 QLED 삼탠바이미
 
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    `A cozy, modern living room scene with large windows. A person is comfortably sitting on a minimalist sofa, happily watching Netflix on a sleek 32-inch mobile smart TV. The TV screen clearly displays a Netflix interface. The scene is bright and inviting with warm, natural lighting. Focus on the TV and the person's relaxed posture, showcasing ease of use. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    ## 🚀 2. 선 없는 자유!
+    ## #무선배터리 QLED 삼탠바이미
+    ✅ **배터리 내장! 전원선 없이 어디든 OK!**
+    ✅ **QLED 디스플레이로 생생한 화질!**
+    ✅ **화이트 에디션, 인테리어까지 UP!**
+*   **Midjourney 스타일 영문 프롬프트:**
+    A bright, airy scene showcasing a sleek white portable QLED smart TV on a stand. The TV is positioned on a balcony overlooking a city or in a stylish open-plan kitchen, emphasizing its wireless nature (no visible power cords). The QLED screen displays a breathtakingly vibrant, high-definition nature documentary or a dynamic art piece. Clean, minimalist design, natural light, sense of freedom and premium quality, 8K, --ar 1:1 --style raw --v 5.2
 
----
+### 컷 4: 💯 똑똑한 당신을 위한 현명한 선택!
 
-### **[카드뉴스 3컷] - MD's PICK 2 (무빙큐빅스)**
-
-*   **들어갈 텍스트:**
-    **[MD's PICK 2] ✨ 설치 걱정은 이제 그만!**
-    **전문가가 방문 설치해주는 편리함!**
-    **무빙큐빅스 32인치 스마트 삼탠바이미**
-    *(간편한 설치 / 32인치 대화면)*
-
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    `A professional technician, wearing a neat uniform, is gently setting up a modern 32-inch mobile smart TV (StandbyME alternative) in a stylish, clean bedroom. A young woman, the customer, is smiling approvingly and watching from a distance, highlighting the convenience of professional installation. The scene is well-lit with a bright, clean aesthetic. --ar 1:1 --v 5.2`
-
----
-
-### **[카드뉴스 4컷] - 추가 추천 및 CTA**
-
-*   **들어갈 텍스트:**
-    **대화면? 초저가? 당신의 선택은? 🤔**
-    **👉 더 많은 가성비 삼탠바이미는**
-    **프로필 링크에서! (MD 추천 BEST 5)**
-
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    `A dynamic and aesthetically pleasing collage showcasing three different mobile smart TVs: one large 40-inch screen TV, one sleek white design TV, and one ultra-minimalist, budget-friendly TV acting as a monitor. Each TV is displayed in a distinct, modern interior setting (e.g., a spacious living room, a bright white bedroom, a compact studio kitchen). A prominent "See More" button or an upward-pointing arrow is elegantly integrated into the design. Vibrant and appealing. --ar 1:1 --v 5.2`
+*   **텍스트:**
+    ## 💯 똑똑한 당신을 위한 현명한 선택!
+    ### 내 라이프스타일에 딱 맞는 '이동식 스마트 TV'는?
+    ## 👉 더 자세한 정보는 프로필 링크에서 확인하세요!
+*   **Midjourney 스타일 영문 프롬프트:**
+    A dynamic split-screen or multi-panel composition. Each panel shows a different individual enjoying a portable smart TV in various home settings: one relaxing in bed, another cooking in a kitchen, a third exercising in a living room. The TV seamlessly adapts to each scene. Arrows or glowing lines connect the scenarios, symbolizing versatility and smart choice. Modern, vibrant, aspirational, 8K, --ar 1:1 --style raw --v 5.2
