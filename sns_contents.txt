@@ -2,52 +2,83 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**(음악: 경쾌하고 트렌디한 BGM 시작)**
+**제목:** LG 스탠바이미 비싸서 포기했어? 헉! 그럼 이걸 왜 몰랐어? 💸
 
-**0-3초 (훅)**
-*   **화면:** (LG 스탠바이미를 부러운 눈으로 보는 사람의 모습, 그 위로 '₩2,000,000+'와 같은 높은 가격표가 떠오르며 '헉!'하는 효과음)
-*   **대사:** "LG 스탠바이미 갖고 싶어서 현기증 나는데... 가격 보고 뒷목 잡았다구요? 🤦‍♀️ 잠시만요!"
+---
 
-**3-7초**
-*   **화면:** ('스탠바이미 가성비' 문구가 중앙에 뜨고, 여러 '삼탠바이미' 제품들이 빠르게 스쳐 지나감)
-*   **대사:** "이젠 30만원대로! 넷플릭스, 유튜브 맘껏 즐기는 '삼탠바이미' 시대가 왔다구요!"
+**[영상 시작]**
 
-**7-12초**
-*   **화면:** (첫 번째 제품 '위드라이프 구글 안드로이드 삼탠바이미'의 깔끔한 제품샷, 화면에 넷플릭스/유튜브 로고 강조, 옆에 '에너지 1등급' 아이콘 추가)
-*   **대사:** "이동성, 스마트 OTT, 합리적 가격! MD가 직접 고른 가성비 끝판왕 TOP 2!"
-*   **대사:** "첫째, **위드라이프 구글 안드로이드 삼탠바이미!** OTT 필수템, 에너지 1등급까지 완벽!"
+**(0-3초) 훅: 시청자의 고뇌 + 충격 반전**
+*   **화면:** 침대 옆에서 LG 스탠바이미를 부러운 눈빛으로 바라보다가, 가격표를 보고 절망하는 사람의 모습 (코믹하게).
+*   **대사:** "LG 스탠바이미 사고 싶었는데 가격 보고 좌절? ㅠㅠ" (고뇌하는 목소리) "헉! 그럼 이거 왜 몰랐어?" (갑자기 활기찬 목소리로 변환, 손가락으로 화면 밖을 가리키며)
 
-**12-15초**
-*   **화면:** (두 번째 제품 '와이드뷰 HD 화이트에디션 스마트 삼탠바이미'의 세련된 화이트 제품샷, 깨끗한 인테리어 공간에 놓인 모습, 가격 '30만원대' 강조)
-*   **대사:** "둘째, **와이드뷰 HD 화이트 에디션!** 최저가에 세련된 디자인까지 갓벽!"
-*   **대사:** "더 자세한 정보는 댓글이나 프로필 링크에서 확인하세요! 지금 바로 고고!"
+**(3-7초) 문제 제기 + 솔루션 제시**
+*   **화면:** 여러 가성비 삼탠바이미 제품들이 빠르게 스쳐 지나가고, 사람들이 침실, 주방 등 다양한 공간에서 자유롭게 사용하는 모습.
+*   **대사:** "스탠바이미의 스마트 기능! 자유로운 이동성! 그대로! 근데 가격은 반에 반값? 심지어 10만원대도 있어!" (빠르고 신나는 톤)
 
-**(음악: 전환 효과음과 함께 마무리)**
+**(7-12초) 핵심 상품 2가지 구체적 소개**
+*   **화면:**
+    *   위드라이프 구글 스마트 삼탠바이미 (WLTSTW2) 제품 클로즈업 + 넷플릭스, 유튜브 화면 전환.
+    *   프리토스 초가성비 일반TV 삼탠바이미 제품 클로즈업 + 스마트폰 미러링 장면.
+*   **대사:** "구글 OS 정품 스마트TV! 위드라이프 삼탠바이미는 30만원대로 넷플릭스, 유튜브 바로!" (스마트함 강조) "아니면! 10만원대 가격 파괴자, 프리토스 삼탠바이미는 내 폰이랑 연결해서 써봐!" (초가성비 강조)
+
+**(12-15초) 마무리 & CTA**
+*   **화면:** 여러 삼탠바이미 제품들이 한자리에 모여있고, "더 많은 정보는 댓글/프로필 링크 클릭!" 텍스트가 강조됨.
+*   **대사:** "LG 스탠바이미 대신 똑똑한 가성비 삼탠바이미! 후회 없을 거야! 더 많은 정보는 지금 바로 댓글과 프로필 링크에서 확인해봐!" (밝고 활기찬 마무리)
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### 컷 1: 후크 & 문제 제기
+---
 
-*   **텍스트:** "LG 스탠바이미, 꿈만 꾸시나요? 😥 비싼 가격에 망설였다면, 주목!"
-*   **이미지 프롬프트 (Midjourney):**
-    `A modern, minimalist living room with a sleek, expensive LG StandbyMe TV in the background, slightly out of focus. In the foreground, a young person looks at a smartphone with a surprised and slightly disappointed expression. A thought bubble above their head shows a stylized, high price tag ($1,500+). Soft, natural light from a window, aspirational but financially daunting vibe. Cinematic, realistic photo. --ar 1:1 --v 5.2`
+### **[1/4컷]**
+*   **카드뉴스 텍스트:**
+    LG 스탠바이미, 가격 때문에 망설였나요? 😩
+    갖고는 싶지만 100만원 넘는 가격은 넘사벽...
+    스마트함과 이동성을 포기할 순 없는데!
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A sleek, modern living room with a desired, high-end portable smart TV (LG StandbyMe style) prominently displayed, but with a subtle, shimmering 'price tag' overlay that reads "$1000+", hinting at expensiveness and a person looking at it with a frustrated, slightly sad expression. Elegant, minimalist aesthetic, soft natural light, bokeh background, cinematic, ultra-wide angle, high detail, --ar 1:1 --style raw
+    ```
 
-### 컷 2: 문제 해결 & '삼탠바이미' 소개
+---
 
-*   **텍스트:** "이젠 30만원대로 '스탠바이미' 감성을! ✨ #삼탠바이미 로 스마트 라이프 시작!"
-*   **이미지 프롬프트 (Midjourney):**
-    `A cozy, modern bedroom with a person comfortably watching Netflix on a stylish, mobile smart TV (like a StandbyMe, but generic and affordable-looking, with a clean white or black design) on wheels. The TV screen clearly shows a streaming service interface. The room has warm, inviting lighting, minimalist decor. Focus on ease of use and entertainment. Text overlay: '#삼탠바이미'. Realistic, inviting, lifestyle photo. --ar 1:1 --v 5.2`
+### **[2/4컷]**
+*   **카드뉴스 텍스트:**
+    걱정 마세요! '삼탠바이미'가 있잖아요! ✨
+    LG 스탠바이미의 모든 매력을
+    반의반값, 심지어 10만원대부터!
+    이동식 스마트 TV, 이제 현실이 됩니다!
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A vibrant, dynamic montage of various happy people enjoying portable smart TVs (Samtanbyme style, similar to LG StandbyMe but generic brand) in different home settings (bedroom, kitchen, balcony). Focus on freedom, joy, and smart functionality. Bright, inviting colors, natural light, modern, clean aesthetic, seamless transitions, energetic, --ar 1:1 --style raw
+    ```
 
-### 컷 3: 핵심 장점 & TOP 2 상품 소개
+---
 
-*   **텍스트:** "이동성, 스마트 OTT, 착한 가격까지! 🤩 MD가 엄선한 BEST 2 제품!"
-*   **이미지 프롬프트 (Midjourney):**
-    `A dynamic split-screen image or collage. Left side: A sleek mobile smart TV (representing "위드라이프 구글 안드로이드 삼탠바이미"), with its screen displaying Google TV interface and various streaming app icons (Netflix, YouTube). Right side: A minimalist, clean white mobile smart TV (representing "와이드뷰 HD 화이트에디션 스마트 삼탠바이미") placed in a bright, modern interior, emphasizing its design. Both products look high-quality yet affordable. Vibrant, clean, product showcase style. --ar 1:1 --v 5.2`
+### **[3/4컷]**
+*   **카드뉴스 텍스트:**
+    ✨ 스마트 끝판왕! 위드라이프 삼탠바이미 (30만원대)
+    ✅ 구글 정품 스마트 OS 탑재!
+    ✅ 넷플릭스, 유튜브 앱 바로 실행!
+    ✅ 1등급 에너지 효율까지!
+    LG 스탠바이미의 스마트함을 그대로!
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A cozy, minimalist bedroom scene with a stylish portable smart TV (Withlife Google Smart Samtanbyme style, displaying Netflix logo clearly) on a stand next to a bed. A person is comfortably watching from bed. Warm, soft lighting, modern, Scandinavian design elements, clear screen showing app icons, high detail, inviting atmosphere, --ar 1:1 --style raw
+    ```
 
-### 컷 4: 추가 정보 및 CTA
+---
 
-*   **텍스트:** "더 많은 '삼탠바이미' 제품 보러가기! 프로필 링크 클릭! 🔗"
-*   **이미지 프롬프트 (Midjourney):**
-    `A stylish, close-up shot of a hand holding a smartphone, with the thumb poised to tap a "Link in Bio" button or a generic "Shop Now" button on a social media profile screen. The background is a soft blur of various mobile smart TVs, implying a wide selection. Bright, clear, action-oriented, inviting, clean aesthetic. --ar 1:1 --v 5.2`
+### **[4/4컷]**
+*   **카드뉴스 텍스트:**
+    💰 10만원대 가격 파괴! 프리토스 삼탠바이미
+    ✅ 압도적인 최저가!
+    ✅ 기존 스마트 기기(폰, 동글) 활용 가능!
+    ✅ 침실, 주방 서브 TV로 최고!
+    ✨ 더 많은 제품 비교는 프로필 링크 클릭!
+*   **Midjourney 스타일 영문 프롬프트:**
+    ```
+    A bright, clean kitchen or studio apartment with a simple, affordable portable TV (Freetos Samtanbyme style) on a mobile stand. A smartphone screen is clearly mirrored onto the TV, displaying a YouTube video. Emphasize versatility and budget-friendliness. Bright, natural light, modern, practical aesthetic, with a subtle overlaid arrow pointing down and "Link in Bio" text, high detail, --ar 1:1 --style raw
+    ```
