@@ -1,82 +1,76 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡 15초 스크립트
+## 🎬 유튜브 쇼츠/틱톡 15초 스크립트
 
-**제목:** 😲스탠바이미 말고 '이거'! 가성비 끝판왕 삼탠바이미 BEST 2! (MD 추천)
-
-**영상 구성:**
-
-*   **[0-3초] 훅 (시선 강탈!)**
-    *   **화면:** (슬픈 표정으로 스탠바이미 가격표를 보고 한숨 쉬는 모습) → (화면이 전환되며 밝게 웃으며 '삼탠바이미' 제품을 가리키는 모습)
-    *   **내레이션:** "스탠바이미 사고 싶은데… 가격 보고 깜놀해서 포기하셨죠? 😭"
-    *   **내레이션:** "잠깐! 현명한 당신을 위한 '삼탠바이미'가 있잖아요! ✨"
-
-*   **[3-10초] 핵심 제품 소개**
-    *   **화면:** (위드라이프 삼탠바이미 제품이 움직이며 등장) → (다양한 OTT 앱 화면 빠르게 전환, 에너지 1등급 마크 강조)
-    *   **내레이션:** "10년 차 MD가 엄선한 스탠바이미 가성비 끝판왕 2가지! 첫째! 구글 스마트TV OS에 32인치 대화면, 에너지 1등급! '위드라이프'!"
-    *   **화면:** (와이드뷰 화이트 삼탠바이미 제품이 세련된 인테리어에 놓여 있는 모습) → (화이트 디자인 강조 클로즈업)
-    *   **내레이션:** "둘째! 깔끔한 화이트 디자인, 스마트 기능은 기본! 30만원대 '와이드뷰'!"
-
-*   **[10-15초] 마무리 & CTA**
-    *   **화면:** (두 제품이 나란히 비교되며, "스마트! 이동성! 대화면! 가격!" 문구 강조) → (화면 하단에 "프로필 링크 확인!" 배너 등장)
-    *   **내레이션:** "비싼 스탠바이미 대신 스마트함, 이동성, 대화면 모두 잡은 삼탠바이미로 라이프스타일 업그레이드!"
-    *   **내레이션:** "더 자세한 정보는 지금 바로 프로필 링크 확인하세요! 💖"
+**영상 제목:** 🤯 스탠바이미 비싸서 못 샀다고? 30만원대 '삼탠바이미'로 로망 실현!
 
 ---
 
-## 2. 인스타그램 카드뉴스 (4컷)
+**[스크립트]**
+
+**(0-3초) 훅: 시선 강탈 & 문제 제기**
+*   **화면:** (빠른 템포의 경쾌한 음악 시작)
+    1.  럭셔리한 LG 스탠바이미 이미지 → 비싼 가격표(EX: 100만원대) 강조하며 크게 '헉!' 자막
+    2.  이어 바로 밝고 가성비 좋은 삼탠바이미 이미지 → '근데 이게 30만원대?' 자막 크게!
+*   **내레이션 (빠르고 흥미롭게):** "스탠바이미! 갖고 싶었지만, 너무 비싸서 망설이셨죠?! 걱정 마세요, 이제 30만원대로 '삼탠바이미'로 로망 실현 가능합니다! 🤩"
+
+**(3-12초) 핵심 상품 소개 & 기능 강조**
+*   **화면:**
+    1.  (위드라이프 삼탠바이미 제품 풀샷) 침대 옆, 주방, 거실 등에서 자유롭게 이동하며 사용하는 모습 빠르게 전환.
+    2.  (구글 TV OS 화면 클로즈업) 넷플릭스, 유튜브, 디즈니플러스 앱 아이콘이 선명하게 보이는 화면.
+    3.  (이노스 FHD 삼탠바이미 제품 풀샷) 영화나 드라마의 선명한 장면이 보이는 화면. 고화질임을 강조.
+*   **내레이션 (명확하고 빠르게):** "10년 차 MD가 엄선한 가성비 끝판왕! 첫 번째, **위드라이프 안드로이드 삼탠바이미!** 🚀 30만원대 초반에 구글 OS로 넷플릭스, 유튜브 모든 OTT를 완벽하게 즐겨요! (띵동 효과음) 두 번째는 **이노스 FHD 스마트 삼탠바이미!** ✨ 30만원대 후반, 압도적인 FHD 화질로 눈이 즐거워지는 경험!"
+
+**(12-15초) 마무리 & CTA (Call To Action)**
+*   **화면:**
+    1.  위드라이프, 이노스 제품이 나란히 놓여있는 깔끔한 배경.
+    2.  "자세한 정보는 프로필 링크 & 댓글 확인!" 텍스트 오버레이.
+    3.  해시태그 "#삼탠바이미 #가성비TV #스탠바이미대안 #이동식TV"
+*   **내레이션 (친근하고 설득력 있게):** "이제 비싼 돈 들이지 말고, 스마트하게 삼탠바이미로 즐겨보세요! 더 자세한 정보는 프로필 링크를 클릭해주세요! 😉"
 
 ---
 
-**카드뉴스 1/4**
+## 📸 인스타그램 카드뉴스 4컷
+
+---
+
+### **[카드뉴스 1/4]**
 
 *   **카드 텍스트:**
-    스탠바이미 비싸서 포기했니? 😥
-    현명한 당신을 위한 '삼탠바이미'로 고민 끝!
-
-*   **Midjourney 프롬프트 (영문):**
-    A minimalist, modern living room. A person sits on a sofa, looking disappointed at an empty corner where a high-tech movable TV would typically be. Then, in a magical, ethereal glow, a sleek, affordable "Samtanbymy" TV on a stand appears. Cinematic lighting, soft pastel colors, high detail, --ar 1:1 --v 5.2
+    **LG 스탠바이미.. 갖고 싶지만 비싸서 망설여진다면? 💸**
+    **MD가 엄선한 '가성비 삼탠바이미' BEST 5 대공개! ✨**
+*   **Midjourney 프롬프트:**
+    `A stylish young woman sits on a modern sofa in a minimalist, bright living room. She holds a smartphone, looking thoughtful with a faint question mark thought bubble above her head. In the background, a luxurious LG StandbyME TV is visible, but blurry and with an implied high price tag. Beside her, a sleek, affordable alternative portable TV (SamtanbyME) is subtly placed, hinting at a solution. Clean, bright aesthetic with warm natural light. --ar 4:5 --v 5.2`
 
 ---
 
-**카드뉴스 2/4**
+### **[카드뉴스 2/4]**
 
 *   **카드 텍스트:**
-    ✨ 압도적 스마트 기능 & 대화면!
-    **위드라이프 구글 32인치 삼탠바이미**
-    ✔ 구글 스마트TV OS
-    ✔ 32인치 대화면 (스탠바이미 27인치!)
-    ✔ 에너지 효율 1등급!
-    **#30만원대 #끝판왕가성비**
-
-*   **Midjourney 프롬프트 (영문):**
-    A cozy, modern bedroom with soft indirect lighting. A happy person is lounging in bed, immersed in watching a movie on a sleek, black 32-inch smart TV on a movable stand. The TV screen clearly displays a streaming service interface (e.g., Netflix or YouTube logo). High quality, realistic, inviting atmosphere, --ar 1:1 --v 5.2
+    **1. 위드라이프 구글 삼탠바이미**
+    **💰 30만원대 초반! 구글 OS로 모든 OTT 무제한!**
+    (구글 정식 OS, 1등급 에너지 효율)
+*   **Midjourney 프롬프트:**
+    `A cozy bedroom scene. A sleek, modern portable TV with white frame and a sturdy stand (SamtanbyME type) is positioned beside a bed. The screen clearly displays the Google TV user interface with prominent Netflix, YouTube, and Disney+ app icons. A person's hand is holding a remote control. Soft, warm ambient lighting. --ar 4:5 --v 5.2`
 
 ---
 
-**카드뉴스 3/4**
+### **[카드뉴스 3/4]**
 
 *   **카드 텍스트:**
-    🤍 세련된 화이트 디자인 & 스마트 기능!
-    **와이드뷰 화이트 32인치 삼탠바이미**
-    ✔ 깔끔한 화이트 디자인
-    ✔ 32인치 HD 스마트 TV
-    ✔ 합리적인 가격!
-    **#인테리어맛집 #디자인가성비**
-
-*   **Midjourney 프롬프트 (영문):**
-    A bright, minimalist home office or studio with abundant natural light. A stylish white 32-inch smart TV on a matching white movable stand is seamlessly integrated into the clean, modern decor. The screen shows a productivity app or a clean interface. Clean lines, elegant, aesthetic, --ar 1:1 --v 5.2
+    **2. 이노스 FHD 스마트 삼탠바이미**
+    **🌟 압도적인 FHD 화질로 생생한 영상 경험!**
+    (가성비 끝판왕 FHD, 스마트 기능 완비, 인지도 있는 브랜드)
+*   **Midjourney 프롬프트:**
+    `A modern living space, bright and airy. A black, elegant portable TV with a robust mobile stand (SamtanbyME type) is prominently displayed. The screen shows a vibrant, high-definition (FHD) scene from a movie or drama, rich in color and detail. The overall impression is one of superior visual quality. Natural daylight streaming in. --ar 4:5 --v 5.2`
 
 ---
 
-**카드뉴스 4/4**
+### **[카드뉴스 4/4]**
 
 *   **카드 텍스트:**
-    이젠 거실, 침실, 주방 어디서든 나만의 스마트TV! ✨
-    합리적인 가격으로 라이프스타일을 업그레이드하세요!
-    지금 바로 프로필 링크에서 **'삼탠바이미'** 만나보세요! 💖
-
-*   **Midjourney 프롬프트 (영문):**
-    A dynamic, visually appealing collage or split screen showing a sleek movable smart TV being used in three different modern home settings: a vibrant kitchen counter, a comfortable sofa in a living room, and a serene bedroom. The TV is the central element, moving between scenes. Bright, engaging colors, futuristic feel, --ar 1:1 --v 5.2
-
----
+    **비싼 LG 스탠바이미는 이제 그만!**
+    **당신의 취향과 예산에 맞는 '삼탠바이미'를 만나보세요!**
+    **👉 더 많은 추천템은 프로필 링크 블로그에서 확인!**
+*   **Midjourney 프롬프트:**
+    `A collection of three distinct portable TVs (SamtanbyME style) with different designs (one white, one black, one with unique stand) are artfully arranged in a bright, modern studio apartment. The TVs are subtly different, emphasizing choice and affordability. A subtle call to action text ("Discover More!") is integrated into one of the screens. Clean, inviting, aspirational atmosphere. --ar 4:5 --v 5.2`
