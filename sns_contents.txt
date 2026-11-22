@@ -2,75 +2,64 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**[영상 컨셉]**
-빠른 전환과 다이내믹한 텍스트 효과, 그리고 시원시원한 대사로 시청자의 구매 욕구를 자극하는 MD의 솔직 리뷰.
+**(영상 시작: 빠르고 경쾌한 배경음악, LG 스탠바이미 광고 이미지 혹은 고급스러운 이동식 TV 이미지 번쩍!)**
 
----
+**[0-3초 훅]**
+**나레이션 (흥분된 목소리):** LG 스탠바이미 사고 싶어? 근데 가격이 100만원이 넘는다고? 🤯 놉!
 
-```markdown
-## 📺 15초 쇼츠/틱톡 스크립트: 스탠바이미 가성비 끝판왕! (feat. MD)
+**(화면 전환: '삼탠바이미' 키워드 크게 뜨고, 저렴한 가격표와 함께 가성비 강조 이미지)**
 
-**[0-3초] 훅 (Hook)**
-*   **화면:** (시작부터 LG 스탠바이미 로고와 함께 "100만원?"이라는 큼지막한 텍스트가 번쩍! -> 바로 X 표시와 함께 "STOP!" 등장)
-*   **음성 (MD톤, 빠르고 단호하게):** "스탠바이미, 100만원 주고 사? 놉! 이젠 똑똑하게 갈아타세요!"
+**[3-8초 핵심 정보]**
+**나레이션:** ✨ 10만원대로 스탠바이미 감성 끝내게 누리는 법, 지금 바로 알려줄게! '삼탠바이미'만 있다면 당신의 공간이 영화관, 작업실, 그 어디든 돼!
 
-**[3-7초] 문제 제시 & 솔루션 예고**
-*   **화면:** (불만족스러운 표정의 사람 -> 고민하는 이모지 -> 10년차 MD 명함 등장)
-*   **음성 (MD톤, 자신감 있게):** "고민 끝! 10년차 MD가 스탠바이미 핵심기능 그대로! 가격은 반의반값! 끝판왕 2가지 딱 골라왔습니다!"
+**(화면 전환: 첫 번째 제품 '프리토스 삼탠바이미 세트' 이미지, 가격 강조)**
 
-**[7-12초] 메인 제품 2가지 소개**
-*   **화면:** (첫 번째 제품 '무빙큐빅스' 등장! 깔끔한 화이트 디자인 강조, 자유롭게 이동하는 모습 빠르게 편집)
-    *   **텍스트:** "1. 무빙큐빅스 QLED 32인치 (43.9만원) - 무선+QLED!"
-*   **음성 (MD톤):** "첫 번째! 전원선 없는 자유! QLED 화질! 세련된 디자인까지 완벽한 '무빙큐빅스 QLED TV'!"
-*   **화면:** (두 번째 제품 '위드라이프 구글' 등장! 넷플릭스, 유튜브 화면 전환 빠르게 보여주며 스마트 기능 강조)
-    *   **텍스트:** "2. 위드라이프 구글 32인치 (30.8만원) - 30만원대 구글 스마트TV 세트!"
-*   **음성 (MD톤):** "두 번째! 30만원대 갓성비! 구글 OS로 모든 OTT 다 되는 '위드라이프 스마트TV 세트'!"
+**[8-11초 제품 소개 1]**
+**나레이션:** 첫째, TV까지 다 주는 올인원! **프리토스 세트가 단돈 17만원!** 방방마다 이동식 TV 뚝딱!
 
-**[12-15초] 클로징 & CTA**
-*   **화면:** (두 제품 나란히 비교하며 만족스러운 웃음! -> 화면 하단에 '더 많은 추천 보기는 댓글 링크!' 텍스트 고정)
-*   **음성 (MD톤, 활기차게):** "스탠바이미 가성비? 이젠 후회 없는 선택 하세요! 더 자세한 정보는 댓글 링크 확인!"
-```
+**(화면 전환: 두 번째 제품 '무빙스탠드 단품' 이미지, 기존 TV/모니터와 결합된 모습)**
+
+**[11-13초 제품 소개 2]**
+**나레이션:** 둘째, 기존 TV 활용! **14만원대 무타공 무빙스탠드!** 못 박을 필요 없이 스탠바이미 변신!
+
+**(화면 전환: 세 번째 제품 '이노스 스마트 삼탠바이미' 이미지, 넷플릭스 로고와 함께 스마트 기능 강조)**
+
+**[13-15초 제품 소개 3 & CTA]**
+**나레이션:** 셋째, 스마트 기능까지? **이노스 스마트 삼탠바이미로 넷플릭스도 뚝딱!** 자세한 정보는 프로필 링크에서 확인해!
+
+**(영상 끝: "삼탠바이미" 키워드, "프로필 링크 클릭!" 자막과 함께 마무리)**
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-```markdown
----
-### 1컷: 훅 (Hook)
-*   **텍스트:** 
-    *   **헤드라인:** "스탠바이미 100만원? 😱 이젠 그만! MD가 알려주는 가성비 끝판왕!"
-    *   **서브텍스트:** "LG 스탠바이미 핵심 기능 그대로! 가격은 반의반값에 겟하는 방법 공개!"
-*   **Midjourney 프롬프트:**
-    *   `A vibrant, eye-catching infographic. On one side, a luxurious, expensive-looking LG StandbyME TV with a "₩1,000,000" price tag and a big red 'X'. On the other side, question marks and a thought bubble suggesting "smart alternative" with a much lower price tag. Modern, clean design, bold typography, high contrast, studio lighting. --ar 1:1 --v 5.2`
+### 📸 컷 1
+*   **카드에 들어갈 텍스트:**
+    ✨LG 스탠바이미 비싸서 포기? NO! 🙅‍♀️
+    삼탠바이미로 10만원대 스탠바이미 감성 끝!
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    `A stylish living room with a person happily using a portable TV. Focus on affordability and a smart, modern aesthetic. Vibrant, clean, and inviting. The portable TV on a moving stand is central, showing a cheerful scene. Bright natural light, minimalist and clean aesthetic, high-tech, cozy, 1:1 aspect ratio, v-ray rendering, hyperrealistic, cinematic --ar 1:1 --style raw`
 
-### 2컷: 메인 추천 상품 1
-*   **텍스트:** 
-    *   **헤드라인:** "1. 전원선 없이 자유롭게! 무빙큐빅스 QLED 32인치"
-    *   **장점:** 
-        *   ✅ **무선 이동성:** 배터리 내장! 어디든 자유롭게
-        *   ✅ **QLED 화질:** 압도적인 선명함!
-        *   ✅ **세련된 디자인:** 화이트 컬러, 인테리어 굿!
-        *   ✅ **가격:** 439,000원
-*   **Midjourney 프롬프트:**
-    *   `A sleek, modern white QLED smart TV on a movable stand, being effortlessly rolled from a minimalist living room to a cozy bedroom. The TV screen displays a vibrant, high-quality movie scene. Soft, natural light fills the rooms, emphasizing the product's seamless integration into daily life. Clean lines, sophisticated interior design. --ar 1:1 --v 5.2`
+### 📸 컷 2
+*   **카드에 들어갈 텍스트:**
+    📺 TV까지 올인원!
+    💰 17만원 프리토스 삼탠바이미 세트
+    (스탠드+TV 동시 해결! ⚡에너지효율 1등급!)
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    `A sleek, all-in-one portable TV on a minimalist moving stand in a modern bedroom, displaying a vibrant movie scene. The TV itself looks high-tech and energy-efficient. Cozy atmosphere, warm ambient lighting from a window, futuristic design, high detail, no visible brand logos, 1:1 aspect ratio, cinematic photo, soft bokeh --ar 1:1 --style raw`
 
-### 3컷: 메인 추천 상품 2
-*   **텍스트:** 
-    *   **헤드라인:** "2. 30만원대 갓성비! 위드라이프 구글 32인치 삼탠바이미 세트"
-    *   **장점:**
-        *   ✅ **파격적인 가격:** 30만원대 초반의 완벽 세트!
-        *   ✅ **구글 스마트TV:** 넷플릭스, 유튜브 무제한!
-        *   ✅ **1등급 에너지 효율:** 전기세 걱정 끝!
-        *   ✅ **가격:** 308,000원
-*   **Midjourney 프롬프트:**
-    *   `A cozy, modern apartment living room with a person comfortably watching a Google TV interface on a 32-inch smart TV on an 이동식 stand. The screen clearly shows Netflix or YouTube icons. Warm, inviting lighting, comfortable sofa, simple yet stylish decor. The overall atmosphere is relaxed and enjoyable. --ar 1:1 --v 5.2`
+### 📸 컷 3
+*   **카드에 들어갈 텍스트:**
+    ♻️ 기존 TV/모니터 활용!
+    💸 14만원대 무타공 무빙스탠드
+    (못 박을 필요 없어 전월세도 OK!)
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    `A person easily attaching their own flat-screen monitor to a stylish, minimalist moving stand in a modern home office or living room. The stand is designed for no-drill installation, showing versatility. Bright, functional, clean lines, functional design, bright daylight, modern interior, high resolution, 1:1 aspect ratio, studio lighting --ar 1:1 --style raw`
 
-### 4컷: 클로징 & CTA
-*   **텍스트:** 
-    *   **헤드라인:** "스탠바이미 고민 끝! 현명한 당신을 위한 선택은?"
-    *   **서브텍스트:** "비싼 돈 주지 마세요! MD가 엄선한 가성비 끝판왕으로 스마트 라이프 시작! ✨"
-    *   **CTA:** "🔗 더 많은 추천템은 프로필 링크에서 확인하세요!"
-*   **Midjourney 프롬프트:**
-    *   `A collage of different affordable smart TVs on movable stands, creatively integrated into various modern home settings (e.g., kitchen, bedroom, home office). People are happily using them. The images convey satisfaction, smart choices, and a budget-friendly lifestyle. Bright, optimistic, and inviting atmosphere. --ar 1:1 --v 5.2`
-```
+### 📸 컷 4
+*   **카드에 들어갈 텍스트:**
+    ✨ 스마트 기능까지! 넷플릭스도 뚝딱!
+    이노스 스마트 삼탠바이미 (FHD 스마트 TV 내장!)
+    (+자세한 정보는 프로필 링크 클릭!)
+*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
+    `A person comfortably watching Netflix on a smart portable TV with a moving stand in a cozy living room. The TV screen clearly shows the Netflix interface or a movie playing. Streaming service icons are subtly visible on the screen. Relaxed and happy expression, warm evening light, modern home decor, 1:1 aspect ratio, highly detailed, cinematic --ar 1:1 --style raw`
