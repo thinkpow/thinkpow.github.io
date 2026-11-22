@@ -1,65 +1,68 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
+## 📺 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
 
-**(영상 시작: 빠르고 경쾌한 배경음악, LG 스탠바이미 광고 이미지 혹은 고급스러운 이동식 TV 이미지 번쩍!)**
+**제목:** 스탠바이미 비싸서 눈물 흘린 자, 집중! 😭 가성비 삼탠바이미 3대장 등장!
 
-**[0-3초 훅]**
-**나레이션 (흥분된 목소리):** LG 스탠바이미 사고 싶어? 근데 가격이 100만원이 넘는다고? 🤯 놉!
+**[시작 0-3초: 훅]**
+*   **화면:** 고급스러운 LG 스탠바이미가 멋지게 움직이는 장면 뒤로, 충격적인 가격표 (200만원대)가 큼직하게 오버랩되며 '뜨악' 효과음. 이어서 '대박 가성비템'이라는 자막이 빠르게 전환.
+*   **내레이션 (신나고 빠른 톤):** "스탠바이미 예쁜 건 인정! 근데 가격 보고 심장 멎을 뻔했지? 😱 걱정 마! 가성비 끝판왕 '삼탠바이미' 3가지 지금 바로 알려줄게!"
 
-**(화면 전환: '삼탠바이미' 키워드 크게 뜨고, 저렴한 가격표와 함께 가성비 강조 이미지)**
+**[4-8초: 첫 번째 솔루션]**
+*   **화면:** 기존 TV를 거치대에 끼우는 모습 (무타공 강조), 침대 옆, 주방 등 다양한 공간에서 활용하는 모습.
+*   **내레이션:** "첫째! 이미 TV 있다면? 10만원대 '무빙 거치대' 하나면 끝! 벽에 구멍 낼 필요 없이! 기존 TV에 자유를 선물해봐!"
 
-**[3-8초 핵심 정보]**
-**나레이션:** ✨ 10만원대로 스탠바이미 감성 끝내게 누리는 법, 지금 바로 알려줄게! '삼탠바이미'만 있다면 당신의 공간이 영화관, 작업실, 그 어디든 돼!
+**[9-13초: 두 번째 솔루션]**
+*   **화면:** 이노스 삼탠바이미가 스마트TV 기능을 활용해 넷플릭스, 유튜브를 틀어주는 모습, 선명한 FHD 화질 강조.
+*   **내레이션:** "둘째! 스마트TV까지 통째로 원한다면? 30만원대 '이노스 번들'로 완벽 올인원! 넷플릭스? 유튜브? 다 돼! 오리지널 절반 가격으로 최고의 만족!"
 
-**(화면 전환: 첫 번째 제품 '프리토스 삼탠바이미 세트' 이미지, 가격 강조)**
-
-**[8-11초 제품 소개 1]**
-**나레이션:** 첫째, TV까지 다 주는 올인원! **프리토스 세트가 단돈 17만원!** 방방마다 이동식 TV 뚝딱!
-
-**(화면 전환: 두 번째 제품 '무빙스탠드 단품' 이미지, 기존 TV/모니터와 결합된 모습)**
-
-**[11-13초 제품 소개 2]**
-**나레이션:** 둘째, 기존 TV 활용! **14만원대 무타공 무빙스탠드!** 못 박을 필요 없이 스탠바이미 변신!
-
-**(화면 전환: 세 번째 제품 '이노스 스마트 삼탠바이미' 이미지, 넷플릭스 로고와 함께 스마트 기능 강조)**
-
-**[13-15초 제품 소개 3 & CTA]**
-**나레이션:** 셋째, 스마트 기능까지? **이노스 스마트 삼탠바이미로 넷플릭스도 뚝딱!** 자세한 정보는 프로필 링크에서 확인해!
-
-**(영상 끝: "삼탠바이미" 키워드, "프로필 링크 클릭!" 자막과 함께 마무리)**
+**[14-15초: 마무리 & CTA]**
+*   **화면:** 세 가지 제품이 나란히 소개되거나, '자세한 정보는 댓글/링크 확인!' 자막.
+*   **내레이션:** "이 외에도 10만원대 TV+스탠드 세트까지! 더 자세한 정보는 댓글이랑 프로필 링크에서 확인해봐! 너도 이제 자유로운 미디어 라이프 즐겨! ✨"
 
 ---
 
-## 2. 인스타그램 카드뉴스 4컷
+## 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
 
-### 📸 컷 1
-*   **카드에 들어갈 텍스트:**
-    ✨LG 스탠바이미 비싸서 포기? NO! 🙅‍♀️
-    삼탠바이미로 10만원대 스탠바이미 감성 끝!
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    `A stylish living room with a person happily using a portable TV. Focus on affordability and a smart, modern aesthetic. Vibrant, clean, and inviting. The portable TV on a moving stand is central, showing a cheerful scene. Bright natural light, minimalist and clean aesthetic, high-tech, cozy, 1:1 aspect ratio, v-ray rendering, hyperrealistic, cinematic --ar 1:1 --style raw`
+### 1컷
+*   **카드뉴스 텍스트:**
+    **스탠바이미 사고 싶어서 들어왔니?** ✨
+    **가격 보고 기절할 뻔한 너를 위한**
+    **가성비 삼탠바이미 3가지!**
+*   **Midjourney 프롬프트:**
+    ```
+    A dynamic split image showing: on the left, a sleek, modern LG StandbyMe TV moving effortlessly in a stylish, minimalist living room with bright, natural light, reflecting a cozy atmosphere. On the right, a shocked or bewildered person (cartoonish or stylized, not too realistic) staring at a giant, inflated price tag (e.g., "$2000+") with a thought bubble above their head saying "😱". The overall aesthetic is vibrant, high-contrast, and eye-catching, blending aspirational tech with a humorous price shock. Modern design, clean lines, --ar 1:1 --v 6.0
+    ```
 
-### 📸 컷 2
-*   **카드에 들어갈 텍스트:**
-    📺 TV까지 올인원!
-    💰 17만원 프리토스 삼탠바이미 세트
-    (스탠드+TV 동시 해결! ⚡에너지효율 1등급!)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    `A sleek, all-in-one portable TV on a minimalist moving stand in a modern bedroom, displaying a vibrant movie scene. The TV itself looks high-tech and energy-efficient. Cozy atmosphere, warm ambient lighting from a window, futuristic design, high detail, no visible brand logos, 1:1 aspect ratio, cinematic photo, soft bokeh --ar 1:1 --style raw`
+### 2컷
+*   **카드뉴스 텍스트:**
+    **1️⃣ 이미 TV 있다면?**
+    **10만원대 '무빙 거치대'로**
+    **스탠바이미 감성 완성!**
+    (벽 뚫을 필요 없는 **무타공**!)
+*   **Midjourney 프롬프트:**
+    ```
+    A cozy and modern bedroom interior with soft, warm lighting. An existing flat-screen TV is mounted on a sleek, minimalist mobile stand (no drilling, "무타공" style). A person is comfortably watching movies in bed, with a gentle bokeh background. The TV on the stand is positioned perfectly for viewing from bed. Emphasize ease of movement and seamless integration into home decor. High-quality photo, warm colors, inviting atmosphere. --ar 1:1 --v 6.0
+    ```
 
-### 📸 컷 3
-*   **카드에 들어갈 텍스트:**
-    ♻️ 기존 TV/모니터 활용!
-    💸 14만원대 무타공 무빙스탠드
-    (못 박을 필요 없어 전월세도 OK!)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    `A person easily attaching their own flat-screen monitor to a stylish, minimalist moving stand in a modern home office or living room. The stand is designed for no-drill installation, showing versatility. Bright, functional, clean lines, functional design, bright daylight, modern interior, high resolution, 1:1 aspect ratio, studio lighting --ar 1:1 --style raw`
+### 3컷
+*   **카드뉴스 텍스트:**
+    **2️⃣ 스마트TV까지 통째로!**
+    **30만원대 '이노스 삼탠바이미 번들'로**
+    **완벽 올인원!**
+    (넷플릭스, 유튜브 바로!)
+*   **Midjourney 프롬프트:**
+    ```
+    A vibrant living space or a modern kitchen with a person cooking. An "Innos Samtanbyme" (smart TV with a mobile stand) is prominently displayed, showing Netflix or YouTube content on its bright, full HD screen. The scene is lively and engaging, highlighting the convenience of a smart, movable TV for entertainment or recipes. Modern aesthetic, clear screen display, energetic and functional. --ar 1:1 --v 6.0
+    ```
 
-### 📸 컷 4
-*   **카드에 들어갈 텍스트:**
-    ✨ 스마트 기능까지! 넷플릭스도 뚝딱!
-    이노스 스마트 삼탠바이미 (FHD 스마트 TV 내장!)
-    (+자세한 정보는 프로필 링크 클릭!)
-*   **배경 이미지 Midjourney 스타일 영문 프롬프트:**
-    `A person comfortably watching Netflix on a smart portable TV with a moving stand in a cozy living room. The TV screen clearly shows the Netflix interface or a movie playing. Streaming service icons are subtly visible on the screen. Relaxed and happy expression, warm evening light, modern home decor, 1:1 aspect ratio, highly detailed, cinematic --ar 1:1 --style raw`
+### 4컷
+*   **카드뉴스 텍스트:**
+    **취향 따라 고르는 스탠바이미 가성비!** ✨
+    **더 자세한 정보와 최저가는**
+    **프로필 링크 클릭!**
+    (번외: 10만원대 초저가 TV+스탠드 세트도!)
+*   **Midjourney 프롬프트:**
+    ```
+    A visually engaging infographic or collage showcasing three distinct, stylized icons or silhouettes representing different types of mobile TVs/stands (one for stand-only, one for smart TV bundle, one for basic TV+stand). Each icon is accompanied by a small, indicative price tag (e.g., "$100s", "$300s"). A prominent, glowing "LINK IN BIO" button or arrow is centrally placed, encouraging action. The background is clean, modern, with a gradient of soft, inviting colors. Digital art style, clear typography, call-to-action focus. --ar 1:1 --v 6.0
+    ```
