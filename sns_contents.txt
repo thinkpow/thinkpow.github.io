@@ -1,83 +1,77 @@
 === SNS 파생 콘텐츠 (영상/카드뉴스) ===
 
-## 1. ⚡️ 도파민 폭발 15초 숏폼 스크립트 (유튜브 쇼츠/틱톡)
+## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**콘텐츠 제목:** 스탠바이미 비싸? 🙅‍♀️ 20만원대 삼탠바이미로 인생 퀄리티 업! ✨ #가성비TV #이동식TV
-
-**(0-3초) 훅: 강렬한 문제 제기와 시선 강탈**
-**[영상: 누군가 LG 스탠바이미 광고를 홀린 듯 보다가, 가격표(200만원)를 보고 눈이 휘둥그레지며 핸드폰을 던지는 시늉]**
-**나레이션 (빠르고 격정적으로):** 스탠바이미... 드디어 살까 했는데 200만원? 야, 솔직히 너무 비싸잖아! 💸
-
-**(3-12초) 핵심 내용: 템포 빠르게, 제품 장점 나열**
-**[영상: (제품 1) 프리토스 삼탠바이미 세트가 거실에서 방으로 스르륵 이동하는 모습, 깔끔한 디자인 강조]**
-**나레이션:** 잠깐! 이 영상 끝까지 보면 돈 아낀다! ✨ 이거 봐, 똑같이 이동하는 TV인데 **20만원대**? (프리토스) 심지어 전기세 1등급!
-**[영상: (제품 2) 이노스 스마트 삼탠바이미 세트 화면에 넷플릭스/유튜브 로고가 뜨고 선명한 영상이 재생되는 모습]**
-**나레이션:** 스마트 기능 포기 못 해? 그럼 **이노스 스마트 삼탠바이미!** 넷플릭스, 유튜브 FHD로 다 되는데 겨우 **30만원대**!
-**[영상: (제품 3) 기존 모니터에 이동형 브라켓을 연결하고 각도를 자유롭게 조절하는 모습]**
-**나레이션:** 집에 있는 TV 활용하고 싶다고? 😲 **10만원대 무타공 스탠드** 하나면 내 TV가 스탠바이미 변신!
-
-**(12-15초) 마무리: 강력한 CTA와 해시태그**
-**[영상: 소개된 제품들이 모두 함께 놓여있거나, 각 제품의 주요 기능이 빠르게 교차 편집되며 '인생템' 문구 강조]**
-**나레이션:** 스탠바이미 감성? 이젠 지갑 걱정 없이 누려! 🤫 더 자세한 정보는 댓글이랑 프로필 링크에서 확인! 🔥
-**텍스트 오버레이:** #삼탠바이미 #가성비TV #스탠바이미대안 #이동식TV #혼족필수템
+**제목:** 💥 스탠바이미 비싸서 포기? NO! MD가 찾은 '가성비 끝판왕' 대체템 대공개! 🤯
 
 ---
 
-## 2. 📸 인스타그램 카드뉴스 4컷 (텍스트 & Midjourney 프롬프트)
+**[영상 시작]**
+
+**0-3초 (훅)**
+*   **화면:** (빠르게 전환) 화려한 LG 스탠바이미 광고 장면 -> 충격받은 사람 표정 클로즈업 -> 큼지막하게 '₩1,290,000' 같은 가격표와 '헉! 비싸!' 텍스트 오버레이
+*   **나레이션 (빠르게, 다급하게):** "헉! 스탠바이미 갖고 싶은데... 가격 실화? 😲 100만원 넘잖아!"
+*   **BGM:** (긴장감 있는 사운드 이펙트)
+
+**3-7초 (문제 제기 및 솔루션 1)**
+*   **화면:** (밝고 활기찬 분위기로 전환) 집안에 있는 일반 TV에 DIY 거치대 연결하는 모습 -> 침실, 주방 등 다양한 공간으로 TV 이동시키는 모습 빠르게 편집
+*   **나레이션 (밝게):** "NO! 이젠 비싼 스탠바이미 대신 **이것**으로 로망 실현하세요! 집에 있는 TV로 뚝딱! 단돈 14만원대 DIY 무빙 TV!"
+*   **BGM:** (경쾌하고 긍정적인 BGM 시작)
+
+**7-12초 (솔루션 2)**
+*   **화면:** 이노스 스마트 삼탠바이미 상품 이미지 -> 넷플릭스, 유튜브 등 OTT 실행 화면 -> 스마트 TV를 편리하게 사용하는 사람의 모습
+*   **나레이션:** "스마트 기능까지 포기 못 한다면? 넷플릭스 기본 탑재! 35만원대 풀세트 '이노스 삼탠바이미'가 정답!"
+
+**12-15초 (클로징 및 CTA)**
+*   **화면:** DIY 거치대와 이노스 삼탠바이미 상품 2개를 나란히 보여주며 비교 텍스트 강조 -> 'MD PICK!', '가성비 끝판왕!', '지금 구매!' 텍스트와 프로필 링크 유도 화살표
+*   **나레이션 (강렬하게):** "MD가 픽한 스탠바이미 가성비 끝판왕! 당신의 로망을 현실로! 지금 바로 프로필 링크 확인하세요!"
+*   **BGM:** (강조하는 사운드와 함께 마무리)
 
 ---
 
-### **[첫 번째 컷]**
-
-*   **카드뉴스 텍스트:**
-    **스탠바이미 사고 싶은데 가격이... 🤑**
-    현실은 텅장? 💸
-    이젠 포기하지 마세요!
-    (옆으로 넘겨서 가성비 스탠바이미 확인!)
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A young woman looking longingly at a sleek, minimalist mobile TV in a stylish, modern living room. Her expression shows desire mixed with a hint of financial frustration. A faint, stylized price tag of "200만원" hovers near the TV. Soft natural light, cozy aesthetic, cinematic wide shot, --ar 1:1 --v 5.2
-    ```
+## 2. 인스타그램 카드뉴스 4컷
 
 ---
 
-### **[두 번째 컷]**
+### **[1/4컷] - 훅 & 문제 제기**
 
-*   **카드뉴스 텍스트:**
-    **1. 초가성비 끝판왕! 🌟 프리토스 삼탠바이미 세트**
-    ✔ TV + 이동 스탠드 = 20만원대!
-    ✔ 전기세 걱정 NO! 에너지 효율 1등급
-    ✔ 복잡한 설치 없이 바로 사용!
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A bright, clean, minimalist interior with a modern, slim mobile TV on a rolling stand. The TV screen displays a simple, inviting graphic. A smiling person is effortlessly rolling the TV from a living room to a bedroom. Emphasize "affordability" and "ease of use". Soft, even lighting, a sense of freedom and convenience. --ar 1:1 --v 5.2
-    ```
+*   **텍스트:**
+    *   **헤드라인:** 스탠바이미, 비싸서 포기했니? 💰
+    *   **서브:** NO! 10년차 MD가 찾은 '가성비 끝판왕' 대체템 대공개!
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    > A split image. Left side: A sleek, minimalist, and expensive LG StandbyMe in a high-end, modern living room, soft focus, showcasing luxury. Right side: A cozy, inviting bedroom scene with a stylish, more accessible portable smart TV on a trendy stand, warm lighting, emphasizing comfort and affordability. High contrast, cinematic, realistic product photography, balanced composition. --ar 1:1
 
 ---
 
-### **[세 번째 컷]**
+### **[2/4컷] - DIY 스탠바이미 거치대 소개**
 
-*   **카드뉴스 텍스트:**
-    **2. 스마트 기능까지 완벽! 📺 이노스 스마트 삼탠바이미 세트**
-    ✔ 넷플릭스, 유튜브 FHD로 즐겨!
-    ✔ OTT 특화! 완벽한 나만의 영화관
-    ✔ 무빙 거치대 + 스마트TV 완벽 조합!
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A cozy, modern bedroom at night, with a smart mobile TV showing a vibrant Netflix movie scene in FHD. A person is comfortably snuggled in bed, happily watching. The room is dimly lit by the TV's glow and a soft bedside lamp, creating an intimate, immersive entertainment experience. Warm, inviting atmosphere. --ar 1:1 --v 5.2
-    ```
+*   **텍스트:**
+    *   **헤드라인:** 1. 집에 있는 TV를 스탠바이미로? 🤯
+    *   **본문:** 💡 단돈 **14만원대** DIY 무빙 거치대!
+    *   **핵심 장점:** #무타공이동식 #내TV활용 #가성비끝판왕
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    > A modern flat-screen television gracefully mounted on a sleek, minimalist mobile stand with hidden wheels. The TV is actively being pushed by a person's hand, transitioning from a bright living room into a cozy bedroom. Emphasize the DIY aspect and effortless mobility. Clean lines, bright natural light, product photography, realistic, inviting atmosphere. --ar 1:1
 
 ---
 
-### **[네 번째 컷]**
+### **[3/4컷] - 이노스 스마트 삼탠바이미 소개**
 
-*   **카드뉴스 텍스트:**
-    **💡 내 TV를 스탠바이미로? ✨ 이동형 TV 브라켓 (무타공)**
-    ✔ 기존 TV/모니터에 딱! 10만원대!
-    ✔ 벽 뚫을 필요 없는 '무타공' 설치
-    ✔ 높낮이, 각도 조절 자유자재!
-    **더 자세한 정보는 프로필 링크 확인! ➡️**
-*   **Midjourney 스타일 영문 프롬프트:**
-    ```
-    A modern, versatile home office or studio space. An existing computer monitor is mounted on a sleek, minimalist mobile TV stand (bracket), showing its adjustable features (height, tilt). The background highlights a clean, functional workspace, implying versatility for work or entertainment. Bright, contemporary, innovative. --ar 1:1 --v 5.2
-    ```
+*   **텍스트:**
+    *   **헤드라인:** 2. 스마트 기능, 포기 못 해! 📺
+    *   **본문:** ✨ **35만원대** 이노스 스마트 삼탠바이미 풀패키지!
+    *   **핵심 장점:** #넷플릭스기본탑재 #스마트풀세트 #스마트가성비
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    > A person in a comfortable setting (e.g., on a sofa with a blanket) happily watching Netflix on a sleek, modern portable smart TV that is part of an all-in-one package with a stylish stand. The screen clearly displays the Netflix interface. Modern, cozy, warm lighting, high-resolution, cinematic, product shot with lifestyle elements. --ar 1:1
+
+---
+
+### **[4/4컷] - 클로징 & CTA**
+
+*   **텍스트:**
+    *   **헤드라인:** 당신의 스탠바이미 로망, 현실로!
+    *   **본문:** MD 추천 가성비템으로 공간 제약 없는 미디어 라이프를 즐겨보세요!
+    *   **CTA:** 지금 바로 프로필 링크 확인! 🚀
+*   **이미지 프롬프트 (Midjourney 스타일):**
+    > A dynamic collage or montage illustrating the versatility of portable TVs. Show different scenarios: a portable TV used for morning news in a bedroom, for recipe videos in a modern kitchen, and for family movie night in a cozy living room. Each scene should highlight convenience, modern design, and joyful use. Bright, clean, optimistic, lifestyle photography. --ar 1:1
+
+---
