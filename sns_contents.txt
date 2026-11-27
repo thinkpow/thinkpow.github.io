@@ -2,56 +2,57 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목:** LG 스탠바이미? NO! 💸 가성비 삼탠바이미 끝판왕 BEST 2! (15초 순삭!)
+```
+[숏폼 영상 스크립트]
 
-**(시선 강탈 훅 0-3초)**
-*   **화면:** (LG 스탠바이미 가격표(200만원대)를 보고 놀라 입을 떡 벌리는 인물. 머리 위에 '헉!' 또는 '$' 이펙트)
-*   **내레이션 (빠르고 경쾌하게):** "LG 스탠바이미... 너무 비싸서 엄두도 못 냈다고? 놉!"
-*   **화면:** (갑자기 눈 반짝이며 손가락으로 화면을 가리키는 제스처. 배경에 '해결!' 텍스트 팝업)
-*   **내레이션:** "걱정 마! 가성비 삼탠바이미 끝판왕이 있으니까!"
+(0-3초) 훅(Hook) - 빠르게 시선 강탈!
+화면: LG 스탠바이미 제품 사진이 비싸다는 듯 'X' 표시되며 사라지고, 물음표와 함께 '가격' 글자가 팝업.
+대사: "스탠바이미 갖고 싶어서 검색했는데... 가격 보고 깜놀? 💸"
+효과음: '띠용'하는 놀람, '삐빅'하는 부정 효과음.
 
-**(제품 소개 3-12초)**
-*   **화면:** (프리토스 32인치 스마트 삼탠바이미 제품 이미지 등장. 옆에 '20만원대!', '32인치 스마트TV' 텍스트 크게)
-*   **내레이션:** "첫 번째! 20만원대! 32인치 대화면에 넷플릭스, 유튜브 다 되는 **프리토스**! 이거 하나면 스마트 기능 완전 정복!"
-*   **화면:** (무빙큐빅스 32인치 QLED 유무선 삼탠바이미 제품 이미지 등장. 옆에 'QLED 무선!', '화이트 디자인' 텍스트 크게)
-*   **내레이션:** "두 번째! 진짜 무선을 원한다면 **무빙큐빅스**! QLED 화질에 선 없이 어디든 이동 가능! 인테리어까지 UP!"
+(3-12초) 본문 - 핵심 정보 전달!
+화면: '가성비 삼탠바이미' 키워드와 함께 위드라이프, 무빙큐빅스 삼탠바이미 제품이 차례로 등장, 주요 장점 텍스트 강조.
+대사: "이제 걱정 마! 스마트함과 이동성을 반값에 누릴 수 있는 **'삼탠바이미'**가 있잖아!"
+대사: "첫 번째, **위드라이프 구글 삼탠바이미!** 30만원 초반대, 구글TV로 넷플릭스, 유튜브 다 돼!"
+대사: "두 번째, **무빙큐빅스 스마트 삼탠바이미!** 전문 기사 방문 설치까지 30만원대!"
+효과음: 경쾌한 배경음악, '뿅'하는 제품 등장 효과음.
 
-**(클로징 및 CTA 12-15초)**
-*   **화면:** (두 제품이 나란히 놓여있거나, 다양한 공간에서 활용되는 모습 빠르게 전환. 배경에 '나만의 스탠바이미' 텍스트)
-*   **내레이션:** "드디어 나만의 이동식 스크린! 더 자세한 정보는 프로필 링크에서 확인하세요! 지금 바로 만나봐!"
-*   **화면:** (프로필 링크 유도하는 화살표와 텍스트 '✨프로필 링크 클릭✨')
+(12-15초) 클로징 & CTA
+화면: 두 제품 나란히 비교 화면, '프로필 링크 클릭!' 자막, 손가락이 위로 향하는 제스처 아이콘.
+대사: "가성비 삼탠바이미로 삶의 질 수직 상승! 더 자세한 정보는 지금 프로필 링크 클릭!"
+효과음: 마무리 효과음.
+```
 
 ---
 
-## 2. 인스타그램 카드뉴스 (4컷)
+## 2. 인스타그램 카드뉴스 4컷
 
-### 1. 첫 번째 컷
-*   **카드뉴스 텍스트:**
-    LG 스탠바이미 너무 비싸다고? 💸
-    이제 고민 끝! #가성비삼탠바이미 ✨
-*   **Midjourney 스타일 영문 프롬프트:**
-    A stylish, modern living room. A person looks frustrated at a luxury, expensive-looking mobile TV with a huge price tag on its screen. Thought bubbles with dollar signs and question marks float above their head. Dynamic, cinematic lighting, high contrast, realistic photo, --ar 1:1 --style raw
+### 1컷
+*   **카드뉴스 텍스트**:
+    스탠바이미 살까말까 고민? 💸
+    비싼 가격에 망설였다면 주목!
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A confused person standing in a modern, cozy living room, looking at an empty space where a movable TV could be. A thought bubble above their head shows a question mark and a large price tag. Soft, warm natural lighting, minimalist Scandinavian interior design. --ar 1:1 --style raw --v 5.2`
 
-### 2. 두 번째 컷
-*   **카드뉴스 텍스트:**
-    이 가격에 이 기능이? 😲
-    #가성비 #삼탠바이미 끝판왕 5가지!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A hand holding a magical remote control, pointing towards a sleek, minimalist mobile TV (generic, not LG StandbyMe, but similar concept) in a bright, modern interior. The TV screen glows with smart feature icons (Netflix, YouTube), surrounded by a subtle, futuristic aura. Clean, elegant, soft lighting, --ar 1:1 --style raw
+### 2컷
+*   **카드뉴스 텍스트**:
+    정답은 **'삼탠바이미'!**
+    스마트함+이동성+가성비, 다 잡았다!
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A sleek, elegant movable smart TV (SamtanbyMe) with a modern stand, displaying a vibrant streaming service interface (like Netflix or YouTube). Graphic overlays on the image indicate "Smart Features," "Mobility," and "Value for Money." The TV is in a bright, stylish room with a contemporary aesthetic. --ar 1:1 --style raw --v 5.2`
 
-### 3. 세 번째 컷
-*   **카드뉴스 텍스트:**
-    ✨ BEST 1: 20만원대 대화면 스마트!
-    **프리토스 32인치 스마트 삼탠바이미**
-    (32인치 / 스마트TV / 에너지 1등급)
-*   **Midjourney 스타일 영문 프롬프트:**
-    A cozy, modern bedroom. A young person is happily relaxing on a bed, watching a movie on a 32-inch mobile smart TV (generic, not branded, but looks like a modern mobile TV) placed next to the bed. The screen shows a vibrant movie scene. Soft, warm ambient lighting, comfortable atmosphere, cinematic, --ar 1:1 --style raw
+### 3컷
+*   **카드뉴스 텍스트**:
+    ✨ 추천 1: **위드라이프 구글 삼탠바이미**
+    30만원 초반대! 구글TV로 OTT 무제한!
+    스마트 삼탠바이미 최저가!
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A happy person comfortably watching content on a 32-inch movable smart TV (SamtanbyMe) in a cozy bedroom. The TV screen clearly shows the Google TV interface with popular streaming app icons. The room has soft, inviting lighting and a relaxed atmosphere, emphasizing affordability and convenience. --ar 1:1 --style raw --v 5.2`
 
-### 4. 네 번째 컷
-*   **카드뉴스 텍스트:**
-    ✨ BEST 2: 선 없는 QLED 프리미엄!
-    **무빙큐빅스 32인치 QLED 유무선 삼탠바이미**
-    (QLED 화질 / 무선 배터리 / 화이트 디자인)
-    👉 자세한 정보는 프로필 링크 확인!
-*   **Midjourney 스타일 영문 프롬프트:**
-    A bright, minimalist kitchen or a chic balcony with a pristine white mobile QLED TV (generic, not branded, but looks like a modern mobile TV) being effortlessly moved across the floor. Subtle glowing lines emanate from the TV, suggesting wireless connectivity. An elegant, high-tech, clean aesthetic, natural daylight, --ar 1:1 --style raw
+### 4컷
+*   **카드뉴스 텍스트**:
+    ✨ 추천 2: **무빙큐빅스 스마트 삼탠바이미**
+    30만원대! 전문가가 직접 방문설치!
+    설치 스트레스 없이 바로 즐겨!
+*   **Midjourney 스타일 영문 프롬프트**:
+    `A professional technician, wearing a clean uniform, carefully installing a sleek movable smart TV (SamtanbyMe) in a modern, tidy apartment living room. The scene emphasizes ease and convenience, showing the TV being set up without hassle. Bright, clean, and trustworthy atmosphere. --ar 1:1 --style raw --v 5.2`
