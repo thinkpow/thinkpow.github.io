@@ -2,64 +2,65 @@
 
 ## 1. 유튜브 쇼츠/틱톡용 15초 스크립트
 
-**제목**: 😱 스탠바이미 비싸서 못 샀어? 30만원대에 삼탠바이미 겟하는 법!
+**제목:** 💰 스탠바이미? 돈낭비 그만! 30만원대 삼탠바이미 미쳤다!
 
-**[영상 시각 자료 가이드]**
-*   **0-3초**: LG 스탠바이미 로고 또는 비싼 가격표가 순간적으로 빠르게 지나가고, 곧바로 '30만원대'라는 문구와 함께 놀라는 표정의 인물 클로즈업.
-*   **3-7초**: 위드라이프 32인치 삼탠바이미가 침실이나 원룸에서 사용되는 모습. 넷플릭스, 유튜브 로고가 번갈아 나타남.
-*   **7-11초**: 위드라이프 43인치 삼탠바이미가 거실이나 넓은 방에서 사용되는 모습. 온 가족이 함께 시청하는 장면 연출.
-*   **11-13초**: 무빙큐빅스 QLED 모델이 이동하는 모습, 또는 QLED 화질을 강조하는 장면.
-*   **13-15초**: "프로필 링크" 텍스트와 함께 제품들이 모여있는 깔끔한 랜딩 페이지 이미지.
+**[영상 시작: 0-3초]**
+**훅(Hook):**
+**(화면: LG 스탠바이미 가격표가 순간적으로 번쩍! 비싼 가격에 놀란 표정의 사람 모습과 함께, 화면에 '헉! 이 가격 실화?' 자막)
+🗣️ 내레이션 (급박하고 놀란 톤):** "스탠바이미 갖고 싶다? 근데 가격... 후덜덜하죠? 놉! 더 이상 비싸게 사지 마세요!"
+**(화면: '✨30만원대 삼탠바이미의 등장!' 문구와 함께 반짝이는 효과)**
 
----
+**[본문: 3-12초]**
+**(화면: 위드라이프 32인치 삼탠바이미 제품 이미지와 함께, 침실, 주방 등 다양한 공간에서 편리하게 사용하는 짧은 클립 합성)**
+**🗣️ 내레이션 (빠르고 명쾌하게):** "MD가 직접 엄선한 첫 번째 픽! 위드라이프 32인치 구글 삼탠바이미! 30만원 초반대에 넷플릭스, 유튜브 다 되는 스마트 TV가 이동까지 자유롭다고? 방마다 나만의 영화관 만들 각!"
+**(화면: 위드라이프 43인치 삼탠바이미 제품 이미지와 함께, 거실에서 영화를 보거나 게임하는 모습, 대화면에 감탄하는 짧은 클립 합성)**
+**🗣️ 내레이션 (이어받아 속도감 있게):** "두 번째 픽은 43인치 대화면! 위드라이프 43인치 구글 삼탠바이미! 몇 만원만 더 내면 압도적 몰입감! 메인 TV로 써도 손색 없는데, 30만원 후반대! 이건 무조건이죠?"
 
-**[대본]**
-
-**(0-3초) (놀란 표정, 급박한 톤)**
-"스탠바이미 비싸서 못 샀어? 😱 헉! 이걸 30만원대에? 미쳤다!"
-
-**(3-7초) (차분하면서도 신나는 톤)**
-"이동식 스마트TV, 이제 비싸게 사지 마세요! 30만원대 위드라이프 32인치 삼탠바이미는 구글TV 탑재로 넷플릭스, 유튜브 다 돼! 개인 공간에 딱!"
-
-**(7-11초) (더 큰 화면 강조)**
-"더 큰 화면 원하면 43인치도 30만원대 후반! 거실, 방 어디든 OK! 압도적 몰입감 최고!"
-
-**(11-13초) (프리미엄 옵션 소개)**
-"심지어 QLED 화질에 무선 배터리까지! 프리미엄 무빙큐빅스도 있다구!"
-
-**(13-15초) (확신에 찬 톤, 빠른 마무리)**
-"자세한 정보는 프로필 링크에서 확인하세요! 지금 바로 겟!"
+**[마무리 및 CTA: 12-15초]**
+**(화면: 두 제품이 나란히 비교되는 인포그래픽, 가격 강조, '선택은 당신의 몫!' 문구와 함께 프로필 링크 강조)**
+**🗣️ 내레이션 (친근하고 설득력 있게):** "고민은 배송만 늦출 뿐! 똑똑한 소비는 지금! 더 자세한 내용은 프로필 링크에서 확인하세요! 런런!"
 
 ---
 
 ## 2. 인스타그램 카드뉴스 4컷
 
-### 1/4 컷 (훅)
+### 1컷
+*   **텍스트:**
+    ## 💰 스탠바이미? 놉!
+    ## 30만원대 '삼탠바이미'가
+    ## 진짜 가성비 끝판왕!
+    ### MD가 엄선한 베스트 2 대공개!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A visually striking image comparing a luxurious, expensive smart movable display (representing LG StandbyMe) on one side with a dynamic, vibrant, and more accessible-looking smart movable display (representing SamtanbyMe) on the other. Both are sleek and modern, but the "SamtanbyMe" side emphasizes smart features, affordability, and practical use in a cozy, stylish home environment. Bright, inviting lighting, focus on value and smart technology. --ar 1:1 --v 5.2`
 
-*   **텍스트**: 스탠바이미 비싸서 망설였어? 😱
-    이제 30만원대에 내꺼 만드는 법!
-*   **이미지 프롬프트 (Midjourney Style)**: A sleek, modern movable smart TV stand against a blurred background of a luxurious, minimalistic living room. A human hand points towards the TV screen displaying a large, bold red "Expensive!" text with a crossing line. The overall mood is dramatic, slightly frustrated but hopeful, with high contrast and cinematic lighting. --ar 1:1 --v 5.2 --style raw
+### 2컷
+*   **텍스트:**
+    ## ✨ 32인치 갓성비!
+    ## 위드라이프 구글 삼탠바이미
+    ### 🏷️ 30만원대 초반
+    - 모든 OTT 지원 (구글 안드로이드 TV)
+    - 침실, 주방 어디든 가볍게 이동!
+    - '스탠바이미 가성비'의 표준!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A cozy, modern bedroom with warm, soft lighting. A sleek 32-inch smart movable display (SamtanbyMe) is positioned perfectly beside a bed, showing a Netflix movie playing. A person's hand is casually holding a remote. The room has minimalist decor, emphasizing comfort and smart living. Focus on convenience and seamless entertainment. --ar 1:1 --v 5.2`
 
-### 2/4 컷 (위드라이프 32인치)
+### 3컷
+*   **텍스트:**
+    ## 💥 화면은 크게!
+    ## 위드라이프 43인치 대화면 삼탠바이미
+    ### 🏷️ 30만원대 후반
+    - 압도적인 몰입감 (메인 TV급)
+    - 거실/안방 어디든 활용 만점!
+    - 더 큰 만족감을 위한 현명한 선택!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A spacious, well-lit living room with contemporary design. A large 43-inch smart movable display (SamtanbyMe) is prominently placed, displaying a high-definition, cinematic scene. A family or couple is comfortably relaxing on a sofa, fully immersed in the content. Emphasize the immersive experience and the versatility of a large screen. --ar 1:1 --v 5.2`
 
-*   **텍스트**: 💖 침실/원룸 최적화! 32인치 삼탠바이미
-    ✅ 구글TV 탑재 (넷플릭스, 유튜브 OK)
-    ✅ 에너지 효율 1등급
-    ✨ 단돈 30만원 초반대!
-*   **이미지 프롬프트 (Midjourney Style)**: A cozy, aesthetically pleasing bedroom scene with a 32-inch movable smart TV on a stand. A person is comfortably lounging in bed, watching Netflix on the TV. Soft, warm ambient lighting coming from the screen and a nearby bedside lamp. Modern minimalist interior design with a touch of hygge. --ar 1:1 --v 5.2 --style raw
-
-### 3/4 컷 (위드라이프 43인치)
-
-*   **텍스트**: ✨ 압도적 몰입감! 43인치 대화면도 30만원대!
-    ✅ 넓은 거실, 방 메인 TV로 손색없음
-    ✅ 구글TV & 1등급 에너지 효율
-    🚀 30만원대 후반에 누리는 대형 화면!
-*   **이미지 프롬프트 (Midjourney Style)**: A stylish and spacious living room featuring a 43-inch movable smart TV displaying a vibrant, high-definition movie scene. A happy couple or family is comfortably seated on a modern sofa, enjoying the large screen. Bright, inviting atmosphere with natural light, modern contemporary interior. Dynamic composition focusing on the immersive viewing experience. --ar 1:1 --v 5.2 --style raw
-
-### 4/4 컷 (결론 및 CTA)
-
-*   **텍스트**: 이제 TV를 고정하지 마세요!
-    가성비 끝판왕 삼탠바이미로 스마트 무빙 라이프 시작!
-    (✨QLED, 무선 배터리 모델도 있어요!)
-    👉 더 많은 제품 보러가기! [링크]
-*   **이미지 프롬프트 (Midjourney Style)**: A futuristic and energetic split-screen composition showing multiple dynamic scenes: a person exercising in a living room with the TV, another person cooking in a kitchen while watching a recipe, and someone enjoying content on a balcony with a movable TV. The TVs have a subtle glowing effect. Bold, modern typography for the text. High-tech, clean design with a sense of freedom and versatility. --ar 1:1 --v 5.2 --style raw
+### 4컷
+*   **텍스트:**
+    ## MD픽! 현명한 당신의 선택은?
+    ## 스탠바이미 부럽지 않은
+    ## 찐 가성비 삼탠바이미!
+    ### 지금 바로 프로필 링크에서
+    ### 나만의 스마트 TV를 만나보세요!
+*   **Midjourney 스타일 영문 프롬프트:**
+    `A dynamic split screen showing the two SamtanbyMe products (32-inch and 43-inch) side-by-side, with subtle comparison elements. On one side, a hand points to the 32-inch in a cozy setting; on the other, another hand points to the 43-inch in a grander setting. Above them, subtle thought bubbles or glowing icons representing smart features and affordability. The overall feel is modern, informative, and empowering for smart consumers making a choice. --ar 1:1 --v 5.2`
